@@ -1,0 +1,655 @@
+[
+  {
+    "name": "Krogan Shaman Adept",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/d/d9/ME3_Krogan_Shaman.png",
+    "description": "Kroganare large bipeds native to theplanetTuchanka, a world known for its harsh environment, scarce resources, and vicious predators. Until the invention of gunpowder, the leading cause of krogan fatalities was \"eaten by predators.\" Though slow, krogan can take tremendous damage in combat, allowing them to inflict grievous harm with impunity.",
+    "role": "Adept",
+    "attributes": {
+      "Class": "Adept",
+      "Race": "Krogan",
+      "Rarity": "Rare",
+      "Abilities": "Krogan Charge Krogan Headbutt Toughness/Melee Decreased Mobility"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Krogan_Shaman_Adept"
+  },
+  {
+    "name": "Project Phoenix Vanguard",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/7/78/Phoenix_MP.png",
+    "description": "A result of theIllusive Man's early experiments in enhancedhumanphysiology,Project Phoenixsubjects are highly skilled combat andbioticspecialists. When the Illusive Man turned toindoctrinationin order to ensure the loyalty of his troops, many Phoenix operatives defected and joined theAlliancein order to stop theReapers.",
+    "role": "Vanguard",
+    "attributes": {
+      "Class": "Vanguard",
+      "Race": "Human",
+      "Rarity": "Rare",
+      "Abilities": "Combat Roll Cerberus Lash"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Project_Phoenix_Vanguard"
+  },
+  {
+    "name": "Asari Justicar Adept",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/d/dc/Asari_Justicar_MP.png",
+    "description": "Asariare the most influential and respected sentient species in thegalaxy. They are native to theplanetThessiaand were the first species to discover theCitadel. Their long lifespan and history have allowed them to serve as galactic mediators for centuries. While not as physically powerful as other species, their proficiency withbioticsmakes them dangerous opponents.",
+    "role": "Adept",
+    "attributes": {
+      "Class": "Adept",
+      "Race": "Asari",
+      "Rarity": "Rare",
+      "Abilities": "Biotic Dash Toughness/Melee Heavy Biotic Blast"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Asari_Justicar_Adept"
+  },
+  {
+    "name": "Asari Vanguard",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/5/52/Asari_MP.png",
+    "description": "Asariare the most influential and respected sentient species in thegalaxy. They are native to theplanetThessiaand were the first species to discover theCitadel. Their long lifespan and history have allowed them to serve as galactic mediators for centuries. While not as physically powerful as other species, their proficiency withbioticsmakes them dangerous opponents.",
+    "role": "Vanguard",
+    "attributes": {
+      "Class": "Vanguard",
+      "Race": "Asari",
+      "Rarity": "Uncommon",
+      "Abilities": "Biotic Dash Heavy Biotic Blast"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Asari_Vanguard"
+  },
+  {
+    "name": "Batarian Brawler Vanguard",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/f/fc/ME3_Batarian_Brawler.png",
+    "description": "Little is known about thebatarianhomeworldofKhar'shanor its inhabitants. As a result, theraceis judged by those whom theHegemonyallows to travel beyond its borders: organized crime enforcers,pirateboarding parties, slaver gangs, and gladiatorial combatants.",
+    "role": "Vanguard",
+    "attributes": {
+      "Class": "Vanguard",
+      "Race": "Batarian",
+      "Rarity": "Rare",
+      "Abilities": "Enforcement Gauntlets Toughness/Melee Decreased Mobility"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Batarian_Brawler_Vanguard"
+  },
+  {
+    "name": "Krogan Warlord Sentinel",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/b/b6/ME3_Krogan_Warlord_Sentinel.png",
+    "description": "Krogan Warlords have earned the dubious distinction of being the elder statesmen of the species. They hold little regard for the honor that otherracesoften display in combat, resorting to hostage-taking and genocide when victory is at stake. Warlords lug battle hammers onto the field to make quick and brutal work of enemies foolish enough to stick around, and their maturity gives them unsurpassed regenerative capabilities, making them extremely difficult to kill when enraged.",
+    "role": "Sentinel",
+    "attributes": {
+      "Class": "Sentinel",
+      "Race": "Krogan",
+      "Rarity": "Rare",
+      "Abilities": "Battle Hammer Krogan Headbutt Toughness/Melee Decreased Mobility"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Krogan_Warlord_Sentinel"
+  },
+  {
+    "name": "Battlefield 3 Infiltrator",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/d/d3/MP_BF3_INF.png",
+    "description": "Humansjoined the galactic community after discovering aProtheandata cache onMarsin2148. Their devotion to understanding and adapting to modern warfare left the staidCouncilracesstunned. Humanity's persistence and unflappable spirit has taken them further than anyone in thegalaxycould have imagined.",
+    "role": "Infiltrator",
+    "attributes": {
+      "Class": "Infiltrator",
+      "Race": "Human",
+      "Rarity": "Inaccessible",
+      "Abilities": "Combat Roll Disruptor Omni-Blade"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Battlefield_3_Infiltrator"
+  },
+  {
+    "name": "Human Vanguard",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/8/89/Human_Male_Soldier_MP.png",
+    "description": "Humansjoined the galactic community after discovering aProtheandata cache onMarsin2148. Their devotion to understanding and adapting to modern warfare left the staidCouncilracesstunned. Humanity's persistence and unflappable spirit has taken them further than anyone in thegalaxycould have imagined.",
+    "role": "Vanguard",
+    "attributes": {
+      "Image": "Male",
+      "Class": "Vanguard",
+      "Race": "Human",
+      "Rarity": "Common",
+      "Abilities": "Combat Roll Biotic Strike"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Human_Vanguard"
+  },
+  {
+    "name": "Turian Ghost Infiltrator",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/2/29/ME3_Turian_Ghost.png",
+    "description": "Turiansadhere to a strict moral code: \"The needs of the group outweigh that of the individual.\" Discipline is the foundation of turian society. A turian line never collapses; its troops fall back in order, setting ambushes as they go. You will only see a turian's back when they're dead.",
+    "role": "Infiltrator",
+    "attributes": {
+      "Class": "Infiltrator",
+      "Race": "Turian",
+      "Rarity": "Rare",
+      "Abilities": "Dual Omni-Blades Weapon Expert Toughness Propulsion Packs"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Turian_Ghost_Infiltrator"
+  },
+  {
+    "name": "Geth Engineer",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/7/72/Geth_Engineer_MP.png",
+    "description": "Thegethare a humanoidraceof networkedAIsthat were created by thequarians300 years ago as tools of labor and war. Having since won their freedom from their creators, the geth have proven they are able to reason, analyze situations, and deploy tactics as well as any organic race so long as they remain networked with other geth.",
+    "role": "Engineer",
+    "attributes": {
+      "Class": "Engineer",
+      "Race": "Geth",
+      "Rarity": "Rare",
+      "Abilities": "Geth Hop Decreased Stamina Shield Pulse"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Geth_Engineer"
+  },
+  {
+    "name": "Batarian Enforcer Soldier",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/b/b2/Batarian_MP.png",
+    "description": "Little is known about thebatarianhomeworldofKhar'shanor its inhabitants. As a result, theraceis judged by those whom theHegemonyallows to travel beyond its borders: organized crime enforcers,pirateboarding parties, slaver gangs, and gladiatorial combatants.",
+    "role": "Soldier",
+    "attributes": {
+      "Class": "Soldier",
+      "Race": "Batarian",
+      "Rarity": "Rare",
+      "Abilities": "Enforcement Gauntlets Toughness/Melee Decreased Mobility"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Batarian_Enforcer_Soldier"
+  },
+  {
+    "name": "N7 Shadow Infiltrator",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/0/08/N7_Shadow_Infiltrator_MP.png",
+    "description": "These soldiers are the go-anywhere, fight-anything special forces of theAlliancethat were trained at theInterplanetary Combatives Academyin Rio de Janeiro, Brazil. They had to survive combat situations \"in an admirable and effective fashion\" to receive theN7rank. Many N7s now train other species in anti-Reaperasymmetric warfare.",
+    "role": "Infiltrator",
+    "attributes": {
+      "Class": "Infiltrator",
+      "Race": "Human",
+      "Rarity": "Rare",
+      "Abilities": "Acrobatics Martial Arts Increased Mobility Monomolecular Blades"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/N7_Shadow_Infiltrator"
+  },
+  {
+    "name": "Human Adept",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/8/8c/Human_Male_Adept_MP.png",
+    "description": "Humansjoined the galactic community after discovering aProtheandata cache onMarsin2148. Their devotion to understanding and adapting to modern warfare left the staidCouncilracesstunned. Humanity's persistence and unflappable spirit has taken them further than anyone in thegalaxycould have imagined.",
+    "role": "Adept",
+    "attributes": {
+      "Image": "Male",
+      "Class": "Adept",
+      "Race": "Human",
+      "Rarity": "Common",
+      "Abilities": "Combat Roll Biotic Blast"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Human_Adept"
+  },
+  {
+    "name": "Human Sentinel",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/8/8c/Human_Male_Adept_MP.png",
+    "description": "Humansjoined the galactic community after discovering aProtheandata cache onMarsin2148. Their devotion to understanding and adapting to modern warfare left the staidCouncilracesstunned. Humanity's persistence and unflappable spirit has taken them further than anyone in thegalaxycould have imagined.",
+    "role": "Sentinel",
+    "attributes": {
+      "Image": "Male",
+      "Class": "Sentinel",
+      "Race": "Human",
+      "Rarity": "Common",
+      "Abilities": "Combat Roll Dual Omni-Blades"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Human_Sentinel"
+  },
+  {
+    "name": "Turian Soldier",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/2/2a/Turian_MP.png",
+    "description": "Turiansadhere to a strict moral code: \"The needs of the group outweigh that of the individual.\" Discipline is the foundation of turian society. A turian line never collapses; its troops fall back in order, setting ambushes as they go. You will only see a turian's back when they're dead.",
+    "role": "Soldier",
+    "attributes": {
+      "Class": "Soldier",
+      "Race": "Turian",
+      "Rarity": "Uncommon",
+      "Abilities": "Dual Omni-Blades Weapon Expert Toughness Decreased Mobility"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Turian_Soldier"
+  },
+  {
+    "name": "Volus Protector Vanguard",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/f/f1/ME3_Volus_Protector.png",
+    "description": "Thevolushomeworld,Irune, has a high-pressure atmosphere that supports an ammonia-based biochemistry. To survive on otherplanets, the volus must wear pressure suits and breathers or, when facing combat, specially sealed armor.",
+    "role": "Vanguard",
+    "attributes": {
+      "Class": "Vanguard",
+      "Race": "Volus",
+      "Rarity": "Rare",
+      "Abilities": "Combat Roll Defensive Stance"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Volus_Protector_Vanguard"
+  },
+  {
+    "name": "N7 Fury Adept",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/c/c3/N7_Fury_Adept_MP.png",
+    "description": "These soldiers are the go-anywhere, fight-anything special forces of theAlliancethat were trained at theInterplanetary Combatives Academyin Rio de Janeiro, Brazil. They had to survive combat situations \"in an admirable and effective fashion\" to receive theN7rank. Many N7s now train other species in anti-Reaperasymmetric warfare.",
+    "role": "Adept",
+    "attributes": {
+      "Class": "Adept",
+      "Race": "Human",
+      "Rarity": "Rare",
+      "Abilities": "Acrobatics Biotic Strike"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/N7_Fury_Adept"
+  },
+  {
+    "name": "Krogan Sentinel",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/6/66/Krogan_MP.png",
+    "description": "Kroganare large bipeds native to theplanetTuchanka, a world known for its harsh environment, scarce resources, and vicious predators. Until the invention of gunpowder, the leading cause of krogan fatalities was \"eaten by predators.\" Though slow, krogan can take tremendous damage in combat, allowing them to inflict grievous harm with impunity.",
+    "role": "Sentinel",
+    "attributes": {
+      "Class": "Sentinel",
+      "Race": "Krogan",
+      "Rarity": "Rare",
+      "Abilities": "Krogan Charge Krogan Headbutt Toughness/Melee Decreased Mobility"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Krogan_Sentinel"
+  },
+  {
+    "name": "Drell Vanguard",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/a/ad/Drell_MP.png",
+    "description": "The reptiliandrellhave dense muscle tissue that grants them surprising, wiry strength. With unique hyoid bones in their throats, drell can vocalize high-pitched sounds outside of human hearing range. The bones have the added benefit of making drell extremely difficult to strangle.",
+    "role": "Vanguard",
+    "attributes": {
+      "Class": "Vanguard",
+      "Race": "Drell",
+      "Rarity": "Rare",
+      "Abilities": "Acrobatics Martial Arts Increased Mobility"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Drell_Vanguard"
+  },
+  {
+    "name": "Geth Hunter Infiltrator",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/f/f0/Geth_Infiltrator_MP.png",
+    "description": "Thegethare a humanoidraceof networkedAIsthat were created by thequarians300 years ago as tools of labor and war. Having since won their freedom from their creators, the geth have proven they are able to reason, analyze situations, and deploy tactics as well as any organic race so long as they remain networked with other geth.",
+    "role": "Infiltrator",
+    "attributes": {
+      "Class": "Infiltrator",
+      "Race": "Geth",
+      "Rarity": "Rare",
+      "Abilities": "Geth Hop Decreased Stamina Shield Pulse"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Geth_Hunter_Infiltrator"
+  },
+  {
+    "name": "Turian Havoc Soldier",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/8/86/ME3_Turian_Havoc.png",
+    "description": "Turiansadhere to a strict moral code: \"The needs of the group outweigh that of the individual.\" Discipline is the foundation of turian society. A turian line never collapses; its troops fall back in order, setting ambushes as they go. You will only see a turian's back when they're dead.",
+    "role": "Soldier",
+    "attributes": {
+      "Class": "Soldier",
+      "Race": "Turian",
+      "Rarity": "Rare",
+      "Abilities": "Dual Omni-Blades Weapon Expert Toughness Propulsion Packs"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Turian_Havoc_Soldier"
+  },
+  {
+    "name": "N7 Demolisher Engineer",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/0/04/N7_Demolisher_Engineer_MP.png",
+    "description": "These soldiers are the go-anywhere, fight-anything special forces of theAlliancethat were trained at theInterplanetary Combatives Academyin Rio de Janeiro, Brazil. They had to survive combat situations \"in an admirable and effective fashion\" to receive theN7rank. Many N7s now train other species in anti-Reaperasymmetric warfare.",
+    "role": "Engineer",
+    "attributes": {
+      "Class": "Engineer",
+      "Race": "Human",
+      "Rarity": "Rare",
+      "Abilities": "Combat Roll Explosive Omni-Tool"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/N7_Demolisher_Engineer"
+  },
+  {
+    "name": "Quarian Male Engineer",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/1/14/Quarian_Male_MP.png",
+    "description": "Quarian engineers are elite support specialists with a talent for setting up ambushes and providing cover fire through the use ofturrets. Their technical wizardry makes them crucial contributors on the battlefield.",
+    "role": "Engineer",
+    "attributes": {
+      "Class": "Engineer",
+      "Race": "Quarian",
+      "Rarity": "Rare",
+      "Abilities": "Combat Leap Incendiary Omni-Blade"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Quarian_Male_Engineer"
+  },
+  {
+    "name": "Human Soldier",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/8/89/Human_Male_Soldier_MP.png",
+    "description": "Humansjoined the galactic community after discovering aProtheandata cache onMarsin2148. Their devotion to understanding and adapting to modern warfare left the staidCouncilracesstunned. Humanity's persistence and unflappable spirit has taken them further than anyone in thegalaxycould have imagined.",
+    "role": "Soldier",
+    "attributes": {
+      "Image": "Male",
+      "Class": "Soldier",
+      "Race": "Human",
+      "Rarity": "Common",
+      "Abilities": "Combat Roll Omni-Blade"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Human_Soldier"
+  },
+  {
+    "name": "Drell Assassin Infiltrator",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/d/dd/ME3_Drell_Assasin.png",
+    "description": "The reptiliandrellhave dense muscle tissue that grants them surprising, wiry strength. With unique hyoid bones in their throats, drell can vocalize high-pitched sounds outside of human hearing range. The bones have the added benefit of making drell extremely difficult to strangle.",
+    "role": "Infiltrator",
+    "attributes": {
+      "Class": "Infiltrator",
+      "Race": "Drell",
+      "Rarity": "Rare",
+      "Abilities": "Acrobatics Martial Arts Increased Mobility"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Drell_Assassin_Infiltrator"
+  },
+  {
+    "name": "Asari Valkyrie Sentinel",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/b/b9/ME3_Asari_Valkyrie.png",
+    "description": "Asariare the most influential and respected sentient species in thegalaxy. They are native to theplanetThessiaand were the first species to discover theCitadel. Their long lifespan and history have allowed them to serve as galactic mediators for centuries. While not as physically powerful as other species, their proficiency withbioticsmakes them dangerous opponents.",
+    "role": "Sentinel",
+    "attributes": {
+      "Class": "Sentinel",
+      "Race": "Asari",
+      "Rarity": "Rare",
+      "Abilities": "Biotic Dash Heavy Biotic Blast"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Asari_Valkyrie_Sentinel"
+  },
+  {
+    "name": "Alliance Infiltration Unit Infiltrator",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/0/06/ME3_Alliance_Infiltration_Unit_Infiltrator.png",
+    "description": "TheAllianceInfiltration Unit is modeled on theCerberussyntheticEvathatCommander Shepard's team recovered onMars. Quantum blue-boxAIsare considered illegal by theCouncil, but the Alliance has secured a special allowance to deploy the infiltration unit in this time of need.",
+    "role": "Infiltrator",
+    "attributes": {
+      "Class": "Infiltrator",
+      "Race": "Artificial Intelligence",
+      "Rarity": "Rare",
+      "Abilities": "Acrobatics Martial Arts"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Alliance_Infiltration_Unit_Infiltrator"
+  },
+  {
+    "name": "Krogan Battlemaster Vanguard",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/d/db/Krogan_Battlemaster_MP.png",
+    "description": "Kroganare large bipeds native to theplanetTuchanka, a world known for its harsh environment, scarce resources, and vicious predators. Until the invention of gunpowder, the leading cause of krogan fatalities was \"eaten by predators.\" Though slow, krogan can take tremendous damage in combat, allowing them to inflict grievous harm with impunity.",
+    "role": "Vanguard",
+    "attributes": {
+      "Class": "Vanguard",
+      "Race": "Krogan",
+      "Rarity": "Rare",
+      "Abilities": "Krogan Charge Krogan Headbutt Toughness/Melee Decreased Mobility"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Krogan_Battlemaster_Vanguard"
+  },
+  {
+    "name": "N7 Paladin Sentinel",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/8/83/N7_Paladin_Sentinel_MP.png",
+    "description": "These soldiers are the go-anywhere, fight-anything special forces of theAlliancethat were trained at theInterplanetary Combatives Academyin Rio de Janeiro, Brazil. They had to survive combat situations \"in an admirable and effective fashion\" to receive theN7rank. Many N7s now train other species in anti-Reaperasymmetric warfare.",
+    "role": "Sentinel",
+    "attributes": {
+      "Class": "Sentinel",
+      "Race": "Human",
+      "Rarity": "Rare",
+      "Abilities": "Combat Roll Omni-Shield"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/N7_Paladin_Sentinel"
+  },
+  {
+    "name": "N7 Slayer Vanguard",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/9/97/N7_Slayer_Vanguard_MP.png",
+    "description": "These soldiers are the go-anywhere, fight-anything special forces of theAlliancethat were trained at theInterplanetary Combatives Academyin Rio de Janeiro, Brazil. They had to survive combat situations \"in an admirable and effective fashion\" to receive theN7rank. Many N7s now train other species in anti-Reaperasymmetric warfare.",
+    "role": "Vanguard",
+    "attributes": {
+      "Class": "Vanguard",
+      "Race": "Human",
+      "Rarity": "Rare",
+      "Abilities": "Acrobatics Martial Arts Biotic Strike Monomolecular Blades"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/N7_Slayer_Vanguard"
+  },
+  {
+    "name": "Quarian Engineer",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/0/0c/Quarian_MP.png",
+    "description": "Quarian engineers are elite support specialists with a talent for setting up ambushes and providing cover fire through the use ofturrets. Their technical wizardry makes them crucial contributors on the battlefield.",
+    "role": "Engineer",
+    "attributes": {
+      "Class": "Engineer",
+      "Race": "Quarian",
+      "Rarity": "Rare",
+      "Abilities": "Combat Leap Incendiary Omni-Blade"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Quarian_Engineer"
+  },
+  {
+    "name": "Asari Huntress Infiltrator",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/2/2e/ME3_Asari_Huntress.png",
+    "description": "Asariare the most influential and respected sentient species in thegalaxy. They are native to theplanetThessiaand were the first species to discover theCitadel. Their long lifespan and history have allowed them to serve as galactic mediators for centuries. While not as physically powerful as other species, their proficiency withbioticsmakes them dangerous opponents.",
+    "role": "Infiltrator",
+    "attributes": {
+      "Class": "Infiltrator",
+      "Race": "Asari",
+      "Rarity": "Rare",
+      "Abilities": "Biotic Dash Heavy Biotic Blast"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Asari_Huntress_Infiltrator"
+  },
+  {
+    "name": "Krogan Soldier",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/6/66/Krogan_MP.png",
+    "description": "Kroganare large bipeds native to theplanetTuchanka, a world known for its harsh environment, scarce resources, and vicious predators. Until the invention of gunpowder, the leading cause of krogan fatalities was \"eaten by predators.\" Though slow, krogan can take tremendous damage in combat, allowing them to inflict grievous harm with impunity.",
+    "role": "Soldier",
+    "attributes": {
+      "Class": "Soldier",
+      "Race": "Krogan",
+      "Rarity": "Rare",
+      "Abilities": "Krogan Charge Krogan Headbutt Toughness/Melee Decreased Mobility"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Krogan_Soldier"
+  },
+  {
+    "name": "Cabal Vanguard",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/7/77/ME3_Cabal_Vanguard.png",
+    "description": "Turianbioticsare isolated from regular infantry in elite units calledCabals, whose proud dictum is, \"the intangible is unstoppable.\" Since turian biotics are relatively rare, Cabals become small, tight-knit teams of fearsome biotic warriors that are trained to handle the deadliest infiltration missions.",
+    "role": "Vanguard",
+    "attributes": {
+      "Class": "Vanguard",
+      "Race": "Turian",
+      "Rarity": "Rare",
+      "Abilities": "Increased Mobility Venom Gauntlets"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Cabal_Vanguard"
+  },
+  {
+    "name": "Human Engineer",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/b/bd/Human_Male_Engineer_MP.png",
+    "description": "Humansjoined the galactic community after discovering aProtheandata cache onMarsin2148. Their devotion to understanding and adapting to modern warfare left the staidCouncilracesstunned. Humanity's persistence and unflappable spirit has taken them further than anyone in thegalaxycould have imagined.",
+    "role": "Engineer",
+    "attributes": {
+      "Image": "Male",
+      "Class": "Engineer",
+      "Race": "Human",
+      "Rarity": "Common",
+      "Abilities": "Combat Roll Incendiary Omni-Blade"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Human_Engineer"
+  },
+  {
+    "name": "Quarian Marksman Soldier",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/f/f5/ME3_Quarian_Marksman.png",
+    "description": "The Quarian Marksman is a pugnacious tactician that, after assessing the situation, will just as soon blister the field with explosives as pick off enemies from a distance.",
+    "role": "Soldier",
+    "attributes": {
+      "Class": "Soldier",
+      "Race": "Quarian",
+      "Rarity": "Rare",
+      "Abilities": "Combat Leap Incendiary Omni-Blade"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Quarian_Marksman_Soldier"
+  },
+  {
+    "name": "Geth Trooper Soldier",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/6/65/ME3_Geth_Trooper_MP.png",
+    "description": "Thegethare a humanoidraceof networkedAIsthat were created by thequarians300 years ago as tools of labor and war. Having since won their freedom from their creators, the geth have proven they are able to reason, analyze situations, and deploy tactics as well as any organic race so long as they remain networked with other geth.",
+    "role": "Soldier",
+    "attributes": {
+      "Class": "Soldier",
+      "Race": "Geth",
+      "Rarity": "Rare",
+      "Abilities": "Geth Hop Decreased Stamina Shield Pulse"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Geth_Trooper_Soldier"
+  },
+  {
+    "name": "Vorcha Soldier",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/d/da/Vorcha_MP.png",
+    "description": "A vorcha's resilience and malleable DNA allow them to evolve and adapt to any situation, making them formidable opponents on the battlefield. Their lightning-quick pounce is a direct result of their societally ingrained bloodlust.",
+    "role": "Soldier",
+    "attributes": {
+      "Class": "Soldier",
+      "Race": "Vorcha",
+      "Rarity": "Rare",
+      "Abilities": "Bloodlust/Melee Increased Mobility Regeneration"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Vorcha_Soldier"
+  },
+  {
+    "name": "N7 Destroyer Soldier",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/a/ab/N7_Destroyer_Soldier_MP.png",
+    "description": "These soldiers are the go-anywhere, fight-anything special forces of theAlliancethat were trained at theInterplanetary Combatives Academyin Rio de Janeiro, Brazil. They had to survive combat situations \"in an admirable and effective fashion\" to receive theN7rank. Many N7s now train other species in anti-Reaperasymmetric warfare.",
+    "role": "Soldier",
+    "attributes": {
+      "Class": "Soldier",
+      "Race": "Human",
+      "Rarity": "Rare",
+      "Abilities": "T5-V Battlesuit Toughness/Melee Decreased Mobility"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/N7_Destroyer_Soldier"
+  },
+  {
+    "name": "Human Infiltrator",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/b/bd/Human_Male_Engineer_MP.png",
+    "description": "Humansjoined the galactic community after discovering aProtheandata cache onMarsin2148. Their devotion to understanding and adapting to modern warfare left the staidCouncilracesstunned. Humanity's persistence and unflappable spirit has taken them further than anyone in thegalaxycould have imagined.",
+    "role": "Infiltrator",
+    "attributes": {
+      "Image": "Male",
+      "Class": "Infiltrator",
+      "Race": "Human",
+      "Rarity": "Common",
+      "Abilities": "Combat Roll Disruptor Omni-Blade"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Human_Infiltrator"
+  },
+  {
+    "name": "Quarian Male Infiltrator",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/1/14/Quarian_Male_MP.png",
+    "description": "Quarian infiltrators are elite support specialists with a talent for setting up ambushes. Their technical wizardry makes them crucial contributors on the battlefield.",
+    "role": "Infiltrator",
+    "attributes": {
+      "Race": "Quarian",
+      "Rarity": "Rare",
+      "Abilities": "Combat Leap Incendiary Omni-Blade"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Quarian_Male_Infiltrator"
+  },
+  {
+    "name": "Talon Mercenary Engineer",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/0/02/ME3_Talon_Mercenary_Engineer.png",
+    "description": "Talon Mercenaries bring a shady reputation to the battlefield. These hard-bitten warriors typically take jobs from crooked organizations, but today find employment with theAlliance, who are desperate for skilled fighters in thewar against the Reapers. Some find this troubling, but times are troubled.",
+    "role": "Engineer",
+    "attributes": {
+      "Class": "Engineer",
+      "Race": "Human",
+      "Rarity": "Rare",
+      "Abilities": "Combat Roll Omni-Bow"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Talon_Mercenary_Engineer"
+  },
+  {
+    "name": "Drell Adept",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/a/ad/Drell_MP.png",
+    "description": "The reptiliandrellhave dense muscle tissue that grants them surprising, wiry strength. With unique hyoid bones in their throats, drell can vocalize high-pitched sounds outside of human hearing range. The bones have the added benefit of making drell extremely difficult to strangle.",
+    "role": "Adept",
+    "attributes": {
+      "Class": "Adept",
+      "Race": "Drell",
+      "Rarity": "Uncommon",
+      "Abilities": "Acrobatics Martial Arts Increased Mobility"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Drell_Adept"
+  },
+  {
+    "name": "Batarian Enforcer Sentinel",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/b/b2/Batarian_MP.png",
+    "description": "Little is known about thebatarianhomeworldofKhar'shanor its inhabitants. As a result, theraceis judged by those whom theHegemonyallows to travel beyond its borders: organized crime enforcers,pirateboarding parties, slaver gangs, and gladiatorial combatants.",
+    "role": "Sentinel",
+    "attributes": {
+      "Class": "Sentinel",
+      "Race": "Batarian",
+      "Rarity": "Rare",
+      "Abilities": "Enforcement Gauntlets Toughness/Melee Decreased Mobility"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Batarian_Enforcer_Sentinel"
+  },
+  {
+    "name": "Turian Saboteur Engineer",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/4/40/ME3_Turian_Saboteur.png",
+    "description": "Turiansadhere to a strict moral code: \"The needs of the group outweigh that of the individual.\" Discipline is the foundation of turian society. A turian line never collapses; its troops fall back in order, setting ambushes as they go. You will only see a turian's back when they're dead.",
+    "role": "Engineer",
+    "attributes": {
+      "Class": "Engineer",
+      "Race": "Turian",
+      "Rarity": "Rare",
+      "Abilities": "Dual Omni-Blades Weapon Expert Toughness Propulsion Packs"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Turian_Saboteur_Engineer"
+  },
+  {
+    "name": "Vorcha Hunter Engineer",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/d/d8/ME3_Vorcha_Hunter.png",
+    "description": "A vorcha's resilience and malleable DNA allow them to evolve and adapt to any situation, making them formidable opponents on the battlefield. Their lightning-quick pounce is a direct result of their societally ingrained bloodlust.",
+    "role": "Engineer",
+    "attributes": {
+      "Class": "Engineer",
+      "Race": "Vorcha",
+      "Rarity": "Rare",
+      "Abilities": "Bloodlust/Melee Increased Mobility Regeneration"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Vorcha_Hunter_Engineer"
+  },
+  {
+    "name": "Turian Sentinel",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/2/2a/Turian_MP.png",
+    "description": "Turiansadhere to a strict moral code: \"The needs of the group outweigh that of the individual.\" Discipline is the foundation of turian society. A turian line never collapses; its troops fall back in order, setting ambushes as they go. You will only see a turian's back when they're dead.",
+    "role": "Sentinel",
+    "attributes": {
+      "Class": "Sentinel",
+      "Race": "Turian",
+      "Rarity": "Uncommon",
+      "Abilities": "Dual Omni-Blades Weapon Expert Toughness Decreased Mobility"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Turian_Sentinel"
+  },
+  {
+    "name": "Quarian Infiltrator",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/0/0c/Quarian_MP.png",
+    "description": "Quarian infiltrators are elite support specialists with a talent for setting up ambushes. Their technical wizardry makes them crucial contributors on the battlefield.",
+    "role": "Infiltrator",
+    "attributes": {
+      "Race": "Quarian",
+      "Rarity": "Uncommon",
+      "Abilities": "Combat Leap Disruptor Omni-Blade"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Quarian_Infiltrator"
+  },
+  {
+    "name": "Project Phoenix Adept",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/7/78/Phoenix_MP.png",
+    "description": "A result of theIllusive Man's early experiments in enhancedhumanphysiology,Project Phoenixsubjects are highly skilled combat andbioticspecialists. When the Illusive Man turned toindoctrinationin order to ensure the loyalty of his troops, many Phoenix operatives defected and joined theAlliancein order to stop theReapers.",
+    "role": "Adept",
+    "attributes": {
+      "Class": "Adept",
+      "Race": "Human",
+      "Rarity": "Rare",
+      "Abilities": "Combat Roll Cerberus Lash"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Project_Phoenix_Adept"
+  },
+  {
+    "name": "Salarian Infiltrator",
+    "image_url": "https://static.wikia.nocookie.net/masseffect/images/b/ba/Salarian_MP.png",
+    "description": "Salarian infiltrators specialize in long-range suppression, flanking, and stealth-based combat. These agile combatants are deadly and difficult to detect on the battlefield.",
+    "role": "Infiltrator",
+    "attributes": {
+      "Race": "Salarian",
+      "Rarity": "Rare",
+      "Abilities": "Combat Leap Disruptor Omni-Blade"
+    },
+    "source_url": "https://masseffect.fandom.com/wiki/Salarian_Infiltrator"
+  }
+]

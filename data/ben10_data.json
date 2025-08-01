@@ -1,0 +1,707 @@
+[
+  {
+    "name": "President",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/1/19/MonkeyBusinessPresident.png",
+    "description": "PresidentGeneral InformationSpeciesHumanHome WorldEarthResidenceWashington, D.C.AffiliationsUnited States of AmericaOccupationsPresident of the United States of AmericaAliasesMr. PresidentDetailsFirst AppearanceMonkey Business",
+    "role": "President of the United States of America",
+    "attributes": {
+      "Species": "Human",
+      "Home World": "Earth"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/President_(Monkey_Business)"
+  },
+  {
+    "name": "Kevin's Father",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/8/87/Kevin%27s_Dad_RB.png",
+    "description": "Kevin's FatherGeneral InformationSpeciesHumanHome WorldEarthResidenceKevin's House,BellwoodStatusAliveRelationshipsRelativesKevin Levin(son)DetailsFirst AppearanceAdrenaland Jr.Gallery",
+    "role": "Alive",
+    "attributes": {
+      "Species": "Human",
+      "Home World": "Earth",
+      "Residence": "Kevin's House , Bellwood",
+      "Status": "Alive",
+      "Relative": "Kevin Levin (son"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Kevin%27s_Father"
+  },
+  {
+    "name": "Big Chill's Offspring",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/f/fe/StLD_%28470%29.png",
+    "description": "Big Chill's OffspringGeneral InformationSpeciesNecrofriggianHome WorldEarthAgeNewbornStatusAlivePowers and AbilitiesAbilitiesFlightSpace SurvivabilityRelationshipsRelativesBen Tennyson/Big Chill(mother)Each other(siblings)CounterpartsAlternateBig Chill's Offspring(Original Future Timeline)[DJW 1]DetailsVoice ActorDee Bradley BakerFirst AppearanceSave the Last DanceGallery",
+    "role": "Alive",
+    "attributes": {
+      "Home World": "Earth [ 1",
+      "Age": "Newborn",
+      "Status": "Alive",
+      "Ability": "Flight Space Survivability",
+      "Relative": "Ben Tennyson / Big Chill (mother) Each other (siblings",
+      "Alternate Counterparts": "Big Chill's Offspring ( Original Future Timeline ) [ DJW 1"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Big_Chill%27s_Offspring"
+  },
+  {
+    "name": "Bryk",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/7/70/Bryk.png",
+    "description": "BrykGeneral InformationSpeciesUnknownResidenceEarthStatusAliveAffiliationsMortyOccupationsPlumberPowers and AbilitiesEquipmentPlumber SuitCounterpartsAlternateBryk(Original Future Timeline)DetailsVoice ActorJeff BennettFirst AppearanceA Jolt From the PastGallery",
+    "role": "Plumber",
+    "attributes": {
+      "Species": "Unknown [ note 1",
+      "Residence": "Earth",
+      "Status": "Alive",
+      "Affiliation": "Morty",
+      "Occupation": "Plumber",
+      "Alternate Counterparts": "Bryk ( Original Future Timeline"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Bryk"
+  },
+  {
+    "name": "Circus Freaks",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/5/56/Clown_%28314%29.png",
+    "description": "This group consists of clown-themed characters, each with exaggerated features and distinct outfits. Most wear variations of purple, pink, green, and blue clothing, often striped or patched, giving a chaotic, carnival-like appearance. Some wear hats like top hats or pointed caps. Many are bulky in build, and several hold weapons resembling toy guns, adding a sinister twist to their clown motif.",
+    "role": "Henchmen",
+    "attributes": {
+      "Species": "Humans",
+      "Home World": "Earth",
+      "Affiliation": "Zombozo (formerly",
+      "Occupation": "Henchmen",
+      "Equipment": "Gas Weapons",
+      "First": "Clown College"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Circus_Freaks"
+  },
+  {
+    "name": "Mutant Giraffe",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/1/1b/Mutant_giraffe_with_animo_on_ride.png",
+    "description": "Mutant GiraffeGeneral InformationSpeciesAltered GiraffeGiraffe(formerly)Home WorldEarthAffiliationsDr. AnimoOccupationsServantPowers and AbilitiesAbilitiesEnergy BreathEnhanced SpeedEnhanced AgilityEnhanced StrengthDetailsFirst AppearanceEvil's EncoreGallery",
+    "role": "Servant",
+    "attributes": {
+      "Species": "Altered Giraffe Giraffe (formerly",
+      "Home World": "Earth",
+      "Affiliation": "Dr. Animo",
+      "Occupation": "Servant",
+      "Ability": "Energy Breath Enhanced Speed Enhanced Agility Enhanced Strength"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Mutant_Giraffe"
+  },
+  {
+    "name": "Mr. Whittington",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/b/be/Fire_Chief_Whittington.png",
+    "description": "Fire Chief WhittingtonGeneral InformationSpeciesHumanHome WorldEarth(RAT Timeline)ResidenceBellwoodStatusAliveAffiliationsPlumbersBellwood Fire DepartmentOccupationsPlumberFire ChiefAliasesFire ChiefPowers and AbilitiesEquipmentPlumber WeaponsDetailsActorMichael RunyardFirst AppearanceBen 10: Race Against Time",
+    "role": "Plumber Fire Chief",
+    "attributes": {
+      "Species": "Human",
+      "Home World": "Earth ( RAT Timeline",
+      "Residence": "Bellwood",
+      "Status": "Alive",
+      "Affiliation": "Plumbers Bellwood Fire Department",
+      "Occupation": "Plumber Fire Chief",
+      "Alias": "Fire Chief"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Mr._Whittington"
+  },
+  {
+    "name": "Yeti",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/4/44/Forgeti_Spaghetti.png",
+    "description": "Yetis are large humanoids with lilac skin. Their bodies are covered in dark gray hair with the exception of their stomachs, hands, feet, ears and around their eyes. They have yellow eyes with red pupils, and a magenta nose.",
+    "role": "Hero",
+    "attributes": {
+      "Home-Planet": "Earth",
+      "Power": "Memory Erasure Enhanced Strength Enhanced Durability Enhanced Speed Strong/Sharp Teeth Enhanced Acrobatics Quadrupedalism",
+      "1St-Appearance": "Forgeti"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Yeti_(Reboot)"
+  },
+  {
+    "name": "King Koil",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/a/ae/Koily.png",
+    "description": "King KoilGeneral InformationSpeciesMutant ReptilianHome WorldEarthResidenceUndergroundStatusAliveOccupationsKingNicknamesLeatherface(Omni-Enhanced Cannonbolt)Snakeypuss(Omni-Enhanced Wildvine)Scaley(Omni-Enhanced Wildvine)Reptilian Baboon(Dr. Animo)Powers and AbilitiesAbilitiesEnhanced DiggingHypnotismErponkinesisElasticityEnhanced StrengthEnhanced JumpingInfrared VisionRegenerationDetailsVoice ActorDee Bradley BakerFirst AppearanceKing KoilGallery",
+    "role": "King",
+    "attributes": {
+      "Home World": "Earth",
+      "Status": "Alive",
+      "Occupation": "King",
+      "Nicknames": "Leatherface ( Omni-Enhanced Cannonbolt ) Snakeypuss ( Omni-Enhanced Wildvine ) Scaley (Omni-Enhanced Wildvine) Reptilian Baboon ( Dr. Animo ) [ 3",
+      "Ability": "Enhanced Digging Hypnotism Erponkinesis Elasticity Enhanced Strength Enhanced Jumping Infrared Vision Regeneration",
+      "First": "King Koil"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/King_Koil"
+  },
+  {
+    "name": "Mathieu",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/2/2f/Mathieu.png",
+    "description": "Mathieu is an adult man with straight, medium-length, light brown hair that falls slightly over his forehead. He has thick, dark eyebrows, brown eyes, and a neatly trimmed goatee. His shirt is orange with a white spiral pattern, short sleeves, and he wears light blue jeans. His skin is fair.",
+    "role": "Alive",
+    "attributes": {
+      "Species": "Human",
+      "Home World": "Earth",
+      "Status": "Alive",
+      "First": "Dora Flora"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Mathieu"
+  },
+  {
+    "name": "Simian",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/2/2e/Simian_art_ov.png",
+    "description": "Being anArachnachimp, Simian bears a strong resemblance toSpidermonkey. However, he has yellow eyes instead of green, his pupils were smaller compared to Spidermonkey, and his fur is a lighter shade of blue, also lacking anOmnitrixsymbol, and stripes on his tail.",
+    "role": "Con Artist Arms/Tech Dealer Actor Head of Security at Argistix Security Inc. (formerly",
+    "attributes": {
+      "Image": "OV",
+      "Home World": "Aranhascimmia",
+      "Status": "Imprisoned",
+      "Affiliation": "Highbreed (formerly) Mizaru (formerly) Milleous (formerly) Deefus Veeblepister (formerly) Blarney T. Hokestar (formerly) Solid Plugg (formerly) Collectimus (formerly) Argit (formerly) Rojo (formerly",
+      "Occupation": "Con Artist Arms/Tech Dealer Actor Head of Security at Argistix Security Inc. (formerly",
+      "Nicknames": "Sim ( Ben Tennyson and Kevin Levin ) Monkey Boy (Kevin Levin) [ 2",
+      "Ability": "Webbing Generation Web Swinging Web Ensnarement Web Constructs Enhanced Strength Enhanced Durability Enhanced Jumping Enhanced Acrobatics Enhanced Agility Enhanced Reflexes Enhanced Hearing Wall Sc...",
+      "Equipment": "Simian's Ship",
+      "Voice": "Diedrich Bader",
+      "First": "Birds of a Feather"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Simian"
+  },
+  {
+    "name": "Terracotta General",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/1/1d/Terracotta_general.png",
+    "description": "Terracotta GeneralGeneral InformationSpeciesHuman(Undead)OccupationsGeneral of Terracotta WarriorsPowers and AbilitiesAbilitiesPyrokinesisExplosion GenerationDetailsVoice ActorFred TatascioreFirst AppearanceBen 10 Ultimate Alien: Cosmic DestructionGalleryTheTerracotta Generalis a boss inBen 10 Ultimate Alien: Cosmic Destruction.",
+    "role": "General of Terracotta Warriors",
+    "attributes": {
+      "Species": "Human (Undead",
+      "Ability": "Pyrokinesis Explosion Generation"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Terracotta_General"
+  },
+  {
+    "name": "Pierce's Girlfriend",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/0/0b/Pierce_girlfriend_fame.png",
+    "description": "Pierce's GirlfriendGeneral InformationSpeciesHumanHome WorldEarthResidenceBellwoodStatusAliveOccupationsStudentRelationshipsLove InterestsPierce Wheels(boyfriend; formerly)DetailsVoice ActorAshley JohnsonFirst AppearanceFameGalleryPierce's Girlfriendis a minor character who appeared in several episodes, most notably theThe PurgeasPierce's girlfriend.",
+    "role": "Student",
+    "attributes": {
+      "Species": "Human",
+      "Home World": "Earth",
+      "Residence": "Bellwood",
+      "Status": "Alive",
+      "Occupation": "Student",
+      "Love Interests": "Pierce Wheels (boyfriend; formerly",
+      "First": "Fame"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Pierce%27s_Girlfriend"
+  },
+  {
+    "name": "Collector",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/c/ce/The_Collector_%28Powerless%29.png",
+    "description": "InPowerless, the Collector arrived atCharlie Lien Ho's dojo in search ofBen'sUltimatrix. Charlie and Ben managed to defeat him by collapsing a water tower on him.",
+    "role": "Collector",
+    "attributes": {
+      "Occupation": "Collector",
+      "Nicknames": "Power Hungry Punk ( Ben Tennyson",
+      "First": "Powerless"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Collector_(Powerless)"
+  },
+  {
+    "name": "Dario",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/c/c0/Dario.png",
+    "description": "Dario is a brown Appoplexian with black stripes on his shoulders, back, neck, and head. He wears bandages on his forearms and has metal armor covering his shoulders and backside.",
+    "role": "Gladiator",
+    "attributes": {
+      "Home World": "Appoplexia",
+      "Affiliation": "Muck Swiftfoot",
+      "Occupation": "Gladiator",
+      "Ability": "Enhanced Strength Enhanced Durability Enhanced Agility Enhanced Reflexes Enhanced Speed Enhanced Jumping Enhanced Stamina Enhanced Smell Sharp Retractable Claws",
+      "First": "Humungousaur AW3: Planetary Pin"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Dario"
+  },
+  {
+    "name": "Xingo",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/4/48/Xingo%27s_Back.PNG",
+    "description": "Xingo resembles a humanoid red-nosed fox with primarily light purple fur, although his muzzle, canals, underbelly and the end of his tail are all pale purple in color. He has yellow eyes with orange pupils. He wears white gloves and a red long-sleeved polo neck shirt that covers his chest and arms. Like most cartoon animals, such as Donald Duck and Porky Pig, he does not wear pants. He also has 2 small fangs protruding from his mouth.",
+    "role": "Cartoon Character Video Game Character",
+    "attributes": {
+      "Species": "Cartoon Fox",
+      "Status": "Fictional",
+      "Affiliation": "Bizmark Spleen",
+      "Occupation": "Cartoon Character Video Game Character",
+      "Nicknames": "Little Rat ( XLR8 /Lucky Girl) Chaotic Excuse for Children's Entertainment ( Gwen",
+      "Ability": "Cartoon Physiology Nigh-Invulnerability Object Creation Filmographic Transportation Body Alteration Enhanced Strength Enhanced Speed",
+      "Voice": "Tom Kenny",
+      "First": "Xingo"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Xingo_(Character)"
+  },
+  {
+    "name": "Skewer Chef",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/2/27/Skewer_chef.png",
+    "description": "Skewer ChefGeneral InformationSpeciesUnknownHome WorldUnknownResidenceEarthStatusAliveAffiliationsTri-Chef-TaForever Knight(temporarily)OccupationsChefSupervillainPowers and AbilitiesAbilitiesFire BreathExtendable SpikesEnhanced AgilityEnhanced StrengthEnhanced ReflexesEnhanced SpeedEquipmentSkewersMatchesDetailsVoice ActorDavid HornsbyFirst AppearanceRecipe for DisasterGallery",
+    "role": "Chef Supervillain",
+    "attributes": {
+      "Residence": "Earth",
+      "Status": "Alive",
+      "Affiliation": "Tri-Chef-Ta Forever Knight (temporarily",
+      "Occupation": "Chef Supervillain",
+      "Ability": "Fire Breath Extendable Spikes Enhanced Agility Enhanced Strength Enhanced Reflexes Enhanced Speed",
+      "Equipment": "Skewers Matches"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Skewer_Chef"
+  },
+  {
+    "name": "Forever Knights",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/9/9f/Forever_knights_ov.png",
+    "description": "TheForever Knightsare an organization ofhumansupremacist knights frequently fought byBen and his team. Created bySir George, they have existed for hundreds of years. They were first introduced in theOriginal Series, initially under the codenameThe Organizationand have become recurring antagonists in thefranchise.",
+    "role": "Active",
+    "attributes": {
+      "Image": "OV",
+      "Creator": "Sir George",
+      "Leader": "Sir George (founder and true leader; deceased) Sir Driscoll (of his faction; formerly) Sir Patrick (of his faction; formerly) Sir Urien (of his faction; formerly) Sir Enoch (of his faction; formerl...",
+      "Objective": "To slay Dagon (initial and true purpose; completed) Rid the world of all alien and magical beings (secondary purpose) To eliminate the Dragon's species (Sir Patrick's faction) To take over the worl...",
+      "Status": "Active",
+      "First": "A Small Problem"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Forever_Knights"
+  },
+  {
+    "name": "Rad Dudesman",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/b/bb/Rad_official.png",
+    "description": "Captain Rad Profit Danger Trouble Dudesman[DJW 1]is a tough-as-nails alien who made his first major appearance inRad. His occupation is mercenary-for-hire and smuggler. He will take on any job or transport any cargo, as long as he's paid well.",
+    "role": "Smuggler Captain Bounty Hunter",
+    "attributes": {
+      "Residence": "Undertown , Earth",
+      "Status": "Alive",
+      "Affiliation": "Ben's Team",
+      "Occupation": "Smuggler Captain Bounty Hunter",
+      "Alias": "Duck Dudesman",
+      "Nicknames": "Trigger Happy Duck with a Death Wish ( Eye Guy ) Mallard ( Ben Tennyson ) [ 2",
+      "Ability": "Limited Gliding Skilled Hand-to-Hand Combatant Enhanced Gunmanship Enhanced Accuracy Enhanced Intelligence Enhanced Language Understanding Technological Expertise",
+      "Equipment": "Lovely Duck Twin Personal Blasters Vast Arsenal of Laser-Guns Numerous Bladed-Weapons",
+      "Voice": "Carlos Alazraqui",
+      "First": "Have I Got a Deal for You"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Rad_Dudesman"
+  },
+  {
+    "name": "Luhley",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/1/1f/Luhley_Official2.png",
+    "description": "Luhley's head is bulbous and more triangular than otherGalvans. Presently, she wears the standardPlumberuniform with black complements, fit for someone of her size, in addition to a helmet with one vertical stripe down the middle surface of her head and two sets of horizontal stripes along the sides that cease before her face. A pair of goggles are also perched above the helmet aside the middle stripe.",
+    "role": "Security Officer (formerly) Plumber",
+    "attributes": {
+      "Species": "Galvan",
+      "Home World": "Galvan Prime",
+      "Status": "Alive",
+      "Affiliation": "Max Tennyson Ben Tennyson Azmuth Driba (boyfriend) Blukic",
+      "Occupation": "Security Officer (formerly) Plumber",
+      "Ability": "Enhanced Intelligence Underwater Breathing",
+      "Equipment": "Jetpack Blaster Plumber Suit",
+      "Relative": "Duffy (cousin",
+      "Voice": "Kate Micucci",
+      "First": "Blukic and Driba Go to Area 51"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Luhley"
+  },
+  {
+    "name": "Baz-L",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/a/a5/Baz-el_af.png",
+    "description": "Baz-L is a green and blackGalvanic Mechamorph, with stripes all around his body. His stripes share the green and black stripes, counteracting their respective colors. He is naked.[DM 2",
+    "role": "Atmosphere Surveyor Treasure Hunter Thief",
+    "attributes": {
+      "Home World": "Galvan B",
+      "Status": "Alive",
+      "Affiliation": "Ship (formerly",
+      "Occupation": "Atmosphere Surveyor Treasure Hunter Thief",
+      "Nicknames": "Weasel ( Kevin Levin and Ben Tennyson ) Infidel ( Strabismus ) [ 1",
+      "Ability": "Technological Possession Techno-Phasing Technological Enhancement Technological Manipulation Technoformation Technological Repairment Technological Destruction Technological Component Division Body...",
+      "Relative": "Ship (Symbiote",
+      "Voice": "Rob Paulsen",
+      "First": "Pier Pressure"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Baz-L"
+  },
+  {
+    "name": "Ben's Teacher",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/1/16/Ben%27s_Male_Teacher.png",
+    "description": "Ben's TeacherGeneral InformationSpeciesHumanHome WorldEarthResidenceBellwoodAffiliationsMadison Elementary SchoolOccupationsElementary School TeacherDetailsVoice ActorRichard McGonagleFirst AppearanceBen 10: Destroy All AliensGallery",
+    "role": "Elementary School Teacher",
+    "attributes": {
+      "Species": "Human",
+      "Home World": "Earth",
+      "Residence": "Bellwood"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Ben%27s_Teacher_(Destroy_All_Aliens)"
+  },
+  {
+    "name": "Candace",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/e/ec/Candace.png",
+    "description": "CandaceGeneral InformationSpeciesHumanHome WorldEarthResidenceBellwoodOccupationsStudentDetailsActorBianca BrocklFirst AppearanceBen 10: Race Against TimeGalleryCandaceis a student that goes toMadison Elementary School. She is one of the school bullies ofBen. She is often seen with her friend,Stephanie.",
+    "role": "Student",
+    "attributes": {
+      "Species": "Human",
+      "Home World": "Earth",
+      "Residence": "Bellwood",
+      "Occupation": "Student"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Candace"
+  },
+  {
+    "name": "Digby Dairy Security Guard",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/d/dd/Wraps_%28767%29.png",
+    "description": "UnknownGeneral InformationSpeciesHumanHome WorldEarthResidenceDairyvilleStatusAliveAffiliationsDigby DairyOccupationsSecurity GuardDetailsVoice ActorJim Ward(Under Wraps)Dee Bradley Baker(The Return)First AppearanceUnder Wraps",
+    "role": "Security Guard",
+    "attributes": {
+      "Species": "Human",
+      "Home World": "Earth",
+      "Residence": "Dairyville",
+      "Status": "Alive",
+      "Voice": "Jim Ward ( Under Wraps ) Dee Bradley Baker ( The Return"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Digby_Dairy_Security_Guard"
+  },
+  {
+    "name": "Mutant Mosquito",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/d/d1/Mutant_Mosquito.png",
+    "description": "Mutant MosquitoGeneral InformationSpeciesAltered MosquitoMosquito(formerly)Home WorldEarthAffiliationsDr. AnimoOccupationsServantPowers and AbilitiesAbilitiesFlightDetailsFirst AppearanceSpecial DeliveryGalleryTheMutant Mosquitois a mutated common Earthmosquitoand a servant ofDr. Animo.",
+    "role": "Servant",
+    "attributes": {
+      "Species": "Altered Mosquito Mosquito (formerly",
+      "Home World": "Earth",
+      "Affiliation": "Dr. Animo",
+      "Occupation": "Servant",
+      "Ability": "Flight"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Mutant_Mosquito"
+  },
+  {
+    "name": "Sublimino",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/e/eb/Sublimino_profile.PNG",
+    "description": "SubliminoGeneral InformationSpeciesHumanHome WorldEarthStatusUnknownAffiliationsNegative 10(formerly)OccupationsStage Hypnotist(formerly)NicknamesThe Amazing Mr. Nerd(Acid Breath)Powers and AbilitiesAbilitiesHypnotismEquipmentHypnotizing Pocket WatchDetailsVoice ActorRichard HorvitzFirst AppearanceMidnight MadnessGallerySubliminois a short-tempered villain with a short stature and hypnotic powers and a former stage hypnotist.",
+    "role": "Stage Hypnotist (formerly",
+    "attributes": {
+      "Species": "Human",
+      "Home World": "Earth",
+      "Affiliation": "Negative 10 (formerly",
+      "Occupation": "Stage Hypnotist (formerly",
+      "Nicknames": "The Amazing Mr. Nerd ( Acid Breath ) [ 1",
+      "Ability": "Hypnotism"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Sublimino"
+  },
+  {
+    "name": "Fungal Force",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/9/9f/CF2_%28496%29.png",
+    "description": "The Fungal Force have one or more mouths (often at odd angles), as well as vine-like tongues.",
+    "role": "Hero",
+    "attributes": {
+      "1St-Appearance": "Camp Fear"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Fungal_Force"
+  },
+  {
+    "name": "Omega Lucky Scouts",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/e/e4/XN_%2858%29.png",
+    "description": "InXingo Nation, the Omega Lucky Scouts appeared alongsideLucky Girlas she confrontedQueen Griefenstein. However, their show was invaded byXingo, where he caused trouble for them. Eventually, they, along with Queen Griefenstein, corned him, forcing him to go back to his own show.",
+    "role": "Active",
+    "attributes": {
+      "Leader": "Lucky Girl",
+      "Allies": "Ben Tennyson Kevin Levin",
+      "Objective": "Save the world",
+      "Status": "Active"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Omega_Lucky_Scouts"
+  },
+  {
+    "name": "Lillimusha DiForestini",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/0/03/Lillimusha_model.png",
+    "description": "Lillimusha DiForestiniGeneral InformationSpeciesNemuinaHome WorldNemunimos IVResidenceUndertownStatusAlivePowers and AbilitiesAbilitiesOneirokinesisSleep Dust ManipulationFlightEnhanced Speed(via Flight)Enhanced AgilityDetailsFirst AppearanceThe More Things Change: Part 1GalleryLillimusha DiForestini[DJW 1]is aNemuinawho lives inUndertown.",
+    "role": "Alive",
+    "attributes": {
+      "Species": "Nemuina",
+      "Residence": "Undertown",
+      "Status": "Alive",
+      "Ability": "Oneirokinesis Sleep Dust Manipulation Flight Enhanced Speed (via Flight) Enhanced Agility"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Lillimusha_DiForestini"
+  },
+  {
+    "name": "Swift",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/2/28/Swift_model.png",
+    "description": "Swift has cherry red skin and wings. She has two red eyes with black outlines and black lipstick, yellow horns that look exactly likeJetray's with a dark red gem between them, pointed ears, and two small spikes coming out of the top of her head. She has three fingers and a long tail. A red membrane stretches between her arms and torso. Swift has dark red hair that barely reaches her shoulders.",
+    "role": "Imprisoned",
+    "attributes": {
+      "Species": "Human (formerly) Human/ Aerophibian Hybrid",
+      "Home World": "Earth",
+      "Residence": "Null Void",
+      "Status": "Imprisoned",
+      "Affiliation": "Plumber (formerly) Rooters (disbanded",
+      "Nicknames": "Swifty ( Servantis ) Kevin 's Jetray Girlfriend ( Alan Albright ) [ 2",
+      "Ability": "Neuroshock Blasts Fire Generation (via Neuroshock Blasts) Flight Levitation Enhanced Speed Sonic Boom Generation Enhanced Strength Enhanced Durability Enhanced Reflexes Space Survivability Underwat...",
+      "Equipment": "Proto-Tech Armor Null Void Projector",
+      "Voice": "Tara Strong",
+      "First": "The Rooters of All Evil"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Swift"
+  },
+  {
+    "name": "Grack",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/2/22/Grack_Model.png",
+    "description": "GrackGeneral InformationSpeciesPlanchaküleHome WorldAul-TurrhenStatusAliveOccupationsAuto-Shop MerchantPowers and AbilitiesAbilitiesEnhanced IntelligenceFixing MachineryBreaking MachineryModifying TechnologyRelationshipsRelativesGrick(brother)DetailsVoice ActorAlexander PolinskyFirst AppearanceOTTO MotivesGallery",
+    "role": "Auto-Shop Merchant",
+    "attributes": {
+      "Status": "Alive",
+      "Ability": "Enhanced Intelligence Fixing Machinery Breaking Machinery Modifying Technology",
+      "Relative": "Grick (brother"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Grack"
+  },
+  {
+    "name": "Mrs. Roland",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/3/33/Probebly_the_last_character_you_would_look_for.PNG",
+    "description": "Mrs. RolandGeneral InformationSpeciesHumanHome WorldEarthResidenceBellwoodStatusAliveAffiliationsHex(dream only)OccupationsTeacherLibrarianPowers and AbilitiesEquipmentYard StickDetailsVoice ActorTara StrongFirst AppearanceScreamcatcherGallery",
+    "role": "Teacher Librarian",
+    "attributes": {
+      "Species": "Human",
+      "Home World": "Earth",
+      "Residence": "Bellwood",
+      "Status": "Alive",
+      "Affiliation": "Hex (dream only",
+      "Occupation": "Teacher Librarian",
+      "Equipment": "Yard Stick"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Mrs._Roland"
+  },
+  {
+    "name": "Harold",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/7/75/Harold.png",
+    "description": "HaroldGeneral InformationSpeciesHumanHome WorldEarthStatusAliveDetailsVoice ActorDave WittenbergFirst AppearanceTough LuckGallery",
+    "role": "Alive",
+    "attributes": {
+      "Species": "Human",
+      "Home World": "Earth",
+      "Status": "Alive",
+      "First": "Tough Luck"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Harold_(Tough_Luck)"
+  },
+  {
+    "name": "Kitty Litterer",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/c/c0/SABA_%289%29.png",
+    "description": "Kitty Litterer is a light blue cat with a costume with the letters KL in his insignia. He also carries a trash can.",
+    "role": "Cartoon Character",
+    "attributes": {
+      "Species": "Cartoon Cat",
+      "Affiliation": "League of Evil Doom Fiends Bowling Ball Bandit Gumdrop Wizard",
+      "Occupation": "Cartoon Character",
+      "Voice": "Dee Bradley Baker",
+      "First": "Super Alien Hero Buddy Adventures"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Kitty_Litterer"
+  },
+  {
+    "name": "Alan Albright",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/e/ed/Alan_human_ov.png",
+    "description": "Alan AlbrightOVUAFGeneral InformationSpeciesHuman/PyroniteHybridHuman(formerly)Home WorldEarthResidenceNull Void(formerly)Grover's MillAge8(Omniverse Flashbacks)12(Alien Force)13(Ultimate Alien and Omniverse)StatusAliveAffiliationsMax TennysonPlumbersBen's TeamAmalgam Kids(disbanded)Alien Force(disbanded)Plumbers' Helpers(disbanded)Plumbers' Academy(formerly)OccupationsPlumberAliasesHeatblast[DM 2][Bandai 1]Heatblast II[script 1]NicknamesHeatblast Jr.(Kevin Levin)Squirt(Kevin Levin)Powers and...",
+    "role": "Plumber",
+    "attributes": {
+      "Complex": "OV",
+      "Species": "Human / Pyronite Hybrid Human (formerly",
+      "Home World": "Earth",
+      "Residence": "Null Void (formerly) Grover's Mill [ 1",
+      "Age": "8 (Omniverse Flashbacks) 12 (Alien Force) 13 (Ultimate Alien and Omniverse",
+      "Status": "Alive",
+      "Affiliation": "Max Tennyson Plumbers Ben's Team Amalgam Kids (disbanded) Alien Force (disbanded) Plumbers' Helpers (disbanded) Plumbers' Academy (formerly",
+      "Occupation": "Plumber",
+      "Alias": "Heatblast [ DM 2 ] [ Bandai 1 ] Heatblast II [ script 1",
+      "Nicknames": "Heatblast Jr. ( Kevin Levin ) Squirt (Kevin Levin) [ 1",
+      "Ability": "Pyronite Transformation Pyrokinesis Fire/Heat Amplification Pyrokinetic Flight Terrakinesis Enhanced Acrobatics Enhanced Speed (via Pyrokinetic Flight) Enhanced Reflexes Ice/Cold Resistance Heat Ra...",
+      "Equipment": "Plumber Badge DNA Repair Gun (formerly) Rooter Helmet (formerly",
+      "Relative": "Mr. Albright (father) Mrs. Albright (mother) Unnamed younger sibling(s) Unnamed Pyronite (genetic donor",
+      "Voice": "Zeno Robinson (Alien Force and Ultimate Alien) Bumper Robinson (Omniverse",
+      "First": "Everybody Talks About the Weather"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Alan_Albright"
+  },
+  {
+    "name": "Bleu",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/1/18/Bleu_infobox.png",
+    "description": "BleuGeneral InformationSpeciesHumanHome WorldEarthStatusAliveAffiliationsLaGrange(formerly)Powers and AbilitiesAbilitiesDriving ProficiencyEquipmentMonster Truck(formerly)DetailsVoice ActorDaryl SabaraFirst AppearanceDrive You Crazy",
+    "role": "Alive",
+    "attributes": {
+      "Species": "Human",
+      "Home World": "Earth",
+      "Status": "Alive",
+      "Affiliation": "LaGrange (formerly",
+      "Equipment": "Monster Truck (formerly"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Bleu"
+  },
+  {
+    "name": "Max Tennyson",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/c/c8/Max_tenyson_poses_%281%29.png",
+    "description": "Max TennysonGeneral InformationSpeciesHumanHome WorldEarthResidenceBellwoodAge60StatusAliveAffiliationsPlumbersOccupationsPlumber(retired)Powers and AbilitiesEquipmentPlumber WeaponsRelationshipsRelativesCarl Tennyson(son)Sandra Tennyson(daughter-in-law)Ben Tennyson(grandson)Gwen Tennyson(granddaughter)Frank Tennyson(son)Lily Tennyson(daughter-in-law)DetailsVoice ActorPaul EidingFirst AppearanceGoodbye and Good RiddanceGallery",
+    "role": "Plumber (retired",
+    "attributes": {
+      "Species": "Human",
+      "Home World": "Earth",
+      "Residence": "Bellwood",
+      "Age": "60",
+      "Status": "Alive",
+      "Affiliation": "Plumbers",
+      "Occupation": "Plumber (retired",
+      "Relative": "Carl Tennyson (son) Sandra Tennyson (daughter-in-law) Ben Tennyson (grandson) Gwen Tennyson (granddaughter) Frank Tennyson (son) Lily Tennyson (daughter-in-law) [ 1"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Max_Tennyson_(Goodbye_and_Good_Riddance)"
+  },
+  {
+    "name": "Bailiff",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/2/27/Universal_Court_Highbreed.png",
+    "description": "The Bailiff has the white and purple color scheme of the Highbreed before the mutation. He is also much bulkier and bigger than most other Highbreed, with smaller legs as well. He sports seven eyes on his face and short horn-like extensions on his head. He has a golden badge with a star in the middle and a purple crest on his left shoulder. He also has a gray and red walkie-talkie-like device. He has a black belt with brown pockets, a wooden bat and a silver buckle.",
+    "role": "Bailiff",
+    "attributes": {
+      "Species": "Highbreed [ note 1",
+      "Home World": "Augstaka",
+      "Residence": "Coda Coda",
+      "Status": "Alive",
+      "Affiliation": "Domstol Court",
+      "Occupation": "Bailiff",
+      "Ability": "Enhanced Strength Enhanced Durability Enhanced Intelligence Flight Claw Darts",
+      "Voice": "Paul Eiding",
+      "First": "Universe vs. Tennyson"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Bailiff_(Universe_vs._Tennyson)"
+  },
+  {
+    "name": "Sir Patrick",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/5/5f/Patrick1.PNG",
+    "description": "Sir Patrick was an elderly Caucasian man with white hair, most prominently in the form of a pointed mustache and a goatee. His clothing consisted of a red collar shirt, black baggy pants tapered by silver boots, and a red cape with a white fur trim. He also wore a blocky, jeweled crown, a belt with the Forever Knights' insignia, and segmented golden sleeves.",
+    "role": "Forever King (formerly",
+    "attributes": {
+      "Species": "Human",
+      "Home World": "Earth",
+      "Residence": "Forever Knight Castle",
+      "Status": "Deceased",
+      "Occupation": "Forever King (formerly",
+      "Voice": "Michael York",
+      "First": "Be-Knighted"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Sir_Patrick"
+  },
+  {
+    "name": "Pa Vreedle",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/d/dd/Pa_official.png",
+    "description": "Uppengon VreedleOVUAGeneral InformationSpeciesVreedleHome WorldUnknownStatusAliveOccupationsCriminalAliasesPa VreedlePowers and AbilitiesAbilitiesSpace SurvivabilityRelationshipsRelativesUnnamed creators[DJW 1]Ma Vreedle(ex-wife; DNA source)Octagon Vreedle(son)Rhomboid Vreedle(son)Dodecahedron Vreedle(son)Parallelogram Vreedle(son)Isosceles Right Triangle Vreedle(daughter)Pretty Boy Vreedle(cloned sons)DetailsVoice ActorJeff Bennett(Ultimate Alien)Steve Blum(Omniverse)First AppearanceThe Enem...",
+    "role": "Criminal",
+    "attributes": {
+      "Complex": "OV",
+      "Species": "Vreedle",
+      "Status": "Alive",
+      "Occupation": "Criminal",
+      "Alias": "Pa Vreedle",
+      "Relative": "Unnamed creators [ DJW 1 ] Ma Vreedle (ex-wife; DNA source) Octagon Vreedle (son) Rhomboid Vreedle (son) Dodecahedron Vreedle (son) Parallelogram Vreedle (son) Isosceles Right Triangle Vreedle (dau...",
+      "Voice": "Jeff Bennett (Ultimate Alien) Steve Blum (Omniverse",
+      "First": "The Enemy of My Enemy"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Pa_Vreedle"
+  },
+  {
+    "name": "Polar Twain",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/a/a6/Future_Polar_Twain.png",
+    "description": "Polar TwainGeneral InformationSpeciesHumanHome WorldEarth(Reboot Future Timeline)StatusAliveOccupationsScientistCriminalPowers and AbilitiesAbilitiesMagnetokinesisFlightEquipmentArmorRelationshipsRelativesSolar Twain(twin brother)CounterpartsAlternatePolar Twain(Dimension 27998.3)DetailsFirst AppearanceBen 10,010Gallery",
+    "role": "Scientist Criminal",
+    "attributes": {
+      "Species": "Human",
+      "Home World": "Earth ( Reboot Future Timeline",
+      "Status": "Alive",
+      "Occupation": "Scientist Criminal",
+      "Ability": "Magnetokinesis Flight",
+      "Equipment": "Armor",
+      "Relative": "Solar Twain (twin brother",
+      "Alternate Counterparts": "Polar Twain ( Dimension 27998.3",
+      "First": "Ben 10,010"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Polar_Twain_(Future)"
+  },
+  {
+    "name": "Rock Monster Hybrid Kevin",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/b/b7/Charmed_Rock_Monster_Kevin.png",
+    "description": "Rock Monster Hybrid KevinGeneral InformationSpeciesMutantHuman/Rock MonsterHybridHome WorldEarth(Time Heals Timeline)ResidenceCharmcaster's CastleAge16StatusErasedAffiliationsCharmcasterHexMutationsKevin Levin(Time Heals Timeline)Powers and AbilitiesAbilitiesEnhanced StrengthEnhanced DurabilityDetailsVoice ActorGreg CipesFirst AppearanceTime HealsGallery",
+    "role": "Erased",
+    "attributes": {
+      "Species": "Mutant Human / Rock Monster Hybrid",
+      "Home World": "Earth ( Time Heals Timeline",
+      "Age": "16",
+      "Status": "Erased",
+      "Affiliation": "Charmcaster Hex",
+      "Alt": "Kevin Levin ( Time Heals Timeline",
+      "Ability": "Enhanced Strength Enhanced Durability",
+      "Voice": "Greg Cipes",
+      "First": "Time Heals"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Rock_Monster_Hybrid_Kevin"
+  },
+  {
+    "name": "Anthony Roachisano",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/6/6e/Anthony_Roachisano_profile.PNG",
+    "description": "Anthony is an overweight tan Caucasian, and has blonde hair with two beards; one under his lower lip, and one on his chin. He has a mole on his left cheek, and for accessories, he wears pink sunglasses, gold rings on his point finger and pinky finger, and golden earrings. His main attire consists of a tie, a white shirt and grey dress clothes.",
+    "role": "Agent",
+    "attributes": {
+      "Species": "Human",
+      "Home World": "Earth",
+      "Status": "Alive",
+      "Affiliation": "Kevin Levin (former client) Queen Bee (former client) Tim Buktu (former client",
+      "Occupation": "Agent",
+      "Voice": "Roger Craig Smith",
+      "First": "A Sticky Situation"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Anthony_Roachisano"
+  },
+  {
+    "name": "Forever Ninja",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/7/75/Forever_Ninja_AF_Game_Model.png",
+    "description": "Forever NinjaGeneral InformationHome WorldEarthAffiliationsForever KnightsAliasesForever Knight NinjaForever Ninja MeleeForever Ninja RangedPowers and AbilitiesAbilitiesMartial ArtsExpert SwordsmanEnhanced SpeedEnhanced StrengthEnhanced AgilityEnhanced AcrobaticsEnhanced ReflexesEnhanced DurabilityEquipmentSpecialized ArmorSwordsDetailsVoice ActorKevin Michael RichardsonFirst AppearanceBen 10: Alien ForceGalleryForever Ninjas, also known asForever Knight Ninjas, areForever Knightswho appeared...",
+    "role": "Hero",
+    "attributes": {
+      "Home World": "Earth",
+      "Alias": "Forever Knight Ninja Forever Ninja Melee Forever Ninja Ranged",
+      "Ability": "Martial Arts Expert Swordsman Enhanced Speed Enhanced Strength Enhanced Agility Enhanced Acrobatics Enhanced Reflexes Enhanced Durability",
+      "Equipment": "Specialized Armor Swords"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Forever_Ninja"
+  },
+  {
+    "name": "Spencer",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/6/65/Spencer_reboot.png",
+    "description": "SpencerGeneral InformationSpeciesHumanHome WorldEarthStatusAliveRelationshipsRelativesTroy Herington III(grandfather)MadisonDetailsVoice ActorTara StrongFirst AppearanceMud on the Run",
+    "role": "Alive",
+    "attributes": {
+      "Species": "Human",
+      "Home World": "Earth",
+      "Status": "Alive",
+      "Relative": "Troy Herington III (grandfather) Madison"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Spencer"
+  },
+  {
+    "name": "B.L.R.R.T.",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/d/dc/B.U.R.G.I.T.png",
+    "description": "B.L.R.R.T.General InformationUserBenevelonStatusDestroyedPowers and AbilitiesAbilitiesOptic BeamEnhanced StrengthEnhanced DurabilityEquipmentLasersDetailsFirst AppearanceBlukic and Driba Go to Area 51GalleryB.L.R.R.T.(pronounced Blurt) was a villain inOmniverse. It first appeared inBlukic and Driba Go to Area 51.",
+    "role": "Destroyed",
+    "attributes": {
+      "User": "Benevelon",
+      "Status": "Destroyed",
+      "Ability": "Optic Beam Enhanced Strength Enhanced Durability",
+      "Equipment": "Lasers"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/B.L.R.R.T."
+  },
+  {
+    "name": "Joe",
+    "image_url": "https://static.wikia.nocookie.net/ben10/images/3/3d/Joe_reboot.png",
+    "description": "Joe is a Caucasian man wearing a military uniform consisting of dark-green collared shirt, a matching pair of pants and a helmet, a belt with pouches, black boots, and a white undershirt. He carries a rifle over his shoulder.",
+    "role": "Alive",
+    "attributes": {
+      "Species": "Human",
+      "Home World": "Earth",
+      "Status": "Alive",
+      "Equipment": "Rifle Walkie-talkie",
+      "Voice": "Todd Haberkorn",
+      "First": "Drone On"
+    },
+    "source_url": "https://ben10.fandom.com/wiki/Joe_(Drone_On)"
+  }
+]

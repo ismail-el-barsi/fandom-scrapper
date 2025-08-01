@@ -1,0 +1,708 @@
+[
+  {
+    "name": "Maribelle (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "\"Maribelle\", also known as\"Agatha\"(real name unknown),is ajiāngshīencountered inThe Walking Dead: Typhoon.",
+    "role": "Dead",
+    "attributes": {
+      "Gender": "Female",
+      "Age": "Possibly 60s to 80s",
+      "Family": "\" Bobby \" - Possible Grandson †",
+      "Ethnicity": "Chinese",
+      "Status": "Dead"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Maribelle_(Typhoon)"
+  },
+  {
+    "name": "Báibái (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "WhenChen Wenzhuwas seven or eight years old, he had wrapped his arms and legs aroundhis father's leg as he was dragged into the kitchen. Hisyéyeangrily scolds him for giving the chickens names. Zhu pleads for his yéye to pick a different chicken, as Báibái is his favorite. His father says that they're all his favorite and tells Zhu to watch as his yéye pins the chicken's neck to the cutting board and raises the butcher's knife. Ripples of horror pass through Zhu as Báibái is decapitated. The ...",
+    "role": "Dead",
+    "attributes": {
+      "Gender": "Female",
+      "Hair": "White (Feathers",
+      "Family": "Chen Wenzhu - Owner †",
+      "Ethnicity": "Chicken",
+      "Status": "Dead"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/B%C3%A1ib%C3%A1i_(Typhoon)"
+  },
+  {
+    "name": "Zombies",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/5/5e/Zombie_Deluxe.png",
+    "description": "ZombiesActorVariesGenderVariesHair ColorVariesAgeVariesOccupationVariesEthnicityVariesStatusUndeadThe Walking Dead: Comic SeriesFirst AppearanceLast AppearanceIssue 1Issue 193The Walking Dead: Novel SeriesFirst AppearanceLast AppearanceOnly Appearance\"The Hollow Men\"(Novel Series)\"The New World(Typhoon)\"Los Primeros Dias\"(Novel Series)\"Epilogue(Typhoon)\"Alone, Together\"The Walking Dead: The Telltale SeriesFirst AppearanceLast Appearance\"A New Day\"\"Take Us Back\"The Walking Dead: Saints & Sinne...",
+    "role": "Varies",
+    "attributes": {
+      "Actor": "Varies",
+      "Gender": "Varies",
+      "Hair": "Varies",
+      "Age": "Varies",
+      "Occupation": "Varies",
+      "Ethnicity": "Varies",
+      "Status": "Undead"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Zombies"
+  },
+  {
+    "name": "Yangyi and Xingjian's Father (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "Yangyi and Xingjian's FatherGenderMaleHair ColorUnknownAge70s to 80sOccupationUnknownFamily(Unnamed) - WifeXingjian- Son †Yangyi- Daughter †EthnicityChineseStatusUnknownFirst AppearanceLast AppearanceTyphoonTyphoon",
+    "role": "Anime Character",
+    "attributes": {
+      "Gender": "Male",
+      "Age": "70s to 80s",
+      "Family": "Unnamed ) - Wife Xingjian - Son † Yangyi - Daughter †",
+      "Ethnicity": "Chinese"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Yangyi_and_Xingjian%27s_Father_(Typhoon)"
+  },
+  {
+    "name": "Lo (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "LoActorFeodor Chin(Audiobook)GenderUnknownHair ColorUnknownAgeUnknownOccupationUnknownFamilyUnknownEthnicityChineseStatusUnknownOnly Appearance\"Preparations\"(Unknown",
+    "role": "Anime Character",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Ethnicity": "Chinese"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Lo_(Typhoon)"
+  },
+  {
+    "name": "Taijian (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "TaijianActorFeodor Chin(Audiobook)GenderMaleHair ColorUnknownAgeUnknownOccupationPost-ApocalypseWindrunnerFamilyUnknownEthnicityChineseStatusDeadFateOnly Appearance & Death Chapter\"Raid\"",
+    "role": "Post-Apocalypse Windrunner",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Gender": "Male",
+      "Occupation": "Post-Apocalypse Windrunner",
+      "Ethnicity": "Chinese",
+      "Status": "Dead"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Taijian_(Typhoon)"
+  },
+  {
+    "name": "Guan Jincai (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "Guan JincaiActorFeodor Chin(Audiobook)GenderMaleHair ColorUnknownAgeMid to Late TeensOccupationPre-ApocalypseGuard for theGroveFamilyGuan- FatherEthnicityChineseStatusDeadFirst AppearanceLast Appearance\"Quota\"\"Into the Fold\"FateDeath Chapter\"Into the Fold\"",
+    "role": "Pre-Apocalypse Guard for the Grove",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Gender": "Male",
+      "Occupation": "Pre-Apocalypse Guard for the Grove",
+      "Family": "Guan - Father",
+      "Ethnicity": "Chinese",
+      "Status": "Dead"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Guan_Jincai_(Typhoon)"
+  },
+  {
+    "name": "Wu Chima (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "Wu ChimaActorFeodor Chin(Audiobook)GenderMaleHair ColorUnknownAgeUnknownOccupationPre-ApocalypsePing-Pong CoachPost-ApocalypseHead of Security for theGroveFamilyUnknownEthnicityChineseStatusDeadFirst AppearanceLast Appearance\"Homecoming\"\"Into the Fold\"(Corpse)FateDeath Chapter\"Into the Fold\"(Off-Panel",
+    "role": "Pre-Apocalypse Ping-Pong Coach Post-Apocalypse Head of Security for the Grove",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Gender": "Male",
+      "Occupation": "Pre-Apocalypse Ping-Pong Coach Post-Apocalypse Head of Security for the Grove",
+      "Ethnicity": "Chinese",
+      "Status": "Dead"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Wu_Chima_(Typhoon)"
+  },
+  {
+    "name": "Hufeng (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "Hufengis a character mentioned inThe Walking Dead: Typhoon. She's awindrunnerfor theBeacon of Light.",
+    "role": "Post-Apocalypse Windrunner",
+    "attributes": {
+      "Gender": "Female",
+      "Occupation": "Post-Apocalypse Windrunner",
+      "Family": "Unnamed) - Unborn Child",
+      "Ethnicity": "Chinese"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Hufeng_(Typhoon)"
+  },
+  {
+    "name": "Wind Teams (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "TheWind Teamsare a collection of small scouting and supply run groups for theBeacon of LightinThe Walking Dead: Typhoon. They regularly go out and scavenge for supplies to bring back to the Beacon where they are rewarded with points based on how valuable their items are.",
+    "role": "Disbanded",
+    "attributes": {
+      "Type": "Supply Run and Scouting Groups",
+      "Status": "Disbanded",
+      "Leader": "Ying Hengyen - Windmaster Chen Wenzhu Elena Anderson",
+      "Location": "Hunan, China",
+      "Series": "Typhoon"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Wind_Teams_(Typhoon)"
+  },
+  {
+    "name": "Zhu's Grandmother (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "Zhu's grandmother, ornăinai, is ajiāngshīencountered inThe Walking Dead: Typhoon. She is described as having narrow eyes, tattered braided hair and glints of gold in her teeth.",
+    "role": "Dead",
+    "attributes": {
+      "Gender": "Female",
+      "Hair": "Gray",
+      "Age": "99",
+      "Family": "Unnamed ) - Late Husband † Chen Wenzhu - Grandson † Chen Ahui - Granddaughter Mr. Chen - Son † Mrs. Chen - Daughter-In-Law † (Unnamed) - Children (Unnamed) - Granddaughter (Unnamed) - Ex-Grandson-I...",
+      "Ethnicity": "Chinese",
+      "Status": "Dead"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Zhu%27s_Grandmother_(Typhoon)"
+  },
+  {
+    "name": "Mr. Chen (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "Mr. Chen(given name unknown)is a character mentioned inThe Walking Dead: Typhoon.",
+    "role": "Pre-Apocalypse Store Owner",
+    "attributes": {
+      "Gender": "Male",
+      "Hair": "Black",
+      "Occupation": "Pre-Apocalypse Store Owner",
+      "Family": "Chen Wenzhu - Son † Chen Ahui - Daughter Mrs. Chen - Wife † ( Unnamed ) - Mother † ( Unnamed ) - Father † (Unnamed) - Niece or Niece-In-Law † (Unnamed) - Ex-Nephew-In-Law †",
+      "Ethnicity": "Chinese",
+      "Status": "Dead"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Mr._Chen_(Typhoon)"
+  },
+  {
+    "name": "Lu Shenyang (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "Lu ShenyangActorFeodor Chin(Audiobook)GenderFemaleHair ColorUnknownAgeMid TeensOccupationPre-ApocalypseFormer Guard for theGroveGuard for thePrecipitous PillarsFamilyUnknownEthnicityChineseStatusAliveFirst AppearanceLast Appearance\"Quota\"\"Epilogue\"",
+    "role": "Pre-Apocalypse Former Guard for the Grove Guard for the Precipitous Pillars",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Gender": "Female",
+      "Age": "Mid Teens",
+      "Occupation": "Pre-Apocalypse Former Guard for the Grove Guard for the Precipitous Pillars",
+      "Ethnicity": "Chinese",
+      "Status": "Alive"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Lu_Shenyang_(Typhoon)"
+  },
+  {
+    "name": "Meili (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "MeiliActorFeodor Chin(Audiobook)GenderFemaleHair ColorUnknownAge20sOccupationUnknownFamilyHuangmang- BrotherHuangyi- Brother †(Unnamed) - Uncle †(Unnamed) - Cousins †EthnicityChineseStatusAliveFirst AppearanceLast Appearance\"The New World\"(Photograph)\"Epilogue\"",
+    "role": "Alive",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Gender": "Female",
+      "Age": "20s",
+      "Family": "Huangmang - Brother Huangyi - Brother † (Unnamed) - Uncle † (Unnamed) - Cousins †",
+      "Ethnicity": "Chinese",
+      "Status": "Alive"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Meili_(Typhoon)"
+  },
+  {
+    "name": "Ming (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "MingActorFeodor Chin(Audiobook)AliasesWilburGenderMaleHair ColorBlack(Balding)AgeMid 40s to Early 50sOccupationPre-ApocalypseAccountantPost-ApocalypseQuotamasterFamilyUnknownEthnicityChineseStatusUndeadFirst AppearanceLast Appearance\"The Living Revolution\"\"The Storm Passes\"(Zombified)FateDeath Chapter\"The Storm Passes\"(Confirmed Fate",
+    "role": "Pre-Apocalypse Accountant Post-Apocalypse Quotamaster",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Aliases": "Wilbur",
+      "Gender": "Male",
+      "Hair": "Black (Balding",
+      "Occupation": "Pre-Apocalypse Accountant Post-Apocalypse Quotamaster",
+      "Ethnicity": "Chinese",
+      "Status": "Undead"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Ming_(Typhoon)"
+  },
+  {
+    "name": "The Vultures (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "The VulturesGeneralTypeIllegal Survivor Groups(Formerly)Survivor GroupsStatusActiveLeader(s)VariesLocationHunan, ChinaAppearancesSeen in SeriesNovel SeriesIssue/Episode\"Typhoon\"",
+    "role": "Active",
+    "attributes": {
+      "Type": "Illegal Survivor Groups (Formerly) Survivor Groups",
+      "Status": "Active",
+      "Leader": "Varies",
+      "Episode": "\" Typhoon \""
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/The_Vultures_(Typhoon)"
+  },
+  {
+    "name": "Guan (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "GuanActorFeodor Chin(Audiobook)GenderMaleHair ColorUnknownAgeMid to Late 40sOccupationUnknownFamilyGuan Jincai- Son †EthnicityChineseStatusAliveOnly Appearance\"Redemption\"",
+    "role": "Alive",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Gender": "Male",
+      "Family": "Guan Jincai - Son †",
+      "Ethnicity": "Chinese",
+      "Status": "Alive"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Guan_(Typhoon)"
+  },
+  {
+    "name": "Winnie (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "Winnie was a dog owned byElena Anderson's family. When Elena was nine she accidentally stepped on Winnie's tail and received a sad and confused look.",
+    "role": "Anime Character",
+    "attributes": {
+      "Family": "Elena Anderson - Owner",
+      "Ethnicity": "Canine"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Winnie_(Typhoon)"
+  },
+  {
+    "name": "Robbie Anderson (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "Robbie AndersonGenderMaleHair ColorUnknownAgeUnspecifiedOccupationUnknownFamilyElena Anderson- SisterBraff- UncleGraham- UncleEthnicityCaucasian-AmericanStatusUnknownFirst AppearanceLast AppearanceTyphoon(Mentioned)Typhoon(Mentioned",
+    "role": "Anime Character",
+    "attributes": {
+      "Gender": "Male",
+      "Family": "Elena Anderson - Sister Braff - Uncle Graham - Uncle"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Robbie_Anderson_(Typhoon)"
+  },
+  {
+    "name": "Graham (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "GrahamGenderMaleHair ColorUnknownAgeUnknownOccupationUnknownFamilyElena Anderson- NieceRobbie Anderson- NephewBraff- Brother/Brother or Sister's Brother-In-LawEthnicityCaucasian-AmericanStatusUnknownFirst AppearanceLast AppearanceTyphoon(Mentioned)Typhoon(Mentioned)Grahamis a character mentioned inThe Walking Dead: Typhoon. He is Elena Anderson's uncle.",
+    "role": "Anime Character",
+    "attributes": {
+      "Gender": "Male",
+      "Family": "Elena Anderson - Niece Robbie Anderson - Nephew Braff - Brother/Brother or Sister's Brother-In-Law"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Graham_(Typhoon)"
+  },
+  {
+    "name": "Braff (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "BraffGenderMaleHair ColorUnknownAgeUnknownOccupationUnknownFamilyElena Anderson- NieceRobbie Anderson- NephewGraham- Brother/Brother or Sister's Brother-In-LawEthnicityCaucasian-AmericanStatusUnknownFirst AppearanceLast AppearanceTyphoon(Mentioned)Typhoon(Mentioned",
+    "role": "Anime Character",
+    "attributes": {
+      "Gender": "Male",
+      "Family": "Elena Anderson - Niece Robbie Anderson - Nephew Graham - Brother/Brother or Sister's Brother-In-Law"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Braff_(Typhoon)"
+  },
+  {
+    "name": "Linnang (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "Little is known about Linnang's life prior to the outbreak aside from he was a student at Fudan University in Shanghai.",
+    "role": "Pre-Apocalypse Fudan University student Post-Apocalypse Soldier of the Beacon of Light Windrunner",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Gender": "Male",
+      "Occupation": "Pre-Apocalypse Fudan University student Post-Apocalypse Soldier of the Beacon of Light Windrunner",
+      "Family": "Unnamed) - Father † (Unnamed) - Mother † (Unnamed) - Girlfriend †",
+      "Ethnicity": "Chinese",
+      "Status": "Dead"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Linnang_(Typhoon)"
+  },
+  {
+    "name": "Xing Lubin (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "Xing LubinActorFeodor Chin(Audiobook)GenderMaleHair ColorUnknownAgeUnknownOccupationPost-ApocalypseWindrunnerFamilyXing Luhong- Twin Brother †EthnicityChineseStatusDeadFirst AppearanceLast Appearance\"Redemption\"\"The Storm Passes\"FateDeath Chapter\"The Storm Passes\"",
+    "role": "Post-Apocalypse Windrunner",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Gender": "Male",
+      "Occupation": "Post-Apocalypse Windrunner",
+      "Family": "Xing Luhong - Twin Brother †",
+      "Ethnicity": "Chinese",
+      "Status": "Dead"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Xing_Lubin_(Typhoon)"
+  },
+  {
+    "name": "Chen Ahui (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "Ahui and her brother Zhu spend most of their childhood in the upstairs apartment with their grandparents as their parents apartment only had one bedroom. The two would often spend evenings taking apart kites to use the frames as bows and arrows. They would also stay up late at night and whisper to each other until their grandfather would arrive and threaten to make then kneel in opposite corners of the room for the rest of the night. Ahui used to steal ramen packets from hermother's convenien...",
+    "role": "Post-Apocalypse Former Scout for the Grove Leader of the Precipitous Pillars",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Gender": "Female",
+      "Age": "20s",
+      "Occupation": "Post-Apocalypse Former Scout for the Grove Leader of the Precipitous Pillars",
+      "Family": "Unnamed ) - Grandmother † ( Unnamed ) - Grandfather † Mr. Chen - Father † Mrs. Chen - Mother † Chen Wenzhu - Brother † (Unnamed) - Cousin † (Unnamed) - Ex-Cousin-In-Law †",
+      "Ethnicity": "Chinese",
+      "Status": "Alive"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Chen_Ahui_(Typhoon)"
+  },
+  {
+    "name": "Chen Wenzhu (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/1/10/Zhu_%28RTS%29.png",
+    "description": "Chen Wenzhu(Wenzhu Chen), more commonly calledZhu (Ju), is a main character and theprotagonistofThe Walking Dead: Typhoon. He is the leader ofWind Teamand feels immense guilt for not trying to reach his family fast enough during the early stages of the outbreak.",
+    "role": "Pre-Apocalypse Farmhand Assembly Line Worker Post-Apocalypse Windrunner Leader Combat Trainer for the Grove",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Gender": "Male",
+      "Hair": "Black",
+      "Age": "Mid 20s",
+      "Occupation": "Pre-Apocalypse Farmhand Assembly Line Worker Post-Apocalypse Windrunner Leader Combat Trainer for the Grove",
+      "Family": "Unnamed ) - Grandmother † ( Unnamed ) - Grandfather † Mr. Chen - Father † Mrs. Chen - Mother † Chen Ahui - Sister Elena Anderson - Girlfriend (Unnamed) - Cousin † (Unnamed) - Ex-Cousin-In-Law † Bái...",
+      "Ethnicity": "Chinese",
+      "Status": "Dead"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Chen_Wenzhu_(Typhoon)"
+  },
+  {
+    "name": "Ming Haobo (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "Ming HaoboActorFeodor Chin(Audiobook)AliasesBoGenderMaleHair ColorUnknownAgeMid to Late 40sOccupationPre-ApocalypseFarmhandAssembly Line WorkerPost-ApocalypseWindrunnerFamilyUnknownEthnicityChineseStatusDeadFirst AppearanceLast Appearance\"The New World\"\"For the Living Revolution\"(Corpse)FateDeath Chapter\"Redemption\"",
+    "role": "Pre-Apocalypse Farmhand Assembly Line Worker Post-Apocalypse Windrunner",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Aliases": "Bo",
+      "Gender": "Male",
+      "Occupation": "Pre-Apocalypse Farmhand Assembly Line Worker Post-Apocalypse Windrunner",
+      "Ethnicity": "Chinese",
+      "Status": "Dead"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Ming_Haobo_(Typhoon)"
+  },
+  {
+    "name": "Li (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "LiActorFeodor Chin(Audiobook)GenderMaleHair ColorUnknownAgeUnknownOccupationPost-ApocalypseGuard for theGroveFamilyUnknownEthnicityChineseStatusUnknownOnly Appearance\"Homecoming\"(Unknown",
+    "role": "Post-Apocalypse Guard for the Grove",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Gender": "Male",
+      "Occupation": "Post-Apocalypse Guard for the Grove",
+      "Ethnicity": "Chinese"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Li_(Typhoon)"
+  },
+  {
+    "name": "Elena Anderson (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/e/e1/Image-152x199.jpg_%2816%29.png",
+    "description": "When Elena lived in Texas, she and her family used to go boating nearly every weekend, barbecued, strolled around sandy beaches, and tubing on the Colorado River. She would play the drums in her church band and worked at Camp Longhorn in the summer. On Friday nights she would go to high school football games. Her father took her and her brother,Robbie, bowhunting for white-tailed deer and doves in Knaus Spring. She would have to snap the dove's necks for Robbie if he didn't get a kill shot.",
+    "role": "Pre-Apocalypse Camp Longhorn Employee English Tutor Post-Apocalypse Wind Team Leader De-Facto Head of Security for the Precipitous Pillars",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Gender": "Female",
+      "Hair": "Blonde",
+      "Age": "Mid 20s",
+      "Occupation": "Pre-Apocalypse Camp Longhorn Employee English Tutor Post-Apocalypse Wind Team Leader De-Facto Head of Security for the Precipitous Pillars",
+      "Family": "Robbie Anderson - Brother Braff - Uncle Graham - Uncle Chen Wenzhu - Late Boyfriend † Winnie - Pet",
+      "Ethnicity": "Caucasian-American",
+      "Status": "Alive"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Elena_Anderson_(Typhoon)"
+  },
+  {
+    "name": "Wangfa (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/9/99/Wangfa_crop.PNG",
+    "description": "WangfaActorFeodor Chin(Audiobook)GenderMaleHair ColorBlackAgeMid 30sOccupationPre-ApocalypseMember of Falcon Commando UnitPost-ApocalypseFormerWindrunnerFormer Lieutenant of theBeacon of LightFormer Defense Master of the Beacon of LightFamilyUnknownEthnicityChineseStatusUndeadFirst AppearanceLast Appearance\"The Typhoon of Dead\"\"The Storm Passes\"FateDeath Chapter\"The Storm Passes\"",
+    "role": "Pre-Apocalypse Member of Falcon Commando Unit Post-Apocalypse Former Windrunner Former Lieutenant of the Beacon of Light Former Defense Master of the Beacon of Light",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Gender": "Male",
+      "Hair": "Black",
+      "Age": "Mid 30s",
+      "Occupation": "Pre-Apocalypse Member of Falcon Commando Unit Post-Apocalypse Former Windrunner Former Lieutenant of the Beacon of Light Former Defense Master of the Beacon of Light",
+      "Ethnicity": "Chinese",
+      "Status": "Undead"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Wangfa_(Typhoon)"
+  },
+  {
+    "name": "Xingjian (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "Xingjianis a character mentioned inThe Walking Dead: Typhoon. He is the brother ofYangyi, both of which were were taken to theBeacon of Lightto work. He is 27 and described as \"Tall likeZhu. He has a strong jaw but a very large forehead. He's not very bright but very sweet.\"",
+    "role": "Post-Apocalypse Worker at the Beacon of Light",
+    "attributes": {
+      "Gender": "Male",
+      "Age": "27",
+      "Occupation": "Post-Apocalypse Worker at the Beacon of Light",
+      "Family": "Unnamed ) - Mother ( Unnamed ) - Father Yangyi - Sister †",
+      "Ethnicity": "Chinese",
+      "Status": "Dead"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Xingjian_(Typhoon)"
+  },
+  {
+    "name": "Bobby (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "\"Bobby\"GenderMaleHair ColorBlackAge5-6Family\"Maribelle\" - Possible Grandmother †EthnicityChineseStatusUndeadOnly Appearance\"The New World\"(Zombified)FateDeath Chapter\"The New World\"(Alive, Confirmed Fate",
+    "role": "Undead",
+    "attributes": {
+      "Gender": "Male",
+      "Hair": "Black",
+      "Age": "5-6",
+      "Family": "\" Maribelle \" - Possible Grandmother †",
+      "Ethnicity": "Chinese",
+      "Status": "Undead"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Bobby_(Typhoon)"
+  },
+  {
+    "name": "Chen (Butcher)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "Mr. Chen(given name unknown)is a survivor of the outbreak mentioned inThe Walking Dead: Typhoon. He ran the butchers in Fongyuan village before the outbreak and had three daughters.",
+    "role": "Pre-Apocalypse Butcher",
+    "attributes": {
+      "Gender": "Male",
+      "Age": "Unspecific",
+      "Occupation": "Pre-Apocalypse Butcher",
+      "Family": "Unnamed) - Three Daughters",
+      "Ethnicity": "Chinese"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Chen_(Butcher)"
+  },
+  {
+    "name": "Huangmang (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "HuangmangActorFeodor Chin(Audiobook)GenderMaleHair ColorUnknownAge15OccupationUnknownFamilyMeili- SisterHuangyi- Brother †(Unnamed) - Uncle †(Unnamed) - Cousins †EthnicityChineseStatusAliveFirst AppearanceLast Appearance\"The Welcome\"\"Innocence Reclaimed\"",
+    "role": "Alive",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Gender": "Male",
+      "Age": "15",
+      "Family": "Meili - Sister Huangyi - Brother † (Unnamed) - Uncle † (Unnamed) - Cousins †",
+      "Ethnicity": "Chinese",
+      "Status": "Alive"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Huangmang_(Typhoon)"
+  },
+  {
+    "name": "Jiafeng's Son (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "Jiafeng's SonActorFeodor Chin(Audiobook)GenderMaleHair ColorUnknownAgeMid to Late TeensOccupationPost-ApocalypseFarm Hand for theSmokersFamilyJiafeng- MotherEthnicityChineseStatusUnknownOnly Appearance\"Raid\"",
+    "role": "Post-Apocalypse Farm Hand for the Smokers",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Gender": "Male",
+      "Occupation": "Post-Apocalypse Farm Hand for the Smokers",
+      "Family": "Jiafeng - Mother",
+      "Ethnicity": "Chinese"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Jiafeng%27s_Son_(Typhoon)"
+  },
+  {
+    "name": "Herd",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/d/d8/Issue_162_Horde.jpg",
+    "description": "HerdGeneralTypeAntagonistic ForceStatusUndeadLocationWorldwideThe Walking DeadFirst AppearanceLast Appearance\"Days Gone Bye\"\"Rest in Peace\"Fear the Walking DeadFirst AppearanceLast Appearance\"The Good Man\"\"The Road Ahead\"The Walking Dead: World BeyondFirst AppearanceLast Appearance\"Brave\"\"The Last Light\"Tales of the Walking DeadFirst AppearanceLast Appearance\"Evie / Joe\"\"Amy / Dr. Everett\"The Walking Dead: The Ones Who LiveFirst AppearanceLast Appearance\"Years\"\"The Last Time\"The Walking Dead:...",
+    "role": "Undead",
+    "attributes": {
+      "Status": "Undead",
+      "Location": "Worldwide"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Herd"
+  },
+  {
+    "name": "Fang (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "\"Fang\"(real name unknown), nicknamedRaisin-Head Fang, is a formerantagonistinThe Walking Dead: Typhoon. He is a member of theBeacon of Lightand is described as \"bald, with an ugly zigzag scar running across the crown of his head.\"",
+    "role": "Ppost-Apocalypse Windrunner",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Gender": "Male",
+      "Hair": "Unknown (Bald",
+      "Occupation": "Ppost-Apocalypse Windrunner",
+      "Ethnicity": "Chinese",
+      "Status": "Alive"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Fang_(Typhoon)"
+  },
+  {
+    "name": "Huangyi (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "HuangyiActorFeodor Chin(Audiobook)GenderMaleHair ColorUnknownAge12OccupationUnknownFamilyMeili- SisterHuangmang- Brother(Unnamed) - Uncle †(Unnamed) - Cousins †EthnicityChineseStatusDeadFirst AppearanceLast Appearance\"The Welcome\"\"The Escape\"FateDeath Chapter\"The Escape\"",
+    "role": "Dead",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Gender": "Male",
+      "Age": "12",
+      "Family": "Meili - Sister Huangmang - Brother (Unnamed) - Uncle † (Unnamed) - Cousins †",
+      "Ethnicity": "Chinese",
+      "Status": "Dead"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Huangyi_(Typhoon)"
+  },
+  {
+    "name": "Jiurang (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "JiurangGenderMaleHair ColorUnknownAgeUnknownOccupationPre-ApocalypseGambling RingleaderFamilyUnknownEthnicityChineseStatusUnknownOnly Appearance\"The Welcome\"(Mentioned",
+    "role": "Pre-Apocalypse Gambling Ringleader",
+    "attributes": {
+      "Gender": "Male",
+      "Occupation": "Pre-Apocalypse Gambling Ringleader",
+      "Ethnicity": "Chinese"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Jiurang_(Typhoon)"
+  },
+  {
+    "name": "The Smokers",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "The Smokersare a peaceful group of refugees from several of the northern villages inThe Walking Dead: Typhoon. They are harmless, well regarded and even considered essential by many in the region.",
+    "role": "Merged with the Beacon of Light",
+    "attributes": {
+      "Type": "Farmers",
+      "Status": "Merged with the Beacon of Light",
+      "Leader": "Jiafeng",
+      "Location": "Hunan, China",
+      "Series": "Novel Series",
+      "Episode": "Typhoon"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/The_Smokers"
+  },
+  {
+    "name": "Xing Luhong (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "Xing LuhongGenderMaleHair ColorUnknownAgeUnknownOccupationPost-ApocalypseWindrunnerFamilyXing Lubin- Twin Brother †EthnicityChineseStatusDeadFirst AppearanceLast Appearance\"The Living Revolution\"(Mentioned)\"Redemption\"(Mentioned)FateDeath Chapter\"The Living Revolution\"(Confirmed Fate",
+    "role": "Post-Apocalypse Windrunner",
+    "attributes": {
+      "Gender": "Male",
+      "Occupation": "Post-Apocalypse Windrunner",
+      "Family": "Xing Lubin - Twin Brother †",
+      "Ethnicity": "Chinese",
+      "Status": "Dead"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Xing_Luhong_(Typhoon)"
+  },
+  {
+    "name": "Shanshan (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "ShanshanActorFeodor Chin(Audiobook)GenderFemaleHair ColorUnknownAgeUnknownOccupationPost-ApocalypseWindrunnerFamilyUnknownEthnicityChineseStatusAliveFirst AppearanceLast Appearance\"Moral Choices\"\"The Storm Passes\"",
+    "role": "Post-Apocalypse Windrunner",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Gender": "Female",
+      "Occupation": "Post-Apocalypse Windrunner",
+      "Ethnicity": "Chinese",
+      "Status": "Alive"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Shanshan_(Typhoon)"
+  },
+  {
+    "name": "Jiang Ping (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/b/b0/JiangPingRTS_and_Typhoon.png",
+    "description": "Not much is known about Ping's life prior to or as the outbreak began except he and his wife,Lǎopó, were opera singers. They danced and acted in plays for a few local villages. One of these villages was Fongyuan where Zhu witnessed them perform as a young boy; he then spent the entire summer pretending to be Sun Wukong, the monkey king.",
+    "role": "Pre-Apocalypse Opera Singer Post-Apocalypse Master of the Heaven Monks",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Gender": "Male",
+      "Hair": "White",
+      "Age": "70s-80s",
+      "Occupation": "Pre-Apocalypse Opera Singer Post-Apocalypse Master of the Heaven Monks",
+      "Family": "Jiang Lǎopó - Late Wife †",
+      "Ethnicity": "Chinese",
+      "Status": "Dead"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Jiang_Ping_(Typhoon)"
+  },
+  {
+    "name": "Lin (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "LinActorFeodor Chin(Audiobook)GenderUnknownHair ColorUnknownAgeUnknownOccupationPost-ApocalypseWindrunnerFamilyUnknownEthnicityChineseStatusAliveFirst AppearanceLast Appearance\"For the Living Revolution\"\"The Storm Passes\"",
+    "role": "Post-Apocalypse Windrunner",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Occupation": "Post-Apocalypse Windrunner",
+      "Ethnicity": "Chinese",
+      "Status": "Alive"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Lin_(Typhoon)"
+  },
+  {
+    "name": "Mrs. Chen (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "When the outbreak started, the elders in Fongyuan were prepared and ordered a fence to be built around the village, successfully protecting it's residents. When Changsha fell, the army arrived and drafted young people to help build theBeacon of Light, the Mrs. Chen and her family helped hideMeiliandAhui. A few weeks later more soldiers showed up to take more people leaving no strong and able-bodied residents to protect Fongyuan and the village was overrun. After thegrandmotherrefuses to leave...",
+    "role": "Pre-Apocalypse Store Owner",
+    "attributes": {
+      "Gender": "Female",
+      "Hair": "Black",
+      "Occupation": "Pre-Apocalypse Store Owner",
+      "Family": "Chen Wenzhu - Son † Chen Ahui - Daughter Mr. Chen - Late Husband † ( Unnamed ) - Mother-In-Law † ( Unnamed ) - Father-In-Law † (Unnamed) - Niece or Niece-In-Law † (Unnamed) - Ex-Nephew-In-Law †",
+      "Ethnicity": "Chinese",
+      "Status": "Dead"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Mrs._Chen_(Typhoon)"
+  },
+  {
+    "name": "Qingwei (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "QingweiActorFeodor Chin(Audiobook)GenderMaleHair ColorUnknownAgeUnknownOccupationPost-ApocalypseHead Engineer for theBeacon of LightFamilyUnknownEthnicityChineseStatusUnknownOnly Appearance\"Stopping the Typhoon\"",
+    "role": "Post-Apocalypse Head Engineer for the Beacon of Light",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Gender": "Male",
+      "Occupation": "Post-Apocalypse Head Engineer for the Beacon of Light",
+      "Ethnicity": "Chinese"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Qingwei_(Typhoon)"
+  },
+  {
+    "name": "Ling Weizhen (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "Ling WeizhenActorFeodor Chin(Audiobook)GenderMaleHair ColorUnknownAgeUnknownOccupationPost-ApocalypseSoldier of theBeacon of LightWindrunnerFamilyUnknownEthnicityChineseStatusDeadFirst AppearanceLast Appearance\"The Typhoon of Dead\"\"Stopping the Typhoon\"FateDeath ChapterTyphoon(Off-Panel",
+    "role": "Post-Apocalypse Soldier of the Beacon of Light Windrunner",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Gender": "Male",
+      "Occupation": "Post-Apocalypse Soldier of the Beacon of Light Windrunner",
+      "Ethnicity": "Chinese",
+      "Status": "Dead"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Ling_Weizhen_(Typhoon)"
+  },
+  {
+    "name": "Jianping (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "JianpingGenderMaleHair ColorUnknownAgeUnknownOccupationPost-ApocalypseGuard for theBeacon of LightFamilyUnknownEthnicityChineseStatusDeadOnly Appearance\"Redemption\"(Mentioned)FateDeath Chapter\"Redemption\"(Off-Panel",
+    "role": "Post-Apocalypse Guard for the Beacon of Light",
+    "attributes": {
+      "Gender": "Male",
+      "Occupation": "Post-Apocalypse Guard for the Beacon of Light",
+      "Ethnicity": "Chinese",
+      "Status": "Dead"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Jianping_(Typhoon)"
+  },
+  {
+    "name": "Tian Haihong (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "Tian HaihongActorFeodor Chin(Audiobook)GenderFemaleHair ColorUnknownAgeUnknownOccupationPost-ApocalypseSoldier of theBeacon of LightWindrunnerFamilyUnknownEthnicityChineseStatusDeadFirst AppearanceLast Appearance\"The Typhoon of Dead\"\"Stopping the Typhoon\"FateDeath ChapterTyphoon(Off-Panel",
+    "role": "Post-Apocalypse Soldier of the Beacon of Light Windrunner",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Gender": "Female",
+      "Occupation": "Post-Apocalypse Soldier of the Beacon of Light Windrunner",
+      "Ethnicity": "Chinese",
+      "Status": "Dead"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Tian_Haihong_(Typhoon)"
+  },
+  {
+    "name": "Lan Biying (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "Lan BiyingActorFeodor Chin(Audiobook)GenderFemaleHair ColorUnknownAge70s to 80sOccupationPost-ApocalypseKitchen Staff for theGroveFamily(Unnamed) - 9 GrandchildrenEthnicityChineseStatusUnknownOnly Appearance\"Innocence Reclaimed\"(Unknown",
+    "role": "Post-Apocalypse Kitchen Staff for the Grove",
+    "attributes": {
+      "Actor": "Feodor Chin (Audiobook",
+      "Gender": "Female",
+      "Age": "70s to 80s",
+      "Occupation": "Post-Apocalypse Kitchen Staff for the Grove",
+      "Ethnicity": "Chinese"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Lan_Biying_(Typhoon)"
+  },
+  {
+    "name": "Yangyi (Typhoon)",
+    "image_url": "https://static.wikia.nocookie.net/walkingdead/images/3/3f/Placeholder_other.png",
+    "description": "YangyiGenderFemaleHair ColorUnknownAge25OccupationPost-ApocalypseWorker at theBeacon of LightFamily(Unnamed) - Mother(Unnamed) - FatherXingjian- Brother †EthnicityChineseStatusDeadOnly Appearance\"Innocence Reclaimed\"(Mentioned",
+    "role": "Post-Apocalypse Worker at the Beacon of Light",
+    "attributes": {
+      "Gender": "Female",
+      "Age": "25",
+      "Occupation": "Post-Apocalypse Worker at the Beacon of Light",
+      "Family": "Unnamed ) - Mother ( Unnamed ) - Father Xingjian - Brother †",
+      "Ethnicity": "Chinese",
+      "Status": "Dead"
+    },
+    "source_url": "https://walkingdead.fandom.com/wiki/Yangyi_(Typhoon)"
+  }
+]

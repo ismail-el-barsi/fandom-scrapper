@@ -1,0 +1,677 @@
+[
+  {
+    "name": "King Rulo",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/e/ee/Elf_King.jpg",
+    "description": "Rulois the King of theElves, previous ruler of the Kingdom ofElfwoodand up until the evens of \"Goodbye Bean\" the ruler ofElf Alley, a client-kingdom ofDreamland. He is the father ofKissy.",
+    "role": "Uncertain",
+    "attributes": {
+      "Relatives": "Kissy (Daughter",
+      "Affiliation": "Elfwood",
+      "Status": "Uncertain",
+      "Race": "Elf",
+      "Gender": "Male ♂",
+      "Hair": "White",
+      "Portrayer": "Billy West"
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/King_Rulo"
+  },
+  {
+    "name": "Washmaster",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/f/fb/Washmaster.png",
+    "description": "In \"A Princess, an Elf, and a Demon Walk Into a Bar\",Bean,Luci andElfosought him under false pretenses, believing his name to be the \"Wishmaster\" and expecting three free wishes from him. It turns out he just does laundry for people. Bean is notably disappointed upon hearing this, as she hoped to wish for her arranged marriage toPrince Merkimerto be cancelled.",
+    "role": "Deceased",
+    "attributes": {
+      "Status": "Deceased",
+      "Race": "Human",
+      "Gender": "Male ♂",
+      "Hair": "Bald",
+      "First": "\" A Princess, an Elf, and a Demon Walk Into a Bar \""
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Washmaster"
+  },
+  {
+    "name": "Assassin",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/4/48/Assassin.jpg",
+    "description": "The Assassinis a one-time character inDisenchantment. His voice actor is unknown.",
+    "role": "Anime Character",
+    "attributes": {
+      "Affiliation": "Maru",
+      "Birthdate": "Deceased",
+      "Race": "Human",
+      "Gender": "Male ♂",
+      "Hair": "Brown"
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Assassin"
+  },
+  {
+    "name": "Ursula",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/0/0e/Ursulaa.jpg",
+    "description": "Ursulais aSelkiewho lives in theEnchanted Forest. Although normally a bear, she has the ability to turn into a human woman by removing her bear skin. She briefly datedKing ZøgofDreamland, which later caused her to give birth toJasper.",
+    "role": "Alive",
+    "attributes": {
+      "Image": "Human",
+      "Relatives": "Jasper (son) King Zøg (lover",
+      "Marital": "In a relationship",
+      "Status": "Alive",
+      "Race": "Forest Selkie",
+      "Gender": "Female ♀",
+      "Hair": "Dirty blonde",
+      "Portrayer": "Jeny Batten",
+      "First": "\" The Lonely Heart Is a Hunter \"",
+      "Last": "\" Goodbye Bean \""
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Ursula"
+  },
+  {
+    "name": "Bloaty the Squirrel",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/2/2e/Bloaty_2.jpg",
+    "description": "Although not exactly a pivotal character, and clearly not Elfo's pet, it does lead Elfo to address the curious naming conventions which take place in the show. (Elfo theelf, Sven the viking, Bloaty thebloatedsquirrel etc). By addressing a technique used by the show, Elfobreaks the fourth wall. (This is a post-modern technique). In so doing hehangs alampshadeon the unlikely act of Sven drinking such obviously filthy water. This is a different technique designed to show that the writer recognis...",
+    "role": "Anime Character",
+    "attributes": {
+      "Affiliation": "Dreamland",
+      "Birthdate": "Deceased",
+      "Race": "Squirrel",
+      "Hair": "Grey"
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Bloaty_the_Squirrel"
+  },
+  {
+    "name": "Rhonda",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/3/37/Rhonda.png",
+    "description": "When Rhonda's long-lost sister, Mora, came back to the island Rhonda seemed indifferent to this and taunted her sister for being \"desperate to accept a ride from a human\" upon learning that it was Bean who escorted Mora home in a boat until Rhonda's mother scolded her.",
+    "role": "Princess of Mermaid Island",
+    "attributes": {
+      "Relatives": "Unnamed father Queen Mermonia (mother) Mora (sister) Various other sisters",
+      "Profession": "Princess of Mermaid Island",
+      "Affiliation": "Mermaid Island",
+      "Status": "Alive",
+      "Race": "Mermaid",
+      "Gender": "Female ♀",
+      "First": "\" Last Splash \""
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Rhonda"
+  },
+  {
+    "name": "Ogler",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/d/d3/Royal_Yahoo_2.JPG",
+    "description": "TheOgleris an unnamed minor character inDisenchantment. He was a castle servant who was beheaded after he looked atBeantopless and expressed joy at the sight. His head is now posted on a spike at the entrance ofDreamlandas a warning.",
+    "role": "Anime Character",
+    "attributes": {
+      "Affiliation": "Dreamland",
+      "Birthdate": "Deceased",
+      "Race": "Human",
+      "Gender": "Male ♂"
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Ogler"
+  },
+  {
+    "name": "Wrestling manager",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/9/9a/Wrestling_manager.png",
+    "description": "This unnamed man is themanagerof awrestling showin Steamland.",
+    "role": "Manager of a wrestling show",
+    "attributes": {
+      "Profession": "Manager of a wrestling show",
+      "Citizenship": "Steamland",
+      "Race": "Human",
+      "Gender": "Male ♂",
+      "Hair": "Grey",
+      "First": "\" Fish Out of Water \""
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Wrestling_manager"
+  },
+  {
+    "name": "Stan",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/1/17/Stan.jpg",
+    "description": "Stanis a minor character inDisenchantment. He is the Royal Executioner and tortures, hangs and beheads people forKing Zøg. He is also a member of theRoyal Council.",
+    "role": "Anime Character",
+    "attributes": {
+      "Relatives": "Charlie (Son; Deceased) Allison (Daughter; Deceased) Bunty Junior",
+      "Affiliation": "Dreamland",
+      "Marital": "Married to Bunty",
+      "Birthdate": "Alive",
+      "Race": "Human",
+      "Gender": "Male ♂",
+      "Hair": "Brown",
+      "Portrayer": "Noel Fielding"
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Stan"
+  },
+  {
+    "name": "Hencho",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/3/33/Hencho.png",
+    "description": "He is first seen inTrøgtowninYou're the Beanwhen Dagmar has Bean,ElfoandLucilocked up in the dungeons ofTrøgtown. He letsTrixyinto the cell to bring Elfo a cake, and Bean seizes this opportunity to capture Hencho through the bars of their cell, after which Elfo and Luci knock him out and take the keys of the door from him.",
+    "role": "Anime Character",
+    "attributes": {
+      "Affiliation": "Alva Gunderson",
+      "Race": "Trøg",
+      "Gender": "Male ♂",
+      "First": "\" You're the Bean \""
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Hencho"
+  },
+  {
+    "name": "Annoyo",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/a/ae/Annoyo.png",
+    "description": "Annoyois anElfmentioned in season two episode five: \"Our Bodies, Our Elves\".",
+    "role": "Alive",
+    "attributes": {
+      "Citizenship": "Elfwood (formal) Dreamland",
+      "Status": "Alive",
+      "Race": "Eleves",
+      "Gender": "Male ♂",
+      "Height": "1 Meter",
+      "Hair": "Brown"
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Annoyo"
+  },
+  {
+    "name": "King Lorenzo I",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/4/4e/Lorenzo.jpg",
+    "description": "Lorenzo is a short, fat man with brown hair and a brown goatee. He wears shoes with very high heels which make him appear taller and are concealed when wearing his cape.",
+    "role": "Anime Character",
+    "attributes": {
+      "Relatives": "Queen Bunny (sister/wife) Prince Guysbert (older son; deceased) Prince Merkimer (younger son",
+      "Affiliation": "Bentwood",
+      "Marital": "Married",
+      "Birthdate": "Alive",
+      "Race": "Human",
+      "Gender": "Male ♂",
+      "Hair": "Brown"
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/King_Lorenzo_I"
+  },
+  {
+    "name": "Chancellor of Dankmire",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/e/e5/Tourist_guide.jpg",
+    "description": "TheChancellor of Dankmireis a high-ranking politician fromDankmire, presumably reporting directly to theKing of Dankmire.",
+    "role": "Anime Character",
+    "attributes": {
+      "Affiliation": "Dankmire",
+      "Race": "Dankmirian",
+      "Gender": "Male ♂"
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Chancellor_of_Dankmire"
+  },
+  {
+    "name": "King Dripo",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/7/75/King_Dripo.jpg",
+    "description": "King Dripo is a fish-like creature. He has fins and gills. He wears a dark burgundy cape and a white pearl necklace with a pendant. A golden crown crowns his head. He usually holds a scepter in his right hand. He has black googly eyes and pointed white teeth. A small fin on his chin looks like a goatee. He has only four fingers and the typical large nostrils of theTrøgs.",
+    "role": "Married",
+    "attributes": {
+      "Relatives": "Rashi (Wife) Two previous wives",
+      "Affiliation": "Sea of Dreamland / Dreamland",
+      "Citizenship": "Sea of Dreamland",
+      "Status": "Married",
+      "Race": "Sea Trøg",
+      "Gender": "Male ♂",
+      "First": "\" What to Expect When You're Expecting Parasites \"",
+      "Last": "\" What to Expect When You're Expecting Parasites \""
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/King_Dripo"
+  },
+  {
+    "name": "Luci's Lawyer",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/1/13/Lawyer.jpg",
+    "description": "Luci's Lawyeris one of the Demons captured and killed byBig Joat theVolcano.",
+    "role": "Deceased",
+    "attributes": {
+      "Status": "Deceased",
+      "Race": "Demon",
+      "Gender": "Male ♂"
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Luci%27s_Lawyer"
+  },
+  {
+    "name": "Wade Brody Sr.",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/8/81/Captain.jpg",
+    "description": "Wade Brody Sr., usually just referred to as theBarge Captain, is captain of the Party BargeEl De Bargeand at least one other barge namedParty Barge No 54. He is the father ofWade Brody Jr..",
+    "role": "Anime Character",
+    "attributes": {
+      "Affiliation": "Dreamland",
+      "Race": "Human",
+      "Gender": "Male ♂",
+      "Hair": "Grey"
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Wade_Brody_Sr."
+  },
+  {
+    "name": "Stacianne LeBlatt",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/5/56/Stacianne.jpg",
+    "description": "Stacianne appears very similar to Luci, with the addition of eyelashes and a white bow on her head.",
+    "role": "Villain",
+    "attributes": {
+      "Race": "Demon",
+      "Gender": "Female ♀",
+      "Portrayer": "Lauren Tom"
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Stacianne_LeBlatt"
+  },
+  {
+    "name": "Sir Pendergast",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/6/62/Pendergast.jpg",
+    "description": "SirPendergastis aKnight of the Zøg Tableand seems to be the leader of them, if not the most skilled.",
+    "role": "Alive (resurrected",
+    "attributes": {
+      "Affiliation": "Dreamland Knights of the Zøg Table",
+      "Marital": "Single",
+      "Status": "Alive (resurrected",
+      "Race": "Human",
+      "Gender": "Male ♂",
+      "Hair": "Brown"
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Sir_Pendergast"
+  },
+  {
+    "name": "Hilda",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/3/33/Hilda_and_potato_thieves.png",
+    "description": "Hilda is a girl with bright pink hair. She appears to be around the same age as Bean, who was approximately 13 years old when they first met as the comic is set 6 years prior to the events of the series. That would make her 19 by the show's present day.",
+    "role": "Thief",
+    "attributes": {
+      "Profession": "Thief",
+      "Affiliation": "Potato thieves",
+      "Citizenship": "Dreamland",
+      "Status": "Alive",
+      "Race": "Human",
+      "Gender": "Female ♀",
+      "Hair": "Pink",
+      "Portrayer": "Jeny Batten",
+      "First": "\" The Princess of Darkness \"",
+      "Last": "\" Gone, Beanie, Gone \""
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Hilda"
+  },
+  {
+    "name": "Mother Superior",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/5/5b/Unknown-2-0.jpeg",
+    "description": "Mother Superioris the head nun in charge of a monastery calledOur Lady of Unlimited Chastity. She and her fellow nuns devote their entire lives to worshipingGod.",
+    "role": "Anime Character",
+    "attributes": {
+      "Marital": "Single",
+      "Birthdate": "Alive",
+      "Race": "Human",
+      "Gender": "Female ♀"
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Mother_Superior"
+  },
+  {
+    "name": "God",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/b/b7/God.png",
+    "description": "Godis the supreme, omnipotent deity who created the universe. He is the ruler ofHeaven, and acts as universal lynchpin as His head is actually a huge light bulb that acts as His life as well as the light of the entire universe. If His head is smashed, he will temporarily be dead and the entire universe will be plunged into darkness until someone replaces His head with a new light bulb to restore both his life and the light of the universe.",
+    "role": "God",
+    "attributes": {
+      "Aliases": "A sick bastard by Jerry God of Wimps (By Jerry",
+      "Relatives": "The Other God (brother",
+      "Profession": "God",
+      "Citizenship": "Heaven",
+      "Age": "As old as everything",
+      "Race": "Deity",
+      "Gender": "Male ♂",
+      "Portrayer": "Phil LaMarr"
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/God"
+  },
+  {
+    "name": "Sven",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/4/46/Sven.jpg",
+    "description": "Description non trouvée.",
+    "role": "Deceased",
+    "attributes": {
+      "Affiliation": "Land Vikings",
+      "Status": "Deceased",
+      "Race": "Human",
+      "Gender": "Male ♂",
+      "Hair": "Blonde"
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Sven"
+  },
+  {
+    "name": "Pops",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/5/56/IMG_20200421_171132_891.JPG",
+    "description": "Pops Returno Elfowitzis a minor character inDisenchantment. He isElfo's elderly father, and as of the series finale the King Consort ofOgreland. He is voiced byBilly West.",
+    "role": "King Consort of Ogreland",
+    "attributes": {
+      "Aliases": "Daddy Elfo Pops Returno Elfowitz",
+      "Relatives": "Elfo (Son) Miri (daughter-in-law) Unnamed Father Unnamed Mother Examplo (Nephew) Queen Grogda (Wife) Junior (step-son",
+      "Profession": "King Consort of Ogreland",
+      "Affiliation": "Elfwood Ogreland",
+      "Citizenship": "Elfwood",
+      "Marital": "Married",
+      "Status": "Alive",
+      "Race": "Elf",
+      "Gender": "Male ♂",
+      "Hair": "Gray-purple",
+      "Portrayer": "Billy West"
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Pops"
+  },
+  {
+    "name": "Emperor Cloyd",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/3/3e/Cloyd.jpg",
+    "description": "Emperor Cloydis a recurring antagonist inDisenchantment.He is the uncharismatic ruler of the Empire ofMaruwhich is served by his older sister,Becky the Enchantress. He is also the younger brother ofDagmar, the older brother ofJerry, and the maternal uncle of thePrincess Bean. Both he and Becky are killed by Dagmar and Bad Bean at the of the series after Dagmar feels that they are no longer useful for her anymore.",
+    "role": "Emperor of Maru",
+    "attributes": {
+      "Image": "Human",
+      "Relatives": "Unnamed parents (deceased) Dagmar (older sister) Rebecca (older sister) Jerry (younger brother) Bean (niece) Mariabeanie (grandmother; deceased) Satan (brother-in-law",
+      "Profession": "Emperor of Maru",
+      "Affiliation": "Maru",
+      "Status": "Deceased (as of \" The Stience of Homemade Lightning \"",
+      "Race": "Human",
+      "Gender": "Male ♂",
+      "Portrayer": "Rich Fulcher"
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Emperor_Cloyd"
+  },
+  {
+    "name": "Bozak Admiral",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/8/8d/BozakAdmiral.jpg",
+    "description": "TheBozak Admiralis a one-time character inDisenchantment.",
+    "role": "Villain",
+    "attributes": {
+      "Affiliation": "Bozak Nation",
+      "Birthdate": "Deceased, killed by Prince Merkimer",
+      "Race": "Bozak",
+      "Gender": "Male ♂",
+      "Hair": "Ginger"
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Bozak_Admiral"
+  },
+  {
+    "name": "Laughing Horse",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/5/5b/Laughing_Horse.png",
+    "description": "TheLaughing Horseis ahorsethat, due to experiments bySorcerioinvolving a magical shampoo made fromElfo's blood, gained the ability to laugh like a human.",
+    "role": "Anime Character",
+    "attributes": {
+      "Affiliation": "Dreamland",
+      "Race": "Horse",
+      "Gender": "Male ♂",
+      "Hair": "Brown",
+      "Portrayer": "John DiMaggio",
+      "First": "\" The Limits of Immortality \"",
+      "Last": "\" Darkness Falls \""
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Laughing_Horse"
+  },
+  {
+    "name": "Sorcerio",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/0/09/Sercerio.jpg",
+    "description": "Sorceriois a wizard who served as a scientific advisor on both natural and magical matters toKing ZøgofDreamland, and laterDerekandBeanduring their respective rules. He is a member of theSeekers, and the husband ofOdval.",
+    "role": "Villain",
+    "attributes": {
+      "Aliases": "Wizard of Wonder",
+      "Relatives": "unnamed mother Odval (husband",
+      "Affiliation": "Dreamland Seekers",
+      "Marital": "Married (as of \" Goodbye Bean \"",
+      "Birthdate": "Alive",
+      "Race": "Human",
+      "Gender": "Male ♂",
+      "Hair": "Grey",
+      "Portrayer": "Billy West",
+      "First": "\" A Princess, an Elf, and a Demon Walk Into a Bar \"",
+      "Last": "\" Goodbye Bean \""
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Sorcerio"
+  },
+  {
+    "name": "Herald",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/e/e9/The_Herald_2.jpg",
+    "description": "TheHeraldis a recurring character inDisenchantment. He is a messenger who announces the latest news and events aroundDreamland.",
+    "role": "Alive",
+    "attributes": {
+      "Affiliation": "Dreamland",
+      "Status": "Alive",
+      "Race": "Human",
+      "Gender": "Male ♂",
+      "Portrayer": "David Herman"
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Herald"
+  },
+  {
+    "name": "Big Jo",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/a/ae/Big_Jo.jpg",
+    "description": "Description non trouvée.",
+    "role": "Excorcist Necromancer Monk Seeker",
+    "attributes": {
+      "Aliases": "Shavemaster Bad Jo Big Bad Jo",
+      "Relatives": "Washmaster (Cousin) Rinsemaster (Cousin",
+      "Profession": "Excorcist Necromancer Monk Seeker",
+      "Affiliation": "Seekers Odval (Fellow Seeker) Porky (Partner",
+      "Citizenship": "Dreamland",
+      "Marital": "Single",
+      "Status": "Alive",
+      "Race": "Human",
+      "Gender": "Male ♂",
+      "Hair": "Grey (Balding",
+      "Portrayer": "Maurice LaMarche",
+      "First": "\" The Princess of Darkness \"",
+      "Last": "\" Goodbye Bean \""
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Big_Jo"
+  },
+  {
+    "name": "Pig-Merkimer",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/9/93/Human-pig-merkimer_v2.png",
+    "description": "He was once an ordinarypig, until he was transformed into a clone ofPrince Merkimerdue to a magic curse resulting from Merkimer consuming a mixture ofElfo'sbloodand the pig's own blood (which also transformed the real Merkimer into a pig).",
+    "role": "Prince",
+    "attributes": {
+      "Relatives": "Prince Merkimer (whom he was \"cloned\" from",
+      "Profession": "Prince",
+      "Citizenship": "Dreamland Bentwood",
+      "Deathdate": "In episode: \" Hey, Pig Spender \"",
+      "Status": "Deceased",
+      "Race": "Pig (formerly), later human",
+      "Gender": "Male ♂",
+      "Hair": "Brown",
+      "First": "\" Hey, Pig Spender \"",
+      "Last": "\"Hey, Pig Spender\""
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Pig-Merkimer"
+  },
+  {
+    "name": "Malfus",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/7/7a/Malfus.jpg",
+    "description": "MalfusorMalfus the Philosopheris a man obsessed with gaining immortality and eternal love from theElixir of Life. He was once keeper of theOmniconand theEternity Pendant, but after gaining immortality and finding out it was a curse he threw it over theEdge of the World. He was married toGwenfor 90 years before using the Elixir of life, to which she refused, and they separated. At some point, he was married toPrudence, the Queen of the Crones, but after they divorced, he spent decades on the l...",
+    "role": "Immortal",
+    "attributes": {
+      "Relatives": "Gwen (Ex-Wife) Prudence (Ex-Wife",
+      "Affiliation": "Devil's Snowcone",
+      "Marital": "Divorced",
+      "Status": "Immortal",
+      "Race": "Human",
+      "Gender": "Male ♂",
+      "Hair": "Grey",
+      "First": "\" The Limits of Immortality \"",
+      "Last": "\" Goodbye Bean \""
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Malfus"
+  },
+  {
+    "name": "Rinsemaster",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/e/e8/Rinsemaster.png",
+    "description": "TheRinsemasteris the abbott of theMonasterynearTwinkletown Insane Asylum. He is the brother of the lateWashmasterand the cousin ofBig Jo, whom he calls the Shavemaster.",
+    "role": "Monk",
+    "attributes": {
+      "Aliases": "The Venerable Rinsemaster",
+      "Relatives": "The Washmaster (brother) The Shavemaster (cousin",
+      "Profession": "Monk",
+      "Status": "Alive",
+      "Gender": "Male ♂"
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Rinsemaster"
+  },
+  {
+    "name": "Gwen",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/8/8b/Gwen.jpg",
+    "description": "Gwenis a minor character onDisenchantment. She is awitchwho lives in theEnchanted Forest.",
+    "role": "Anime Character",
+    "attributes": {
+      "Relatives": "Malfus (ex-husband) An unnamed sister",
+      "Affiliation": "Enchanted Forest (formerly) Dreamland (currently",
+      "Marital": "Divorced",
+      "Race": "Human ( witch",
+      "Gender": "Female ♀",
+      "Hair": "Gray"
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Gwen"
+  },
+  {
+    "name": "Alva Gunderson",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/e/ef/Alva.png",
+    "description": "While he has some connections toSatan(the steam that powers Steamland comes fromHell) andQueen Dagmar(he suppliedMaruwith technology), he mostly acts as a seperate villain who follows his own agenda rather than conspire with Dagmar. His plans all involve getting his hands on Bean's magic and ultimately making her his bride.",
+    "role": "Presumed dead",
+    "attributes": {
+      "Aliases": "Gordy Stewson",
+      "Relatives": "Sky Gunderson (brother; deceased",
+      "Affiliation": "Steamland Hell Maru",
+      "Citizenship": "Steamland",
+      "Status": "Presumed dead",
+      "Race": "Human",
+      "Gender": "Male ♂",
+      "Hair": "Brown",
+      "Portrayer": "Richard Ayoade",
+      "First": "\" Steamland Confidential \"",
+      "Last": "\" Goodbye Bean \""
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Alva_Gunderson"
+  },
+  {
+    "name": "King Zøg",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/5/50/Zog.jpg",
+    "description": "Description non trouvée.",
+    "role": "King of Dreamland (formerly",
+    "attributes": {
+      "Image": "Normal",
+      "Aliases": "Zøggy The Warrior Prince (formerly) King Zøg The I The Beast Slayer The Masked Mauler",
+      "Relatives": "Bean (daughter) Prince Derek (son) Jasper (son) King Yøg † (older brother) Queen Bee-Baw † (mother) King Xøg † (father) Queen Dagmar (first ex-wife) Queen Oona (second ex-wife) Ursula (lover",
+      "Profession": "King of Dreamland (formerly",
+      "Affiliation": "Dreamland",
+      "Marital": "In a relationship",
+      "Birthdate": "The Dark Ages",
+      "Age": "50s-60s",
+      "Status": "Alive",
+      "Race": "Human",
+      "Gender": "Male ♂",
+      "Height": "4-5 Ft.",
+      "Hair": "Ginger (formerly; top of head currently shaved bald",
+      "Portrayer": "John DiMaggio",
+      "First": "\" A Princess, an Elf, and a Demon Walk Into a Bar \"",
+      "Last": "\" Goodbye Bean \""
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/King_Z%C3%B8g"
+  },
+  {
+    "name": "Jester",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/1/1b/Jester.jpg",
+    "description": "~Jester's Catch Phrase",
+    "role": "Deceased",
+    "attributes": {
+      "Relatives": "Irma (wife",
+      "Affiliation": "Dreamland Seekers",
+      "Marital": "Married",
+      "Status": "Deceased",
+      "Race": "Human",
+      "Gender": "Male ♂"
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Jester"
+  },
+  {
+    "name": "Grifto",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/5/56/Grifto.png",
+    "description": "Griftois atrollcircus ringmaster, con artist, and professional thief. He is the leader of atraveling circus troupe with other trolls, which is also a front for committing scams and thefts. His troupe once came toDreamlandunder the pretense of beingelves, which was part of a scheme to rob theDreamland Castle's treasury vault (he lied toPrincess BeanandElfothat he wanted to reclaim elf money that was unfairly taken as taxes byKing Zøg).",
+    "role": "Thief",
+    "attributes": {
+      "Profession": "Thief",
+      "Affiliation": "Troll Circus Troupe",
+      "Race": "Troll",
+      "Gender": "Male ♂",
+      "First": "\" The Dreamland Job \""
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Grifto"
+  },
+  {
+    "name": "Vip and Vap",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/6/6a/Vip_and_Vap.jpg",
+    "description": "VipandVapare recurring characters inDisenchantment. They are members of theDreamland Royal Courtand attendants toKing Zøg. They were initially a trio, beforeVoopwas killed and stuffed by Dagmar.",
+    "role": "Attendants to King Zøg",
+    "attributes": {
+      "Relatives": "Voop",
+      "Profession": "Attendants to King Zøg",
+      "Affiliation": "Dreamland",
+      "Status": "Alive"
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Vip_and_Vap"
+  },
+  {
+    "name": "Duke of Twinkletown",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/f/fb/Duke_of_Twinkletown.png",
+    "description": "TheDuke of Twinkletownis a nobleman fromTwinkletownwho is first seen in \"Love's Slimy Embrace\".",
+    "role": "Nobleman",
+    "attributes": {
+      "Profession": "Nobleman",
+      "Race": "Human",
+      "Gender": "Male ♂",
+      "Hair": "Brown",
+      "Portrayer": "Maurice LaMarche",
+      "First": "\" Love's Slimy Embrace \""
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Duke_of_Twinkletown"
+  },
+  {
+    "name": "Laughing Mare",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/9/96/Laughing_mare.png",
+    "description": "She used to be a normal horse. After the magic from theCrystal Cavernwas unlocked and began to spread acrossDreamland, some of it got in the water from the well. Laughing Mare drank from this water and was given the same ability to laugh asLaughing Horse.",
+    "role": "Anime Character",
+    "attributes": {
+      "Affiliation": "Dreamland",
+      "Race": "Horse",
+      "Gender": "Female ♀",
+      "Hair": "White",
+      "First": "\" Darkness Falls \""
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Laughing_Mare"
+  },
+  {
+    "name": "Snarla",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/1/15/Snarla.png",
+    "description": "She is a friend ofSagathaand is first seen when Sagatha bringsPrince DerektoFairyland. Along with Sagatha's other friends, she helps Derek man up and become less of a pushover, with her speciality being bitterness. She also attends Dereks's and Sagatha's wedding inDreamland's Cathedral.",
+    "role": "Anime Character",
+    "attributes": {
+      "Relatives": "Prince Derek (boyfriend",
+      "Citizenship": "Fairyland",
+      "Race": "Fairy",
+      "Gender": "Female ♀",
+      "Portrayer": "Lucy Montgomery",
+      "First": "\" Beanie Get Your Gun \"",
+      "Last": "\" Goodbye Bean \""
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Snarla"
+  },
+  {
+    "name": "Swindler Raccoon",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/1/1c/Swindler_raccoon.png",
+    "description": "In \"Beanie Get Your Gun\"Prince Derekencounters him in the forest, where the raccoon is demonstrating a card-based shell game to some animals, and challenges Derek to give it a try. Derek has to guess which of three cards is the queen, but gets it wrong and the raccoon takes his wallet. Later, after Derek meetsSagatha, she tells him to try again but pay attention to the raccoon himself instead of the cards. Derek thus finds out the raccoon has a squirrel hidden up his sleeve who quickly swaps ...",
+    "role": "Anime Character",
+    "attributes": {
+      "Affiliation": "Enchanted Forest",
+      "Race": "Raccoon",
+      "Gender": "Male ♂",
+      "Hair": "Grey"
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Swindler_Raccoon"
+  },
+  {
+    "name": "Kissy",
+    "image_url": "https://static.wikia.nocookie.net/disenchantment/images/8/89/Kissy.jpg",
+    "description": "Kissandra(orKissy) is a femaleelfand daughter of theElf King.",
+    "role": "Alive",
+    "attributes": {
+      "Relatives": "Elf King (Father",
+      "Affiliation": "Elfwood",
+      "Status": "Alive",
+      "Race": "Elf",
+      "Gender": "Female ♀",
+      "Hair": "Black",
+      "Portrayer": "Jeny Batten"
+    },
+    "source_url": "https://disenchantment.fandom.com/wiki/Kissy"
+  }
+]

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scrapeur Universel Fandom</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Scrapeur Universel Fandom</h1>
+        <form id="scrape-form">
+            <input type="text" id="fandom-url" placeholder="Ex: https://starwars.fandom.com" required>
+            <button type="submit">Lancer le Scraping</button>
+        </form>
+    </header>
+
+    <div id="main-view">
+        <div id="controls" class="hidden">
+            <input type="search" id="search-bar" placeholder="Rechercher par nom...">
+            <button id="view-comparator-btn" class="hidden">🆚 Voir le comparateur (<span id="compare-count">0</span>)</button>
+        </div>
+        <main>
+            <div id="loader" class="hidden">
+                <div class="spinner"></div>
+                <p id="loader-text">Lancement du scraper... Veuillez patienter.</p>
+            </div>
+            <div id="cards-container">
+                <p class="placeholder-text">Entrez une URL de Fandom ci-dessus pour commencer.</p>
+            </div>
+        </main>
+    </div>
+
+    <div id="details-view" class="hidden">
+        <button id="back-to-grid-btn">&larr; Retour à la liste</button>
+        <div id="details-content">
+            </div>
+    </div>
+
+    <div id="comparator-view" class="hidden">
+        <button id="back-to-grid-from-comparator">&larr; Retour à la liste</button>
+        <div id="comparator">
+            <h2>Comparateur</h2>
+            <div class="comparator-grid">
+                <div id="compare-slot-1" class="compare-slot"></div>
+                <div id="compare-slot-2" class="compare-slot"></div>
+            </div>
+            <button id="clear-comparator">Vider le comparateur</button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

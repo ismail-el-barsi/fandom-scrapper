@@ -1,0 +1,676 @@
+[
+  {
+    "name": "Dale",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/1/19/Dale.png",
+    "description": "DaleBiographical InformationSPECIESGiantAGEUnknown, possibly late 30's - early 40'sSTATUSDeceasedFAMILYRose(wife)Unnamed SonRELATIONSHIPSRose(wife)Meta InformationFIRST SEEN INMeeseeks and DestroyVOICE ACTORSteve AgeeDalewas a giant that appeared in the episode \"Meeseeks and Destroy\", he was also the husband ofRose, and the father of theirunnamed son.",
+    "role": "Deceased",
+    "attributes": {
+      "Species": "Giant",
+      "Status": "Deceased",
+      "Family": "Rose (wife) Unnamed Son",
+      "Relationships": "Rose (wife",
+      "Voice Actor": "Steve Agee"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Dale"
+  },
+  {
+    "name": "Evil Jerry Clone",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/1/17/Evil_Jerry_Clone.png",
+    "description": "Evil Jerry CloneBiographical InformationSPECIESHuman, though possessedAGE35STATUSDeceasedPLACE OF ORIGINUnknown dimensionFAMILYEvil Beth Clone(wife; deceased)Evil Summer Clone(daughter; deceased)Meta InformationFIRST SEEN INMeeseeks and DestroyEvil Jerry Clonewas an alternate version of the originalJerry, who appeared in the episodeMeeseeks and Destroy. He was a clone from an alternate reality, possessed by a demonic alien spirit, from another dimension's future, he was also the husband ofEvi...",
+    "role": "Deceased",
+    "attributes": {
+      "Age": "35",
+      "Status": "Deceased",
+      "Family": "Evil Beth Clone (wife; deceased) Evil Summer Clone (daughter; deceased"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Evil_Jerry_Clone"
+  },
+  {
+    "name": "Fart",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/8/84/Fart.jpg",
+    "description": "Fart was a life form from another dimension that was being held captive and ordered to be assassinated by Krombopulos Michael. With the ability to alter the composition of atoms, Fart could produce any element from any atom by adding or removing protons, making him incredibly valuable to anyone who captured him. K. Michael states that Fart \"can't be killed with regular matter\" when he purchases an anti-matter gun from Rick for 3000 flurbos.",
+    "role": "Deceased",
+    "attributes": {
+      "Species": "Interdimensional gaseous being",
+      "Status": "Deceased",
+      "First": "Mortynight Run",
+      "Voice Actor": "Jemaine Clement"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Fart"
+  },
+  {
+    "name": "Scrotians",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/7/75/ScrotianBand.png",
+    "description": "Scrotians are tall and slender aliens with very large, veiny, oval-shaped heads. Their eyes are situated on each side of their head, presumably giving them the ability to look both forward and backward. Their mouth is wide and occupies a large portion of their head, while leaking saliva. Their teeth are set in groups of three, with one group on each side in the upper corners and one group in the bottom middle. Every Scrotian seen has been wearing single-colored jumpsuits.",
+    "role": "Endangered",
+    "attributes": {
+      "Type": "Humanoid",
+      "Status": "Endangered",
+      "Homeworld": "Scrotia",
+      "Affiliation": "Planet Music Galactic Federation",
+      "First": "Mortynight Run"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Scrotians"
+  },
+  {
+    "name": "Toxic Morty",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/6/64/Toxic_Morty.png",
+    "description": "Toxic Morty first appears whenRickand Morty visit an intergalactic day spa and go through a machine that \"removes cognitive toxins,\" according to the alien at the spa. Toxic Morty, along withToxic Rick, awaken within the toxin tank of the machine, which appears to them as a toxic wasteland. Toxic Rick is able to utilize the scarce resources inside the tank to contactHealthy Rick, who eventually releases both Toxic Rick and Toxic Morty. Toxic Morty aids in Toxic Rick's escape from theSmith Res...",
+    "role": "Reabsorbed",
+    "attributes": {
+      "Age": "14",
+      "Status": "Reabsorbed",
+      "Family": "Toxic Rick (grandpa) Morty Smith (host",
+      "Appearances": "Rest and Ricklaxation",
+      "Voice Actor": "Justin Roiland"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Toxic_Morty"
+  },
+  {
+    "name": "Jons",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/0/0c/Jons.png",
+    "description": "Jons is the leader of an alien terrorist groups that attacks and commits a heist onBlips and Chitzas he kills the manager of the arcade whileRickandMortyare stuck in the gameRoy: A Life Well Lived. While doing so,RicktasksSummerto do aDie Hardand stop Jons and the other terrorists despite her never seeing the film. Jons explains to Summer how the stories and mythology in theDie Hardfilms are recurring within every civilization across the cosmos and he has written many books about the films, i...",
+    "role": "Deceaased",
+    "attributes": {
+      "Species": "Alien",
+      "Status": "Deceaased",
+      "Job": "Criminal",
+      "Only": "Rick: A Mort Well Lived",
+      "Voice Actor": "Peter Dinklage"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Jons"
+  },
+  {
+    "name": "Larvaalians",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/d/dd/LarvaAlienBand.png",
+    "description": "Their planet was involuntarily transported toSignus 5 Expanseto be a part of the interdimensionalcromulonTV showPlanet Music. Their representatives performed afterArboles Mentirososand beforeEarth. They were not declared the winners and their planet was destroyed by a plasma ray.",
+    "role": "Endangered",
+    "attributes": {
+      "Type": "Larva alien",
+      "Status": "Endangered",
+      "Homeworld": "Unknown planet (destroyed",
+      "Affliations": "Galactic Federation",
+      "First Seen In": "Get Schwifty"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Larvaalians"
+  },
+  {
+    "name": "Mr. Benson",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/4/45/Screenshot_2016-11-05_at_10.11.46_PM.png",
+    "description": "Mr. BensonBiographical InformationSPECIESHumanSTATUSAlivePLACE OF ORIGINEarth(Replacement dimension)Meta InformationFIRST SEEN INRicksy BusinessMr. Bensonis the across the street neighbor of theSmith Familywho was frozen in time during the episodesRicksy BusinessandA Rickle in Time, while falling off his ladder.",
+    "role": "Alive",
+    "attributes": {
+      "Species": "Human",
+      "Status": "Alive",
+      "Origin": "Earth ( Replacement dimension"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Mr._Benson"
+  },
+  {
+    "name": "Devil's Advocate Bot",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/1/16/DevilsAdvocateBot.jpeg",
+    "description": "He is later seen ordering food from theHot Cogfood truck run by thePrecogsafter Rick put it in the Trash Moon dimension. The Devil's Advocate Bot mentions how he would not order onions on his hot dog but one of the Precogs, Steve, mentions how he would. He tries to oppose Steve through his opinions until Steve reveals when he will die as the Devil's Advocate bot decides to stop talking and accept his food while walking away.",
+    "role": "Alive",
+    "attributes": {
+      "Species": "Robot",
+      "Status": "Alive",
+      "Affiliation": "Garbtopia",
+      "Only": "\\2"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Devil%27s_Advocate_Bot"
+  },
+  {
+    "name": "Shmlony Shmlicelli",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/e/e6/Shmlony.png",
+    "description": "Shmlony ShmlicelliBiographical InformationSPECIESHuman (alternate dimension)Meta InformationFIRST SEEN INRixty MinutesVOICE ACTORJustin RoilandShmlony Shmlicelliis a character who appeared in the episode \"Rixty Minutes\". He is a character from the seriesShmlo's the Shmloss?, an alternate version ofWho's the Boss?. He is a parody on Tony Micelli. He comes from an alternate dimension where all nouns have been replaces with the \"Shml\" prefix.",
+    "role": "Anime Character",
+    "attributes": {},
+    "source_url": "https://rickandmorty.fandom.com/wiki/Shmlony_Shmlicelli"
+  },
+  {
+    "name": "Big Morty",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/8/84/BigMorty.png",
+    "description": "AfterCop Mortykills theMortytown Locos, they head toa barwhere they meet Big Morty, a local \"drug lord\" of sorts. Cop Morty tells Big Morty that the Mortytown Locos had an 'accident' and that they won't be bothering him any more. Big Morty offers to pay Cop Morty andCop Rick, however Cop Rick refuses to take the money, and eventually attempts to arrest Big Morty, only to end up causing a gun fight between the cops and Big Morty's henchmen. Cop Morty and Cop Rick end up killing both of the hen...",
+    "role": "Deceased",
+    "attributes": {
+      "Species": "Human",
+      "Age": "14-15",
+      "Status": "Deceased",
+      "Job": "Drug Lord",
+      "Appearances": "The Ricklantis Mixup"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Big_Morty"
+  },
+  {
+    "name": "RickBot",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/1/18/Rickbot_now.png",
+    "description": "Rickbotwas a robot created byRickafter Morty decided to take the sword in \"A Rick in King Mortur's Mort\". He was made to be 22% more thoughtful than his creator to make a replacement for him while he was in search ofRick Prime.",
+    "role": "Inactive",
+    "attributes": {
+      "Image": "Robot",
+      "Species": "Robot",
+      "Age": "Inapplicable (programming 71 years old",
+      "Status": "Inactive",
+      "Home Planet": "Earth",
+      "Family": "Rick Sanchez (creator/former master) Smith Family (adoptive grandson, adoptive granddaughter, adoptive daughter and adoptive son-in-law",
+      "Voice Actor": "Justin Roiland"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/RickBot"
+  },
+  {
+    "name": "Rick's Father",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/9/97/79566B4B-E18E-4842-A942-5258868B4C02.jpg",
+    "description": "Mr. SanchezBiographical InformationSPECIESHumanSTATUSUnknown (Dimension C-137,Prime Dimension,Parmesan Dimension)Deceased (Dimension C-131)OCCUPATIONBureaucrat (possibly)HOME PLANETEarthFAMILYUnnamed wife (presumably deceased)Rick Sanchez(son)Unidentified Other ChildrenDiane Sanchez(late daughter-in-law)Beth Smith(granddaughter)Rick's Foal(grandson)Space Beth(granddaughter)Jerry Smith(grandson-in-law)Summer Smith(great-granddaughter)Morty Smith(great-grandson)Morty, Jr.(great-great-grandson)N...",
+    "role": "Unknown ( Dimension C-137 , Prime Dimension , Parmesan Dimension ) Deceased ( Dimension C-131",
+    "attributes": {
+      "Species": "Human",
+      "Status": "Unknown ( Dimension C-137 , Prime Dimension , Parmesan Dimension ) Deceased ( Dimension C-131",
+      "Home Planet": "Earth",
+      "Family": "Unnamed wife (presumably deceased) Rick Sanchez (son) Unidentified Other Children Diane Sanchez (late daughter-in-law) Beth Smith (granddaughter) Rick's Foal (grandson) Space Beth (granddaughter) J...",
+      "First Mention": "Auto Erotic Assimilation"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Rick%27s_Father"
+  },
+  {
+    "name": "Bushworld Adventures Beth",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/d/d7/BushworldAdventuresBeth.png",
+    "description": "Bushworld Adventures BethBiographical InformationSPECIESHumanAGE35PLACE OF ORIGINBushworld AdventuresFAMILYRick (father)Dougie (Jerry)(ex-husband)Summer (daughter)(Morty) (son)Meta InformationFIRST SEEN INBushworld AdventuresVOICE ACTORMichael CusackBushworld Adventures Bethis the Australian counterpart toBeth Smiththat was seen inBushworld Adventures.",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Human",
+      "Age": "35",
+      "Family": "Rick (father) Dougie (Jerry) (ex-husband) Summer (daughter) (Morty) (son"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Bushworld_Adventures_Beth"
+  },
+  {
+    "name": "Kiara",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/3/3c/Kiara.png",
+    "description": "Kiara is taller than Jerry with an athletic build. She has blue-green skin with a cat-like face, an elongated head with two rows of small green spikes, large round ears, dark blue eyes with light blue sclera, two dark blue stripes on her right arm, three breasts, and a thumb and two fingers on each hand. She wears a brown sleeveless tunic with a blue gem on the midriff, a white stripe of face paint across her face and nose, a dark green necklace with a deformed dark green pad over her left sh...",
+    "role": "Alive",
+    "attributes": {
+      "Species": "Krootabulan",
+      "Status": "Alive",
+      "Job": "Warrior Priestess",
+      "Origin": "Krootabulon",
+      "Relationships": "Jerry Smith (ex-boyfriend) Trandor (ex-boyfriend) Carmox (ex-boyfriend; deceased) Rick Sanchez (hook up",
+      "Voice Actor": "Jennifer Hale"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Kiara"
+  },
+  {
+    "name": "Scary Glenn",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/d/d0/Scary_Glenn_Johnson.png",
+    "description": "In the post-ending credits scene forLawnmower Dog, Scary Glenn replaced theold professoras the new teacher in the class. He was a totally chill, laid-back guy who didn't actually teach the students anything. He was way more spiritual and taught the students only about \"how to chill\". He also perferred the students address him by his first name instead of Mr. Johnson. This was great for the students in the class, includingRick SanchezandScary Terry, who were sitting back in their chairs and sm...",
+    "role": "Alive",
+    "attributes": {
+      "Species": "Scary Person (Monster",
+      "Status": "Alive",
+      "Job": "Scary Teacher",
+      "Voice Actor": "Phil Hendrie"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Scary_Glenn"
+  },
+  {
+    "name": "Smarkians",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/4/47/SmarkianPrisoner.jpg",
+    "description": "SmarkiansTypeHumanoidHomeworldSususudioFirst AppearanceN/ASmarkiansare humanoid shark-like creatures that exist in the universe ofRick and Morty. They have yellow skin, two red eyes, and a fin. Their heads are similar to that of a hammerhead shark. They are known to inhabit planetSususudio.",
+    "role": "Anime Character",
+    "attributes": {
+      "Type": "Humanoid",
+      "Homeworld": "Sususudio"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Smarkians"
+  },
+  {
+    "name": "Alien Octopus Woman",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/6/60/Aliens_Octopus_Hair_Woman.jpg",
+    "description": "Alien Octopus WomanBiographical InformationSPECIESAlienAGEUnknownSTATUSAliveOCCUPATIONUnknownHOME PLANETUnknownMeta InformationFIRST SEEN IN\\2TheAlien Octopus Womanis a recurring background character inRick and Morty.",
+    "role": "Alive",
+    "attributes": {
+      "Species": "Alien",
+      "Status": "Alive",
+      "First": "\\2"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Alien_Octopus_Woman"
+  },
+  {
+    "name": "Nancy",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/0/03/Nancy.png",
+    "description": "Nancy C-131 appeared inRicksy Business. She is one of Summer's less popular friends, she plays flute (most likely in theHarry Herpson High Schoolband). Summer tries her best to try to get rid of her. She tags along withMortyandAbrodolph Lincolerto findCollaxion CrystalsforRick. Over the course of the party, Nancy lets other party-goers know about Summer's unfair treatment of her. In \"The Rickshank Rickdemption\", Summer texts to Nancy on her phone, enthusiastically. Suggesting that since their...",
+    "role": "Alive",
+    "attributes": {
+      "Species": "Cronenberg ( Prime Dimension ) Human",
+      "Age": "17",
+      "Status": "Alive",
+      "Job": "Student at Harry Herpson High School",
+      "Relationships": "Summer Smith (friend",
+      "First": "Rick Potion #9",
+      "Voice Actor": "Aislinn Paul"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Nancy"
+  },
+  {
+    "name": "Guy",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/0/00/Guy.jpeg",
+    "description": "In the episode \"How Poopy Got His Poop Back\", Mr. Poopybutthole mentions that Guy is a man who teaches pilates toAmytoRickand his friends atF**k You's. He also mentions how he found this out by hiringGul'Karna, a Predator private investigator to spy on her since Amy has a restraining order against him.",
+    "role": "Alive",
+    "attributes": {
+      "Species": "Human",
+      "Status": "Alive",
+      "Job": "Pilates teacher"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Guy"
+  },
+  {
+    "name": "Hell Demons",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/2/2d/HellDemons.png",
+    "description": "The Hell Demons are demons that live and feed on other people's emotional and physical suffering and go on a guy's night withRickafter he tried to con them with faulty skin hooks. By doing so, they feed on Rick's suffering and cringing from Jerry's actions and behavior. After Jerry finds out about their deal, the Hell Demons kidnap Jerry and plan to imprison him, Rick, and Beth forever to feed on their pain. Rick tries to attack them but their attacks do not work as any pain they receive will...",
+    "role": "Alive",
+    "attributes": {
+      "Status": "Alive",
+      "Only": "Amortycan Grickfitti",
+      "Voice Actor": "Maurice LaMarche Tom Kenny David Herman Jerry Minor"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Hell_Demons"
+  },
+  {
+    "name": "Beta-Seven",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/c/cf/S2e3_b7_shocked.png",
+    "description": "Beta-Sevenis a Hivemind who has a planet nearUnity's Planetand trades withUnityas part of an alliance. Beta-Seven seems to want to be seen as more than an \"ally\" to Unity; when Beta-Seven first meetsRick, it appears to be jealous of his relationship with Unity, and begins stammering when Unity confronts it about screeching at Rick.",
+    "role": "Alive",
+    "attributes": {
+      "Species": "Hivemind",
+      "Status": "Alive",
+      "Relationships": "Unity (ally",
+      "First": "Auto Erotic Assimilation",
+      "Voice Actor": "Patton Oswalt"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Beta-Seven"
+  },
+  {
+    "name": "Arcade Morty",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/f/f6/Arcade_Morty_season_8.png",
+    "description": "Arcade Morty worked at an arcade in a wild-west themed town located on an asteroid near the ruins of theCitadel of Ricksalongside Doc Morty.Homesteader Rickfrequently came in for parts, to which Arcade Morty would oblige him. Another Morty apparently told Homesteader Rick they were closed every time he came in, causing Arcade Morty to cuss him out and send him away.",
+    "role": "Alive",
+    "attributes": {
+      "Species": "Human (Clone",
+      "Age": "14",
+      "Status": "Alive",
+      "Job": "Arcade Owner",
+      "Affiliation": "Homesteader Rick , Mortytown , Doc Morty",
+      "Origin": "The Citadel of Ricks",
+      "Home Planet": "Citadel Wreckage",
+      "Family": "Homesteader Rick ( grandfather ,creator, deceased",
+      "Only": "\\2",
+      "Voice Actor": "Harry Belden"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Arcade_Morty"
+  },
+  {
+    "name": "Lighthouse Keeper",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/5/55/LighthouseHQ.png",
+    "description": "As it turned out, the keeper's \"tale\" was actually a screenplay, centering on a woman named Jacey Lakums. Morty found the screenplay difficult to sit through, due to the keeper's lack of writing skill; the screenplay proved to be incoherent, boring, pretentious, and cliched. He found himself eatingYummy' Yumscandy bar to keep his patience. When the keeper finally finished telling his tale, he asked for Morty's opinion. Morty, attempting to be polite, merely told him that it was good. The keep...",
+    "role": "Deceased",
+    "attributes": {
+      "Species": "Magdalian",
+      "Age": "Unknown, possibly late 50's - early 60's",
+      "Status": "Deceased",
+      "Job": "Lighthouse Keeper, Aspiring Writer",
+      "Origin": "Purge Planet",
+      "Only": "Look Who's Purging Now",
+      "Voice Actor": "Ryan Ridley"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Lighthouse_Keeper"
+  },
+  {
+    "name": "Jerry Smith (Evil Rick's Target Dimension)",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/6/6d/Screenshot_2016-11-20_at_6.57.15_PM.png",
+    "description": "Jerry SmithBiographical InformationSPECIESHumanAGE35STATUSAliveFAMILYBeth Smith(wife)Summer Smith(daughter)Morty Smith(son)Leonard Smith (father)Joyce Smith (mother)Unnamed Uncle (paternal/maternal uncle; deceased)Rick Sanchez(father-in-law; deceased)Mrs. Sanchez (mother-in-law)Rick's Father (grandfather-in-law)Unnamed Grandmother-In-LawGwendolyn (daughter-in-law)Morty Jr. (grandson)Meta InformationFIRST SEEN INClose Rick-Counters of the Rick KindVOICE ACTORChris ParnellJerry Smith (Evil Rick...",
+    "role": "Alive",
+    "attributes": {
+      "Species": "Human",
+      "Age": "35",
+      "Status": "Alive",
+      "Family": "Beth Smith (wife) Summer Smith (daughter) Morty Smith (son) Leonard Smith (father) Joyce Smith (mother) Unnamed Uncle (paternal/maternal uncle; deceased) Rick Sanchez (father-in-law; deceased) Mrs...."
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Jerry_Smith_(Evil_Rick%27s_Target_Dimension)"
+  },
+  {
+    "name": "Jerry Smith (Parmesan Dimension)",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/5/57/Jerry_parmesan_dimension_corpse.png",
+    "description": "He, along with the rest of the Smith family, managed to save their dimension from Mr. Frundles before dying from \"natural causes\". The titular Smith family bury their bodies in the backyard and continue to live in this dimension.",
+    "role": "Deceased",
+    "attributes": {
+      "Species": "Human",
+      "Age": "35",
+      "Status": "Deceased",
+      "Job": "Beekeeper Advertising agent (fired) Unknown position assigned by the Galactic Federation (laid off after the Federation collapsed) Author",
+      "Origin": "Parmesan Dimension",
+      "Home Planet": "Earth ( Parmesan Dimension",
+      "Family": "Rick Sanchez (Parmesan Dimension) (father-in-law; deceased) Beth Smith (Parmesan Dimension) (wife by proxy; deceased) Summer Smith (Parmesan Dimension) (daughter; deceased) Morty Smith (Parmesan Di...",
+      "Relationships": "Beth Smith (Parmesan Dimension) (wife by proxy; deceased) Space Beth (Parmesan Dimension) (ex-wife by proxy; deceased",
+      "Only": "Solaricks"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Jerry_Smith_(Parmesan_Dimension)"
+  },
+  {
+    "name": "Long Sleeved Morty",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/9/96/Long_Sleeve_Morty.JPG",
+    "description": "Long Sleeved MortyBiographical InformationSPECIESHumanAGE14STATUSUnknownAFFILIATIONCitadel of RicksPLACE OF ORIGINEarth (Unknown dimension)FAMILYLong Sleeved Rick (maternal grandfather)Meta InformationFIRST SEEN INClose Rick-counters of the Rick KindLong Sleeved Mortyis an alternate version ofMorty Smithwho appeared in the episodeClose Rick-Counters of the Rick Kind.",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Human",
+      "Age": "14"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Long_Sleeved_Morty"
+  },
+  {
+    "name": "Joanna",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/1/1c/Joanna.jpeg",
+    "description": "JoannaBiographical InformationSPECIESVideo game characterMeta InformationONLY APPEARANCE\\2Joannais a character in the gameRoy: A Life Well Livedwho appears in the episode \"Rick: A Mort Well Lived\".",
+    "role": "Anime Character",
+    "attributes": {
+      "Only": "\\2"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Joanna"
+  },
+  {
+    "name": "Maximums Rickimus",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/d/d9/Maximums_Rickimus.png",
+    "description": "Maximums RickimusBiographical InformationAKAMax, RickimusSPECIESHumanAGE70STATUSDeceasedOCCUPATIONMember of theCouncil of Ricks, Head Archivist, recordkeeperMeta InformationFIRST SEEN INClose Rick-Counters of the Rick KindAPPEARANCESPocket Mortys, Close Rickcounters of the Rick kind, The Rickshank Redemption, Rick and Morty comicsVOICE ACTORJustin RoilandMaximums Rickimuswas one of the members of the now defunctCouncil of Ricks. He was killed byRick C-137in \"The Rickshank Rickdemption.\"",
+    "role": "Deceased",
+    "attributes": {
+      "Species": "Human",
+      "Age": "70",
+      "Status": "Deceased",
+      "Job": "Member of the Council of Ricks , Head Archivist, recordkeeper"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Maximums_Rickimus"
+  },
+  {
+    "name": "Sandy (Valkyrick)",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/e/e0/Sandy.jpeg",
+    "description": "Sandy is seen in \"Valkyrick\" where she is revealed to be the girlfriend ofCiscoin which the latter wakes up and missing out onRick's plan of stoppingFantabulousdue to taking many drugs. Cisco becomes upset and yells at Sandy but he apologizes. It is then revealed that Sandy got him hooked on drugs as she offers some in order to calm him down, which he does.",
+    "role": "Alive",
+    "attributes": {
+      "Species": "Gromflomite",
+      "Status": "Alive",
+      "Only": "\\2"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Sandy_(Valkyrick)"
+  },
+  {
+    "name": "Old M. Hucksbee",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/a/a8/OldMHucksbee.png",
+    "description": "Old M. Hucksbee is an employee ofFortune 500and the caretaker of theLockerean, an alien that can manipulate and predict fate, which is used within fortune cookies. He wants to desperately leave the factory and have intercourse with the Lockerean, but wait until he marries it since he is a Catholic. Old M. Hucksbee has been writing bizarre fortunes within the cookies so that someone can investigate and free him such as stating how the person will have sex with their mother or threaten a virus ...",
+    "role": "Deceased",
+    "attributes": {
+      "Species": "Human",
+      "Status": "Deceased",
+      "Job": "Employee of Fortune 500",
+      "Only": "Final DeSmithation",
+      "Voice Actor": "James Adomian"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Old_M._Hucksbee"
+  },
+  {
+    "name": "Kunoichi Summer",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/3/3d/KunoichiSummer.png",
+    "description": "Kunoichi SummerBiographical InformationSPECIESHumanOCCUPATIONKunoichiMeta InformationONLY APPEARANCE\\2Kunoichi Summeris an alternate kunoichi version ofSummer Smithwho appears in the short \"Samurai and Shogun Part 2\".",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Human",
+      "Job": "Kunoichi",
+      "Only": "\\2"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Kunoichi_Summer"
+  },
+  {
+    "name": "Tough Rat",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/3/37/S3e3_rat_leader.png",
+    "description": "Tough Ratis a character who appears inPickle Rick. WhenRickturns himself into a pickle and is flushed in sewer he is attacked by group of rats. Tough Rat is the strongest and the most distinctive rat. As such, Rick kills Tough Rat last. He states that Tough Rat was only special to the rats but means nothing to him so he won't give it any name, such as \"Stripes\" or \"Scar\" or \"Goliath\".",
+    "role": "Deceased",
+    "attributes": {
+      "Species": "Rat",
+      "Status": "Deceased",
+      "Origin": "Sewers, USA, Earth ( Dimension C-131"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Tough_Rat"
+  },
+  {
+    "name": "Beth Smith (Evil Rick's Target Dimension)",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/b/be/Screenshot_2016-11-20_at_6.54.33_PM.png",
+    "description": "Beth SmithBiographical InformationSPECIESHumanAGE35STATUSAliveOCCUPATIONHorse Heart SurgeonFAMILYJerry Smith(husband)Summer Smith(daughter)Morty Smith(son)Leonard Smith (father-in-law)Joyce Smith (mother-in-law)Unnamed Uncle (uncle-in-law; deceased)Rick Sanchez(father; deceased)Mrs. Sanchez (mother)Rick's Father (paternal grandfather)Unnamed Paternal GrandmotherGwendolyn (daughter-in-law)Morty Jr. (grandson)Meta InformationFIRST SEEN INClose Rick-Counters of the Rick KindVOICE ACTORSarah Chal...",
+    "role": "Alive",
+    "attributes": {
+      "Species": "Human",
+      "Age": "35",
+      "Status": "Alive",
+      "Family": "Jerry Smith (husband) Summer Smith (daughter) Morty Smith (son) Leonard Smith (father-in-law) Joyce Smith (mother-in-law) Unnamed Uncle (uncle-in-law; deceased) Rick Sanchez (father; deceased) Mrs....",
+      "Voice Actor": "Sarah Chalke"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Beth_Smith_(Evil_Rick%27s_Target_Dimension)"
+  },
+  {
+    "name": "Wendy Williams",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/1/1d/WendyWilliamsImage.jpeg",
+    "description": "In the episode \"JuRicksic Mort\", Wendy Williams is first seen when theDinosaursappear in her show, The Wendy Williams Show, to discuss about theMeteorsheading towardsEarthwhich could wipe out humanity. Wendy Williams asks them how are they doing as the Dinosaurs announce that they will leave Earth in order to protect humanity from the Meteors as the audience on her show cheers that they are leaving the planet.",
+    "role": "Alive",
+    "attributes": {
+      "Species": "Human",
+      "Status": "Alive"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Wendy_Williams"
+  },
+  {
+    "name": "Bible-saurus",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/4/42/Biblesaurus.jpeg",
+    "description": "Bible-saurusBiographical InformationSPECIESDinosaurMeta InformationONLY APPEARANCE\\2Bible-saurusis aStory Traincharacter who appears in the episode \"Never Ricking Morty\".",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Dinosaur",
+      "Only": "\\2"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Bible-saurus"
+  },
+  {
+    "name": "Mr. Frundles",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/3/3c/Frundles.png",
+    "description": "Mr. Frundlesis a parasitic creature previously owned by Rick Sanchez. While undeniably cute, Mr. Frundles is actually incredibly deadly. Once exposed to an open environment he will infect all things both living and inanimate by biting them, turning them into another version of Mr. Frundles, and very rapidly taking over the entire world and consuming its resources.",
+    "role": "Alive",
+    "attributes": {
+      "Image": "Original",
+      "Species": "Infectious parasite",
+      "Status": "Alive",
+      "Affiliation": "Rick Sanchez (Former owner",
+      "Origin": "Dimension C-131",
+      "Only": "Solaricks",
+      "Voice Actor": "Justin Roiland"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Mr._Frundles"
+  },
+  {
+    "name": "The Shape Shiftress",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/2/24/TheShapeShiftress.jpeg",
+    "description": "The Shape Shiftress is first seen as apart ofMiles Knightly’s crew in stealing theCrystal Skull of Horwitz. However,Rickreveals that he built a robot namedHeistotronand hypnotizes her with the other crew members to give him and Morty the crystal instead.",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Alien",
+      "Only": "\\2"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/The_Shape_Shiftress"
+  },
+  {
+    "name": "Principal Vagina",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/4/4f/Principal_Vagina_S01_E09.png",
+    "description": "Principal Vagina is a Caucasian old man with a buzz cut hairdo. He also has a bunch of tiny black strands of hair on his head. His scalp is very light, implying that his head hasn't always been shaved. He has a blue shirt and a darker blue tie.",
+    "role": "Unknown ( Prime Dimension ) Deceased ( Dimension C-131 ) Alive ( Parmesan Dimension",
+    "attributes": {
+      "Species": "Human",
+      "Age": "Unknown, possibly late 60's - early 70's",
+      "Status": "Unknown ( Prime Dimension ) Deceased ( Dimension C-131 ) Alive ( Parmesan Dimension",
+      "Job": "Principal of Harry Herpson High School Founder and leader of Headism (Formerly",
+      "Origin": "Earth",
+      "Family": "Mrs. Vagina (Ex-Wife",
+      "First": "Pilot",
+      "Voice Actor": "Phil Hendrie"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Principal_Vagina"
+  },
+  {
+    "name": "Rurtaugh",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/a/ab/Rurtaugh.png",
+    "description": "Rurtaugh was sent to Flarbellon-7 under the orders ofSergeant Miggson a mission to take down the new drug lordRick Sanchez, only known to them as thePenp Pimp. The IDEA had found Rick's location after they captured one of his Meeseeks, which he used to distribute his drugs without being traced. After they had surrounded Rick's hideout, Rurtaugh and another Gromflomite brought forth a battering ram to break down Rick's door. Rick used hisMeeseeks Boxto create a huge group of meeseeks to fight ...",
+    "role": "Deceased",
+    "attributes": {
+      "Status": "Deceased",
+      "Job": "IDEA Agent",
+      "Affiliation": "IDEA",
+      "Family": "Dora (wife",
+      "Relationships": "Dora (wife",
+      "First": "Rick and Morty Issue 19"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Rurtaugh"
+  },
+  {
+    "name": "Summer Smith Prime",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/e/e8/Summer_Prime_Comic_45.png",
+    "description": "Summer Smithof thePrime Dimension, also known asOriginal Summer, was the original version of the currentSummer.",
+    "role": "Deceased",
+    "attributes": {
+      "Image": "Issue 45",
+      "Aka": "Season 1 Summer Apocalypse Summer Hunger Games Summer",
+      "Species": "Human",
+      "Age": "17",
+      "Status": "Deceased",
+      "Job": "Student at Harry Herpson High School (formerly) Post-Apocalyptic Survivor",
+      "Origin": "Earth ( Prime Dimension",
+      "Family": "Jerry Smith (father; deceased) Beth Smith (mother; deceased) Morty Smith (younger brother) Leonard Smith (paternal grandfather) Joyce Smith (paternal grandmother) Unnamed Uncle (paternal great-uncl...",
+      "Relationships": "Frank Palicky (crush; deceased) Ethan (boyfriend) [ 2",
+      "First": "Pilot",
+      "Voice Actor": "Spencer Grammer"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Summer_Smith_Prime"
+  },
+  {
+    "name": "Mr. Meeseeks (Kirkland)",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/4/4d/Kirkland.png",
+    "description": "Mr. Meeseeks is similar in appearance to his on-brand counterparts, with the same body-type and head-shape. Unlike Mr. Meeseeks from aMr. Meeseeks Box, he has dull red skin, middle-parted strawberry-blond hair, small patches of white body-hair, and facial hair to match. He seems to have the same facial features, but his default expression is a frown and his eyes have dark bags.",
+    "role": "Extant (regularly dying",
+    "attributes": {
+      "Type": "Artificial Humanoids",
+      "Status": "Extant (regularly dying",
+      "Average Lifespan": "Variable (die when their assigned tasks are fulfilled",
+      "Homeworld": "Brentwood, Tennessee , United States , Earth",
+      "Affiliation": "Kirkland",
+      "Only": "Edge of Tomorty: Rick Die Rickpeat"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Mr._Meeseeks_(Kirkland)"
+  },
+  {
+    "name": "Wedding Bartender",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/8/82/S2e10_bartender.png",
+    "description": "Wedding BartenderBiographical InformationSPECIESMoopydoopSTATUSUnknownOCCUPATIONWedding bartenderMeta InformationFIRST SEEN INThe Wedding SquanchersVOICE ACTORTom Kenny(\"The Wedding Squanchers\")Maurice LaMarche(\"Girls Night\")Thewedding bartenderis amoopydoopwho worked as a bartender onPlanet Squanchfor a wedding. Whether he was a casualty at the wedding or left beforehand is unknown.",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Moopydoop",
+      "Voice Actor": "Tom Kenny (\" The Wedding Squanchers \") Maurice LaMarche (\" Girls Night \""
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Wedding_Bartender"
+  },
+  {
+    "name": "Uncle Scoob",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/7/79/UncleScoob.jpeg",
+    "description": "Uncle ScoobBiographical InformationSPECIESAlienSTATUSAliveHOME PLANETBugAnne's planetRELATIONSHIPSBugAnne(uncle)Meta InformationONLY APPEARANCE\\2Uncle Scoobis a bug-like alien who is the uncle ofBugAnne. He appears in the episode \"Hot Rick\".",
+    "role": "Alive",
+    "attributes": {
+      "Species": "Alien",
+      "Status": "Alive",
+      "Relationships": "BugAnne (uncle",
+      "Only": "\\2"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Uncle_Scoob"
+  },
+  {
+    "name": "Fred Bunks",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/a/a5/FredBunks2.png",
+    "description": "Fred Bunks was the son ofEdna BunksandEarl Bunks. From an early age, Fred showed an interest in architecture, playing with Construx and drawing buildings as child. When he was in elementary school, Fred attended the same class asAmberandLawrence Maps. Fred later studied in the same high school as Amber, which is where they became lovers. However, in their adult years, Fred moved to a distant place so he could enroll in college. He and Amber remained in an unstable long-distance relationship. ...",
+    "role": "Deceased",
+    "attributes": {
+      "Image": "Young",
+      "Species": "Spaghetti Person",
+      "Status": "Deceased",
+      "Job": "Inventor of Fredblox",
+      "Origin": "41-Kepler B",
+      "Family": "Edna Bunks (mother; deceased) Earl Bunks (father; deceased) Amber Bunks (wife; deceased) Unnamed Step-Kids",
+      "Relationships": "Amber Bunks (wife; deceased",
+      "Only": "That's Amorte"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Fred_Bunks"
+  },
+  {
+    "name": "Unnamed teenage girl",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/a/aa/Unnamed_teenage_girl_.jpg",
+    "description": "Sandy FuchsBiographical InformationSPECIESHumanSTATUSAliveOCCUPATIONHigh School StudentHOME PLANETEarthMeta InformationFIRST SEEN INRick Potion #9",
+    "role": "Alive",
+    "attributes": {
+      "Species": "Human",
+      "Status": "Alive",
+      "Home Planet": "Earth"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Unnamed_teenage_girl"
+  },
+  {
+    "name": "Robo Trees",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/e/e5/RoboTrees.jpeg",
+    "description": "InMaximum Velocitree 10, the Robo Trees are shown working together to take down Baron Thistle’s plan again using the “power of friendship” but the others witness Tannenbaum accidentally kill Baron Thistle with a gunRickandMortyspawned after changing the script with theMovie-lizer. The Robo Trees then see Tannenbaum being sent to prison for manslaughter at a court house and later attacks Rick and Morty when they enter the Movie-lizer and show up at the Robo Tree Headquarters.",
+    "role": "Alive",
+    "attributes": {
+      "Species": "Robots",
+      "Status": "Alive",
+      "Job": "Superheroes",
+      "Only": "\\2"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Robo_Trees"
+  },
+  {
+    "name": "Previous Leon",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/9/97/Prevleon.png",
+    "description": "At some point beforeFull Meta Jackrick, Previous Leon caughtRickandMortyand injected them with toxins, causing them to go into a previously on spiral. Rick and Morty counteract Leon's toxins baiting him to confront them. They then grab Leon forcing him to carry Rick and Morty through the opening title sequence to escape the previously on spiral. After escaping, Leon is grabbed by Rick who tells Morty not to listen to his \"pointless self-aware bullshit\" to which he responds that it is cool, no...",
+    "role": "Alive",
+    "attributes": {
+      "Aka": "Leon",
+      "Status": "Alive",
+      "Origin": "Meta Reality",
+      "Voice Actor": "Justin Roiland"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Previous_Leon"
+  },
+  {
+    "name": "Western Morty",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/4/45/Cowboy_Morty.PNG",
+    "description": "Morty SmithBiographical InformationAGE14STATUSAliveOCCUPATIONCowboyAFFILIATIONCouncil of RicksFAMILYWestern Rick(grandfather)Cowgirl Beth(mother)Meta InformationFIRST SEEN INClose Rick-Counters of the Rick KindWestern Morty, also known asCowboy Morty, is a cowboy version of Morty who travels withhis Rickon adventures and toThe Citadel.",
+    "role": "Alive",
+    "attributes": {
+      "Age": "14",
+      "Status": "Alive",
+      "Job": "Cowboy",
+      "Family": "Western Rick (grandfather) Cowgirl Beth (mother"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Western_Morty"
+  },
+  {
+    "name": "Baby Legs",
+    "image_url": "https://static.wikia.nocookie.net/rickandmorty/images/c/cd/Baby_Legs.png",
+    "description": "Baby Legs is a detective on a murder mystery TV series in an alternate dimension that features him and a partner namedRegular Legs. Baby Legs is a full-grown adult with the legs of a baby. He has a high-pitched, nasally voice.",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Human",
+      "Job": "Police Detective",
+      "First": "Rixty Minutes",
+      "Voice Actor": "Justin Roiland"
+    },
+    "source_url": "https://rickandmorty.fandom.com/wiki/Baby_Legs"
+  }
+]

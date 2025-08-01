@@ -1,0 +1,657 @@
+[
+  {
+    "name": "Sphynx",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/1/1c/SMO-Sphynx.png",
+    "description": "These statues will move once the player answers their riddles, which are often related to the kingdoms in which they are present. After the secret pathway has been opened, the Sphynx will ask additional questions. By answering all of the Sphynx's questions correctly, an achievement will be unlocked fromToadetteinMushroom Kingdom, which grants Mario a Power Moon.",
+    "role": "Game Character",
+    "attributes": {
+      "First": "Super Mario Odyssey (2017",
+      "Games": "Super Mario Odyssey",
+      "Homeland": "Sand Kingdom Wooded Kingdom Seaside Kingdom Moon Kingdom Darker Side",
+      "Affiliation": "Neutral",
+      "Alignment": "Lawful Neutral"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Sphynx"
+  },
+  {
+    "name": "Cookatiel",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/0/00/Cookatiel_Artwork_SMO.jpg",
+    "description": "CookatielCookatiel atop of Mount Volbono.Chronological informationFirst gameSuper Mario Odyssey(2017)Latest gameCaptain Toad: Treasure Tracker(NS) (2018)Game appearancesSuper Mario OdysseyCaptain Toad: Treasure Tracker(NS)Personal informationGenderFemaleHomelandLuncheon KingdomSpeciesFowlCookatiel(コック鳥,Kokku-chō?, Cook Bird)is the second boss of theLuncheon Kingdomand is overall the thirteenth boss inSuper Mario Odyssey. She slightly resemblesWingofromCaptain Toad: Treasure Tracker. As the na...",
+    "role": "Game Character",
+    "attributes": {
+      "First": "Super Mario Odyssey (2017",
+      "Latest": "Captain Toad: Treasure Tracker (NS) (2018",
+      "Games": "Super Mario Odyssey Captain Toad: Treasure Tracker (NS",
+      "Gender": "Female",
+      "Species": "Fowl"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Cookatiel"
+  },
+  {
+    "name": "Jaxi",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/9/9d/Jaxi.jpg",
+    "description": "Jaxismake a fast way to travel in theSand Kingdomin the gameSuper Mario Odyssey. They can be found atJaxi Stands. They cost 30 coins to be used byMario.",
+    "role": "Game Character",
+    "attributes": {
+      "First": "Super Mario Odyssey (2017"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Jaxi"
+  },
+  {
+    "name": "Bubblainian",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/6/60/Female_Bublainian.JPG",
+    "description": "They wear red French-style berets, which, combined with their species, seems to be a reference to French dishes such as escargot which use snails as a main ingredient. This, combined with the name of the local boss,Mollusque-Lanceur, give Bubblaine a subtle French theme. The males have moustaches, brown shell necklaces, brown bodies, and white shells, and the females have eyelashes, pearl necklaces, pink bodies, and light tan shells.",
+    "role": "Game Character",
+    "attributes": {
+      "First": "Super Mario Odyssey (2017",
+      "Games": "Super Mario Odyssey",
+      "Homeland": "Seaside Kingdom",
+      "Species": "Snail"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Bubblainian"
+  },
+  {
+    "name": "Bonneter biologist",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/d/d3/SMO_Bonneter_biologist.png",
+    "description": "The Bonneter biologist is a scientist. He is eager to expand his knowledge, but is apparently shy, as shown by his habit of not moving from his spot and telling others to bring specimens to him for his research.",
+    "role": "Alive",
+    "attributes": {
+      "First": "Super Mario Odyssey (2017",
+      "Games": "Super Mario Odyssey",
+      "Gender": "Male",
+      "Status": "Alive",
+      "Homeland": "Bonneton , Cap Kingdom",
+      "Species": "Bonneter",
+      "Race": "Bonneter",
+      "Alignment": "Lawful Neutral"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Bonneter_biologist"
+  },
+  {
+    "name": "Cappy",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/5/53/SMO_Cappy_Artwork.png",
+    "description": "CappyCappy's artwork for Super Mario OdysseyChronological informationFirst gameSuper Mario Run(2017, cameo)Super Mario Odyssey(2017, physical appearance)Latest gameSuper Smash Bros. Ultimate(2018, cameo)Game appearancesSuper Mario Run(cameo)Super Mario OdysseySuper Smash Bros. UltimatePersonal informationGenderMaleStatusAliveHomelandCap KingdomSpeciesBonneterAlterego(s)Various hatsConnectionsFamilyTiara(younger sister)FriendsMario(ally)Princess PeachEnemiesBowserBroodalsHarietMadame BroodeRan...",
+    "role": "Alive",
+    "attributes": {
+      "First": "Super Mario Run (2017, cameo) Super Mario Odyssey (2017, physical appearance",
+      "Latest": "Super Smash Bros. Ultimate (2018, cameo",
+      "Games": "Super Mario Run (cameo) Super Mario Odyssey Super Smash Bros. Ultimate",
+      "Gender": "Male",
+      "Status": "Alive",
+      "Species": "Bonneter",
+      "Family": "Tiara (younger sister",
+      "Friends": "Mario (ally) Princess Peach",
+      "Enemies": "Bowser Broodals Hariet Madame Broode Rango Spewart Topper Klepto",
+      "Alignment": "Good",
+      "Goals": "Rescue Tiara and Peach ( Successful"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Cappy"
+  },
+  {
+    "name": "Broodals",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/c/ce/Broodals.png",
+    "description": "BroodalsThe entire Broodal groupChronological informationFirst gameSuper Mario Odyssey(2017)Game appearancesSuper Mario OdysseyPersonal informationHomelandDark SideRaceRabbitCharacter traitsAlignmentEvilBehind the scenesCreatorNintendoTheBroodals(ブルーダルズだ,Burūdaruzuda?, Broodals)are a villainous group of four rabbit wedding henchmen planners in the gameSuper Mario Odyssey(where they make their debut) and serve as the game's secondary antagonists. They make their first appearance in theCap King...",
+    "role": "Game Character",
+    "attributes": {
+      "First": "Super Mario Odyssey (2017",
+      "Homeland": "Dark Side",
+      "Race": "Rabbit",
+      "Alignment": "Evil",
+      "Creator": "Nintendo"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Broodals"
+  },
+  {
+    "name": "Mollusque-Lanceur",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/b/bf/Mollosque-Lanceur_Updated.webp",
+    "description": "Brigadier Mollosque-Lanceur III(ホーダン伯爵,Hōdan Hakushaku?, , lit. Drainage Cannonball), Dauphin of Bubblaine (alternatively spelledMollusque-Lanceur; French for \"Mollusk Launcher\") is a giant, well-dressed, purple octopus who appears as a boss inSuper Mario Odyssey. He initially appears atop the large glass chalice in theBubblaine, sucking the water from it with a bendy straw, as aBubblainianexplains whenMariomakes his way to the kingdom. As a result of his actions, fewer tourists are coming to...",
+    "role": "Game Character",
+    "attributes": {
+      "First": "Super Mario Odyssey (2017",
+      "Gender": "Male",
+      "Homeland": "Seaside Kingdom",
+      "Species": "Gushen"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Mollusque-Lanceur"
+  },
+  {
+    "name": "Lakitu",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/b/b6/LakituNSMBU.png",
+    "description": "In their role as an enemy character, Lakitus fly about at a high altitude and throwSpiny EggsatMario. Spiny Eggs hatch intoSpinies, small, red, spike‐backed Koopas.Lakitu's Cloudcan be ridden for a limited time after Lakitu is defeated.",
+    "role": "Hero",
+    "attributes": {
+      "First": "Super Mario Bros. (1985",
+      "Latest": "Super Mario Party Jamboree (2024",
+      "Games": "Super Mario Bros. Super Mario Bros. 3 Super Mario World Super Mario Kart Super Mario World 2: Yoshi's Island Super Mario RPG: Legend of the Seven Stars Super Mario 64 Mario Kart 64 Mario & Luigi: S...",
+      "Homeland": "Mushroom Kingdom",
+      "Subspecies": "Dark Lakitu Aqua Lakitu Fishin' Boo Calm Lakitu Giga Lakitu Glam Lakitu Lakitu King Gold Lakitu Lakipea",
+      "Members": "Lakitu Bros. Lakithunder Lakilester Lakilulu Giga Lakitu Spike Storm",
+      "Leader": "Bowser Giga Lakitu",
+      "Attacks": "Contact Throwing Spinies",
+      "Defeated": "Jumping Fireballs Starman Koopa Shells Grab Blocks Hammers (if thrown) Yoshi Eggs"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Lakitu"
+  },
+  {
+    "name": "Uncle amiibo",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/1/1b/Uncle_amiibo.png",
+    "description": "Uncle amiibois a robotic character found inSuper Mario Odyssey. After talking to Uncle amiibo, tapping any amiibo or amiibo card will reveal the location of aPower Moonon the map. In 2-player mode, Uncle amiibo will refuse to let you scan an amiibo, simply stating, “them’s the rules.”",
+    "role": "Game Character",
+    "attributes": {
+      "First": "Super Mario Odyssey (2017"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Uncle_amiibo"
+  },
+  {
+    "name": "New Donker",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/3/37/SMO_Artwork_New_Donker_%28Male%29.webp",
+    "description": "Most of the New Donkers, both male and female, wear gray business suits and have a1930s-1940s look. The male New Donkers also wear ties, gray fedoras, and shiny black shoes, while the female New Donkers wear gray sunhats. The only New Donkers who do not wear gray attire are the members ofPauline's band, who all wear red attire and black fedoras with a white band around it, and theCrazy Capemployees.",
+    "role": "Alive",
+    "attributes": {
+      "Image": "Male",
+      "First": "Super Mario Odyssey (2017",
+      "Games": "Super Mario Odyssey Mario Tennis Aces Super Smash Bros. Ultimate Mario Golf: Super Rush Donkey Kong Bananza",
+      "Gender": "Male or female",
+      "Status": "Alive",
+      "Homeland": "New Donk City , Metro Kingdom",
+      "Species": "Human",
+      "Affiliation": "Band Musicans Crazy Cap",
+      "Leader": "Mayor Pauline",
+      "Friends": "Cappy Donkey Kong Mario Pauline Princess Peach Tostarenans",
+      "Enemies": "Bowser King K. Rool"
+    },
+    "source_url": "https://mario.fandom.com/wiki/New_Donker"
+  },
+  {
+    "name": "Toadette",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/c/c9/Toadette_SMB_Wonder_artwork.png",
+    "description": "ToadetteToadette's artwork forSuper Mario Bros. WonderChronological informationFirst gameMario Kart: Double Dash!!(2003)Latest gameMario Kart World(2025)Game appearancesSee Timeline.Personal informationGenderFemaleStatusAliveHomelandMushroom KingdomSpeciesToadAlterego(s)Cat ToadetteDr. ToadettePaper ToadettePeachetteConnectionsFriendsToad(best friend)ToadsworthMarioLuigiYoshiPrincess PeachPrincess DaisyStarlowBeep-0EnemiesBowserBowser Jr.KoopalingsLudwig von KoopaWendy O. KoopaIggy KoopaLemmy...",
+    "role": "Alive",
+    "attributes": {
+      "First": "Mario Kart: Double Dash!! (2003",
+      "Latest": "Mario Kart World (2025",
+      "Gender": "Female",
+      "Status": "Alive",
+      "Species": "Toad",
+      "Forms": "Cat Toadette Dr. Toadette Paper Toadette Peachette",
+      "Friends": "Toad (best friend) Toadsworth Mario Luigi Yoshi Princess Peach Princess Daisy Starlow Beep-0",
+      "Enemies": "Bowser Bowser Jr. Koopalings Ludwig von Koopa Wendy O. Koopa Iggy Koopa Lemmy Koopa Roy Koopa Morton Koopa Larry Koopa Kamek",
+      "Alignment": "Good",
+      "Emblem": "Toadette's face",
+      "Enactor": "Jen Taylor (2003-2005) Samantha Kelly (2007-2024) Laura Stahl (2025-Present"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Toadette"
+  },
+  {
+    "name": "Shiverian Elder",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/f/ff/Shiverian_Elder.webp",
+    "description": "Shiverian ElderChronological informationFirst gameSuper Mario Odyssey(2017)Game appearancesSuper Mario OdysseyPersonal informationGenderMaleHomelandSnow KingdomSpeciesShiverianConnectionsAffiliationShiveriaFriendsHis fellow ShiveriansEnemiesBowser(for disabling the race track)Character traitsAlignmentLawful NeutralGoalsHost races (successful after Mario broke the barrier",
+    "role": "Game Character",
+    "attributes": {
+      "First": "Super Mario Odyssey (2017",
+      "Gender": "Male",
+      "Species": "Shiverian",
+      "Affiliation": "Shiveria",
+      "Enemies": "Bowser (for disabling the race track"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Shiverian_Elder"
+  },
+  {
+    "name": "Captain Toad",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/7/70/Captain_Toad_CTTT_artwork.png",
+    "description": "Captain Toad has a red spotted cap. In his debut appearance inSuper Mario Galaxy, he wears a generic red Toad outfit, with a red vest with gold piping, white pants, and small brown shoes. He wears a headlamp on his cap and a large brown backpack with a bed roll strapped on top.",
+    "role": "Game Character",
+    "attributes": {
+      "First": "Super Mario Galaxy (2007",
+      "Latest": "Mario Kart World (2025) (Cameo",
+      "Games": "Super Mario Galaxy 2 Super Mario 3D World Captain Toad: Treasure Tracker Super Mario Odyssey Mario Kart Tour Mario Kart World (As Toad",
+      "Alias": "Toad",
+      "Gender": "Male",
+      "Homeland": "Mushroom Kingdom",
+      "Species": "Toad",
+      "Friends": "Mario Toadette",
+      "Enemies": "Wingo",
+      "Alignment": "Good",
+      "Goals": "Rescue Toadette in Captain Toad: Treasure Tracker (successful",
+      "Weaknesses": "Cannot jump due to his heavy backpack"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Captain_Toad"
+  },
+  {
+    "name": "Bowser",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/3/3f/SMBW_Bowser_Artwork.png",
+    "description": "Description non trouvée.",
+    "role": "Ruler of the Koopa Kingdom / Bowser's Kingdom",
+    "attributes": {
+      "First": "Super Mario Bros. (1985",
+      "Games": "See Timeline.",
+      "Fullname": "King Bowser Koopa",
+      "Gender": "Male",
+      "Status": "Alive",
+      "Homeland": "Koopa Kingdom / Bowser's Kingdom",
+      "Occupations": "Ruler of the Koopa Kingdom / Bowser's Kingdom",
+      "Species": "Koopa",
+      "Race": "Bowser's species",
+      "Forms": "Bowcien Bowletta Dr. Bowser Dreamy Bowser Dry Bowser (Sometimes his form) Fury Bowser Meowser MegaDragonBowser Paper Bowser Shiny RoboBowser Shrowser",
+      "Family": "Bowser's Brother (brother) Bowser Jr. (son) Koopalings (children from Super Mario Bros. 3 to Mario & Luigi: Superstar Saga original) Ludwig von Koopa (son) Wendy O. Koopa (daughter) Igg...",
+      "Friends": "King Boo King Bob-omb King Goomba King Whomp King Lakitu Kamek (servant/friend) Koopa Kid Chippy (formerly) Mallow (formerly) Geno (formerly) Ganon (in some cases) Doctor Eggman",
+      "Enemies": "Mario (archenemy) Luigi Princess Peach ( briefly ex-wife ) Princess Daisy Yoshi Birdo Donkey Kong Wario Waluigi Rosalina Pauline Starlow Smithy Cackletta Fawful Count Bleck Link (possibly) Princess...",
+      "Rivals": "Mario (arch-rival) Donkey Kong Doctor Eggman Midbus",
+      "Alignment": "Lawful Evil/Neutral Evil",
+      "Emblem": "Bowser's face in red",
+      "Goals": "Take over the whole world, the Mushroom Kingdom and the entire universe (often fails in the long run) Destroy Mario and his allies Marry Princess Peach (successful for a brief period ) Kidnap Princ...",
+      "Creator": "Shigeru Miyamoto",
+      "Enactor": "Harvey Atkin (DiC cartoons) Marc Graue (1994, Hotel Mario ) Charles Martinet (1996-2004, Super Mario 64 and Super Mario 64 DS (laughs only)) Scott Burns (2002-2008, 2010) Eric Newsome (2007, Super ...",
+      "Jpactor": "Akiko Wada (1986, Super Mario Bros.: Peach-hime Kyushutsu Dai Sakusen! ) Masaharu Satō (1989, Amada Anime Series: Super Mario Bros. ) Takeshi Watabe (1991, Super Mario World: Mario to Yoshi no Bouk..."
+    },
+    "source_url": "https://mario.fandom.com/wiki/Bowser"
+  },
+  {
+    "name": "Toad (species)",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/e/e8/Toads_SMR.png",
+    "description": "Toads are named after their mushroom (orToadstool) like appearance. Because of this, they are believed to be fungi. However they are not biologically related to mushrooms, seemingly have more of a relation to humans and they're essentially mushroom themed. Toads abilities are generally characterized by high speed, allowing them to run faster than most other characters, including regular human figures within theMario series.",
+    "role": "Game Character",
+    "attributes": {
+      "Nickname": "Mushroom People Mushroom Boys Mushroom Retainers",
+      "First": "Super Mario Bros. (1985",
+      "Latest": "Mario Kart World (2025",
+      "Games": "Super Mario Bros. Super Mario Bros. 2 Super Mario Bros. 3 Super Mario World Super Mario Kart Super Mario 64 Mario Party Mario Party 2 Super Mario Sunshine Super Mario 64 DS Super Mario Galaxy New S...",
+      "Movies": "The Super Mario Bros. Movie",
+      "Leader": "Princess Peach Toadsworth",
+      "Homeland": "Mushroom Earth",
+      "Located": "Various",
+      "Variants": "Red Toad Yellow Toad Blue Toad Green Toad Pink Toad",
+      "Related": "Poplins Shroobs",
+      "Members": "Banktoad Battle T. Bingo Blue Toad Chancellor Chanterelle Chef Spore Delivery Toad Doe T. Down Under Land Mayor Dr. Toadley Dr. Toadley Intern Excess Express Conductor Excess Express Engineer Fice ..."
+    },
+    "source_url": "https://mario.fandom.com/wiki/Toad_(species)"
+  },
+  {
+    "name": "Music Toad",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/0/04/Music_Toad.jpg",
+    "description": "Jammin' ToadMusic Toad fromSuper Mario Odyssey.Chronological informationFirst gameSuper Mario Run(2015)Game appearancesSuper Mario RunSuper Mario OdysseyPersonal informationGenderGenderlessHomelandMushroom KingdomRaceToadMusic Toad, (also calledJammin' Toad, and simplyToad) is a Toad wearing headphones, introduced in version 3.0.4 of Super Mario Run. He is found in the Kingdom Builder, and, if tapped on, can play music from the player's music library on his or her mobile device.",
+    "role": "Game Character",
+    "attributes": {
+      "First": "Super Mario Run (2015",
+      "Games": "Super Mario Run Super Mario Odyssey",
+      "Gender": "Genderless",
+      "Race": "Toad"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Music_Toad"
+  },
+  {
+    "name": "Tostarenan",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/9/92/Tostarenans.jpg",
+    "description": "Tostarenans are based on the typical candysugarskulls, candy coming from a Mexican tradition called \"day of the dead\" the candy has a skull shape, and Mexican stereotype(people with sarape, mustache, and sombrero). As from their appearance, they're in all Mexican clothing, holding maracas, which are an instrument in Mexico.",
+    "role": "Game Character",
+    "attributes": {
+      "Games": "Super Mario Odyssey (2017",
+      "Homeland": "Sand Kingdom",
+      "Species": "Skeleton"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Tostarenan"
+  },
+  {
+    "name": "Luigi",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/9/91/Luigi_2025.png",
+    "description": "Description non trouvée.",
+    "role": "Plumber Ghostbuster",
+    "attributes": {
+      "First": "Mario Bros. (Game & Watch) (1983",
+      "Games": "See here.",
+      "Firstshow": "The Super Mario Bros. Super Show",
+      "Shows": "The Super Mario Bros. Super Show The Adventures of Super Mario Bros. 3 Super Mario World (television series",
+      "Firstfilm": "Super Mario Bros.: Peach-hime Kyūshutsu Dai Sakusen!",
+      "Latestfilm": "The Super Mario Bros. Movie",
+      "Films": "Super Mario Bros.: Peach-hime Kyūshutsu Dai Sakusen! Super Mario Bros. (film) The Super Mario Bros. Movie",
+      "Fullname": "Luigi Mario [ 1",
+      "Alias": "Green 'Stache (Bowser) Mr. Greenie Green Hat",
+      "Gender": "Male",
+      "Status": "Alive",
+      "Homeland": "Mushroom Kingdom (birthplace) Brooklyn , New York City (later on) [ 2",
+      "Occupations": "Plumber Ghostbuster",
+      "Species": "Human",
+      "Race": "Italian [ 3",
+      "Forms": "Paper Luigi Mr. L ( Super Paper Mario ) Kitsune Luigi Dr. Luigi Silver Luigi Fox Luigi",
+      "Family": "Mario (older twin brother) Yellow Mario (family business employee, potentional brother) Blue Mario (former family business employee, potentional brother) Stanley the Bugman (younger cousin) [ citat...",
+      "Affiliation": "Mario Bros. (group) Mushroom Kingdom",
+      "Friends": "Mario (older brother) Princess Peach Princess Daisy (good friend/love interest) Yoshi Toad Toadette Rosalina Pauline Donkey Kong Diddy Kong Professor E. Gadd Polterpup Gooigi Starlow Prince Peasley...",
+      "Enemies": "King Boo (archenemy) Bowser Wario (sometimes) Waluigi (sometimes) Bowser Jr. Koopalings Koopa Troop Wart Koopa Kid Cackletta Fawful Popple Princess Shroob Elder Princess Shroob Shroobs Dark Star An...",
+      "Rivals": "Waluigi (arch-rival",
+      "Alignment": "Good",
+      "Emblem": "A green L",
+      "Goals": "Defeat Bowser ( Continuous ) Rescue Mario (Mario is Missing! and Luigi's Mansion) ( Successful ) Defeat King Boo (Luigi's Mansion series) ( Successful",
+      "Creator": "Shigeru Miyamoto",
+      "Designer": "Shigeru Miyamoto Yoichi Kotabe",
+      "Enactor": "Danny Wells ( The Super Mario Bros. Super Show! ) Tony Rosato ( The Adventures of Super Mario Bros. 3 and Super Mario World ) Marc Graue ( Hotel Mario ) Bob Sorenson ( Mario is Missing! ) Julien Ba...",
+      "Jpactor": "Yū Mizushima (1986-1991, OVA series) Yoku Shioya ( Super Mario no Shōbōtai"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Luigi"
+  },
+  {
+    "name": "Poochy",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/5/55/Poochy_asleep_YCW_artwork.png",
+    "description": "Poochyis a recurring ally in theYoshifranchise. Poochy made his first appearance inSuper Mario World 2: Yoshi's Island, and while he is not the main protagonist of a game, Poochy is featured inPoochy & Yoshi's Woolly World's title, as well as having his own sub-game calledPoochy Dash. Poochy has sometimes appeared in the parentMariofranchise, albeit less prominently.",
+    "role": "Hero",
+    "attributes": {
+      "First": "Super Mario World 2: Yoshi's Island (1995",
+      "Latest": "Mario Kart 8 Deluxe ( Booster Course Pass Wave 4) (2023",
+      "Games": "Yoshi's Island: Super Mario Advance 3 Tetris Attack Yoshi's New Island Yoshi's Woolly World Super Mario Mash-Up Pack Poochy & Yoshi's Woolly World Super Mario Odyssey Yoshi's Crafted World",
+      "Species": "Dog-like creature"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Poochy"
+  },
+  {
+    "name": "Talkatoo",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/e/e1/Artwork_Talkatoo.png",
+    "description": "In Japanese, Korean, and Chinese, the Talkatoo is called the \"Hint Bird,\" with the word \"hint\" in his name untranslated in Japanese (Hinto Tori; ヒント鳥) and Korean (Hinteu Sae; 힌트새), although it is translated in Chinese (Tíshì Nǐao; 提示鳥). In Spanish, he is called \"Cotorrete,\" from La Cotorra (parrot). In French, he is called \"Perrotruc,\" derived from \"perroquet\" (parrot) and \"Truc,\" a slang term for an unidentified object. The Talkatoo is referred to as Chiacchierotto in Italian, from chiacchie...",
+    "role": "Game Character",
+    "attributes": {
+      "First": "Super Mario Odyssey (2017",
+      "Race": "Bird",
+      "Alignment": "Neutral"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Talkatoo"
+  },
+  {
+    "name": "Volbonan",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/5/5f/Volbonans.jpg",
+    "description": "VolbonansChronological informationGame appearancesSuper Mario OdysseyPersonal informationHomelandLuncheon KingdomSpeciesForksVolbonansare the native of Luncheon Kingdom introduced inSuper Mario Odyssey. They are chef aptly-like people who live in theVolbono areaof the Luncheon Kingdom. As you can probably gather, they're all really into their cooking.",
+    "role": "Game Character",
+    "attributes": {
+      "Species": "Forks"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Volbonan"
+  },
+  {
+    "name": "Goombette (Super Mario Odyssey)",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/9/91/Goombette_Odyssey.png",
+    "description": "She also holdsPower Moons; to get them,Mariomustcapturea Goomba and approach her. If she is standing on a raised ledge, Mario must hop on other Goombas to make aGoomba Towerhigh enough to reach the ledge she stands on. At this point, she becomes romantically charmed, and gives Mario a Power Moon while surrounded by hearts. If Mario approaches her in his normal form, she will panic for a split second before disappearing in a puff of smoke.",
+    "role": "Game Character",
+    "attributes": {
+      "First": "Super Mario Odyssey (2017",
+      "Gender": "Female",
+      "Species": "Goomba",
+      "Affiliation": "Self",
+      "Alignment": "Neutral"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Goombette_(Super_Mario_Odyssey)"
+  },
+  {
+    "name": "Yoshi",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/5/5f/SMPJ_Yoshi.png",
+    "description": "YoshiArtwork of Yoshi, fromSuper Mario Party JamboreeChronological informationFirst gameSuper Mario World(1990)Latest gameMario Kart World(2025)Game appearancesSee Timeline.TV show appearancesSuper Mario WorldMario All StarsFilm appearancesSuper Mario Bros.(film)The Super Mario Bros. Movie(film series)Personal informationFull nameTherapoda Yoshisaur MunchikoopasGenderMaleStatusAliveHomelandDinosaur LandSpeciesYoshiRaceGreenConnections*AffiliationMario Bros.FriendsBaby YoshisBirdoDiddy KongDon...",
+    "role": "Alive",
+    "attributes": {
+      "First": "Super Mario World (1990",
+      "Latest": "Mario Kart World (2025",
+      "Shows": "Super Mario World Mario All Stars",
+      "Films": "Super Mario Bros. (film) The Super Mario Bros. Movie (film series",
+      "Fullname": "Therapoda Yoshisaur Munchikoopas [ 1",
+      "Gender": "Male",
+      "Status": "Alive",
+      "Species": "Yoshi",
+      "Race": "Green",
+      "Friends": "Baby Yoshis Birdo Diddy Kong Donkey Kong Luigi (good friend) Mario (best friend) Princess Peach (good friend) Princess Daisy Rosalina Pauline Toad Toadette Waluigi Wario Yoshis",
+      "Enemies": "Bowser Bowser Jr. Goomboss Kamek Koopalings King Boo",
+      "Alignment": "Good",
+      "Emblem": "A Yoshi Egg",
+      "Goals": "Rescue Baby Luigi ( Successful ) Rescue Peach ( Successful",
+      "Creator": "Nintendo EAD",
+      "Jpactor": "Kazumi Totaka"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Yoshi_(character)"
+  },
+  {
+    "name": "Mario",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/d/dc/Mario_%282%29.png",
+    "description": "Mario(マリオ,Mario?,Mario)(originally calledMr. Video Game, introduced asJumpmanand also calledSuper Marioor by his full nameMario Mario) is the titular protagonist of the long-running and highly successful video gamefranchiseof the same name and isNintendo's longtime mascot. He made his grand debut in the 1981 arcade titleDonkey Kongalongside the characterDonkey Kong Sr.himself as well asPauline, making himself one of the company's oldest known characters. He is a mustachedItalianplumberwho liv...",
+    "role": "Carpenter Plumber Doctor Chef ( Super Mario Bros. & Friends: When I Grow Up ) Attorney ( Super Mario Bros. & Friends: When I Grow Up ) Race Car Driver ( Super Mario Bros. & Friends: When I Gr...",
+    "attributes": {
+      "First": "Donkey Kong (1981",
+      "Games": "See here.",
+      "Shows": "Saturday Supercade The Super Mario Bros. Super Show The Adventures of Super Mario Bros. 3 Super Mario World Mario All Stars",
+      "Comics": "Nintendo Power Super Mario-kun Nintendo Comics System Super Mario Adventures",
+      "Films": "Super Mario Bros.: Peach-hime Kyūshutsu Dai Sakusen! ' The Wizard (Cameo Appearance) Super Mario Bros. (film) Wreck-It Ralph (Mentioned) Pixels (Cameo Appearance) The Super Mario Bros. Movie (film ...",
+      "Fullname": "Mario Mario [ 1",
+      "Alias": "Super Mario Jumpman Mr. Video Game Himself Ossan Homo Nintendonus",
+      "Gender": "Male",
+      "Status": "Alive",
+      "Homeland": "Mushroom Kingdom (birth) Brooklyn , New York City (later) [ 6",
+      "Occupations": "Carpenter Plumber Doctor Chef ( Super Mario Bros. & Friends: When I Grow Up ) Attorney ( Super Mario Bros. & Friends: When I Grow Up ) Race Car Driver ( Super Mario Bros. & Friends: When I Gr...",
+      "Species": "Human [ 8",
+      "Race": "Italian [ 9",
+      "Forms": "Dr. Mario Metal Mario Paper Mario",
+      "Family": "Luigi (younger twin brother) Stanley the Bugman (cousin) [ citation needed ] Papa Mario and Mama Mario (parents) Grandmama (grandmother) Grandpapa (grandfather) Mama Mia (mother) Papa Pio (father) ...",
+      "Affiliation": "Mario Bros. Mario Toy Company Mushroom Kingdom",
+      "Friends": "Admiral Bobbery Baby Mario (past self) Baby Luigi (ally) Baby Luma (ally) Birdo Blue Toad Bob-omb Buddy Bombette Bowser (on rare occasions) Bowser Jr. (on rare occasions) Cappy Connie (close friend...",
+      "Enemies": "Baby Bowser Bowser (archenemy) Bowser Jr. Birdo (formerly) Birdos Cranky Kong (formerly known as \"Donkey Kong\") Wario (sometimes) Waluigi (one-sided rival) Donkey Kong (former pet/ Donkey Kong and ...",
+      "Rivals": "Bowser (main rival, nemesis) Bowser Jr. (archrival) Donkey Kong (friendly rival) Foreman Spike (original rival) Wario (archrival) Waluigi (occasionally",
+      "Alignment": "Lawful/Chaotic Good",
+      "Emblem": "A red \"M\"",
+      "Goals": "Rescue Pauline ( Donkey Kong and Mario vs. Donkey Kong , succeeded) Hold Cranky Kong hostage ( Donkey Kong Jr. , failed) Rescue Princess Peach ( Super Mario , always succeeded; ongoing) Rescue Prin...",
+      "Creator": "Shigeru Miyamoto",
+      "Designer": "Shigeru Miyamoto Yōichi Kotabe Shigefumi Hino",
+      "Enactor": "Lou Albano ( The Super Mario Bros. Super Show! ) Walker Boone ( The Adventures of Super Mario Bros. 3 and Super Mario World (TV series) ) Marc Graue ( Hotel Mario ) Nicholas Glaeser ( Mario is Miss...",
+      "Jpactor": "Tōru Furuya ( Super Mario Bros.: Peach-hime Kyūshutsu Dai Sakusen!"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Mario"
+  },
+  {
+    "name": "Pauline",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/1/1f/PaulineMTA.png",
+    "description": "Pauline(ポリーン,Porīn?)is a character who first appears in theDonkey Kongarcadegame. Here, she was once a damsel-in-distress whomMariohad to rescue fromDonkey Kong. Pauline has not often reappeared in theMariofranchiseand related media, mainly becausePrincess Peachhas taken the main role of damsel-in-distress since her first appearance inSuper Mario Bros..",
+    "role": "Alive",
+    "attributes": {
+      "Image": "Adult",
+      "First": "Donkey Kong (1981",
+      "Latest": "Donkey Kong Bananza (2025",
+      "Games": "Donkey Kong Donkey Kong (Game Boy) Mario vs. Donkey Kong 2: March of the Minis Mario vs. Donkey Kong: Minis March Again! Super Smash Bros. Brawl Mario vs. Donkey Kong: Mini-Land Mayhem! Mario and D...",
+      "Comics": "Super Mario-kun",
+      "Films": "The Super Mario Bros. Movie",
+      "Alias": "Lady The Beautiful Girl 1-Up Girl",
+      "Gender": "Female",
+      "Status": "Alive",
+      "Homeland": "New York City , New York (formerly) New Donk City , Metro Kingdom",
+      "Species": "Human",
+      "Race": "New Donker New Yorker (formerly",
+      "Forms": "Odd Rock",
+      "Family": "Unknown Parents Unknown Grandmother",
+      "Friends": "Birdo Cappy Cranky Kong Diddy Kong Dixie Kong Donkey Kong Donkey Kong Jr. Luigi Mario (former love interest) Mini Donkey Kong Mini Luigi Mini Mario Mini Pauline Mini Peach Mini Toad New Donkers Pri...",
+      "Enemies": "Bowser Cranky Kong (formerly) Donkey Kong (formerly) VoidCo Grumpy Kong Poppy Kong Void Kong King K. Rool",
+      "Alignment": "Good",
+      "Emblem": "A red heart with a smile outlined in purple",
+      "Goals": "Find her way back home with Donkey Kong 's help, and defeat the VoidCo , and King K. Rool ( Successful ) Become a great, strong and talented singer, after her freedom from being OddRock ( Successfu...",
+      "Enactor": "Kate Higgins (Adult; 2017-present) Jenny Kidd (Young; 2025",
+      "Jpactor": "Maaya Sakamoto (Adult; 2017-present"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Pauline"
+  },
+  {
+    "name": "Steam Gardener",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/c/c5/Steam_Gardeners.jpg",
+    "description": "Steam Gardeners need power to continue their work. This is shown as several steam gardeners are lined up at a charging station. One is already at the station, recharging his power, while the one at the back of the line (who waited too long) has passed out since he ran out of energy. One of the silver steam gardeners look silver and contain some seeds. One can be used to get to the obsevation deck, another for a climbable zone to reach somewhere higher, and the last one is in theDeep Woodsused...",
+    "role": "Game Character",
+    "attributes": {
+      "First": "Super Mario Odyssey (2017",
+      "Games": "Super Mario Odyssey",
+      "Homeland": "Wooded Kingdom",
+      "Species": "Robot"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Steam_Gardener"
+  },
+  {
+    "name": "Tiara",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/8/88/Tiara.jpg",
+    "description": "TiaraTiara in Super Mario OdysseyChronological informationFirst gameSuper Mario Odyssey(2017)Game appearancesSuper Mario OdysseyPersonal informationGenderFemaleStatusAliveHomelandCap KingdomRaceBonneterAlterego(s)Peach's wedding tiaraConnectionsFamilyCappy(older brother)FriendsPrincess Peach(ally)EnemiesBowserCharacter traitsAlignmentGoodGoalsVisit kingdoms (Successful",
+    "role": "Alive",
+    "attributes": {
+      "First": "Super Mario Odyssey (2017",
+      "Gender": "Female",
+      "Status": "Alive",
+      "Homeland": "Cap Kingdom [ 1",
+      "Race": "Bonneter [ 1",
+      "Family": "Cappy (older brother) [ 1",
+      "Friends": "Princess Peach (ally",
+      "Enemies": "Bowser [ 1",
+      "Alignment": "Good",
+      "Goals": "Visit kingdoms ( Successful"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Tiara"
+  },
+  {
+    "name": "Glydon",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/5/55/Glydon_Screenshot.png",
+    "description": "Glydon is a yellow bipedal flying lizard. He's taller than Mario and features a long tail, two hands with three fingers and a thumb each and two rather short legs which are typically kept significantly bent and almost perpendicular to his tail, resulting in a very peculiar walking gait.",
+    "role": "Game Character",
+    "attributes": {
+      "First": "Super Mario Odyssey (2017",
+      "Games": "Super Mario Odyssey",
+      "Homeland": "Sand Kingdom",
+      "Species": "Glydon",
+      "Race": "Draco Lizard"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Glydon"
+  },
+  {
+    "name": "Hint Toad",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/2/20/SMO_Asset_Model_Toad_Brigade_%28Hint_Toad%29.png",
+    "description": "TheHint Toadis a Blue-coloured Toad character who first apeared inSuper Mario Galaxywere he is part of theToad Brigade.Unlike his other other members, Hint Toad is the only Toad that wears goggles, which depicts him being the smartest Toad of the group.",
+    "role": "Game Character",
+    "attributes": {
+      "First": "Super Mario Galaxy (2007",
+      "Latest": "Super Mario 3D World + Bowser's Fury (2021",
+      "Games": "Super Mario Galaxy Super Mario Galaxy 2 Captain Toad: Treasure Tracker Super Mario Odyssey Super Mario 3D World + Bowser's Fury",
+      "Homeland": "Mushroom Kingdom",
+      "Species": "Toad",
+      "Friends": "Luigi Mario",
+      "Enemies": "Bowser",
+      "Goals": "Aid Mario"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Hint_Toad"
+  },
+  {
+    "name": "Princess Peach",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/7/7c/Peach_Posing_Alt_3D_Artwork.png",
+    "description": "Description non trouvée.",
+    "role": "Ruler of Mushroom Kingdom Waitress ( Super Mario Bros. & Friends: When I Grow Up ) Judge ( Super Mario Bros. & Friends: When I Grow Up ) Nurse ( Super Mario Bros. & Friends: When I Grow Up ) Ballet...",
+    "attributes": {
+      "First": "Super Mario Bros. (1985",
+      "Games": "See Timeline",
+      "Fullname": "Princess Peach Toadstool",
+      "Alias": "Princess Toadstool Peach",
+      "Gender": "Female",
+      "Status": "Alive",
+      "Homeland": "Mushroom Kingdom",
+      "Occupations": "Ruler of Mushroom Kingdom Waitress ( Super Mario Bros. & Friends: When I Grow Up ) Judge ( Super Mario Bros. & Friends: When I Grow Up ) Nurse ( Super Mario Bros. & Friends: When I Grow Up ) Ballet...",
+      "Species": "Human",
+      "Forms": "Cat Peach Paper Princess Peach Shadow Queen ( Paper Mario: The Thousand-Year Door ) Tanuki Peach",
+      "Family": "Mushroom King (father) Mushroom Queen (mother) Toadsworth (caretaker",
+      "Affiliation": "Mushroom Kingdom",
+      "Friends": "Mario (love interest) Luigi Princess Daisy (best friend) Rosalina Luma Pauline Toad Toadette Toadsworth Donkey Kong Diddy Kong Perry Twink Stella Tiara Yoshi Birdo Paper Princess ...",
+      "Enemies": "Bowser ( briefly ex-husband ) Bowser Jr. Koopalings Ludwig von Koopa Wendy O. Koopa Iggy Koopa Lemmy Koopa Roy Koopa Morton Koopa Larry Koopa (sometimes) Koopa Troopa (sometimes) Kamek (sometimes) ...",
+      "Rivals": "Wendy O. Koopa",
+      "Alignment": "Good",
+      "Emblem": "Princess Peach's crown",
+      "Creator": "Shigeru Miyamoto",
+      "Enactor": "Jeannie Elias ( The Super Mario Bros. Super Show! ) Tracey Moore ( The Adventures of Super Mario Bros. 3 and Super Mario World (TV series) ) Jocelyn Benford ( Hotel Mario ) Kathy Fitzgerald ( Mario...",
+      "Jpactor": "Mariko Mukai (1996-1998) Asako Kozuki (1996-2001) Mami Yamase (1986, Peach-hime Kyushutsu Dai Sakusen! ) Maria Kawamura (1993, Super Mario Bros. Special CD drama"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Princess_Peach"
+  },
+  {
+    "name": "Shiverian",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/6/6b/Shiverian.jpg",
+    "description": "ShiverianShiverians appear to be nice and fluffy...General informationFirst appearanceSuper Mario Odyssey(2017)Game appearances\"Super Mario Odyssey\"Game informationHomelandShiveriaShiveriansare the inhabitants of theSnow Kingdommade of snow found inSuper Mario Odyssey.",
+    "role": "Game Character",
+    "attributes": {
+      "First": "Super Mario Odyssey (2017",
+      "Games": "\" Super Mario Odyssey \"",
+      "Homeland": "Shiveria"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Shiverian"
+  },
+  {
+    "name": "Shiverian Racer",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/5/59/Shiverian_Racer.jpg",
+    "description": "TheShiverian Racer, referred to as theSupersonic Snowmanby theShiverian Elder, is ashiverianinSuper Mario Odyssey, making his home in Shiveria City in theSnow Kingdom. While other Shiverian Racers exist, this specific Shiverian Racer is found sobbing, saying that his opponents take the race too seriously, and that he is not going to compete and that someone else can take his place.",
+    "role": "Game Character",
+    "attributes": {
+      "First": "Super Mario Odyssey (2017",
+      "Homeland": "Shiveria City, Snow Kingdom",
+      "Alignment": "Neutral"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Shiverian_Racer"
+  },
+  {
+    "name": "Nintendog",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/3/35/Dog.png",
+    "description": "NintendogThe Nintendog's appearance in Super Mario OdysseyGeneral informationFirst appearanceNintendogs(2005, overall)WarioWare: Smooth Moves(2006,Mario-related media)Latest appearanceSuper Smash Bros. Ultimate(2018)Game informationHomelandMushroom KingdomLocatedMetro KingdomSeaside KingdomMoon KingdomSand KingdomOdysseySpeciesDogNintendogs(also simply referred to asDogs) are a species of dogs starring in theNintendogsseries of games introduced for theNintendo DS. Their first appearance in aM...",
+    "role": "Game Character",
+    "attributes": {
+      "First": "Nintendogs (2005, overall) WarioWare: Smooth Moves (2006, Mario -related media",
+      "Latest": "Super Smash Bros. Ultimate (2018",
+      "Located": "Metro Kingdom Seaside Kingdom Moon Kingdom Sand Kingdom Odyssey",
+      "Species": "Dog"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Nintendog"
+  },
+  {
+    "name": "Hariet",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/7/78/Hariet_Artwork.jpg",
+    "description": "Hariet(ハリエット,Harietto?, ,lit. Hariet)is one of theBroodalsthat can be fought inSuper Mario Odyssey. Her name comes from \"hare\" and is sometimes given the nameHarriet. In the main story, she is fought in the missions \"Inverted Pyramid Showdown\" and “Big Broodal Battle” (along with the other Broodals.",
+    "role": "Villain",
+    "attributes": {
+      "First": "Super Mario Odyssey (2017",
+      "Gender": "Female",
+      "Homeland": "Dark Side",
+      "Family": "Madame Broode Rango Topper Spewart",
+      "Affiliation": "Broodals Bowser",
+      "Weaknesses": "Bombs Stomp"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Hariet"
+  },
+  {
+    "name": "Roving Racers",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/8/80/TheRovingRacersSMO.jpg",
+    "description": "TheRoving Racersare a quartet ofKoopa TroopasinSuper Mario Odyssey. After defeatingBowserin theMoon Kingdom, a green Koopa Troopa wearing a cap, along with a rankings board will appear in every kingdom, so the player can compete in a Koopa Freerunning mini-game (with the exception of theCloud Kingdom,Ruined Kingdom,Dark SideandDarker Side). The player must win the race by managing to reach the shining beacon at the end to receive aPower Moonbefore the Roving Racers do. They are based onKoopa ...",
+    "role": "Game Character",
+    "attributes": {
+      "First": "Super Mario Odyssey (2017",
+      "Gender": "Male",
+      "Leader": "Green-capped green-shelled Koopa Troopa",
+      "Friends": "Each other Mario",
+      "Rivals": "Mario (friendly rival",
+      "Alignment": "Neutral",
+      "Goals": "Race around the world."
+    },
+    "source_url": "https://mario.fandom.com/wiki/Roving_Racers"
+  },
+  {
+    "name": "Bonneter",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/1/1e/Cappy_Profile.png",
+    "description": "BonneterArtwork from Super Mario Odyssey.General informationFirst appearanceSuper Mario Odyssey(2017)Game appearancesSuper Mario OdysseyGame informationHomelandCap KingdomLocatedBonnetonNotable membersCappyTiaraBonneter BiologistHat and Seek HostBonneters(カブロン人,Kaburon-jin?, Bonneton People)are the natives of the Cap Kingdom introduced in the gameSuper Mario Odyssey. They are the hat ghosts who live in theBonneton areaof the Cap Kingdom.",
+    "role": "Game Character",
+    "attributes": {
+      "First": "Super Mario Odyssey (2017",
+      "Located": "Bonneton",
+      "Members": "Cappy Tiara Bonneter Biologist Hat and Seek Host"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Bonneter"
+  },
+  {
+    "name": "Madame Broode and Chain Chompikins",
+    "image_url": "https://static.wikia.nocookie.net/mario/images/3/34/Madame_Broode_Artwork_SMO.jpg",
+    "description": "Madame BroodeArtwork of Madame Broode with her Chain Chompikins in Odyssey.Chronological informationFirst gameSuper Mario Odyssey(2017)Game appearancesSuper Mario OdysseyPersonal informationGenderFemale (Madame Broode)Male (Chain Chompikins)HomelandDark SideSpeciesRabbitChain Chomp(Chain Chompikins)Character traitsAlignmentLawful evilStrengthsPunch attackChain ChompikinsWeaknessesCapturedChain Chompikins",
+    "role": "Villain",
+    "attributes": {
+      "First": "Super Mario Odyssey (2017",
+      "Gender": "Female (Madame Broode) Male (Chain Chompikins",
+      "Homeland": "Dark Side",
+      "Species": "Rabbit Chain Chomp (Chain Chompikins",
+      "Strengths": "Punch attack Chain Chompikins",
+      "Weaknesses": "Captured Chain Chompikins"
+    },
+    "source_url": "https://mario.fandom.com/wiki/Madame_Broode_and_Chain_Chompikins"
+  }
+]

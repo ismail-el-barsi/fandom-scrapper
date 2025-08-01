@@ -1,0 +1,830 @@
+[
+  {
+    "name": "Hayner",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/e/e2/Hayner_KHIII.png",
+    "description": "The Hayner from theSimulated Twilight Townis also best friends withRoxas. He also appears inKingdom Hearts 358/2 DaysandKingdom Hearts IIIalongside Pence and Olette.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "ハイネ , Haine ?",
+      "Weapon": "Struggle Bat (temporary",
+      "Species": "Human",
+      "Gender": "Male",
+      "Va English": "Justin Cowden (KH2) Zachary Gordon (KH3",
+      "Va Japanese": "Kazunori Sasaki (KH2) Makoto Suto (KH3"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Hayner"
+  },
+  {
+    "name": "Xion",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/8/89/Xion_%28Keyblade%29_KHIII.png",
+    "description": "The organization created her to absorb Sora and Roxas' power as a keyblade wielder through Sora's memories. She was meant to be a controllable fail-safe in the event that Sora and Roxas both prove to be of no use to the Organization. However, as she finds out who she really is, while spending time with Roxas and Axel, and deepening their friendship, she later chooses to disrupt the organization's plans and return the memories she absorbed to Sora in order to help him and Roxas at the cost of ...",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "シオン , Shion ?",
+      "Originally": "No. i [ 1",
+      "Homeworld": "Castle Oblivion",
+      "Residence": "Twilight Town",
+      "Membership": "Organization XIII , No. XIV (previous) Real Organization XIII , No. XIII",
+      "Weapon": "Keyblade ( Kingdom Key",
+      "Species": "Human / Replica",
+      "Gender": "Female",
+      "Va English": "Alyson Stoner (Days, KH3) Hayden Panettiere (BBS, DDD",
+      "Va Japanese": "Risa Uchida"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Xion"
+  },
+  {
+    "name": "Larxene",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/0/0f/Larxene_KHIII.png",
+    "description": "She is one of the members stationed atCastle OblivionduringKingdom Hearts: Chain of Memoriesand is part of an internal struggle between the senior and rookie members. However, her ploy to overthrow the Organization withMarluxiais derailed byAxel, and Larxene is ultimately killed bySora, making her the second member of the Organization to fall. Larxene also appears as a playable character in the non-canonicalMission ModeofKingdom Hearts 358/2 Daysand is the first playable female character in t...",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "ラクシーヌ , Rakushīnu ?",
+      "Originally": "Elrena",
+      "Residence": "The World That Never Was",
+      "Membership": "Organization XIII , No. XII (previous) Real Organization XIII , No. VI",
+      "Weapon": "Knives ( Foudre",
+      "Species": "Nobody",
+      "Gender": "Female",
+      "Va English": "Shanelle Gray",
+      "Va Japanese": "Rieko Katayama (CoM) Yūko Miyamura (Re:CoM, 358, KH2FM, KHIII"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Larxene"
+  },
+  {
+    "name": "Chirithy",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/5/5b/Chirithy_KH3.png",
+    "description": "TheChirithy(チリシィ,Chirishī?)are a species ofDream Eaterwhich first appear inKingdom Hearts χ. They are the creations of theMaster of Masters, and act throughout the game as a companion and guide to thePlayer. The Chirithy are responsible for advising and assisting the player, enabling them to become strongerKeybladewielders. While the Chirithy are present to offer advice to the player, they do not dictate the latter's actions and are content to allow the player to do as they please. The Chirit...",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "チリシィ , Chirishī ?",
+      "Image": "Spirit",
+      "Homeworld": "Daybreak Town",
+      "Residence": "Land of Departure",
+      "Va English": "Lara Jill Miller",
+      "Va Japanese": "Tomoko Kaneda"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Chirithy"
+  },
+  {
+    "name": "Dark Riku",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/b/b0/Dark_Riku_KHIII.png",
+    "description": "As one of the few time-traveling members of the Organization, Dark Riku was given a new refinedreplicabody to use as a vessel for his heart, and would additionally be infused with a fragment ofMaster Xehanort's heart alongside the rest of his fellow Organization members.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "ダーク・リク , Dāku Riku ?",
+      "Originally": "Riku Replica",
+      "Homeworld": "Castle Oblivion",
+      "Residence": "Keyblade Graveyard",
+      "Membership": "Real Organization XIII , No. X",
+      "Weapon": "Soul Eater",
+      "Species": "Replica",
+      "Gender": "Male",
+      "Va English": "David Gallagher",
+      "Va Japanese": "Mamoru Miyano"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Dark_Riku"
+  },
+  {
+    "name": "Master Eraqus",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/2/22/Master_Eraqus_KHIII.png",
+    "description": "Master Eraqus is a strong Keyblade master, caring for Terra, Ventus, and Aqua as his own children. Stern and willing to instruct, one major goal he has in life appears to be preserving peace throughout the worlds, as he rashly attacks Ventus when Eraqus discovers that through his dark half, Vanitas, Ventus can create theχ-blade, the weapon that sparked the Keyblade War and the means Master Xehanort intends to use to fulfill his goals. Unlike Master Xehanort, Eraqus has an open aversion to dar...",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "マスター・エラクゥス , Masutā Erakwusu ?",
+      "Residence": "Land of Departure",
+      "Weapon": "Master's Defender",
+      "Species": "Human",
+      "Gender": "Male",
+      "Va English": "Mark Hamill Drake Bell (young",
+      "Va Japanese": "Makio Inoue (BBS - KH3) Daisuke Namikawa (young"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Master_Eraqus"
+  },
+  {
+    "name": "Pence",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/7/79/Pence_KHIII.png",
+    "description": "A good-humored boy with an even temper, he is close to Olette like a brother. He also usually ends up being dragged by Olette to help her with her shopping. He has a knowledgeable account of theSeven Wondersof Twilight Town and is apparently skilled with computers as he manages to access the computer in the mansion. Unlike Roxas and Hayner, Pence is only seen fighting once, trying (and failing) to defendKairifromAxel.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "ピンツ , Pintsu ?",
+      "Species": "Human",
+      "Gender": "Male",
+      "Va English": "Sean Marquette (KH2) Tristan Chase (KH3",
+      "Va Japanese": "Hayato Taya"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Pence"
+  },
+  {
+    "name": "Rabbit",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/e/e2/Rabbit_KHIII.png",
+    "description": "His house is the host for theBlock Tiggermini game in the 100 Acre Wood, whilst the gate at the back of his house is the host for the Veggie Panic mini game inKingdom Hearts Re:Chain of Memories. Rabbit appears inKingdom Hearts III, in which players are able to play garden themed minigames.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "ラビット , Rabitto ?",
+      "Species": "Rabbit",
+      "Gender": "Male",
+      "Origin": "Winnie the Pooh and the Honey Tree",
+      "Va English": "Ken Sansom (KH2) Tom Kenny (KH3",
+      "Va Japanese": "Naoki Tatsuta"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Rabbit"
+  },
+  {
+    "name": "Davy Jones",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/d/d8/Davy_Jones_KHIII.png",
+    "description": "Davy Jones has a strong Scottish accent which is accented by various vocal and facial tics and has an unctuous and mocking laugh. He has commonly extended vowel sounds and is known to release water through his mouth when in despair or rage. Despite Jones' evil and ruthless nature, his character has appeared to be deeply influenced by situations involving love and passion, as a result of the ruined relationship he had with Calypso, the sea goddess, in the past. Davy Jones fell madly in love wi...",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "デイヴィ・ジョーンズ , Deivi Jōnzu ?",
+      "Homeworld": "The Caribbean",
+      "Membership": "The Flying Dutchmen (captain",
+      "Species": "Human (cursed",
+      "Gender": "Male",
+      "Origin": "Pirates of the Caribbean: Dead Man's Chest",
+      "Va English": "Robin Atkin Downes",
+      "Va Japanese": "Houchu Otsuka"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Davy_Jones"
+  },
+  {
+    "name": "Baymax",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/0/0e/Baymax_KHIII.png",
+    "description": "He is a personal healthcare companion originally designed by Tadashi Hamada. After theoriginal Baymaxwas lost, Tadashi's younger brother,Hiro Hamada, remade him and upgraded him to \"Baymax 2.0.\"",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "ベイマックス , Beimakkusu ?",
+      "Image": "Armored",
+      "Homeworld": "San Fransokyo",
+      "Membership": "Big Hero 6",
+      "Species": "Robot",
+      "Origin": "Big Hero 6",
+      "Va English": "Scott Adsit",
+      "Va Japanese": "Tokuyoshi Kawashima"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Baymax"
+  },
+  {
+    "name": "Roo",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/a/a1/Roo_KHIII.png",
+    "description": "Roois one of the characters residing in theHundred Acre Wood, and the son ofKanga. He appears inKingdom Hearts,Kingdom Hearts Final Mix,Kingdom Hearts: Chain of Memories,Kingdom Hearts Re:Chain of Memories,Kingdom Hearts II, andKingdom Hearts II Final Mix. Whenever he goes out with his mother, he goes inside her pouch. Roo is never seen alone, he is always found with either his mother Kanga orTigger(whom he idolizes from their shared love of bouncing).",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "ルー , Rū ?",
+      "Homeworld": "100 Acre Wood",
+      "Family": "Kanga (mother",
+      "Species": "Kangaroo",
+      "Gender": "Male",
+      "Origin": "Winnie the Pooh and the Honey Tree",
+      "Va English": "Aidan McGraw",
+      "Va Japanese": "Masaya Sugimoto"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Roo"
+  },
+  {
+    "name": "Sulley",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/9/91/Sulley_KHIII.png",
+    "description": "Sulley is one of the characters in the Disney filmMonsters, Inc.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "サリー , Sarī ?",
+      "Homeworld": "Monstropolis",
+      "Weapon": "Claws",
+      "Species": "Monster",
+      "Gender": "Male",
+      "Va English": "Christopher Swindle",
+      "Va Japanese": "Hidehiko Ishizuka"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Sulley"
+  },
+  {
+    "name": "Even",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/a/ac/Even_KHBBS.png",
+    "description": "Even's appearance matches his Nobody's appearance exactly, except for the differing outfits and his eyes, which are a brighter shade of green. He wears a long white lab coat, grey vest, white collared shirt, and a purple ascot. He also seems to wear black pants and silver lined boots identical to those worn by Organization XIII members.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "エヴェン , Even ?",
+      "Homeworld": "Radiant Garden",
+      "Species": "Human",
+      "Gender": "Male",
+      "Va English": "Derek Stephen Prince",
+      "Va Japanese": "Nachi Nozawa (pre Kingdom Hearts III) Shigeru Chiba (Kingdom Hearts III"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Even"
+  },
+  {
+    "name": "Flynn Rider",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/f/f7/Flynn_Rider_KHIII.png",
+    "description": "Flynn Rider, whose real name isEugene Fitzherbert, is a character inKingdom Hearts III.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "フリン・ライダー , Furin Raidā ?",
+      "Homeworld": "Kingdom of Corona",
+      "Family": "Rapunzel (girlfriend",
+      "Weapon": "Frying Pan",
+      "Species": "Human",
+      "Gender": "Male",
+      "Origin": "Tangled",
+      "Va English": "Zachary Levi",
+      "Va Japanese": "Hiroshi Hatanaka"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Flynn_Rider"
+  },
+  {
+    "name": "Chip and Dale",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/0/06/Chip_KHIII.png",
+    "description": "Chip and Dale are anthropomorphized chipmunks, and as such are very small, to the point that inKingdom Hearts IIthey are small enough to be covered by the \"Talk\" reaction command prompt. The duo are similar in appearance, though with several small differences.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "チップ, デール , Chippu, Dēru ?",
+      "Image": "Chip",
+      "Homeworld": "Disney Castle",
+      "Residence": "Disney Town (previous",
+      "Species": "Chipmunk",
+      "Gender": "Male",
+      "Origin": "Private Pluto",
+      "Va English": "Chip: Tress MacNeille Dale: Corey Burton",
+      "Va Japanese": "Chip: Roko Takizawa Dale: Minoru Inaba"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Chip_and_Dale"
+  },
+  {
+    "name": "Luxord",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/6/66/Luxord_KHIII.png",
+    "description": "Luxord, theGambler of Fate(運命を賭す者,Unmei o Tosumono?), is Rank X ofOrganization XIII, and Rank V of thereal Organization XIII. He possesses the power of time manipulation, and uses his ability to force his opponents to play timed games, with unfortunate consequences if they cannot learn the rules and lose. He commands theGamblerNobodies.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "ルクソード , Rukusōdo ?",
+      "Residence": "The World That Never Was",
+      "Membership": "Organization XIII , No. X (previous) Real Organization XIII , No. V",
+      "Weapon": "Cards ( Fair Game",
+      "Species": "Nobody",
+      "Gender": "Male",
+      "Va English": "Robin Atkin Downes",
+      "Va Japanese": "Jōji Nakata"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Luxord"
+  },
+  {
+    "name": "Sven",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/5/51/Sven_KH3.png",
+    "description": "Svenis a character inKingdom Hearts III, and the best friend and loyal companion ofKristoff.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "スヴェン , Suven ?",
+      "Homeworld": "Arendelle",
+      "Species": "Reindeer",
+      "Gender": "Male",
+      "Origin": "Frozen"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Sven"
+  },
+  {
+    "name": "Ariel",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/5/5f/ArielKHII.PNG",
+    "description": "Ariel meetsSora,Donald, andGoofyas she,Sebastian,Flounderare swimming away from someHeartless. After Sora defeats the Heartless, she introduces herself and teaches Sora how to properly move around in the water. Ariel decides to help the three find Atlantica's Keyhole after hearing Goofy mention it offhandedly to her father.King Tritonforbids his daughter from leaving the palace, but she gets angry and leaves anyway. Ariel follows Sora to help him find the crystal that has the power to reveal ...",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "アリエル , Arieru ?",
+      "Homeworld": "Atlantica",
+      "Family": "Prince Eric (husband) King Triton (father",
+      "Species": "Human Mermaid (previous",
+      "Gender": "Female",
+      "Origin": "The Little Mermaid",
+      "Va English": "Jodi Benson",
+      "Va Japanese": "Mayumi Suzuki"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Ariel"
+  },
+  {
+    "name": "Terra-Xehanort",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/6/6e/Terranort_KHIII.png",
+    "description": "Upon his \"birth\" inKingdom Hearts Birth by Sleep, Terra-Xehanort appears to retain Master Xehanort's personality, including his knowledge of darkness, thus being a mere younger incarnation of the elderly Keyblade Master's ruthlessness and cunning. Shortly after Terra-Xehanort is defeated by the Lingering Will, and loses some of his memories, he ends up in Radiant Garden, and begins to question his existence upon meeting Aqua - by strangling her. By the time he is found by Braig, Dilan andAnse...",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "テラ-ゼアノート , Tera-Zeanōto ?",
+      "Originally": "Terra (body) Master Xehanort (heart",
+      "Homeworld": "Keyblade Graveyard",
+      "Membership": "Real Organization XIII , No. IX",
+      "Weapon": "Keyblade ( Gazing Eye",
+      "Species": "Human",
+      "Gender": "Male",
+      "Va English": "Richard Epcar",
+      "Va Japanese": "Akio Ōtsuka"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Terra-Xehanort"
+  },
+  {
+    "name": "Donald Duck",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/7/75/Donald_Duck_KH3.png",
+    "description": "Donald Duckis a character from theKingdom Heartsseries. InKingdom Hearts, Donald is the Royal Magician ofDisney Castleand the royal assistant forKing Mickey. As such, his weapon of choice is a Staff. He often provides comic relief more than advancing the plot despite the amount of camera time he has in the series. He is rash and has an aggressive personality, but he is loyal to his friends.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "ドナルドダック , Donarudo Dakku ? , lit. Donald Duck",
+      "Family": "Daisy Duck (girlfriend) Huey, Dewey, and Louie (nephews) Scrooge McDuck (uncle",
+      "Weapon": "Mage's Staff",
+      "Gender": "Male",
+      "Origin": "The Wise Little Hen",
+      "Va English": "Tony Anselmo",
+      "Va Japanese": "Koichi Yamadera"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Donald_Duck"
+  },
+  {
+    "name": "Pegasus",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/5/58/Pegasus_KHIII.png",
+    "description": "Pegasus is of a free-spirited personality and will neigh whenever he wants to express his feelings. For the most part, Pegasus's personality reflects his master's feelings. For instance, if Hercules is angry, Pegasus will glare and shake his head at whomever the person is. Pegasus has a carefree, optimistic spirit when he is around his friends. For villains like Hades, Pegasus takes an immediate dislike and will express it through glares and head shaking.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "ペガサス , Pegasasu ?",
+      "Homeworld": "Olympus",
+      "Residence": "Olympus Coliseum",
+      "Species": "Pegasus",
+      "Gender": "Male",
+      "Origin": "Hercules"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Pegasus"
+  },
+  {
+    "name": "Hades",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/5/5d/Hades_KHIII.png",
+    "description": "Hades is one of the most temperamental characters in the series. Although others are shown to be hot-headed, Hades bursts out in fury on a more regular basis. When Hades gets mad, he explodes into a red pillar of fire and his normal blue colored \"hair\" burns red (which is unorthodox since blue fire is warmer than red fire). Also, while Hades is infuriated, it is shown that he is invulnerable and much more forceful than in his normal state.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "ハデス , Hadesu ?",
+      "Homeworld": "Olympus",
+      "Residence": "Underworld",
+      "Family": "Zeus (brother) Hera (sister) Hercules (nephew) Apollo (nephew) Athena (niece) Hermes (nephew",
+      "Species": "God",
+      "Gender": "Male",
+      "Origin": "Hercules",
+      "Va English": "James Woods",
+      "Va Japanese": "Kyusaku Shimada"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Hades"
+  },
+  {
+    "name": "Jack Sparrow",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/5/56/Jack_Sparrow_KHIII.png",
+    "description": "Captain Jack Sparrowis a crafty and potentially dangerous pirate who inhabitsPort Royal. After being freed from jail byWill Turner, he sets off to reclaim his stolen ship, theBlack Pearl, which was taken over byCaptain Barbossa.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "ジャック・スパロウ , Jakku Suparou ?",
+      "Homeworld": "The Caribbean",
+      "Residence": "Port Royal (previous",
+      "Weapon": "Sword",
+      "Species": "Human",
+      "Gender": "Male",
+      "Origin": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "Va English": "James Arnold Taylor (KH2) Jared Butler (KH3",
+      "Va Japanese": "Hiroaki Hirata"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Jack_Sparrow"
+  },
+  {
+    "name": "Hiro Hamada",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/8/8b/Hiro_Hamada_KHIII.png",
+    "description": "Hiro Hamada is a young boy with intelligence far beyond his years. For example, he graduated from high school when he was 13 years old alongside his childhood best friend Lucy. Because of this, he can be quite cheeky and arrogant, but never to the point of being annoying and insufferable.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "ヒロ・ハマダ , Hiro ?",
+      "Image": "Armor",
+      "Homeworld": "San Fransokyo",
+      "Membership": "Big Hero 6",
+      "Family": "Cass Hamada (maternal aunt) Unnamed parents♱Tadashi Hamada♱",
+      "Species": "Human",
+      "Gender": "Male",
+      "Origin": "Big Hero 6",
+      "Va English": "Ryan Potter",
+      "Va Japanese": "Yūtarō Honjō"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Hiro_Hamada"
+  },
+  {
+    "name": "Roxas",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/e/e7/Roxas_from_Days_render.png",
+    "description": "Roxas, theKey of Destiny(めぐりあう鍵,Meguriau Kagi?, litSerendipitous Key)is theNobodyofSora, and Rank XIII ofOrganization XIII. LikeNaminé, he was born when Sora released his own heart in order to restoreKairi's. Although Sora's heart was soon restored, Roxas continued to endure and exist, oblivious to Sora's existence for most of his life. He has the ability to use theKeyblade, and wields light, using it to direct rays that strike opponents with great power. He commands theSamuraiNobodies. He st...",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "ロクサス , Rokusasu ? , lit. Roxas",
+      "Originally": "Sora",
+      "Homeworld": "Twilight Town",
+      "Residence": "The World That Never Was (formerly) Twilight Town",
+      "Membership": "Organization XIII , No. XIII (previous",
+      "Weapon": "Keyblades ( Oathkeeper & Oblivion",
+      "Species": "Human / Nobody / Replica",
+      "Gender": "Male",
+      "Va English": "Jesse McCartney",
+      "Va Japanese": "Kōki Uchiyama"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Roxas"
+  },
+  {
+    "name": "Hercules",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/8/87/Hercules_KHIII.png",
+    "description": "Hercules is shown to be sturdy, yet sensitive, willing to withstand hours of intense training at the hands of his mentor, Phil. He has a genuine love for Megara, and is ready to sacrifice even his own life for her. And yet, he is not without fault, as insults from Hades and a series of tough matches, including a loss to the Hydra, cause the hero to doubt his worth. It's when his friends' lives are most in danger that Hercules realizes he's not worthless, and that, in his words, \"A true hero i...",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "ヘラクレス , Herakuresu ?",
+      "Homeworld": "Olympus",
+      "Residence": "Olympus Coliseum",
+      "Family": "Hera (mother) Zeus (father) Hades (paternal uncle) Apollo (half-brother) Athena (half-sister) Hermes (half-brother) Megara (girlfriend",
+      "Species": "God",
+      "Gender": "Male",
+      "Origin": "Hercules",
+      "Va English": "Sean Astin (KH) Tate Donovan (KH2, Re:coded, KH3) Josh Keaton (young",
+      "Va Japanese": "Yasunori Matsumoto Masakazu Suzuki (young"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Hercules"
+  },
+  {
+    "name": "Go Go Tomago",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/5/56/Go_Go_Tomago_KHIII.png",
+    "description": "When San Fransokyo comes under fire by theHeartless, Go Go and the rest of Big Hero 6 run intoSora,Donald Duck, andGoofyduring the battle on the San Fransokyo Bridge, and the parties decide to team up to turn back the invasion of the Heartless. Go Go is first seen being sent flying, nearly hitting Sora, Donald, and Goofy, before Hiro and Baymax arrive to see if she's okay. After Baymax runs a medical check on her and finds that she only suffered a concussion, Go Go is still out of action for ...",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "ゴー・ゴー , Gō Gō ?",
+      "Membership": "Big Hero 6",
+      "Species": "Human",
+      "Gender": "Female",
+      "Origin": "Big Hero 6",
+      "Va English": "Jamie Chung",
+      "Va Japanese": "Masumi Asano"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Go_Go_Tomago"
+  },
+  {
+    "name": "Stitch",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/5/5f/Stitch.png",
+    "description": "He was originally found inDeep Spaceon a prison ship, where he allied with Terra, Ventus, and Aqua as a party member andDimension Link, but eventually escaped and made his way toRadiant Garden, where he fought alongside Sora and his friends in theBattle of the 1000 Heartless. Afterward, he joined them as aSummon. He is also one of the few Disney characters that appears outside his homeworld.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "スティッチ / 試作品626号 , Sutitchi / Shisakuhin 626-gō ?",
+      "Homeworld": "Deep Space",
+      "Species": "Alien",
+      "Gender": "Male",
+      "Origin": "Lilo & Stitch",
+      "Va English": "Chris Sanders",
+      "Va Japanese": "Koichi Yamadera"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Stitch"
+  },
+  {
+    "name": "Riku Replica",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/5/57/Riku_Replica_KHIII.png",
+    "description": "Though he almost always appears inDark Mode, the only time he does not have this suit on is his debut in either storyline. Originally a subject to test the real Riku, the Replica was later exploited to become a puppet ofMarluxiawho attempted to use him to manipulate Sora and overthrowthe Organization.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "リク=レプリカ , Riku-Repurika ?",
+      "Homeworld": "Castle Oblivion",
+      "Weapon": "Soul Eater",
+      "Species": "Replica",
+      "Gender": "Male",
+      "Va English": "David Gallagher",
+      "Va Japanese": "Mamoru Miyano"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Riku_Replica"
+  },
+  {
+    "name": "Marluxia",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/5/56/Marluxia_KHIII.png",
+    "description": "Marluxia, theGraceful Assassin(優雅なる凶刃,Yūga-naru Kyōjin?, lit.Graceful Assassin's Blade), is theNobodyofLauriam, Rank XI ofOrganization XIII, and Rank VII of thereal Organization XIII. He is the lord ofCastle Oblivion, and the main antagonist ofSora's story inKingdom Hearts: Chain of Memories. He controls flowers, and uses his control to command beams of destructive energy from flower-themed minions, bombard the opponent with flurries of petals, and to attack opponents with his massive scythe....",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "マールーシャ , Mārūsha ? , lit. Marluxia",
+      "Originally": "Lauriam",
+      "Residence": "The World That Never Was Castle Oblivion Keyblade Graveyard",
+      "Membership": "Organization XIII , No. XI (previous) Real Organization XIII , No. VII",
+      "Weapon": "Scythe ( Graceful Dahlia",
+      "Species": "Nobody",
+      "Gender": "Male",
+      "Va English": "Keith Ferguson",
+      "Va Japanese": "Tatsuya Kando (CoM) Shūichi Ikeda"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Marluxia"
+  },
+  {
+    "name": "Megara",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/b/b5/Megara_KHIII.png",
+    "description": "Megara has, despite her secret love for Hercules, a rather negative outlook on life, as she is secretly allied with Hades. She tries to sever these bonds, but must ask for help from Sora, as she is far too vulnerable to confront the god. She wants to let Hercules know of her true feelings, but fears that this could open a weakness to Hades. The Lord of the Dead knows of Herc's feelings for the girl, however, and uses her as a \"pawn\" to get the hero to bend to his desires.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "メガラ , Megara ?",
+      "Homeworld": "Olympus",
+      "Family": "Hercules (boyfriend",
+      "Species": "Human",
+      "Gender": "Female",
+      "Origin": "Hercules",
+      "Va English": "Susan Egan",
+      "Va Japanese": "Rica Matsumoto"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Megara"
+  },
+  {
+    "name": "Olette",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/c/c4/Olette_KHIII.png",
+    "description": "Her tomboy attitude that mixes with her happy-go-lucky attitude makes her fit in with the three boys she usually hangs out with in Twilight Town: Hayner, Pence, and Roxas. She's intelligent, a bookworm, and witty. She also has a sense of responsibility, as shown on the fifth day in the Simulated Twilight Town when she persuades Hayner, Pence and Roxas to get started on their summer assignment, which they reluctantly do. She is also a sort of dramatic person, calling Kairi and Sora's story \"ro...",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "オレット , Oretto ?",
+      "Species": "Human",
+      "Gender": "Female",
+      "Va English": "Jessica DiCicco (KH2) Ashley Boettcher (KH3",
+      "Va Japanese": "Yuka Hirasawa (KH2) Yuna Watanabe (KH3"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Olette"
+  },
+  {
+    "name": "Aqua",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/0/0a/Aqua_KHIII.png",
+    "description": "Her name is Latin for \"water\", whileKairi's name in Japanese means \"sea\". The only connection between the two is that Aqua met Kairi inRadiant GardeninKingdom Hearts Birth by Sleepand put a protective spell on her necklace, which later brought Kairi to Destiny Islands. Kairi, by accidentallytouching Aqua's Keybladeduring this time, also inherited the Keyblade from Aqua. The official Japanese website refers to Aqua as the \"Dancing Waters Forming Bonds\"(絆繋ぐ舞水,Kizuna Tsunagu Busui?).",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "アクア , Akua ? , lit. Water",
+      "Residence": "Land of Departure",
+      "Weapon": "Keyblade",
+      "Species": "Human",
+      "Gender": "Female",
+      "Va English": "Willa Holland",
+      "Va Japanese": "Megumi Toyoguchi"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Aqua"
+  },
+  {
+    "name": "Merlin",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/8/8a/Merlin_KHIII.png",
+    "description": "Merlin appears to be calm and decisive. He has an active nature even though he seems to be one of the oldest people in theKingdom Heartsseries. Merlin is nice and seems to be caring to the ones close to him. However, he can be easily annoyed, especially when people insult his talent for magic, and he will not hesitate to physically retaliate.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "マーリン , Mārin ?",
+      "Residence": "Radiant Garden Traverse Town (previous) Twilight Town (previous",
+      "Membership": "Hollow Bastion Restoration Committee",
+      "Species": "Human",
+      "Gender": "Male",
+      "Origin": "The Sword in the Stone",
+      "Va English": "Jeff Bennett",
+      "Va Japanese": "Minoru Uchida (KH2) Hiroshi Arikawa (BBS) Atsushi Gotō (KH3"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Merlin"
+  },
+  {
+    "name": "CDA Agent",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/9/99/CDA_Agent_KH3.png",
+    "description": "The CDA Agents are characters in the Disney filmMonsters, Inc.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "CDAエージェント , CDA ējento ?",
+      "Homeworld": "Monstropolis",
+      "Species": "Monster",
+      "Va English": "Roger Craig Smith",
+      "Va Japanese": "Shingo Horii Minoru Inaba"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/CDA_Agent"
+  },
+  {
+    "name": "Aeleus",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/5/50/Aeleus_KHIII.png",
+    "description": "Aeleus is seen wearing the same guard outfit as Dilan: a grey uniform with white cuffs and a red heart on the chest. There are blue hearts on the cuffs of both of his gloves. Aeleus's Axe Sword also appears much smaller than his Nobody's weapon, as well as being more reminiscent of an actual axe, rather than a combination of an axe and a sword. Aeleus looks nearly identical to his Nobody counterpart, except for some minor alterations.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "エレウス , Ereusu ? , lit. Aeleus",
+      "Homeworld": "Radiant Garden",
+      "Weapon": "Axe Sword",
+      "Species": "Human",
+      "Gender": "Male",
+      "Va English": "Dave Boat",
+      "Va Japanese": "Fumihiko Tachiki"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Aeleus"
+  },
+  {
+    "name": "Jiminy Cricket",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/f/f9/Jiminy_Cricket_KHIII.png",
+    "description": "Jiminy is a friendly and helpful individual with a strong moral compass, as expected of the being assigned to serve asPinocchio's conscience. Jiminy is a good record keeper with a knack for keeping track of everything he comes across, a talent which he happily shares with Sora, Donald and Goofy. DuringKingdom Hearts: Chain of Memories, Jiminy proved to be wise and a true friend to Sora.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "ジミニー・クリケット , Jiminī Kuriketto ?",
+      "Homeworld": "Prankster's Paradise",
+      "Residence": "Disney Castle",
+      "Gender": "Male",
+      "Origin": "Pinocchio",
+      "Va English": "Eddie Carroll (KH, KH2, Re:CoM) Phil Snyder (coded cinematic, DDD) Joe Ochman (Re:coded, KH3",
+      "Va Japanese": "Kaneta Kimotsuki (KH, KH2, Re:CoM, coded, Re:coded, DDD, coded cinematic) Yohei Tadano (KH3"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Jiminy_Cricket"
+  },
+  {
+    "name": "Sora",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/0/00/Sora_KHIII_RM.png",
+    "description": "Sorais the main protagonist and main playable character in most of theKingdom Heartsseries.He is aKeybladewielder from theDestiny Islandswhere he, along with his childhood friendsRikuandKairi, dreamed of venturing away to find out what lies beyond their home. Sora's primary partners areDonaldandGoofyand have been on a journey to search forKing Mickeythroughout the franchise ofKingdom Heartsgames.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "ソラ , Sora ? , lit. Sky",
+      "Weapon": "Keyblade",
+      "Species": "Human",
+      "Gender": "Male",
+      "Va English": "Haley Joel Osment Luke Manriquez (young",
+      "Va Japanese": "Miyu Irino Takuto Yoshinaga (young"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Sora"
+  },
+  {
+    "name": "Vexen",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/8/82/Vexen_KHIII.png",
+    "description": "Vexen, theChilly Academic(いてつく学究,Itetsuku Gakkyū?, lit.Freezing Scholar), is theNobodyofEven, Rank IV ofOrganization XIII, and a reserve member of thereal Organization XIII. He controls ice and uses it to command storms and blizzards, freezing his opponents solid, while defending himself with his massive shield.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "ヴィクセン , Vikusen ?",
+      "Originally": "Even",
+      "Residence": "The World That Never Was",
+      "Membership": "Organization XIII , No. IV (previous) Real Organization XIII (reserve",
+      "Weapon": "Shield ( Frozen Pride",
+      "Species": "Nobody",
+      "Gender": "Male",
+      "Va English": "Derek Stephen Prince",
+      "Va Japanese": "Tatsuya Kando (CoM) Nachi Nozawa (KH2FM, Re:CoM, 358) Shigeru Chiba (KH3"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Vexen"
+  },
+  {
+    "name": "Minnie Mouse",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/9/96/Minnie_KHIII.png",
+    "description": "Queen Minnie is very humble, regards herself as equal to her citizens, and displays very little hubris toward her status as queen. For example, she asks Aqua to address her simply as \"Minnie\". She cares very much for those dear to her, such as Mickey, Donald and Goofy, hoping for their safe return from their journey. Minnie also has little tolerance for evildoers, such as Pete and Maleficent, demanding to know what they are up to. The status of her kingdom also concerns her because of the Unv...",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "ミニー王妃 , Minī Ōhi ?",
+      "Homeworld": "Disney Castle",
+      "Residence": "Disney Town (BBS) Country of the Musketeers (DDD",
+      "Family": "Mickey Mouse (husband",
+      "Gender": "Female",
+      "Origin": "Steamboat Willie",
+      "Va English": "Russi Taylor Kaitlyn Robrock",
+      "Va Japanese": "Yūko Mizutani (KH - DDD) Aya Endō (2016-present"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Minnie_Mouse"
+  },
+  {
+    "name": "Young Xehanort",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/5/5c/Young_Xehanort_KHIII_Render.png",
+    "description": "At some point in time, he was gifted the power to transcend time by hisfuture Heartlessin order to assemble a new Organization XIII in the future, consisting entirely of thirteen vessels infused with a fragment of his heart.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "ヤング・ゼアノート , Yangu Zeanōto ?",
+      "Homeworld": "Scala ad Caelum",
+      "Residence": "Destiny Islands Keyblade Graveyard",
+      "Membership": "Real Organization XIII , No. XII",
+      "Weapon": "Keyblade ( Young Xehanort's Keyblade ) Energy Blades",
+      "Species": "Human",
+      "Gender": "Male",
+      "Va English": "David Gallagher (BbS) Benjamin Diskin",
+      "Va Japanese": "Mamoru Miyano (BbS) Takanori Okuda"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Young_Xehanort"
+  },
+  {
+    "name": "Hamm",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/6/68/Hamm_KHIII.png",
+    "description": "Hamm is a pink piggy bank with black eyes.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "ハム , Hamu ?",
+      "Homeworld": "Toy Box",
+      "Species": "Toy",
+      "Gender": "Male",
+      "Origin": "Toy Story",
+      "Va English": "John Ratzenberger",
+      "Va Japanese": "Shunsuke Sakuya"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Hamm"
+  },
+  {
+    "name": "Apollo, Athena, and Hermes",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/9/95/Apollo_KH3.png",
+    "description": "Apollo is a tall, buff man with deep violet skin and even darker shoulder length wavy hair. Similar to Athena, he dons a red Trojan helmet with yellow fur. He has metallic red chest armor covered with a pinkish-red and purple cape that is fastened with a large pin that has a sun etched into it. He wears purple and red cuffs around his wrists and ankles, purple biker shorts with an orange sash tied around his waist and a purple belt with a red jewel in the center, and red sandals. Additionally...",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "アポロン, アテナ, ヘルメス , Aporon, Atena, Herumesu ?",
+      "Image": "Apollo",
+      "Homeworld": "Olympus",
+      "Family": "Hera (half-mother) Zeus (father) Hades (uncle) Hercules (half-brother",
+      "Species": "Gods",
+      "Gender": "Male / Female",
+      "Origin": "Hercules"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Apollo,_Athena,_and_Hermes"
+  },
+  {
+    "name": "Hector Barbossa",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/b/b3/Hector_Barbossa_KHIII.png",
+    "description": "Barbossa is a ruthless pirate who has no regard for anyone's life but his own. For example, when Sora says: \"It's Sora, Donald and Goofy to you! And don't you forget it!\", Barbossa answers: \"That we won't. And we'll engrave it on your tombstone, to be sure\". He will do anything to be freed from the curse, as seen in the lengths he goes to capture Elizabeth and Will, killing anyone who stood in his way. Barbossa is not foolish either, never underestimating Sora or Jack and sending constant str...",
+    "role": "Boss",
+    "attributes": {
+      "Japanese": "バルボッサ , Barubossa ?",
+      "Image": "Normal",
+      "Homeworld": "The Caribbean",
+      "Residence": "Port Royal (previous",
+      "Species": "Human",
+      "Gender": "Male",
+      "Origin": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "Va English": "Brian George",
+      "Va Japanese": "Haruhiko Jō"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Hector_Barbossa"
+  },
+  {
+    "name": "Goofy",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/7/73/Goofy_KH3.png",
+    "description": "Despite his position at Disney Castle, Goofy dislikes using weapons (instead using a simpleshieldin combat) and attempts to avoid fighting whenever possible, preferring to find peaceful solutions to problems. Though simple-minded and clumsy as always, and constantly the butt of comic relief, Goofy is the constant voice of optimism and, surprisingly, selectively perceptive, often noticing things others miss and keeping his cool when Sora and Donald lose it. He comes off as the sage of the grou...",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "グーフィー , Gūfī ? , lit. Goofy",
+      "Weapon": "Knight's Shield",
+      "Gender": "Male",
+      "Origin": "Mickey's Revue",
+      "Va English": "Bill Farmer",
+      "Va Japanese": "Yū Shimaka (KH - MoM) Takahiro Miyamoto (2020-present"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Goofy"
+  },
+  {
+    "name": "Cutler Beckett",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/f/f1/Cutler_Beckett_KH3.png",
+    "description": "Beckett is best described as a cruel, unsympathetic and ruthless fiend preparing to murder masses of people including children and also rather arrogant preparing to let nothing stand in his way. He is also boastful by saying \"It'sLordnow, actually.\" Ironically, Beckett was a person who hunted down piracy ruthlessly. He is sophisticated, drinking tea on his flagship theHMS Endeavorbefore going into battle. He is also manipulative and smooth-talking, and will use any means necessary to get what...",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "ベケット , Beketto ?",
+      "Homeworld": "The Caribbean",
+      "Species": "Human",
+      "Gender": "Male",
+      "Origin": "Pirates of the Caribbean: Dead Man's Chest",
+      "Va English": "Mick Wingert",
+      "Va Japanese": "Wataru Yokojima"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Cutler_Beckett"
+  },
+  {
+    "name": "Randall Boggs",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/f/fc/Randall_KHIII.png",
+    "description": "Randall Boggsis the main antagonist of the Disney/Pixar animated Monsters, Inc. franchise and an antagonist inKingdom Hearts III.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "ランドール , Randōru ?",
+      "Homeworld": "Monstropolis",
+      "Species": "Monster",
+      "Gender": "Male",
+      "Va English": "J.P. Manoux",
+      "Va Japanese": "Yutaka Aoyama"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Randall_Boggs"
+  },
+  {
+    "name": "Mike Wazowski",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/9/9e/Mike_KHIII.png",
+    "description": "Mike Mazorciis a green cyclops fromMonstropolisinKingdom Hearts III.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "マイク , Maiku ?",
+      "Species": "Monster",
+      "Gender": "Male",
+      "Origin": "Monsters, Inc.",
+      "Va English": "Carlos Alazraqui",
+      "Va Japanese": "Yūji Tanaka"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Mike_Wazowski"
+  },
+  {
+    "name": "Will Turner",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/a/a3/Will_Turner_KHIII.png",
+    "description": "Will is a courageous man, shown prominently when he threatens to sacrifice himself on Barbossa's ship if the pirates won't release Elizabeth, Sora, Donald and Goofy. Will is also a caring person. He cares about Elizabeth in particular, but also quickly befriends and assists relative strangers like Sora, Donald, and Goofy. Despite having a great dislike of pirates, he begins to show signs of caring for Jack Sparrow as well over the course of the story.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "ウィル・ターナー , Wiru Tānā ?",
+      "Homeworld": "The Caribbean",
+      "Residence": "Port Royal",
+      "Family": "Elizabeth Swann (wife",
+      "Species": "Human",
+      "Gender": "Male",
+      "Origin": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "Va English": "Crispin Freeman",
+      "Va Japanese": "Daisuke Hirakawa"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Will_Turner"
+  },
+  {
+    "name": "Anti-Aqua",
+    "image_url": "https://static.wikia.nocookie.net/kingdomhearts/images/3/3f/Anti-Aqua_KHIII.png",
+    "description": "Unlike Aqua, who is usually altruistic, Anti-Aqua is bitter, angry and cruel. She is particularly resentful of King Mickey, whom she accuses of having abandoned her in theDark Worldfor more than a ten years, claiming that her loneliness and fears have made her feel despair and misery.",
+    "role": "Game Character",
+    "attributes": {
+      "Japanese": "アンチ • アクア , Anchi-Akua ? , lit. Anti-Aqua",
+      "Originally": "Aqua",
+      "Homeworld": "Realm of Darkness",
+      "Weapon": "Master's Defender",
+      "Species": "Human",
+      "Gender": "Female",
+      "Va English": "Willa Holland",
+      "Va Japanese": "Megumi Toyoguchi"
+    },
+    "source_url": "https://kingdomhearts.fandom.com/wiki/Anti-Aqua"
+  }
+]

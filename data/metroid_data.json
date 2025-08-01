@@ -1,0 +1,501 @@
+[
+  {
+    "name": "Pirate Commander",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/b/be/Commander_pirate.png",
+    "description": "On thePirate Homeworld, one Commander shows up repeatedly to summon more Commando Pirates and impede Samus' path. This particular Commander first appears when Samus sets off thePirate Alarm Systemin theScrapvault, where it summons a pair of Commandos and orders them to kill her. DuringFleet Admiral Castor Dane's assault on the Homeworld, inTransit Tunnel P69, twoFederation Marinescan be found firing down in a parallel area to the left of Samus, right before she moves on. If she watches long e...",
+    "role": "Game Character",
+    "attributes": {
+      "Games": "Metroid Prime 3: Corruption",
+      "Location": "Transit Station Leviathan , Pirate Homeworld",
+      "Attacks": "Phazon Slash, Phazon Blaster, Warping, Summoning Pirate Commando Reinforcements.",
+      "Weakness": "Hyper Beam, Hyper Missile",
+      "Music": "Zako",
+      "Reward": "Access to Pirate Homeworld Leviathan"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Pirate_Commander"
+  },
+  {
+    "name": "Boss",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/6/67/Boss.png",
+    "description": "The boss led a band of a hundred Space Pirates as they attempted to take theCrest. After killing the guards, he determined that only the ship's cargo was worth anything and doubted that the passengers would be worth any ransom. Overhearinga boycomforting his younger sister by saying that someone would respond to their S.O.S., he taunted the children and attacked them.",
+    "role": "Boss",
+    "attributes": {
+      "Aliases": "\"Boss\" [ 1",
+      "Death": "Killed by Samus shortly before her mission to Aether",
+      "Gender": "Male [ 1",
+      "Height": "At least twice as tall as a human",
+      "Ship": "Space Pirate mothership [ 1",
+      "Weapon": "Scythe"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Boss"
+  },
+  {
+    "name": "Ridley",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/c/c4/SSBU_Spirits_Ridley.png",
+    "description": "Description non trouvée.",
+    "role": "Main Character",
+    "attributes": {
+      "Species": "Unknown ( space dragon in non-canon media",
+      "Homeworld": "Zebes [ 1",
+      "Born": "Prior to all events of the Metroid timeline . Reborn through cloning in Metroid: Other M .",
+      "Death": "Super Metroid Metroid: Other M ( clone ) Metroid Fusion ( X Parasite clone",
+      "Gender": "Male",
+      "Eyes": "Yellow, orange, yellow-green (varies between appearances",
+      "Affiliation": "Space Pirate military commander."
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Ridley"
+  },
+  {
+    "name": "Mother Brain",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/6/64/MZM_art_Mother_Brain.png",
+    "description": "Mother Brain(マザーブレイン,Mazā Burein?), sometimes shortened to simplyMother, is a recurring antagonist in theMetroidseries. She is an ambitious, cold, and ill-temperedartificial intelligencecreated by theChozo, who turned against them to lead theSpace Piratesinstead. As the head of the Pirates onZebes, Mother Brain improved their military strength and thus, along with her plan to weaponize theMetroids, posed a massive threat to galactic society.",
+    "role": "Main Character",
+    "attributes": {
+      "Image": "First form",
+      "Species": "Unique organic super computer",
+      "Homeworld": "Created on Zebes",
+      "Born": "Presumably created during the Chozo era. Rebuilt by Space Pirates between the events of Metroid / Metroid: Zero Mission and Super Metroid . [ 1",
+      "Death": "\"Killed\" by Samus Aran on Zebes during the former's Zero Mission . Eradicated from the universe after the Final Conflict , when Zebes self-destructed.",
+      "Parents": "Created by the Chozo",
+      "Gender": "Feminine Programing",
+      "Eyes": "Red Orange White",
+      "Affiliation": "Space Pirate commander, bio-mechanical super computer controlling planet Zebes . Originally served the Chozo and Samus Aran .",
+      "Voice Actor": "Levi Stubbs ( Captain N: The Game Master , English) Évelyne Grandjean ( Captain N: The Game Master , French"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Mother_Brain"
+  },
+  {
+    "name": "Fleet Admiral",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/e/eb/Fleet_Admiral.png",
+    "description": "TheFleet Admiral(real name unknown) is the moustachioed captain of aGalactic Federationarmada dispatched to theExtreme Galaxyin the final chapters ofMetroid EX. Having been summoned byPapa Lightningof theCraftsmen, the Admiral commands his troops to battle theGreed Corps. A fellow crewmember on his ship asks why they are in the Extreme Galaxy. The admiral responds that they are here to rescue someone very important,Samus Aran. This admiral resemblesCommander Adam MalkovichandFleet Admiral Cas...",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Human",
+      "Gender": "Male",
+      "Hair": "Dark"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Fleet_Admiral"
+  },
+  {
+    "name": "Grandpa",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/5/51/Joey%27s_Grandpa.png",
+    "description": "Grandpais a character that only appears at the very beginning ofSamus and Joey. The grandfather ofJoey Apronika, he works to maintain a windmill onLibertyand may have been Joey's caretaker after the death of hisfatherand departure of hismother. Like with the other villagers on Liberty (except for Joey), Grandpa is not skilled in combat and very worried about Joey getting into dangerous situations. Joey wishes to become strong so he can protect his Grandpa.",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Human",
+      "Homeworld": "Liberty",
+      "Gender": "Male",
+      "Hair": "Possibly grey"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Grandpa"
+  },
+  {
+    "name": "PFC E. Denys",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/1/1f/PFC_E._Denys.png",
+    "description": "Private First Class E. Denyswas aGalactic Federation TrooperinMetroid Prime 2: Echoes. Denys was the last of the known Troopers to die onAether. The trooper was one of those inForce Two, sent to set up a base unknowingly near aSplinterHive. It is unknown who or what Denys' killer was, although the Logbook entry seems to imply that the trooper may not have had the opportunity to identify his attacker. It is possible that it was aWar Wasp, which had likely instantly killed him by lethal stinger...",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Human",
+      "Death": "Most likely War Wasp attack."
+    },
+    "source_url": "https://metroid.fandom.com/wiki/PFC_E._Denys"
+  },
+  {
+    "name": "LCDR T. Huxley",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/9/94/Noncanon.png",
+    "description": "PFC M. Veroniclaims to have spoken to a male doctor aboutPFC G. Haley's condition, indicating the gender of either Huxley orPFC X. Dominguez, the only other medic.",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Human",
+      "Death": "Unknown, most likely killed by Dark Splinters.",
+      "Gender": "Unknown (possibly male",
+      "Affiliation": "Galactic Federation , GFMC Task Force Herakles"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/LCDR_T._Huxley"
+  },
+  {
+    "name": "Omega Pirate",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/4/4d/Omega_Pirate_Concept_Remastered.png",
+    "description": "Elite PirateUpsilon, more commonly known as theOmega Pirate, was one of the most powerfulSpace Piratesever created and had the potential to be a new standard for the Pirates. The Omega Pirate was considered, byScience Team, the zenith ofProject Helix. Fused withPhazonreserves, the Omega Pirate was capable of regeneration and wave quake generation. It was destroyed bySamus Aranwhen she took thePhazon Minesby force, providing her with thePhazon Suitupgrade. TheBerserker KnightsandBerserker Lord...",
+    "role": "Game Character",
+    "attributes": {
+      "Games": "Metroid Prime Metroid Prime Pinball",
+      "Location": "Elite Quarters , Phazon Mines Level Three",
+      "Attacks": "Wave Quake Generators , dual Plasma Incendiary Launchers , claws",
+      "Weakness": "Phazon Armor , later chest orb."
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Omega_Pirate"
+  },
+  {
+    "name": "Potato Farmer",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/d/d0/Potato_Farmer.png",
+    "description": "\"Potato Farmer\"\"Potato Farmer\" in theGalactic Federation Academy.HomeworldJigradAliasesPotato Farmer, PotatoGenderMaleAffiliationGalactic Federation\"Potato Farmer\"(ジャガイモ井?)(also referred to as\"Potato\"(ジャガイモ?)) is a derogatory nickname for one ofDamara's two close friends at theDaibanGalactic Federation Academywho had also presentedChairman Keatonwith the flowers (actually aMimic) at his inaugural celebration. He was bullied byanother studentfor coming from a rural area in the galaxy. Later he...",
+    "role": "Anime Character",
+    "attributes": {
+      "Homeworld": "Jigrad",
+      "Gender": "Male"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Potato_Farmer"
+  },
+  {
+    "name": "Spire",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/0/09/Spire.jpg",
+    "description": "Spire is the last of his kind, theDiamonts, an extremely strong race composed of silicon-based organic rock that hail from the planetMondreus. Little is known about him. He wearily searches for the fate and location of the rest of his people, if any. When Spire hears of a source ofUltimate Powerin theAlimbic Cluster, he is drawn by the possibility of using it to discover the true fate of the Diamonts.",
+    "role": "Game Character",
+    "attributes": {
+      "Species": "Diamont",
+      "Homeworld": "Mondreus",
+      "Aliases": "Spibot [ note 1",
+      "Gender": "Male",
+      "Weapon": "Magmaul",
+      "Alt": "Dialanche",
+      "Affiliation": "Bounty Hunter",
+      "Music": "Pursuit Spire"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Spire"
+  },
+  {
+    "name": "Zoomer (character)",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/9/94/Zoomer_char_2.png",
+    "description": "Zoomer worked in the Mother Brain Chamber ofMetroid. Zoomer was wipingMother Brain'sControl Capsulewith white cloth while she hired'Big Time' Brannigan, and Zoomer questioned theBounty Hunter's self-advertised \"100% efficiency rating\", mentioning that it had heard rumors otherwise. Big Time fired upon Zoomer in retaliation, claiming to hate \"unsightly lint\".",
+    "role": "Character",
+    "attributes": {
+      "Species": "Zoomer",
+      "Homeworld": "Metroid",
+      "Weapon": "Pistol",
+      "Eyes": "Blue",
+      "Affiliation": "Space Pirates"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Zoomer_(character)"
+  },
+  {
+    "name": "Flaahgra",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/0/08/Flaahgra.png",
+    "description": "Flaahgrais an enormous mutated plant-like creature inMetroid Primeand is the main boss of theChozo Ruins.",
+    "role": "Anime Character",
+    "attributes": {
+      "Location": "Sunchamber , Chozo Ruins",
+      "Attacks": "Toxic blasts, ability to grow toxic plants , a pair of vicious scythes on its 'forearms', Flaahgra Tentacles .",
+      "Weakness": "Vulnerable to Morph Ball Bombs at its roots; stunned by concentrated weapons fire; requires constant concentrated sunlight provided by reflecting panels.",
+      "Music": "Flaahgra",
+      "Reward": "Varia Suit"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Flaahgra"
+  },
+  {
+    "name": "Defen",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/7/7c/Defen.png",
+    "description": "When Samus lands on the planet and ventures off into town, Defen attacksJoey ApronikaandDiesel, her comrades, and traps them in a submarine, which he drops into the water. Samus is warned about a \"Sea Demon\" that is responsible for the water toxicity and assumes Defen is this monster. The submarine is incapable of rising to the surface and is only strong enough to remain intact for five minutes. Samus jumps in after it in an attempt to save them, but is attacked by Defen and Rastodon, the tru...",
+    "role": "Anime Character",
+    "attributes": {
+      "Death": "Killed by debris from the explosion of a volcano caused by Samus Aran",
+      "Gender": "Male",
+      "Affiliation": "Deadly Six Stars"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Defen"
+  },
+  {
+    "name": "Baby",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/8/8d/MSR_baby_artwork.jpg",
+    "description": "Thebaby,also known as thelast Metroid,Metroid Hatchling,Metroid larva,Hatchling,Baby Metroid,orinfant Metroid,was the last surviving member of itsspeciesin their natural habitat ofSR388. It is best remembered in itsinfant stageseen inMetroid II: Return of Samusand its remake,Metroid: Samus Returnsand the beginning ofSuper Metroid, although it did not keep that form for long in the latter game.",
+    "role": "Game Character",
+    "attributes": {
+      "Species": "Metroid",
+      "Homeworld": "SR388",
+      "Born": "Queen's nest ( SR388 ) (born at the end of the SR-388 incident",
+      "Death": "Tourian ( Zebes ) (killed by Mother Brain during the final battle",
+      "Parents": "Queen Metroid (biological) Samus Aran (adoptive"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Baby"
+  },
+  {
+    "name": "Ensign",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/e/e7/Ensign_2.png",
+    "description": "TheEnsignis a crew member on board theG.F.S.Olympus. He is a genericMale Fleet Trooperstationed to the left in theFlag Bridge. Before theOlympusfollows the capturedLeviathan Battleshipinto awormholetoPhaaze, he briefly speaks toFleet Admiral Castor Daneto inform him of Samus' arrival. He is unseen in the cutscene.",
+    "role": "Character",
+    "attributes": {
+      "Species": "Human",
+      "Homeworld": "Onboard G.F.S. Olympus",
+      "Gender": "Male",
+      "Affiliation": "Galactic Federation"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Ensign"
+  },
+  {
+    "name": "Little Birdie",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/2/2b/SSBU_Spirits_Little_Birdie.png",
+    "description": "Little Birdie has only been seen in the form ofRidley's clone, which was created from DNA found on Samus' armor prior to the game's events. Not knowing he was spawned by Ridley's DNA, the scientists thought he lacked potential as abioweapon, and instead began treating him as their pet, giving him the nickname \"Little Birdie\" and keeping him in theBreeding Roomin theBiosphere. Some time later, he was found playing dead in his cage and escaped after he brutally murdered the unfortunatescientist...",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "\" Space Dragon \"",
+      "Homeworld": "BOTTLE SHIP",
+      "Born": "Cloned from Ridley between the events of Super Metroid and Metroid: Other M",
+      "Gender": "Male [ 1",
+      "Eyes": "Red",
+      "Affiliation": "Ringleaders bioweapon"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Little_Birdie"
+  },
+  {
+    "name": "Sir",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/6/6f/Sir.jpg",
+    "description": "\"Sir\"is a student at theDaibanFederation Academy. In one scene during chapter 14 of theMetroid Manga, he can be seen bullying one ofDamara's friends.Damarathen steps in, angry at him for trying to \"defile the holy academy with violence\". He repeatedly calls her and her friends \"out-planet hicks\" and \"poor potato farmers\" for coming from rural areas in the galaxy (such asJigradin Damara's case). He is then later mauled byPyonchi, whenSamus,Adam MalkovichandChairman Keatonarrive to discuss Samu...",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "\" Ceratopsid \"",
+      "Homeworld": "Uncertain (presumably Daiban",
+      "Gender": "Male"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Sir"
+  },
+  {
+    "name": "Samus (Super Smash Bros.)",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/1/18/SSB_Samus.PNG",
+    "description": "Samus is one of the eight default characters, with her appearance based onSuper Metroid. Her stock art icon on the character selection screen is directly based onthisSuper Metroidstock art. Her special moveset is based onpower-upsfrom her home series, which includes theCharge Beam, theGrapple Beam(as herGrab), theScrew Attack, andBombs. In the first game, she is subject to a rather infamous \"glitch\" where, if she is hit byPikachu's thunder jolt or a ray gun, her Varia Suit vanishes and she ha...",
+    "role": "Game Character",
+    "attributes": {
+      "Image": "SSB",
+      "Number": "04",
+      "Games": "Super Smash Bros. Super Smash Bros. Melee Super Smash Bros. Brawl Super Smash Bros. for Nintendo 3DS and Wii U Super Smash Bros. Ultimate",
+      "Final Smash": "Zero Laser"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Samus_(Super_Smash_Bros.)"
+  },
+  {
+    "name": "Commander Nemo",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/8/82/Nemo.png",
+    "description": "After not contacting Samus in a long time, Commander Nemo called for Samus inYear 20X5. AtGalactic Federation Police HQ, he briefed Samus on her new mission, explaining that theMetroid capsulehad been stolen from theSpace Research Vessel MarinabySpace Piratesa month earlier. With theFederation Policeunable to invade Zebes, Nemo assigned Samus to defeat the Metroids and Mother Brain. Concerned that Samus was out of practice, Nemo also decided to test her skills by playingVolleyballon theFamily...",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Human",
+      "Gender": "Male",
+      "Hair": "Dark, balding"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Commander_Nemo"
+  },
+  {
+    "name": "Commander Adam Malkovich",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/a/a8/Metroid_Other_M_Adam_Malkovich.png",
+    "description": "CommanderAdam Malkovich(アダム・マルコビッチ,Adamu Marukobitchi?)was a celebrated military leader in theGalactic Federation. He served in theGalactic Federation Armyas the only commanding officer toSamus Aran.",
+    "role": "Game Character",
+    "attributes": {
+      "Image": "Human",
+      "Species": "Human Artificial intelligence",
+      "Death": "Perished in the self-destruct of the BOTTLE SHIP 's Sector Zero . Consciousness recreated as artificial intelligence.",
+      "Gender": "Male",
+      "Height": "Approximately 6' (1.84 m). [ 1",
+      "Hair": "Black",
+      "Eyes": "Blue",
+      "Affiliation": "Galactic Federation Army Galactic Federation 07th Platoon",
+      "Voice Actor": "Metroid: Other M Dave Elvin (English) Rikiya Koyama (Japanese) (Communicates exclusively through text in Fusion , text-to-speech used in Dread"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Commander_Adam_Malkovich"
+  },
+  {
+    "name": "Vymsz II",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/c/c3/Vymsz_II.jpg",
+    "description": "Vymsz II, according to theGF Database, was the 1st emperor of theS-Shar Dynasty. A stonework sculpture of his head can be found in theImperial HallonBryyo.",
+    "role": "Character",
+    "attributes": {
+      "Species": "Bryyonian",
+      "Homeworld": "Bryyo",
+      "Gender": "Male"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Vymsz_II"
+  },
+  {
+    "name": "Gorea",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/3/3c/Boss_gorea.jpg",
+    "description": "Gorea is a powerful, malevolent being that invaded theAlimbic Clustermillennia ago. It crashed onAlinosin a form resembling that of a comet, then surfaced as a shapeless gas. Due to itsbiomorphicnature, it quickly assumed the form of a monstrous, three-leggedAlimbicand began destroying the Alimbic race on every planet they inhabited and spreading chaos throughout theTetra Galaxy. Gorea would consume its victims' energy, either leaving them dead or in a coma-like state, and it not only resiste...",
+    "role": "Main Character",
+    "attributes": {
+      "Games": "Metroid Prime Hunters",
+      "Location": "\" Seal Sphere chamber \" and \" Gorea's lair \" Oubliette",
+      "Attacks": "Various",
+      "Weakness": "Cycles",
+      "Music": "Gorea Gorea Returns",
+      "Reward": "Omega Cannon , completion of game Access to Sound Test"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Gorea"
+  },
+  {
+    "name": "Bishop",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/f/f0/Bishop.png",
+    "description": "Bishop(ビショップ,Bishoppu?)is a major antagonist inMetroid EX, serving asGreed's general of knowledge. Calling himself \"beguiling\", Bishop is a robed figure with bull horns, an eye-like mouth in his forehead (and two eyes without pupils) and shoulderpads. He is summoned by Greed and tasked with going to thegraveyard planetto awaitSamus Aran. Bishop reports the insignificant news of theDeadly Six Stars' complete annihilation, and Samus' recovery of five out of sevenData Capsulescontaining her stol...",
+    "role": "Anime Character",
+    "attributes": {
+      "Death": "Killed by Joey Apronika",
+      "Gender": "Male",
+      "Affiliation": "Greed Corps"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Bishop"
+  },
+  {
+    "name": "Federation Force",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/7/7e/MPFF_-_Marines_and_planets.png",
+    "description": "Following the defeat of theSpace PiratesinMetroid Prime 3: Corruption, the Galactic Federation began work onProject Golem, an effort to better equip their soldiers to combat the Pirates. They createdMechs, armorsuits based on the design ofSamus Aran'sPower Suit, to be worn by the Federation Force's members. During the game, the Force is deployed to theBermuda Systemon an archaeological survey expedition led byGeneral Alex Miles. They discover that the Pirates have overtaken the system's three...",
+    "role": "Character",
+    "attributes": {
+      "Gender": "Optional (Male/Female",
+      "Height": "Out of Mech : Average In Mech : Omega Pirate size",
+      "Ship": "G.F.S. Aegis",
+      "Weapon": "Arm cannon MODs",
+      "Alt": "Mech"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Federation_Force"
+  },
+  {
+    "name": "Metroid Prime (creature)",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/4/42/MetroidPrimeRemastered_MetroidPrimeExoArt_Crop.png",
+    "description": "Metroid Primeis the titular antagonist and final boss of thegame of the same nameand is furthermore the central antagonist of theMetroid Primetrilogyas a whole. An extremely mutated and sapientMetroidof unknown origin infused with huge quantities ofPhazon, Metroid Prime was the guardian ofTallon IV'sLeviathan.",
+    "role": "Main Character",
+    "attributes": {
+      "Image": "Exoskeleton",
+      "Games": "Metroid Prime Metroid Prime Pinball Metroid Prime 2: Echoes (as Dark Samus) Metroid Prime 3: Corruption (as Dark Samus; husks on Phaaze",
+      "Location": "Phazon Infusion Chamber Subchamber One Subchamber Two Subchamber Three Subchamber Four Subchamber Five Metroid Prime Lair Genesis Chamber (husks only",
+      "Homeworld": "Unknown; first seen on Tallon IV",
+      "Attacks": "Ultrafrigid Beam , Multi-Missiles , Snare Beam , Particle Wave Projector , Claws, Maw.",
+      "Weakness": "Varying Beam weapons and Charge Combos (Exo) Phazon Beam (Core) Force Ball (Exo, Core, Pinball ) Ball Blast (Core, Pinball",
+      "Music": "VS. Metroid Prime (Spider) Metroid Prime Battle",
+      "Cycle": "Preceded by: Unknown Followed by: Dark Samus",
+      "Stage": "Stage ? (Mutated): Exo & Core"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Metroid_Prime_(creature)"
+  },
+  {
+    "name": "Chairman Vogl",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/9/98/Chairman_Vorgle.jpg",
+    "description": "Chairman Vogl(ヴォーグル 議長,Vu~ōguru gichō?)(also translated asVorgle) is a formerChairman of the Galactic Federation. A representative of the horned \"Ceratopsid\" race, Vogl believes that the military forces of the various planets of theGalactic Federationshould be combined in order to defeat their enemies, particularly theSpace Pirates. He pushed theFederation Bureauto side with him overChairman Keatonto enlarge and unite theFederation Police Force.",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "\" Ceratopsid \"",
+      "Homeworld": "Unknown. Seen only on Daiban ."
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Chairman_Vogl"
+  },
+  {
+    "name": "Andest I",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/7/72/Andest_I.jpg",
+    "description": "Andest I, according to theGF Database, was the last emperor ofBryyo. A stonework sculpture of his head can be found inImperial Hall.",
+    "role": "Character",
+    "attributes": {
+      "Species": "Bryyonian",
+      "Homeworld": "Bryyo",
+      "Gender": "Male"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Andest_I"
+  },
+  {
+    "name": "Damara",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/d/de/Damara.jpg",
+    "description": "Damara was a child living onJigradduring theSpace Pirateoccupation of the planet. She was not tall enough to pass through thetrip-wires, and thus was deemed useless as a slave and set for execution. However, moments before Space Pirates would have killed Damara she was saved bySamus Aran, who disobeyed her orders and intervened, killing all the Pirates exceptP-1. Samus had been tempted to murder him, but the sight of a terrified Damara reminded Samus of her three year old self during theK-2Lr...",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Human",
+      "Homeworld": "Jigrad",
+      "Gender": "Female",
+      "Hair": "Dark",
+      "Affiliation": "Galactic Federation"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Damara"
+  },
+  {
+    "name": "Nightmare",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/8/81/MOM_Nightmare_Concept_Art.png",
+    "description": "TheNightmare(ナイトメア,Naitomea?)was a powerful biomechanical lifeform created by theGalactic Federationfor military purposes that possessedgravitymanipulation abilities.Nightmare appears as a boss in bothMetroid: Other MandMetroid Fusion, in which Samus has to defeat the creature while enduring its gravity manipulation abilities.",
+    "role": "Character",
+    "attributes": {
+      "Games": "Metroid: Other M Metroid Fusion Metroid Dread (flashback",
+      "Location": "Nightmare's Room ( Sector 2 / Cryosphere ) Electronic junkyard ( Sector 5 (ARC",
+      "Attacks": "Multi-laser system Gravity manipulation Gravity well Ramming",
+      "Weakness": "Super Missiles and Charged Plasma Beams directed at the manipulator device, and later on, its face. Missiles on its face",
+      "Music": "\" Vs. Goyagma/Nightmare \" \" Vs. Brug Mass/Fune and Namihe/Nightmare Unmasked \" VS Nightmare",
+      "Reward": "Access to Sector Zero / Gravity Suit"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Nightmare"
+  },
+  {
+    "name": "Rundas",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/5/54/Rundas0.jpg",
+    "description": "Rundas was born onPhrygis, a moon of the planetBes IIIknown mainly for ice mining. Phrygisians are commonly able to manipulate and generate ice. However, Rundas was one of very few to use this ability as a Hunter.",
+    "role": "Game Character",
+    "attributes": {
+      "Species": "Phrygisian",
+      "Homeworld": "Phrygis , a moon of planet Bes III .",
+      "Death": "Terminated by his own abilities on planet Bryyo",
+      "Gender": "Male",
+      "Ship": "Phrygisian-class gunship",
+      "Weapon": "Cryokinesis Ice Missile",
+      "Affiliation": "Bounty Hunter Galactic Federation Space Pirates",
+      "Music": "Theme of Rundas",
+      "Voice Actor": "Christopher Sabat"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Rundas"
+  },
+  {
+    "name": "Zameel",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/4/44/Zameel.png",
+    "description": "Zameel personally receivedSamus Aran's stolenMissile LauncherfromGreed. Samus encounters him inBrigandiaon the planetOutlaw, and he begins going on a rampage. His henchmen try to kill Samus, who dispatches them and shoots Zameel with herPower Beam, however, it has no effect.",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Pig-like",
+      "Homeworld": "Outlaw",
+      "Death": "Caught in the explosion of a reflected Super Missile , thrown back at him by Samus Aran .",
+      "Gender": "Male",
+      "Affiliation": "Deadly Six Stars"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Zameel"
+  },
+  {
+    "name": "Dr. Diana Apronika",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/5/5c/Dr._Diana_Apronika.png",
+    "description": "First seen in chapter 6 ofSamus and Joeyon board theSpecial Forces Ship Otowa, Dr. Apronika panics when the ship becomes inoperable after entering the gravity field of a planet in theBeta System. She is concerned for thePresident of Kankei, who is being secretly treated aboard the ship.",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Human",
+      "Homeworld": "Unknown, lived on Liberty",
+      "Gender": "Female",
+      "Hair": "Light (possibly blond",
+      "Affiliation": "Joey Apronika"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Dr._Diana_Apronika"
+  },
+  {
+    "name": "Mecha Ridley",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/1/1c/MZM_art_Mecha_Ridley.png",
+    "description": "Mecha RidleyMetroid: Zero Mission artwork of Mecha RidleyFeatured inMetroid: Zero MissionLocationShip's last chamber,Space Pirate Mother ShipAttacksMissiles, claws, fireballs, lasersWeaknessMissilesandSuper MissilesBattle Music\"Vs. Mecha Ridley\"Reward(s)Countdown",
+    "role": "Game Character",
+    "attributes": {
+      "Location": "Ship's last chamber , Space Pirate Mother Ship",
+      "Weakness": "Missiles and Super Missiles",
+      "Music": "\" Vs. Mecha Ridley \"",
+      "Reward": "Countdown"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Mecha_Ridley"
+  },
+  {
+    "name": "Scott Petersen (Marine)",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/9/9a/Scott_Petersen_Marine.jpg",
+    "description": "Scott Petersenwas a FederationPED Trooperwho was killed in theSpace Pirateattack on theGalactic FederationshipValhalla. He was first found dead and identified by theGalactic Federation Reconnaissance Dronein theMetroid Prime 3: Corruption Preview. His body is located in theControl Roomin-game, but is not identified as Scott Petersen.",
+    "role": "Character",
+    "attributes": {
+      "Species": "Human",
+      "Death": "Thrown violently against a wall, likely by a Space Pirate.",
+      "Gender": "Male"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Scott_Petersen_(Marine)"
+  },
+  {
+    "name": "Emperor Ing",
+    "image_url": "https://static.wikia.nocookie.net/metroid/images/2/21/Emperor_ing.png",
+    "description": "Emperor IngFirst FormEyeChrysalisMutatedSpeciesIngHomeworldDark AetherDeathKilled bySamus Aranduring her visit toAetherAffiliationIng HordeEmperor IngFeatured inMetroid Prime 2: EchoesLocationSky TempleAttacks1st form: Shockwave attack, Inner-dimensional attacks, Tentacle attacks,2nd form: Poisonous gas, Tentacle attacks,Inglet, 3rd form: Ramming attacks, Dark and light laser attacks, Jumping attacksWeaknessSuper Missile,Annihilator Beam,Light Beam,Dark BeamBattle MusicEmperor Ing ChrysalisEm...",
+    "role": "Main Character",
+    "attributes": {
+      "Image": "First Form",
+      "Species": "Ing",
+      "Death": "Killed by Samus Aran during her visit to Aether",
+      "Affiliation": "Ing Horde"
+    },
+    "source_url": "https://metroid.fandom.com/wiki/Emperor_Ing"
+  }
+]
