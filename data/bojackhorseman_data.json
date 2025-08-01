@@ -1,260 +1,266 @@
 [
   {
-    "name": "Irving Jannings",
-    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/a/ab/Irving_Jannings.png",
-    "description": "Irving JanningsAge16SpeciesHumanSexFemaleFamilyKelsey Jannings(mother)Marla(mother)Behind the scenesVoiced byAmy SchumerFirst appearanceChickensLast appearanceA Quick One, While He's Away(indirectly mentioned)IrvingJanningsis a one-time character inBoJack Horseman. She is the daughter ofKelsey Jannings. Her only appearance was inChickens, inSeason 2.",
+    "name": "Tilda Madison",
+    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/4/40/TildaMadison.jpg",
+    "description": "Tildais a light grey sphinx cat woman with a white patch going down her nose and chest, a light grey snout, long ears, and blue-grey eyes, and pink freckles below her snout.",
     "role": "Main Character",
     "attributes": {
-      "Age": "16",
-      "Species": "Human",
+      "Alias": "Timedium (stage name",
+      "Species": "Sphinx Cat",
       "Gender": "Female",
-      "Family": "Kelsey Jannings (mother) Marla (mother",
-      "First": "Chickens",
-      "Last": "A Quick One, While He's Away (indirectly mentioned"
+      "Job": "Actress",
+      "Voice": "Archie Panjabi",
+      "Only": "Commence Fracking"
     },
-    "source_url": "https://bojackhorseman.fandom.com/wiki/Irving_Jannings"
+    "source_url": "https://bojackhorseman.fandom.com/wiki/Tilda_Madison"
   },
   {
-    "name": "Dr. Allen Hu",
-    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/c/cf/Dr._Allen_Hu_full_portrait_no_BG.png",
-    "description": "Dr. Allen HuAliasesDr. Who (by BoJack)SpeciesHumanSexMaleOccupationDoctorDrug dealerBehind the scenesVoiced byKen JeongFirst appearanceDowner EndingLast appearanceAncient HistoryDr. Allen Huis a minor, recurring character inBoJack Horseman.He was a shady doctor andSarah Lynn'sdrug dealer. He makes his first appearance inDowner Ending, inSeason 1.",
+    "name": "Taneisha",
+    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/8/87/Tan.png",
+    "description": "Taneishais an adult human female with dark brown, thick wavy hair that is braided into cornrows at the right side. She wears a deep pink lipstick and white eyeshadow.",
+    "role": "Main Character",
+    "attributes": {
+      "Species": "Human",
+      "Gender": "Female",
+      "Family": "Unnamed Father Karen (Wife",
+      "Only": "Love And/Or Marriage"
+    },
+    "source_url": "https://bojackhorseman.fandom.com/wiki/Taneisha"
+  },
+  {
+    "name": "Poppy Stilton",
+    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/6/65/Screen_Shot_2020-05-26_at_2.50.08_PM.png",
+    "description": "Poppy StiltonSpeciesMouseSexMaleFamilyMimi Stilton(wife)Ralph Stilton(son)Stefani Stilton(daughter)Sissy Stilton(son)Missy Stilton(daughter-in-law)Tweeds(grandson)Nantucket(grandson)Loophole(grandson)Behind the scenesVoiced byMartin ShortOnly appearanceThe JudgePoppy Stiltonis aone-time character inBoJack Horseman. He is the husband ofMimi Stiltonand the father ofStefani,Ralph, andSissy Stilton. He only appears inThe Judge,inSeason 4.",
+    "role": "Main Character",
+    "attributes": {
+      "Species": "Mouse",
+      "Gender": "Male",
+      "Family": "Mimi Stilton (wife) Ralph Stilton (son) Stefani Stilton (daughter) Sissy Stilton (son) Missy Stilton (daughter-in-law) Tweeds (grandson) Nantucket (grandson) Loophole (grandson",
+      "Only": "The Judge"
+    },
+    "source_url": "https://bojackhorseman.fandom.com/wiki/Poppy_Stilton"
+  },
+  {
+    "name": "Justin Kenyon",
+    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/9/9f/JustinKenyoncropped.png",
+    "description": "Justin KenyonSpeciesHumanSexMaleOccupationDirectorBehind the scenesVoiced byMatthew RhysOnly appearanceA Quick One, While He's AwayJustin Kenyonis a one-time character inBoJack Horseman. He is a director. He is seen inA Quick One, While He's Away, inSeason 6.",
     "role": "Main Character",
     "attributes": {
       "Species": "Human",
       "Gender": "Male",
-      "Job": "Doctor Drug dealer",
-      "Voice": "Ken Jeong"
+      "Job": "Director"
     },
-    "source_url": "https://bojackhorseman.fandom.com/wiki/Dr._Allen_Hu"
+    "source_url": "https://bojackhorseman.fandom.com/wiki/Justin_Kenyon"
   },
   {
-    "name": "Abe Ziegler",
-    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/0/05/Abezeiglercropped.png",
-    "description": "Abe ZieglerAliasesAbel ZieglerSpeciesHumanSexMaleOccupationCreator of Popsicle stick jokesBehind the scenesVoiced byGabe KaplanOnly appearanceHead in the CloudsAbel \"Abe\" Ziegleris a one-time character inBoJack Horseman. He creates the jokes for Popsicle sticks. He appears in the episodeHead in the Clouds, inSeason 5.",
+    "name": "Loophole",
+    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/e/ee/Loophole.png",
+    "description": "LoopholeSpeciesMouseSexMaleFamilySissy Stilton(father)Missy Stilton(Mother)Nantucket(brother)Tweeds(brother)Ralph Stilton(paternal uncle)Stefani Stilton(paternal aunt by marriage)Mimi Stilton(paternal grandmother)Poppy Stilton(paternal grandfather)Behind the scenesOnly appearanceThe Judge",
+    "role": "Main Character",
+    "attributes": {
+      "Species": "Mouse",
+      "Gender": "Male",
+      "Family": "Sissy Stilton (father) Missy Stilton (Mother) Nantucket (brother) Tweeds (brother) Ralph Stilton (paternal uncle) Stefani Stilton (paternal aunt by marriage) Mimi Stilton (paternal grandmother) Pop...",
+      "Only": "The Judge"
+    },
+    "source_url": "https://bojackhorseman.fandom.com/wiki/Loophole"
+  },
+  {
+    "name": "Jose Guerrero",
+    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/5/57/Jose_Guerrero.jpeg",
+    "description": "Jose GuerreroAliasesPapa GuerreroSpeciesBearSexMaleResidenceWichita, KansasOccupationFatherFamilyHollyhock- Adoptive DaughterDashawn Manheim(Family Member)Steve Mannheim(Family Member)Cupe Robinson III(Family Member)Otto Zilberschlag(Family Member)Gregory Hsung(Family Member)Arturo \"Ice Man\" Fonzarelli(Family Member)Quackers McQuack(Family Member)Behind the scenesVoiced byRami MalekFirst appearanceLovin that cali lifestyle!!Last appearanceWhat Time Is It Right NowJose Guerrerois a recurring c...",
+    "role": "Main Character",
+    "attributes": {
+      "Species": "Bear",
+      "Gender": "Male",
+      "Job": "Father",
+      "Family": "Hollyhock - Adoptive Daughter Dashawn Manheim (Family Member) Steve Mannheim (Family Member) Cupe Robinson III (Family Member) Otto Zilberschlag (Family Member) Gregory Hsung (Family Member) Arturo...",
+      "Voice": "Rami Malek"
+    },
+    "source_url": "https://bojackhorseman.fandom.com/wiki/Jose_Guerrero"
+  },
+  {
+    "name": "Barry Tukalooka",
+    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/6/67/Barrytukalooka.png",
+    "description": "BarryTukalookais an adult human male with tan skin, dark brown hair with a shaved undercut and that is tied in a ponytail and a side bang that falls on his face. He has a prominent nose and buck teeth.",
+    "role": "Main Character",
+    "attributes": {
+      "Species": "Human",
+      "Gender": "Male",
+      "Only": "The Telescope"
+    },
+    "source_url": "https://bojackhorseman.fandom.com/wiki/Barry_Tukalooka"
+  },
+  {
+    "name": "Diego Mendoza",
+    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/a/a9/Diego.jpeg",
+    "description": "Diego MendozaSpeciesHumanSexMaleResidenceTesuque, New MexicoBehind the scenesOnly appearanceEscape from L.A.Diego Mendozais a one-time character inBoJack Horseman. He was a love interest forPenny Carsonand the boyfriend ofLyla K.He only appeared inEscape from L.A., inSeason 2.",
     "role": "Main Character",
     "attributes": {
       "Species": "Human",
       "Gender": "Male"
     },
-    "source_url": "https://bojackhorseman.fandom.com/wiki/Abe_Ziegler"
+    "source_url": "https://bojackhorseman.fandom.com/wiki/Diego_Mendoza"
   },
   {
-    "name": "Joelle Clarke",
-    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/2/2b/Joellecropped2.png",
-    "description": "Joelle Clarkis a recurring character inBoJack Horseman. She is an actress who played Olivia, The Horse's oldest adopted child, onHorsin’ Around. She first appeared in thepilot episodeas Olivia. Her only appearance as herself was inStill Broken, inSeason 2.",
+    "name": "Clemelia Bloodsworth",
+    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/d/d0/Clemeliabloodsworthcropped.png",
+    "description": "Clemelia BloodsworthAdultChildBornLate 1930sSpeciesDomestic GooseSexFemaleResidenceIndianapolis, IndianaOccupationSocialiteSchool Student (formerly)FamilyUnnamed ParentsBehind the scenesVoiced byNatasha RothwellOnly appearanceTime's Arrow",
     "role": "Main Character",
     "attributes": {
-      "Image": "Present Day",
-      "Alias": "Juliet's Nurse (current role portrayal) Olivia (Character on Horsin' Around, formerly",
-      "Species": "Human",
+      "Image": "Adult",
+      "Born": "Late 1930s",
       "Gender": "Female",
-      "Job": "Actress",
-      "Voice": "Alison Brie",
-      "First": "BoJack Horseman: The BoJack Horseman Story, Chapter One",
-      "Last": "Still Broken (Present day) Angela (episode) (Picture"
+      "Job": "Socialite School Student (formerly"
     },
-    "source_url": "https://bojackhorseman.fandom.com/wiki/Joelle_Clarke"
+    "source_url": "https://bojackhorseman.fandom.com/wiki/Clemelia_Bloodsworth"
   },
   {
-    "name": "Davey",
-    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/4/46/Daveycropped.png",
-    "description": "DaveySpeciesHumanSexMaleOccupationBusinessman at ABCBehind the scenesOnly appearanceAngelaDaveyis a one-time character inBoJack Horseman. He was a businessman at ABC and a work colleague ofAngela Diaz. He appeared inAngela, inSeason 6.",
+    "name": "Harper Horseman",
+    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/c/c8/Harper_teenager.jpeg",
+    "description": "Harperis a horse with tan fur and a blonde mane (like her \"paternal grandmother\"Beatrice), along with yellow freckles on her cheeks that she gets as a teenager. She has purple eyes like her mother, Charlotte.",
     "role": "Main Character",
     "attributes": {
-      "Species": "Human",
-      "Gender": "Male",
-      "Only": "Angela"
-    },
-    "source_url": "https://bojackhorseman.fandom.com/wiki/Davey"
-  },
-  {
-    "name": "Henrietta Platchkey",
-    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/6/69/Henrietta.jpeg",
-    "description": "Henrietta PlatchkeySpeciesHumanSexFemaleResidenceMinneapolis, Minnesota (currently)San Francisco, California (while working as a maid for the Horsemans)Newark, California (hometown, previously living)OccupationMaid (Formerly)Nurse (Currently)FamilyButterscotch Horseman(lover; deceased)Hollyhock(daughter)Behind the scenesVoiced byMajandra DelfinoFirst appearanceTime's ArrowLast appearanceWhat Time Is It Right Now(Mentioned)Henrietta Platchkeyis mentioned numerous times throughoutSeason 4byBeat...",
-    "role": "Main Character",
-    "attributes": {
-      "Species": "Human",
+      "Image": "Teenager",
+      "Species": "Horse",
       "Gender": "Female",
-      "Residence": "Minneapolis, Minnesota (currently) San Francisco, California (while working as a maid for the Horsemans) Newark, California (hometown, previously living",
-      "Job": "Maid (Formerly) Nurse (Currently",
-      "Family": "Butterscotch Horseman (lover; deceased) Hollyhock (daughter",
-      "Last": "What Time Is It Right Now (Mentioned"
+      "Residence": "Cabin in Maine",
+      "Family": "BoJack Horseman (father; fictional) Kyle Carson (step-father; fictional) Charlotte Carson (mother; fictional) Penny Carson (maternal half-sister; fictional) Trip Carson (maternal half-brother; fict...",
+      "Voice": "Kristen Schaal",
+      "Only": "Downer Ending"
     },
-    "source_url": "https://bojackhorseman.fandom.com/wiki/Henrietta_Platchkey"
+    "source_url": "https://bojackhorseman.fandom.com/wiki/Harper_Horseman"
   },
   {
-    "name": "Judah Mannowdog",
-    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/c/c0/Judah_Mannowdog.png",
-    "description": "He is the former assistant ofPrincess CarolyninVIMthrough Season 3 until he was fired inSeason 4, inRuthie. InSeason 6,inThe Kidney Stays in the Picture, he returns to VIM as their Chief-of-Operations. He confesses his love to Princess Carolyn through a song he wrote for her inAngelaand marries her shortly beforethe finale.",
+    "name": "Naomi Watts",
+    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/c/c9/Naomianimatedcropped.png",
+    "description": "Naomi Ellen WattsFictionalReal LifeBornSeptember 28, 1968SpeciesHumanSexFemaleOccupationActressBehind the scenesVoiced byNaomi WattsOnly appearanceOne Trick Pony",
     "role": "Main Character",
     "attributes": {
-      "Image": "Formal",
-      "Alias": "Weirdo-Beardo ( Rutabaga Rabitowitz ) Mr. McGregor ( Rutabaga Rabitowitz ) Rain-Man-Bun ( Katrina ) Rasputin ( J.D. Salinger ) Hipster Chewbacca ( Princess Carolyn ) ZZ Top ( Sextina Aquafina ) Bea...",
+      "Image": "Fictional",
       "Species": "Human",
-      "Gender": "Male",
-      "Job": "Chief-of-Operations at VIM (current) Lead singer and guitarist for Spectrum of Enchantment (current) Assistant (formerly",
-      "Family": "Princess Carolyn (wife) Ruthie (adopted daughter) Cutie Cutie Cupcake (mother-in-law, deceased) Niece Carolyn (niece-in-law) Niece Carolyn's Husband (nephew-in-law) Princess Carolyn's father (fathe...",
-      "Voice": "Diedrich Bader",
-      "First": "Start Spreading The News",
-      "Last": "Angela Nice While It Lasted (mentioned"
-    },
-    "source_url": "https://bojackhorseman.fandom.com/wiki/Judah_Mannowdog"
-  },
-  {
-    "name": "Team Chavez",
-    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/e/e9/TeamChavez.png",
-    "description": "Todd says assistants are likeDeadpoolmovies. He says he couldn't just stop at one, though he probably should have, and now has twelve of them. BoJack then asks in disbelief about Todd hiring twelve assistants to help him. He then talks about each of the assistants and their various assigned roles:Bella, who is responsible for making new goofy dances,Pedro, who is responsible for making sure Five Guys has the \"right number of guys\" andSylvia, who is responsible for checkingAll About That Aceev...",
-    "role": "Main Character",
-    "attributes": {
-      "Species": "Human, Ladybug, Heron",
-      "Gender": "Male, Female",
-      "Job": "Assistants",
-      "Only": "A Little Uneven, Is All"
-    },
-    "source_url": "https://bojackhorseman.fandom.com/wiki/Team_Chavez"
-  },
-  {
-    "name": "Sandra Von Crinkle",
-    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/3/3f/Philbert_intro_12.png",
-    "description": "Sandra Von CrinkleSexFemaleOccupationActressSandra Von Crinkleis an unseen character inBoJack Horseman. She is credited inThe Showstopperin thePhilbert ThemeofPhilbert, inSeason 5.",
-    "role": "Main Character",
-    "attributes": {
       "Gender": "Female",
       "Job": "Actress"
     },
-    "source_url": "https://bojackhorseman.fandom.com/wiki/Sandra_Von_Crinkle"
+    "source_url": "https://bojackhorseman.fandom.com/wiki/Naomi_Watts"
   },
   {
-    "name": "Shannon",
-    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/f/f7/Ex-wife_Shannon.png",
-    "description": "ShannonSpeciesJumbo squidSexFemaleFamilyTom Jumbo-Grumbo(ex-husband)Behind the scenesFirst appearanceChickensShannonis a recurring minor character inBoJack Horseman.",
-    "role": "Main Character",
-    "attributes": {
-      "Gender": "Female",
-      "Family": "Tom Jumbo-Grumbo (ex-husband",
-      "First": "Chickens"
-    },
-    "source_url": "https://bojackhorseman.fandom.com/wiki/Shannon"
-  },
-  {
-    "name": "Dr. Indira Dadyshue",
-    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/7/77/Dr._Indira.png",
-    "description": "Dr. Indira DadyshueSpeciesHumanSexFemaleOccupationTherapistFamilyMary-Beth(wife)Behind the scenesVoiced byIssa RaeFirst appearanceThe Dog Days Are OverLast appearanceINT. SUBDr. Indira Dadyshueis a minor character inBoJack Horseman. She is first introduced inThe Dog Days Are Overand then later appears again inINT. SUBinSeason 5. She is the wife ofMary-BethandDiane Nguyen'stherapist of seven years.",
+    "name": "Jameson H.",
+    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/a/ac/Jameson_H.jpeg",
+    "description": "Jameson H.SpeciesHumanSexFemaleFamilyUnnamed Mother (deceased)Unnamed FatherUnnamed SonBehind the scenesVoiced byKiersey ClemonsFirst appearanceA Horse Walks into a RehabLast appearanceA Little Uneven, Is All(Mentioned)Jameson H.is a one-time character inBoJack Horseman. She made an appearance inA Horse Walks into a Rehab, inSeason 6.",
     "role": "Main Character",
     "attributes": {
       "Species": "Human",
       "Gender": "Female",
-      "Job": "Therapist",
-      "Family": "Mary-Beth (wife",
-      "Voice": "Issa Rae",
-      "Last": "INT. SUB"
+      "Family": "Unnamed Mother (deceased) Unnamed Father Unnamed Son",
+      "Last": "A Little Uneven, Is All (Mentioned"
     },
-    "source_url": "https://bojackhorseman.fandom.com/wiki/Dr._Indira_Dadyshue"
+    "source_url": "https://bojackhorseman.fandom.com/wiki/Jameson_H."
   },
   {
-    "name": "Prince Gustav",
-    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/5/53/3-switcharoo.jpg",
-    "description": "Prince Gustav of CordoviaBornCordoviaAliasesTodd Chavez(stolen identity)SpeciesHumanSexMaleResidenceCordoviaOccupationPrinceBehind the scenesVoiced byAaron PaulOnly appearanceHank After DarkThePrince Gustav of Cordoviais a minor, one-time character inBoJack Horseman.His only appearance is inHank After Dark,inSeason 2.",
+    "name": "Meow Meow Fuzzyface",
+    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/c/c9/Officer_MeowMeow_Fuzzyface_portrait.png",
+    "description": "Meow Meow FuzzyfaceAliasesOfficer FuzzyfaceThe Loose Cannon (by his colleagues)SpeciesCatSexMaleResidenceLos AngelesOccupationLAPD OfficerBehind the scenesVoiced byCedric YarbroughFirst appearanceBoJack Horseman: The BoJack Horseman Story, Chapter OneLast appearanceNice While It LastedMeow Meow Fuzzyfaceis a recurring character inBoJack Horseman.He is an LAPD officer. His first appearance was in thepilot, inSeason 1.",
     "role": "Main Character",
     "attributes": {
-      "Born": "Cordovia",
-      "Alias": "Todd Chavez (stolen identity",
+      "Alias": "Officer Fuzzyface The Loose Cannon (by his colleagues",
+      "Species": "Cat",
+      "Gender": "Male"
+    },
+    "source_url": "https://bojackhorseman.fandom.com/wiki/Meow_Meow_Fuzzyface"
+  },
+  {
+    "name": "Jake Gyllenhaal",
+    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/c/cc/Jakecropped.png",
+    "description": "Jacob Benjamin GyllenhaalFictionalRealSpeciesHumanSexMaleOccupationActorFamilyMaggot Gyllenhaal(sister)Behind the scenesOnly appearanceStill Broken",
+    "role": "Main Character",
+    "attributes": {
+      "Image": "Fictional",
       "Species": "Human",
       "Gender": "Male",
-      "Residence": "Cordovia",
-      "Job": "Prince",
-      "Voice": "Aaron Paul"
+      "Job": "Actor",
+      "Family": "Maggot Gyllenhaal (sister"
     },
-    "source_url": "https://bojackhorseman.fandom.com/wiki/Prince_Gustav"
+    "source_url": "https://bojackhorseman.fandom.com/wiki/Jake_Gyllenhaal"
   },
   {
-    "name": "Renata",
-    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/c/c6/Renata.png",
-    "description": "Renatais a human woman with sandy brown hair and wrinkles on her face, she has a prominent nose and jaw-line, and thin eyebrows. She wears a pair of green studs in her ears.",
+    "name": "Levi",
+    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/0/00/Levi.jpg",
+    "description": "A commercial for the fast-food restaurant,Chicken-4-Dayzis shown, which is followed by a commercial for Gentle Farms—a chicken-owned farm which is a Chicken-4-Dayz competitor. The owner of the farm, Levi, prides himself on giving his chickens a good home, as they inject them with hormones since birth to make them into \"food chickens.\" They are built and act like real-life chickens before they’re eventually turned into food.",
     "role": "Main Character",
     "attributes": {
-      "Species": "Human",
-      "Gender": "Female",
-      "Job": "Nanny",
-      "Voice": "Emma Adele Galvin"
-    },
-    "source_url": "https://bojackhorseman.fandom.com/wiki/Renata"
-  },
-  {
-    "name": "Police Chief",
-    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/1/11/7j6wt9v-1-.png",
-    "description": "Police ChiefAliasesChief of PoliceSpeciesHumanSexFemaleOccupationChief OfficerFamilyUnnamed RelativesBehind the scenesVoiced byKhandi AlexanderOnly appearanceChickens",
-    "role": "Main Character",
-    "attributes": {
-      "Species": "Human",
-      "Gender": "Female",
+      "Species": "Domestic Chicken",
+      "Gender": "Male",
+      "Job": "Chicken Butcher Farmer",
+      "Family": "unnamed wife and son",
+      "Voice": "Ron Funches",
       "Only": "Chickens"
     },
-    "source_url": "https://bojackhorseman.fandom.com/wiki/Police_Chief"
+    "source_url": "https://bojackhorseman.fandom.com/wiki/Levi"
   },
   {
-    "name": "Samantha Bee",
-    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/3/38/SamBee.jpg",
-    "description": "Samantha Anne BeeFictionalRealSpeciesBeeSexFemaleOccupationTV HostBehind the scenesVoiced bySamantha BeeSamantha Beeis a one-time character inBoJack Horsemanbased on the realSamantha Anne Bee.Shemakes a cameo as herself inThe HornyUnicorn, inSeason 6.",
+    "name": "Sadie",
+    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/4/47/Sadie_5x05.png",
+    "description": "Sadieis a young woman with sandy blonde hair, with highlights; which is tied in a half-up, half-down hairstyle with a purple hair-tie. She has freckles on her face, arms, and chest. She has pink lips and grey eye shadow.",
+    "role": "Main Character",
+    "attributes": {
+      "Age": "21 (as of the finale",
+      "Born": "2000",
+      "Species": "Human",
+      "Gender": "Female",
+      "Residence": "Eden, North Carolina",
+      "Job": "Clothing Salesperson for Made-y by Sadie",
+      "Family": "Strib (ex-boyfriend and father of her daughter) Ruthie (daughter) Unnamed Mother Tanya (younger sister) Unnamed Cousins",
+      "Voice": "Jaime Pressly",
+      "First": "The Amelia Earhart Story '",
+      "Last": "The Stopped Show"
+    },
+    "source_url": "https://bojackhorseman.fandom.com/wiki/Sadie"
+  },
+  {
+    "name": "Arturo \"Ice Man\" Fonzerelli",
+    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/b/b5/Arturocropped.png",
+    "description": "Arturo \"Ice Man\" FonzerelliAliasesIce Man, Papa FonzarelliSexMaleResidenceWichita, KansasOccupationFatherFamilyHollyhock- Adoptive DaughterDashawn Manheim(Family Member)Steve Mannheim(Family Member)Jose Guerrero(Family Member)Cupe Robinson III(Family Member)Otto Zilberschlag(Family Member)Gregory Hsung(Family Member)Quackers McQuack(Family Member)Behind the scenesFirst appearanceLovin that cali lifestyle!!Last appearanceWhat Time Is It Right NowArturo \"Ice Man\" Fonzerelliis a recurring charac...",
+    "role": "Main Character",
+    "attributes": {
+      "Gender": "Male",
+      "Job": "Father",
+      "Family": "Hollyhock - Adoptive Daughter Dashawn Manheim (Family Member) Steve Mannheim (Family Member) Jose Guerrero (Family Member) Cupe Robinson III (Family Member) Otto Zilberschlag (Family Member) Gregor..."
+    },
+    "source_url": "https://bojackhorseman.fandom.com/wiki/Arturo_%22Ice_Man%22_Fonzerelli"
+  },
+  {
+    "name": "A Ryan Seacrest Type",
+    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/2/23/A_Ryan_Seacrest_Type.png",
+    "description": "A Ryan Seacrest TypeFictionalReal LifeSpeciesHumanSexMaleResidenceHollywooOccupationTalk show host of Excess HollywooBehind the scenesVoiced byAdam ConoverLast appearanceBoJack the FeministA Ryan Seacrest Typeis a recurring character inBoJack Horseman. He is an exaggerated version of the realRyan Seacrest.",
     "role": "Main Character",
     "attributes": {
       "Image": "Fictional",
-      "Species": "Bee",
-      "Gender": "Female",
-      "Job": "TV Host"
-    },
-    "source_url": "https://bojackhorseman.fandom.com/wiki/Samantha_Bee"
-  },
-  {
-    "name": "Alex",
-    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/0/04/Alex.png",
-    "description": "AlexSpeciesHumanSexMaleOccupationSpyBehind the scenesVoiced byJoel McHaleOnly appearanceYesterdaylandAlexis a one-time character inBoJack Horseman. He is the alleged Russian spyWandameets at Suzy's Diner. His most prominent role was inYesterdayland, inSeason 2.",
-    "role": "Main Character",
-    "attributes": {
       "Species": "Human",
       "Gender": "Male",
-      "Job": "Spy"
+      "Residence": "Hollywoo"
     },
-    "source_url": "https://bojackhorseman.fandom.com/wiki/Alex"
+    "source_url": "https://bojackhorseman.fandom.com/wiki/A_Ryan_Seacrest_Type"
   },
   {
-    "name": "Ma Nguyen",
-    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/d/d5/Diane%27s_mom.jpeg",
-    "description": "Ma NguyenSpeciesHumanSexFemaleResidenceBoston, Massachusetts.FamilyPa Nguyen(husband; deceased)Artie Nguyen(son)Marty Nguyen(son)Tommy Nguyen(son)Diane Nguyen(daughter)Gary Nguyen(adoptive son)Mr. Peanutbutter(ex-son-in-law)Guy(son-in-law)Sonny(step-grandson)Behind the scenesFirst appearanceLive Fast, Diane NguyenLast appearanceThe BoJack Horseman ShowMa Nguyenis a minor character inBoJack Horseman.She makes her first appearance inLive Fast, Diane Nguyen, inSeason 1.",
+    "name": "Danny Bananas",
+    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/9/9d/Dannybananascropped.png",
+    "description": "Danny BananasSpeciesProboscis MonkeySexMaleFamilyUnnamed DaughterBehind the scenesVoiced byPhilip RosenthalOnly appearanceA Little Uneven, Is AllDanny Bananasis a minor character inBoJack Horseman. He took over as show-runner ofHorsin' AroundafterHerb Kazzazwas fired. He appears in a flashback inA Little Uneven, Is All, inSeason 6.",
     "role": "Main Character",
     "attributes": {
-      "Species": "Human",
+      "Gender": "Male"
+    },
+    "source_url": "https://bojackhorseman.fandom.com/wiki/Danny_Bananas"
+  },
+  {
+    "name": "Morgan",
+    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/b/b5/Morgan.png",
+    "description": "MorganSpeciesReticulated PythonSexFemaleOccupationCo-Owner ofMike & Morgan's House Of Organs(formerly)Behind the scenesOnly appearanceThe Kidney Stays in the PictureMorganis a one-time character inBoJack Horseman. She is seen along with her business partnerMikeinThe Kidney Stays in the Picture, inSeason 6.",
+    "role": "Main Character",
+    "attributes": {
       "Gender": "Female",
-      "Family": "Pa Nguyen (husband; deceased) Artie Nguyen (son) Marty Nguyen (son) Tommy Nguyen (son) Diane Nguyen (daughter) Gary Nguyen (adoptive son) Mr. Peanutbutter (ex-son-in-law) Guy (son-in-law) Sonny (st..."
+      "Job": "Co-Owner of Mike & Morgan's House Of Organs (formerly"
     },
-    "source_url": "https://bojackhorseman.fandom.com/wiki/Ma_Nguyen"
-  },
-  {
-    "name": "Derek Jeter",
-    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/5/5d/Screen_Shot_2020-05-22_at_7.12.25_PM.png",
-    "description": "Derek Sanderson JeterFictionalRealAge45 years old (2019)BornJune 26th, 1974AliasesDJSpeciesHumanSexMaleOccupationFormer CEO of the Miami MarlinsFamilyHannah Jeter (Wife)Story-Grey Jeter (Daughter)Bella-Raine Jeter (Daughter)Sanderson Charles Jeter (Father)Dorothy Jeter (Mother)Sharlee Jeter (Sister)Behind the scenesVoiced byChris CoxOnly appearanceLive Fast, Diane NguyenDerek Sanderson Jeteris a baseball player for theMiami Marlins. He makes a minor cameo as himself inBoJack Horseman. He is a...",
-    "role": "Main Character",
-    "attributes": {
-      "Image": "Fictional",
-      "Alias": "DJ",
-      "Species": "Human",
-      "Gender": "Male",
-      "Family": "Hannah Jeter (Wife) Story-Grey Jeter (Daughter) Bella-Raine Jeter (Daughter) Sanderson Charles Jeter (Father) Dorothy Jeter (Mother) Sharlee Jeter (Sister",
-      "Voice": "Chris Cox"
-    },
-    "source_url": "https://bojackhorseman.fandom.com/wiki/Derek_Jeter"
-  },
-  {
-    "name": "Lorraine",
-    "image_url": "https://static.wikia.nocookie.net/bojackhorseman/images/9/9c/Screenshot_2.jpg",
-    "description": "LorraineSpeciesDragonflySexFemaleFamilyEddie(Husband)Behind the scenesOnly appearanceThe Old Sugarman Place(flashback)Lorrainewas a minor character inBoJack Horseman.She was the wife ofEddie.Her only appearance was in her wedding video inThe Old Sugarman Place, inSeason 4.",
-    "role": "Main Character",
-    "attributes": {
-      "Species": "Dragonfly",
-      "Gender": "Female",
-      "Family": "Eddie (Husband",
-      "Only": "The Old Sugarman Place (flashback"
-    },
-    "source_url": "https://bojackhorseman.fandom.com/wiki/Lorraine"
+    "source_url": "https://bojackhorseman.fandom.com/wiki/Morgan"
   }
 ]

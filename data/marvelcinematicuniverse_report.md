@@ -1,6 +1,6 @@
 # Rapport de Scraping pour : marvelcinematicuniverse
 - **Statut :** ✅ SUCCÈS - 50 fiches valides (minimum requis: 10)
-- **Temps total :** 193.34s
+- **Temps total :** 175.58s
 - **Catégories testées :** 1 (Catégorie principale)
 - **Catégorie utilisée :** Catégorie principale
 - **Liens trouvés :** 6851

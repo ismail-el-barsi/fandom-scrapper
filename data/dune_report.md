@@ -1,6 +1,6 @@
 # Rapport de Scraping pour : dune
 - **Statut :** ✅ SUCCÈS - 23 fiches valides (minimum requis: 10)
-- **Temps total :** 28.94s
+- **Temps total :** 26.58s
 - **Catégories testées :** 1 (Catégorie principale)
 - **Catégorie utilisée :** Catégorie principale
 - **Liens trouvés :** 23

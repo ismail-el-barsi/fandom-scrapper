@@ -1,186 +1,52 @@
 [
   {
-    "name": "Cyborg Demodogs",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/b/b6/Cyborg_Demodogs.jpg",
-    "description": "Cyborg DemodogsBiographical informationAliasesDemomousersRelationsDr. Baxter Stockman(creator)The scientistDr. Baxter Stockmantook a number ofDemodogsand merged them with advanced technology, converting them intocyborgs. These creatures were Stockman's next generation ofMousers; they had fleshy yet durable bodies, and a metal endoskeleton.",
-    "role": "Anime Character",
+    "name": "Grigori",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/8/81/Grigori_in_jacket.jpeg",
+    "description": "Grigori19851984Biographical informationStatusDeceasedDiedJuly 4,1985AgeMid 30sAliasesArnold SchwarzeneggerThugPsychopathKhrushchevCommie BastardResidenceRussia(19??-1985)Hawkins,Indiana(1985)Other relationsStepanov(employer)Russian Scientist†(former ally; enemy)Alexei†(former ally; enemy)Jim Hopper(enemy/killer)Joyce Byers(enemy)Murray Bauman(enemy)Larry Kline(associate)Ozerov(ally)Dr. Zharkov†(ally)AffiliationSoviet UnionKGBOccupationHitmanSoldierPhysical informationHeight6’3” (191cm)Eye col...",
+    "role": "Hitman Soldier",
     "attributes": {
-      "Relations": "Dr. Baxter Stockman (creator"
+      "Image": "1985",
+      "Status": "Deceased",
+      "Died": "July 4 , 1985",
+      "Age": "Mid 30s [ 1",
+      "Aliases": "Arnold Schwarzenegger Thug Psychopath Khrushchev Commie Bastard",
+      "Residence": "Russia (19??-1985) Hawkins , Indiana (1985",
+      "Other Relations": "Stepanov (employer) Russian Scientist † (former ally; enemy) Alexei † (former ally; enemy) Jim Hopper (enemy/killer) Joyce Byers (enemy) Murray Bauman (enemy) Larry Kline (associate) Ozerov (ally) ...",
+      "Affiliation": "Soviet Union KGB",
+      "Occupation": "Hitman Soldier",
+      "Eyes": "Dark Brown",
+      "Hair Color": "Dark Brown",
+      "Portrayer": "Andrey Ivchenko",
+      "Appearances": "18 , 19 , 20 , 22 , 23 , 24 , 25"
     },
-    "source_url": "https://strangerthings.fandom.com/wiki/Cyborg_Demodogs"
+    "source_url": "https://strangerthings.fandom.com/wiki/Grigori"
   },
   {
-    "name": "Larry Kline",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/4/40/ST3-Mayor-Kline.png",
-    "description": "Larry KlineBiographical informationStatusAliveBorn1930s-1940sAge40s-50sAliasesLar(ByJim Hopper)ResidenceHawkins,IndianaRelationship statusMarried toWinnie KlineFamilyWinnie Kline(wife)Other relationsCandice(secretary; mistress)Jim Hopper(former acquaintance; enemy)Joyce Byers(enemy)Grigori†(former colleague)AffiliationHawkins Town Hall(formerly)OccupationMayor(formerly)Physical informationHeight6’0” (182cm)Eye colorBlueHair colorBrown with white tonesPortrayalMain actorCary ElwesAppears in19,...",
-    "role": "Mayor (formerly",
-    "attributes": {
-      "Status": "Alive",
-      "Age": "40s-50s",
-      "Aliases": "Lar (By Jim Hopper",
-      "Residence": "Hawkins , Indiana",
-      "Marital": "Married to Winnie Kline",
-      "Relatives": "Winnie Kline (wife",
-      "Other Relations": "Candice (secretary; mistress) Jim Hopper (former acquaintance; enemy) Joyce Byers (enemy) Grigori † (former colleague",
-      "Affiliation": "Hawkins Town Hall (formerly",
-      "Occupation": "Mayor (formerly",
-      "Eyes": "Blue",
-      "Portrayer": "Cary Elwes",
-      "Appearances": "19 , 21 , 23 , 24 , 25"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Larry_Kline"
-  },
-  {
-    "name": "Freak 1",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/a/a3/Freak1.jpg",
-    "description": "Freak 1Biographical informationStatusAliveAliasesFreak(byJason Carver)ResidenceHawkins,IndianaOther relationsEddie Munson†(friend)Gareth(friend)Jeff(friend)Dustin Henderson(friend)Mike Wheeler(friend)Lucas Sinclair(friend)Jason Carver†(enemy)AffiliationHellfire ClubCorroded Coffin(Bassist)OccupationStudent atHawkins High SchoolPhysical informationHeight5’10” (178cm)Eye colorBlueHair colorDark brownPortrayalMain actorGrant GoodmanAppears in26 27* 28 30**= photograph",
-    "role": "Student at Hawkins High School",
-    "attributes": {
-      "Status": "Alive",
-      "Aliases": "Freak (by Jason Carver",
-      "Residence": "Hawkins , Indiana",
-      "Other Relations": "Eddie Munson † (friend) Gareth (friend) Jeff (friend) Dustin Henderson (friend) Mike Wheeler (friend) Lucas Sinclair (friend) Jason Carver † (enemy",
-      "Affiliation": "Hellfire Club Corroded Coffin (Bassist",
-      "Occupation": "Student at Hawkins High School",
-      "Eyes": "Blue",
-      "Hair Color": "Dark brown",
-      "Appearances": "26 27* 28 30* * = photograph"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Freak_1"
-  },
-  {
-    "name": "Ken",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/e/e1/Ken_suspicious_minds.png",
-    "description": "KenBiographical informationStatusUnknownBorn1944-1951Age18-27(1969-1971)32-39(season one)33-40(season two)34-41(season three)35-42(season four)ResidenceBloomington,IndianaRelationship statusDating anunnamedHawkins National LaboratoryemployeeFamilyUnnamed parentsUnnamed siblingsOther relationsUnnamed boyfriendAndrew Rich†(friend)Martin Brenner†(enemy/experimenter)Terry Ives(friend/fellow test subject)Alice Johnson(friend/fellow test subject)Gloria Flowers(friend/fellow test subject)2 Unnamed f...",
-    "role": "Student at an unnamed college ( pre 1969 -?) Project MKUltra test subject at Hawkins National Laboratory ( 1969 - 1971",
-    "attributes": {
-      "Born": "1944 - 1951 [ 1",
-      "Age": "18-27 ( 1969 - 1971 ) 32-39 ( season one ) 33-40 ( season two ) 34-41 ( season three ) 35-42 ( season four",
-      "Residence": "Bloomington , Indiana",
-      "Marital": "Dating an unnamed Hawkins National Laboratory employee",
-      "Relatives": "Unnamed parents Unnamed siblings",
-      "Other Relations": "Unnamed boyfriend Andrew Rich † (friend) Martin Brenner † (enemy/experimenter) Terry Ives (friend/fellow test subject) Alice Johnson (friend/fellow test subject) Gloria Flowers (friend/fellow test ...",
-      "Affiliation": "Hawkins National Laboratory (formerly",
-      "Occupation": "Student at an unnamed college ( pre 1969 -?) Project MKUltra test subject at Hawkins National Laboratory ( 1969 - 1971",
-      "Eyes": "Brown",
-      "Hair Color": "Blond",
-      "Portrayer": "Jacob Kevinsson"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Ken"
-  },
-  {
-    "name": "Boris Orlov",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/7/7a/Orlov.png",
-    "description": "Dr. Boris OrlovBiographical informationStatusUnknownFull nameBoris OrlovRelationship statusWidowedFamilyUnnamed wife (deceased)Anna Orlov(daughter)Leonid Orlov(son)AffiliationSoviet Union (formerly)OccupationScientistPhysical informationEye colorBlueHair colorBlondeDr. Boris Orlovis a character fromStranger Things: Kamchatka, a tie-in comic to the Netflix seriesStranger Things.",
-    "role": "Scientist",
-    "attributes": {
-      "Marital": "Widowed",
-      "Relatives": "Unnamed wife (deceased) Anna Orlov (daughter) Leonid Orlov (son",
-      "Occupation": "Scientist",
-      "Eyes": "Blue",
-      "Hair Color": "Blonde"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Boris_Orlov"
-  },
-  {
-    "name": "Roy",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/d/d1/Roy.PNG",
-    "description": "RoyBiographical informationStatusAlive(presumably)AliasesDad(by Francine)ResidenceUnknown(formerly)Hawkins,Indiana(currently)Relationship statusMarriedFamilyUnnamed wifeFrancine(daughter)Physical informationEye colorGreenHair colorLight brownRoyis the father ofFrancine. He appears in the prequel comicStranger Things: SIX.",
-    "role": "Alive (presumably",
-    "attributes": {
-      "Status": "Alive (presumably",
-      "Aliases": "Dad (by Francine",
-      "Residence": "Unknown (formerly) Hawkins , Indiana (currently",
-      "Marital": "Married",
-      "Relatives": "Unnamed wife Francine (daughter",
-      "Eyes": "Green"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Roy"
-  },
-  {
-    "name": "Elevator Scientist",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/2/27/ElevatorScientist.png",
-    "description": "The scientist deserted the tank room soon after and sprinted through the corridors of the laboratory's underground complex alone in an attempt to escape the building. He frantically pushed at the buttons for an elevator and appeared relieved when the doors opened. On entering, he nervously waited for the doors to close. Safe at last, it seemed, the scientist noticed strange sound emitting from above. After slowly raising his eyes to the ceiling, he was snatched by the Monster and dragged up a...",
-    "role": "Scientist",
+    "name": "Mews",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/c/c5/Screen_Shot_2017-10-30_at_12.22.20.png",
+    "description": "MewsBiographical informationStatusDeceasedDiedNovember 2,1984Age3ResidenceHenderson House(formerly)RelationsClaudia Henderson(owner)Dustin Henderson(owner)D'Artagnan†(killer)Physical informationSpeciesCatGenderFemaleWeight4-8 PoundsEye colorGreenFur colorGingerPortrayalPortrayed byUnknown catAppears in9,10,11,12",
+    "role": "Deceased",
     "attributes": {
       "Status": "Deceased",
-      "Died": "November 6 , 1983",
-      "Affiliation": "Hawkins National Laboratory Department of Energy",
-      "Occupation": "Scientist",
-      "Eyes": "Brown",
-      "Portrayer": "Andrew Benator",
-      "Appearances": "1 , 5 , 6"
+      "Died": "November 2 , 1984",
+      "Residence": "Henderson House (formerly",
+      "Other Relations": "Claudia Henderson (owner) Dustin Henderson (owner) D'Artagnan † (killer",
+      "Species": "Cat",
+      "Gender": "Female",
+      "Weight": "4-8 Pounds",
+      "Eyes": "Green",
+      "Hair Color": "Ginger",
+      "Appearances": "9 , 10 , 11 , 12"
     },
-    "source_url": "https://strangerthings.fandom.com/wiki/Elevator_Scientist"
+    "source_url": "https://strangerthings.fandom.com/wiki/Mews"
   },
   {
-    "name": "Karen Wheeler",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/d/d9/Karen_Wheeler_in_Season_4.png",
-    "description": "Karen Wheeler1986198519841983Biographical informationStatusAliveBorn1944-1946Age36-39(season one)37-40(season two)38-41(season three)39-42(season four)AliasesKaren Childress(maiden name)Residence2530Maple Street,Hawkins,IndianaRelationship statusMarried toTed WheelerFamilyTed Wheeler(husband)Nancy Wheeler(daughter)Mike Wheeler(son)Holly Wheeler(daughter)Joanna(niece)Other relationsJoyce Byers(friend)Jim Hopper(friend)Billy Hargrove†(acquaintance/former love interest)AffiliationTheWheeler fami...",
-    "role": "Alive",
-    "attributes": {
-      "Image": "1986",
-      "Status": "Alive",
-      "Born": "1944 - 1946 [ 2",
-      "Age": "36-39 ( season one ) 37-40 ( season two ) 38-41 ( season three ) 39-42 ( season four",
-      "Aliases": "Karen Childress (maiden name) [ 1",
-      "Residence": "2530 Maple Street , Hawkins , Indiana",
-      "Marital": "Married to Ted Wheeler",
-      "Relatives": "Ted Wheeler (husband) Nancy Wheeler (daughter) Mike Wheeler (son) Holly Wheeler (daughter) Joanna (niece",
-      "Other Relations": "Joyce Byers (friend) Jim Hopper (friend) Billy Hargrove † (acquaintance/former love interest",
-      "Affiliation": "The Wheeler family",
-      "Height": "5'5\" (165cm",
-      "Eyes": "Brown",
-      "Hair Color": "Light brown (seasons 1 & 2 ) Dirty blonde (seasons 3 & 4",
-      "Portrayer": "Cara Buono",
-      "Otheractor": "Florence Guy ( The First Shadow",
-      "Appearances": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 17 18 19 21 22 24 25 26 30 31 32 33 34"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Karen_Wheeler"
-  },
-  {
-    "name": "Neil Hargrove",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/c/c3/Neil_Hargrove_Family_Tree_icon_001.png",
-    "description": "Neil Hargrove lived inCalifornia, marrieda woman, and had a son namedBilly. Though Billy and his mother had an extremely close relationship, Neil emotionally and physically abused his son and wife. He deemed his son a \"pussy\" when too afraid to try things such as baseball and his love for surfing. It's hinted that Billy's mother was unfaithful and saw another man, as during one argument during dinner, Mr. Hargrove accused her of seeing \"him\". Mrs. Hargrove vehemently denied this, resulting in...",
-    "role": "Security guard",
-    "attributes": {
-      "Born": "1939-1944",
-      "Age": "40-45",
-      "Residence": "California (?–1984) 4819 Cherry Lane , Hawkins , Indiana (1984–1985",
-      "Marital": "Divorced",
-      "Relatives": "Unnamed first wife (ex-wife) Susan Hargrove (ex-wife) Billy Hargrove † (son) Max Mayfield (ex step-daughter",
-      "Affiliation": "The Hargrove family",
-      "Occupation": "Security guard",
-      "Height": "6'0\" (182cm",
-      "Eyes": "Blue",
-      "Hair Color": "Brown",
-      "Portrayer": "Will Chase",
-      "Appearances": "16 , 23 (vision) , 25 (flashback"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Neil_Hargrove"
-  },
-  {
-    "name": "Dmitri Antonov",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/a/a2/Dmitri.png",
-    "description": "Dmitri AntonovBiographical informationStatusAliveAliasesEnzoCommie Bastard(byHopper)Dull Man(byYuri)ResidenceRussiaRelationship statusMarriedFamilyUnnamed wifeMikhail Antonov(son)Other relationsYuri Ismaylov(former enemy now friend)Jim Hopper(friend)Joyce Byers(friend)Murray Bauman(friend)Ivan†(former friend now enemy)Warden Melnikov†(former boss now enemy)Oleg†(fellow prisoner; friend)AffiliationKamchatka Facility,Soviet Ministry of Internal Affairs(formerly)OccupationSergeant majorPrison gu...",
-    "role": "Sergeant major Prison guard Prisoner (all formerly",
-    "attributes": {
-      "Status": "Alive",
-      "Aliases": "Enzo Commie Bastard (by Hopper ) Dull Man (by Yuri",
-      "Residence": "Russia",
-      "Marital": "Married",
-      "Relatives": "Unnamed wife Mikhail Antonov (son",
-      "Other Relations": "Yuri Ismaylov (former enemy now friend) Jim Hopper (friend) Joyce Byers (friend) Murray Bauman (friend) Ivan † (former friend now enemy) Warden Melnikov † (former boss now enemy) Oleg † (fellow pri...",
-      "Affiliation": "Kamchatka Facility, Soviet Ministry of Internal Affairs (formerly",
-      "Occupation": "Sergeant major Prison guard Prisoner (all formerly",
-      "Height": "6'0\" (182 cm",
-      "Weight": "154-170 lbs.",
-      "Eyes": "Blue",
-      "Hair Color": "Dark Blonde",
-      "Portrayer": "Tom Wlaschiha",
-      "Appearances": "27 , 28 , 29 , 30 , 31 , 32 , 33 , 34"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Dmitri_Antonov"
+    "name": "Derek Turnbow",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/2/25/5_icon4.png",
+    "description": "Derek Turnbow, portrayed byJake Connelly, will be a character in thefifth seasonofStranger Things.",
+    "role": "Anime Character",
+    "attributes": {},
+    "source_url": "https://strangerthings.fandom.com/wiki/Derek_Turnbow"
   },
   {
     "name": "Alexei",
@@ -207,20 +73,300 @@
     "source_url": "https://strangerthings.fandom.com/wiki/Alexei"
   },
   {
-    "name": "Shepard",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/b/ba/F8814a76f3167f09d5851c79d6b9a2bc.png",
-    "description": "ShepardBiographical informationStatusDeceasedDiedNovember 10,1983AliasesTest Pilot ShepardSon (by Dr. Brenner)Other relationsMartin Brenner†(colleague)AffiliationDepartment of EnergyHawkins National LaboratoryOccupationScientistPortrayalMain actorChristopher Cody RobinsonAppears in4,33(flashback)Shepard, portrayed byChristopher Cody Robinson,was a minor character in thefirst seasonofStranger Things. He was a government scientist atHawkins National Laboratoryunder the employment ofDr. Martin B...",
+    "name": "Elevator Scientist",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/2/27/ElevatorScientist.png",
+    "description": "The scientist deserted the tank room soon after and sprinted through the corridors of the laboratory's underground complex alone in an attempt to escape the building. He frantically pushed at the buttons for an elevator and appeared relieved when the doors opened. On entering, he nervously waited for the doors to close. Safe at last, it seemed, the scientist noticed strange sound emitting from above. After slowly raising his eyes to the ceiling, he was snatched by the Monster and dragged up a...",
     "role": "Scientist",
     "attributes": {
       "Status": "Deceased",
-      "Died": "November 10 , 1983",
-      "Aliases": "Test Pilot Shepard Son (by Dr. Brenner",
-      "Other Relations": "Martin Brenner † (colleague",
-      "Affiliation": "Department of Energy Hawkins National Laboratory",
+      "Died": "November 6 , 1983",
+      "Affiliation": "Hawkins National Laboratory Department of Energy",
       "Occupation": "Scientist",
-      "Appearances": "4 , 33 (flashback"
+      "Eyes": "Brown",
+      "Portrayer": "Andrew Benator",
+      "Appearances": "1 , 5 , 6"
     },
-    "source_url": "https://strangerthings.fandom.com/wiki/Shepard"
+    "source_url": "https://strangerthings.fandom.com/wiki/Elevator_Scientist"
+  },
+  {
+    "name": "Dottie",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/8/8b/S2-Dottie.jpeg",
+    "description": "DottieBiographical informationStatusAliveBornSometime in the 1960sOther relationsKali Prasad(friend/accomplice)Axel(friend/accomplice)Mick(friend/accomplice)Funshine(friend/accomplice)AffiliationKali's gangOccupationCriminalPhysical informationEye colorBlueHair colorBlonde with different color tips (Dyed)PortrayalMain actorAnna Jacoby-HeronAppears in9,15Dottie, portrayed byAnna Jacoby-Heron, is a recurring character introduced in thesecond seasonofStranger Things. BeforeEleven, she was the la...",
+    "role": "Criminal",
+    "attributes": {
+      "Status": "Alive",
+      "Other Relations": "Kali Prasad (friend/accomplice) Axel (friend/accomplice) Mick (friend/accomplice) Funshine (friend/accomplice",
+      "Occupation": "Criminal",
+      "Eyes": "Blue",
+      "Appearances": "9 , 15"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/Dottie"
+  },
+  {
+    "name": "Principal Newby",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/2/23/Unseen_and_Unnamed_Character_Family_Tree_icon.png",
+    "description": "Principal NewbyBiographical informationFamilyBob Newby†(son)Patty Newby(adoptive daughter)OccupationPrincipal ofHawkins High School(1959)PortrayalMain actorMatthew PidgeonPrincipal Newbywas a character fromStranger Things: The First Shadow, portrayed byMatthew Pidgeon. Newby was principal ofHawkins High Schoolin1959, the father ofBoband adoptive father toPatty Newby.",
+    "role": "Principal of Hawkins High School ( 1959",
+    "attributes": {
+      "Relatives": "Bob Newby † (son) Patty Newby (adoptive daughter",
+      "Occupation": "Principal of Hawkins High School ( 1959"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/Principal_Newby"
+  },
+  {
+    "name": "Jason Carver",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/6/62/Jason_-_The_Piggyback.png",
+    "description": "Jason CarverBiographical informationStatusDeceasedBorn1967-1968DiedMarch 27,1986Age17-18ResidenceHawkins,IndianaRelationship statusDatedChrissy CunninghamOther relationsChrissy Cunningham†(girlfriend)Andy(friend/teammate)Chance(friend/teammate)Patrick McKinney†(friend/teammate)Tommy H(acquaintance)Eddie Munson†(rival/enemy)Lucas Sinclair(former friend; teammate/enemy)Erica Sinclair(enemy)Nancy Wheeler(enemy)AffiliationHawkins High SchoolOccupationStudent atHawkins High School(1982-1986)Captai...",
+    "role": "Student at Hawkins High School ( 1982 - 1986 ) Captain of the Hawkins High Basketball Team ( 1985 - 1986",
+    "attributes": {
+      "Status": "Deceased",
+      "Born": "1967 - 1968",
+      "Died": "March 27 , 1986",
+      "Age": "17-18",
+      "Residence": "Hawkins , Indiana",
+      "Marital": "Dated Chrissy Cunningham",
+      "Other Relations": "Chrissy Cunningham † (girlfriend) Andy (friend/teammate) Chance (friend/teammate) Patrick McKinney † (friend/teammate) Tommy H (acquaintance) Eddie Munson † (rival/enemy) Lucas Sinclair (former fri...",
+      "Occupation": "Student at Hawkins High School ( 1982 - 1986 ) Captain of the Hawkins High Basketball Team ( 1985 - 1986",
+      "Height": "5'8\" (173 cm",
+      "Eyes": "Blue",
+      "Hair Color": "Blonde",
+      "Portrayer": "Mason Dye",
+      "Appearances": "26 27 28 29 30 31 33 34"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/Jason_Carver"
+  },
+  {
+    "name": "Mike Wheeler",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/8/83/Mike_Wheeler_-_S4.jpg",
+    "description": "Mike Wheeler1986198519841983Biographical informationStatusAliveBornApril 7,1971Age12(season one)13(season two)14(seasons three&four)16(season five)AliasesDungeon MasterPaladinResidence2530Maple Street,Hawkins,IndianaRelationship statusDatingElevenFamilyTed Wheeler(father)Karen Wheeler(mother)Nancy Wheeler(older sister)Holly Wheeler(younger sister)Joanna(cousin)Other relationsEleven(girlfriend)Will Byers(best friend)Lucas Sinclair(best friend)Dustin Henderson(best friend)Max Mayfield(former en...",
+    "role": "Student at Hawkins Middle School (1982-1985) Student at Hawkins High School (1985",
+    "attributes": {
+      "Image": "1986",
+      "Status": "Alive",
+      "Born": "April 7 , 1971 [ 1",
+      "Age": "12 ( season one ) 13 ( season two ) 14 ( seasons three & four ) 16 ( season five",
+      "Aliases": "Dungeon Master Paladin",
+      "Residence": "2530 Maple Street , Hawkins , Indiana",
+      "Marital": "Dating Eleven",
+      "Relatives": "Ted Wheeler (father) Karen Wheeler (mother) Nancy Wheeler (older sister) Holly Wheeler (younger sister) Joanna (cousin",
+      "Other Relations": "Eleven (girlfriend) Will Byers (best friend) Lucas Sinclair (best friend) Dustin Henderson (best friend) Max Mayfield (former enemy/best friend) Steve Harrington (friend) Jonathan Byers (friend) Jo...",
+      "Affiliation": "The Wheeler Family The Party AV Club (formerly) Hellfire Club",
+      "Occupation": "Student at Hawkins Middle School (1982-1985) Student at Hawkins High School (1985",
+      "Height": "5'11\" (180 cm",
+      "Eyes": "Brown",
+      "Hair Color": "Dark Brown",
+      "Portrayer": "Finn Wolfhard",
+      "Appearances": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/Mike_Wheeler"
+  },
+  {
+    "name": "Will Byers",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/4/45/Will_in_California.png",
+    "description": "Will Byers19861985198419831982Biographical informationStatusAliveBornMarch 22,1971*Age11(1982flashback)12(season one)13(season two)14(season three)14/15(season four)16(season five)AliasesWill the WiseThe Boy Who Came Back to LifeZombie BoyThe SpyClericResidenceHawkins,Indiana(1971-1985):Byers house(19?? - October 1985)Lenora Hills,California(October 1985 -March 1986):Byers houseRelationship statusSingleFamilyJoyce Byers(mother)Lonnie Byers(father)Jonathan Byers(brother)Eleven(foster sister)Da...",
+    "role": "Student at Hawkins Middle School (1982-1985) Student at Lenora Hills High School (1985",
+    "attributes": {
+      "Image": "1986",
+      "Status": "Alive",
+      "Born": "March 22 , 1971 * [ 1",
+      "Age": "11 ( 1982 flashback) 12 ( season one ) 13 ( season two ) 14 ( season three ) 14/15 ( season four ) 16 ( season five",
+      "Aliases": "Will the Wise The Boy Who Came Back to Life Zombie Boy The Spy Cleric",
+      "Residence": "Hawkins, Indiana (1971- 1985 ): Byers house (19?? - October 1985) Lenora Hills, California (October 1985 - March 1986 ): Byers house",
+      "Marital": "Single",
+      "Relatives": "Joyce Byers (mother) Lonnie Byers (father) Jonathan Byers (brother) Eleven (foster sister) Darlene (maternal great-aunt",
+      "Other Relations": "Mike Wheeler (best friend/crush ) Dustin Henderson (best friend) Lucas Sinclair (best friend) Max Mayfield (friend) Nancy Wheeler (ally) Steve Harrington (ally) Robin Buckley (ally) Argyle (f...",
+      "Affiliation": "Byers family The Party Hawkins Middle AV Club (formerly",
+      "Occupation": "Student at Hawkins Middle School (1982-1985) Student at Lenora Hills High School (1985",
+      "Height": "5'9\" (175 cm",
+      "Eyes": "Hazel",
+      "Hair Color": "Brown",
+      "Portrayer": "Noah Schnapp",
+      "Appearances": "1 2* 3 4 5* 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 * = flashback"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/Will_Byers"
+  },
+  {
+    "name": "Dustin Henderson",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/0/07/Dustin_S4.png",
+    "description": "Dustin Henderson1986198519841983Biographical informationStatusAliveBornMay 29,1971Age12(season one)13(season two)14(seasonsthree&four)16(season five)Aliases\"Compass Genius\"\"Dusty\"\"Dusty-Bun\"\"Nerd\"ResidenceHawkins,IndianaRelationship statusDatingSuzie BinghamFamilyClaudia Henderson(mother)Walter Henderson(father)Other relationsSuzie Bingham(girlfriend)Steve Harrington(best friend/brother figure)Eddie Munson†(best friend/role model)Lucas Sinclair(best friend)Will Byers(best friend)Mike Wheeler(...",
+    "role": "Student at Hawkins Middle School (1982-1985) Student at Hawkins High School (1985",
+    "attributes": {
+      "Image": "1986",
+      "Status": "Alive",
+      "Born": "May 29 , 1971 [ 2",
+      "Age": "12 ( season one ) 13 ( season two ) 14 (seasons three & four ) 16 ( season five",
+      "Aliases": "\"Compass Genius\" \"Dusty\" \"Dusty-Bun\" \"Nerd\"",
+      "Residence": "Hawkins , Indiana",
+      "Marital": "Dating Suzie Bingham",
+      "Relatives": "Claudia Henderson (mother) Walter Henderson (father) [ 1",
+      "Other Relations": "Suzie Bingham (girlfriend) Steve Harrington (best friend/brother figure) Eddie Munson † (best friend/role model) Lucas Sinclair (best friend) Will Byers (best friend) Mike Wheeler (best friend) Ele...",
+      "Affiliation": "AV Club (formerly) The Party Scoops Troop Hellfire Club Henderson family",
+      "Occupation": "Student at Hawkins Middle School (1982-1985) Student at Hawkins High School (1985",
+      "Height": "5'5\" (165 cm",
+      "Eyes": "Blue",
+      "Hair Color": "Brown",
+      "Portrayer": "Gaten Matarazzo",
+      "Appearances": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15* 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 * = archive footage"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/Dustin_Henderson"
+  },
+  {
+    "name": "Glenn Daniels",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/4/47/Glenn_Daniels.png",
+    "description": "Glenn DanielsBiographical informationStatusAliveResidenceHawkins,IndianaRelationship statusUnknownOther relationsCalvin Powell(boss)Phil Callahan(co-worker)AffiliationHawkins Police DepartmentOccupationPolice officerPhysical informationEye colorBrownHair colorBlackPortrayalMain actorJeff SprauveAppears in27,28,31,32Glenn Daniels, portrayed byJeff Sprauve, is a recurring character inStranger Things, who was introduced in thefourth season. He is a police officer inHawkins,Indiana.",
+    "role": "Police officer",
+    "attributes": {
+      "Status": "Alive",
+      "Residence": "Hawkins , Indiana",
+      "Other Relations": "Calvin Powell (boss) Phil Callahan (co-worker",
+      "Eyes": "Brown",
+      "Hair Color": "Black",
+      "Appearances": "27 , 28 , 31 , 32"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/Glenn_Daniels"
+  },
+  {
+    "name": "Marissa",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/4/4d/Marissa_S4_%28The_Monster_and_the_Superhero%29.jpeg",
+    "description": "On November 9, 1983, Hopper and his deputy Powell arrived at the library to research experiments done at the Hawkins National Laboratory. Hopper approached Marissa politely but was soon put in his place when Marissa brought up how he threw their relationship to the side while calling him a \"dick\". Despite the tense altercation, Marissa brought Hopper and Powell to the archives, questioning why they weren't searching for a missing boy named Will Byers, though Hopper explained this was part of ...",
+    "role": "Librarian",
+    "attributes": {
+      "Image": "1986",
+      "Status": "Alive",
+      "Marital": "Ex-girlfriend of Jim Hopper",
+      "Occupation": "Librarian",
+      "Height": "5’4” (163cm",
+      "Eyes": "Brown",
+      "Hair Color": "Brown",
+      "Portrayer": "Christi Waldon",
+      "Appearances": "3 , 11 , 28"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/Marissa"
+  },
+  {
+    "name": "Jack Sullivan",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/f/f0/Jack_Sullivan_S4.jpg",
+    "description": "Jack SullivanBiographical informationStatusAliveAge40s-50sAliasesJackFull nameJack SullivanOther relationsSam Owens(enemy)Martin Brenner†(enemy)Agent Harmon†(enemy)Agent Wallace(enemy)Agent Ellen Stinson(enemy)Eleven(enemy/target)AffiliationUnited States Army Criminal Investigation Command (CID)OccupationU.S Army Lieutenant ColonelCID Special AgentPhysical informationHeight6’1” (185cm)Eye colorBrownHair colorBlackPortrayalMain actorSherman AugustusAppears in27,28,30,31,32,33Lt. Colonel Jack S...",
+    "role": "U.S Army Lieutenant Colonel CID Special Agent",
+    "attributes": {
+      "Status": "Alive",
+      "Age": "40s-50s",
+      "Aliases": "Jack",
+      "Other Relations": "Sam Owens (enemy) Martin Brenner † (enemy) Agent Harmon † (enemy) Agent Wallace (enemy) Agent Ellen Stinson (enemy) Eleven (enemy/target",
+      "Occupation": "U.S Army Lieutenant Colonel CID Special Agent",
+      "Eyes": "Brown",
+      "Hair Color": "Black",
+      "Appearances": "27 , 28 , 30 , 31 , 32 , 33"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/Jack_Sullivan"
+  },
+  {
+    "name": "Kali Prasad",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/9/9e/Kali.png",
+    "description": "Kali Prasad19841974Biographical informationStatusUnknownBorn1963-1964Age9-11(1974)20-21(season two)Aliases008KalRelationship statusSingleFamilyUnnamed biological fatherUnnamed biological motherUnnamed foster familyMartin Brenner†(former captor/father figure)One(fellow test subject)Eleven(fellow test subject/sister figure)Two,Three,Four,Five,Six,Seven,Nine,Ten,Twelve,Thirteen,Fourteen,Fifteen,Sixteen,Seventeen,Eighteen†(fellow test subjects/sibling figures)Other relationsAxel(friend/accomplice...",
+    "role": "Hawkins National Laboratory Test Subject (July 1964-1975/1978) Criminal",
+    "attributes": {
+      "Image": "1984",
+      "Born": "1963 - 1964",
+      "Age": "9-11 ( 1974 ) 20-21 ( season two",
+      "Aliases": "008 Kal",
+      "Marital": "Single",
+      "Relatives": "Unnamed biological father Unnamed biological mother Unnamed foster family Martin Brenner † (former captor/father figure) One (fellow test subject) Eleven (fellow test subject/sister figure) Two , T...",
+      "Other Relations": "Axel (friend/accomplice) Mick (friend/accomplice) Funshine (friend/accomplice) Dottie (friend/accomplice",
+      "Occupation": "Hawkins National Laboratory Test Subject (July 1964-1975/1978) Criminal",
+      "Height": "5'0 \"(152cm",
+      "Eyes": "Brown",
+      "Hair Color": "Dyed purple",
+      "Mainactor": "Linnea Berthelsen",
+      "Otheractor": "Vanathi Kalai Parthiban (child",
+      "Appearances": "9 , 13 , 15 , 17 , 23 , 31"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/Kali_Prasad"
+  },
+  {
+    "name": "Steve Harrington",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/5/5c/Steve_-_Season_4.jpg",
+    "description": "Steve Harrington1986198519841983Biographical informationStatusAliveBornBetweenAugust 1966andJuly 1967*Age16/17(season one)*17/18(season two)*18/19(seasons threeandfour)*AliasesKing SteveSteve \"The Hair\" HarringtonDingus(byRobin)NinjaTweedledum(byDustin)Big Boy(byEddie)An Idiot(byNancy)ResidenceHarrington house,Hawkins,IndianaRelationship statusSingleFamilyUnnamed fatherUnnamed motherOther relationsDustin Henderson(best friend/brother figure)Robin Buckley(best friend/co-worker)Nancy Wheeler(ex...",
+    "role": "Student at Hawkins High School ( 1981 - 1985 ) Employee at Scoops Ahoy (1985) Employee at Family Video (1985",
+    "attributes": {
+      "Image": "1986",
+      "Status": "Alive",
+      "Born": "Between August 1966 and July 1967 *",
+      "Age": "16/17 ( season one ) * 17/18 ( season two ) * 18/19 ( seasons three and four ) *",
+      "Aliases": "King Steve Steve \"The Hair\" Harrington Dingus (by Robin ) Ninja Tweedledum (by Dustin ) Big Boy (by Eddie ) An Idiot (by Nancy",
+      "Residence": "Harrington house , Hawkins , Indiana",
+      "Marital": "Single",
+      "Relatives": "Unnamed father Unnamed mother",
+      "Other Relations": "Dustin Henderson (best friend/brother figure) Robin Buckley (best friend/co-worker) Nancy Wheeler (ex-girlfriend/friend/crush) Jonathan Byers (friend) Eddie Munson † (friend) Mike Wheeler (friend) ...",
+      "Affiliation": "Hawkins High Swim Team (formerly) Scoops Troop Family Video",
+      "Occupation": "Student at Hawkins High School ( 1981 - 1985 ) Employee at Scoops Ahoy (1985) Employee at Family Video (1985",
+      "Height": "5'11\" (180 cm",
+      "Eyes": "Brown",
+      "Hair Color": "Brown",
+      "Portrayer": "Joe Keery",
+      "Otheractor": "Andrew Noah ( Stranger Things: Rebel Robin",
+      "Appearances": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/Steve_Harrington"
+  },
+  {
+    "name": "Erica Sinclair",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/c/c5/Erica_Sinclair_-_S4.jpg",
+    "description": "Erica Sinclair198619851984Biographical informationStatusAliveBorn1975Age9(season two)10(season three)11(season four)12(season five)AliasesNerd(byDustin)Psycho, Mall Rat(byLucas)Lady Applejack(D&Dname)Residence2550Maple Street,Hawkins,IndianaFamilySue Sinclair(mother)Charles Sinclair(father)Lucas Sinclair(older brother)Jack(uncle)Other relationsDustin Henderson(friend)Steve Harrington(friend)Robin Buckley(friend)Max Mayfield(friend)Mike Wheeler(friend)Nancy Wheeler(friend)Murray Bauman(acquain...",
+    "role": "Student at Hawkins Middle School [ 1",
+    "attributes": {
+      "Image": "1986",
+      "Status": "Alive",
+      "Born": "1975",
+      "Age": "9 ( season two ) 10 ( season three ) 11 ( season four ) 12 ( season five",
+      "Aliases": "Nerd (by Dustin ) Psycho, Mall Rat (by Lucas ) Lady Applejack ( D&D name",
+      "Residence": "2550 Maple Street , Hawkins , Indiana",
+      "Relatives": "Sue Sinclair (mother) Charles Sinclair (father) Lucas Sinclair (older brother) Jack (uncle",
+      "Other Relations": "Dustin Henderson (friend) Steve Harrington (friend) Robin Buckley (friend) Max Mayfield (friend) Mike Wheeler (friend) Nancy Wheeler (friend) Murray Bauman (acquaintance) Joyce Byers (acquaintance)...",
+      "Affiliation": "Scoops Troop Hellfire Club [ 1",
+      "Occupation": "Student at Hawkins Middle School [ 1",
+      "Height": "5'1\" (155 cm",
+      "Eyes": "Brown",
+      "Hair Color": "Black",
+      "Portrayer": "Priah Ferguson",
+      "Appearances": "10 13 14 17 18 19 20 21 22 23 24 25 26 29 31 32 33 34"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/Erica_Sinclair"
+  },
+  {
+    "name": "April",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/5/56/April.png",
+    "description": "Erica invites April, Tanya and Kelly to play D&D with her. The girls are confused by what it is, but April is persuaded to come with the promise of pizza. When they arrive for the sleepover, Erica gives them their own characters and throws them into the game, confusing the girls; Erica makes April into a Wizard, and while April is excited at the idea of doing magic, she is quickly unnerved by the challenging and frustrating run that Erica pushes them into so that she can play the hero.",
+    "role": "Alive",
+    "attributes": {
+      "Status": "Alive",
+      "Born": "c. 1975 [ 1",
+      "Aliases": "April the Wizard (formerly",
+      "Residence": "Hawkins , Indiana",
+      "Relatives": "Unnamed Mother",
+      "Affiliation": "Erica Sinclair",
+      "Eyes": "Black",
+      "Hair Color": "Black",
+      "Appearances": "Stranger Things: Erica the Great"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/April"
+  },
+  {
+    "name": "Sara Hopper",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/e/e2/Sarah-Hopper.png",
+    "description": "Sara HopperBiographical informationStatusDeceasedBornApril 1971Died1978Age7ResidenceHawkins(1971 - 1972)New York City(1972 - 1978)FamilyJim Hopper(father)Diane(mother)Bill(maternal step-father)Unnamed maternal half-siblingEleven(paternal adoptive-half-sister)James Hopper Sr(paternal grandfather)Physical informationEye colorBlueHair colorBlondePortrayalMain actorElle GrahamAppears in8,30Sara Hopper, portrayed byElle Graham, was a minor character inStranger Things. She was the only daughter ofJ...",
+    "role": "Deceased",
+    "attributes": {
+      "Status": "Deceased",
+      "Born": "April 1971 [ 1",
+      "Died": "1978",
+      "Residence": "Hawkins (1971 - 1972) New York City (1972 - 1978",
+      "Relatives": "Jim Hopper (father) Diane (mother) Bill (maternal step-father) Unnamed maternal half-sibling Eleven (paternal adoptive-half-sister) James Hopper Sr (paternal grandfather",
+      "Eyes": "Blue",
+      "Hair Color": "Blonde",
+      "Appearances": "8 , 30"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/Sara_Hopper"
   },
   {
     "name": "Jim Hopper",
@@ -249,55 +395,83 @@
     "source_url": "https://strangerthings.fandom.com/wiki/Jim_Hopper"
   },
   {
-    "name": "Mrs. Walsh",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/a/a4/Troymother.JPG",
-    "description": "Mrs. WalshBiographical informationStatusAliveResidenceHawkins,Indiana(???-1984)FamilyTroy Walsh(Son)PortrayalMain actorAmy ParrishAppears in7",
-    "role": "Alive",
-    "attributes": {
-      "Status": "Alive",
-      "Residence": "Hawkins , Indiana (???-1984",
-      "Relatives": "Troy Walsh (Son"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Mrs._Walsh"
-  },
-  {
-    "name": "Ivan",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/a/a5/Ivan.png",
-    "description": "IvanBiographical informationStatusDeceasedDiedMarch 26,1986ResidenceKamchatka, RussiaOther relationsDmitri Antonov(former ally/enemy)Warden Melnikov†(boss)Russian Demogorgon†(killer)AffiliationKamchatka, Soviet Ministry of Internal AffairsOccupationPrison guardPhysical informationHeight6’0” (182cm)Eye colorBluePortrayalMain actorNikolai NikolaeffAppears in30,31,32,33",
-    "role": "Prison guard",
+    "name": "Ten",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/5/5c/010.png",
+    "description": "TenBiographical informationStatusDeceasedBorn1964-1971DiedSeptember 8,1979Age8-15Aliases010(subject name)ResidenceHawkins National Laboratory,Hawkins,IndianaFamilyMartin Brenner†(captor/ father figure)One(fellow test subject/killer)Eight(fellow test subject)Eleven(fellow test subject)Two,Three,Four,Five,Six,Seven,Nine,Twelve,Thirteen,Fourteen,Fifteen,Sixteen,SeventeenandEighteen†(fellow test subjects)AffiliationHawkins National LaboratoryOccupationHawkins National Laboratorytest subjectPhysic...",
+    "role": "Hawkins National Laboratory test subject",
     "attributes": {
       "Status": "Deceased",
-      "Died": "March 26 , 1986",
-      "Residence": "Kamchatka , Russia",
-      "Other Relations": "Dmitri Antonov (former ally/enemy) Warden Melnikov † (boss) Russian Demogorgon † (killer",
-      "Eyes": "Blue",
-      "Appearances": "30 , 31 , 32 , 33"
+      "Born": "1964 - 1971",
+      "Died": "September 8 , 1979",
+      "Age": "8-15",
+      "Aliases": "010 (subject name",
+      "Residence": "Hawkins National Laboratory , Hawkins , Indiana",
+      "Relatives": "Martin Brenner † (captor/ father figure) One (fellow test subject/killer) Eight (fellow test subject) Eleven (fellow test subject) Two , Three , Four , Five , Six , Seven , Nine , Twelve , Thirteen...",
+      "Occupation": "Hawkins National Laboratory test subject",
+      "Hair Color": "Dirty blond",
+      "Portrayer": "Christian Ganiere",
+      "Appearances": "26 (flashback) , 30 ( NINA memory) , 31 ( NINA memory) , 32 ( NINA memory"
     },
-    "source_url": "https://strangerthings.fandom.com/wiki/Ivan"
+    "source_url": "https://strangerthings.fandom.com/wiki/Ten"
   },
   {
-    "name": "Jonathan Byers",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/5/50/Jonathan_in_Season_Four.png",
-    "description": "Jonathan Byers19861985198419831982Biographical informationStatusAliveBorn1967-1968Age15-16(season one)16-17(season two)17(season three)17-18(season four)19-20(season five)ResidenceHawkins,Indiana(1967-1985):Byers house(1967 - October 1985)Lenora Hills,California(October 1985 -March 1986):Byers houseRelationship statusDatingNancy WheelerFamilyWill Byers(brother)Joyce Byers(mother)Lonnie Byers(father)Darlene(great-aunt)Eleven(foster sister)Other relationsNancy Wheeler(girlfriend)Argyle(best fri...",
-    "role": "Student at Hawkins High School ( 1982 -1985) Intern at The Hawkins Post (1985) Student at Lenora Hills High School (1985",
+    "name": "Angela",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/3/35/Angelastrangerthings.png",
+    "description": "AngelaBiographical informationStatusAliveBorn1970-1971Age14-15(season four)ResidenceLenora Hills,CaliforniaRelationship statusDatingJakeOther relationsJake(boyfriend)Stacy(best friend)Chad(best friend)Eleven(enemy)OccupationStudent atLenora Hills High SchoolPhysical informationHeight5'5\" (165 cm)Eye colorHazelHair colorBlondePortrayalMain actorElodie Grace OrkinAppears in26,27,28Angela, portrayed byElodie Grace Orkin,is a recurring antagonist in thefourth seasonofStranger Things.",
+    "role": "Student at Lenora Hills High School",
     "attributes": {
-      "Image": "1986",
       "Status": "Alive",
-      "Born": "1967 - 1968 [ 2",
-      "Age": "15-16 ( season one ) 16-17 ( season two ) 17 ( season three ) 17-18 ( season four ) 19-20 ( season five",
-      "Residence": "Hawkins, Indiana (1967- 1985 ): Byers house (1967 - October 1985) Lenora Hills, California (October 1985 - March 1986 ): Byers house",
-      "Marital": "Dating Nancy Wheeler",
-      "Relatives": "Will Byers (brother) Joyce Byers (mother) Lonnie Byers (father) Darlene (great-aunt) Eleven (foster sister",
-      "Other Relations": "Nancy Wheeler (girlfriend) Argyle (best friend) Steve Harrington (friend) Mike Wheeler (friend) Lucas Sinclair (friend) Dustin Henderson (friend) Max Mayfield (friend) Robin Buckley (friend) Jim Ho...",
-      "Affiliation": "The Byers family The Hawkins Post (formerly",
-      "Occupation": "Student at Hawkins High School ( 1982 -1985) Intern at The Hawkins Post (1985) Student at Lenora Hills High School (1985",
-      "Height": "5'8\" (173 cm",
-      "Eyes": "Brown",
-      "Hair Color": "Brown",
-      "Portrayer": "Charlie Heaton",
-      "Appearances": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34"
+      "Born": "1970-1971",
+      "Age": "14-15 (season four",
+      "Residence": "Lenora Hills , California",
+      "Marital": "Dating Jake [ 1",
+      "Other Relations": "Jake (boyfriend) Stacy (best friend) Chad (best friend) Eleven (enemy",
+      "Occupation": "Student at Lenora Hills High School",
+      "Eyes": "Hazel",
+      "Hair Color": "Blonde",
+      "Appearances": "26 , 27 , 28"
     },
-    "source_url": "https://strangerthings.fandom.com/wiki/Jonathan_Byers"
+    "source_url": "https://strangerthings.fandom.com/wiki/Angela"
+  },
+  {
+    "name": "The Mind Flayer",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/9/91/The_Mind_Flayer_Will.png",
+    "description": "The entity was gigantic, looming at least fifty stories talland sporting a distinctive spider-like appearance. The Mind Flayer exercised supreme control over theUpside Downvia a psychic link, withDemogorgons,vines, andDemobatsforming a sharedhive mind; for a period in1985, possessed humans known as\"the Flayed\"also comprised part of the hive mind. This meant the entirety of the Upside Down was essentially like one gigantic organism, with all its contents and agents mentally connected via the M...",
+    "role": "Alive",
+    "attributes": {
+      "Image": "Spider form",
+      "Status": "Alive",
+      "Aliases": "Shadow Monster The Particles The Shadow",
+      "Residence": "Dimension X The Upside Down",
+      "Forms": "\"Shadow Monster\" (main form) Flesh Thralls: Hospital Monster (proxy form) Spider Monster (proxy form",
+      "Other Relations": "Vecna Demogorgons Will Byers (former host) Hawkins tunnel organism Demobats Vines \"The Flayed\": Billy Hargrove Heather Holloway Bruce Lowe Tom Holloway Janet Holloway Doris Driscoll and others",
+      "Affiliation": "Vecna The Upside Down",
+      "Height": "Approx. 50 stories, or 700 ft [ 1",
+      "Voiceactor": "Matthew Modine ( Stranger Things VR",
+      "Appearances": "9 10 11 12 17 18 19 20* 21* 24* 25* 33 34* * = appears via proxy or flashback"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/The_Mind_Flayer"
+  },
+  {
+    "name": "Larry Kline",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/4/40/ST3-Mayor-Kline.png",
+    "description": "Larry KlineBiographical informationStatusAliveBorn1930s-1940sAge40s-50sAliasesLar(ByJim Hopper)ResidenceHawkins,IndianaRelationship statusMarried toWinnie KlineFamilyWinnie Kline(wife)Other relationsCandice(secretary; mistress)Jim Hopper(former acquaintance; enemy)Joyce Byers(enemy)Grigori†(former colleague)AffiliationHawkins Town Hall(formerly)OccupationMayor(formerly)Physical informationHeight6’0” (182cm)Eye colorBlueHair colorBrown with white tonesPortrayalMain actorCary ElwesAppears in19,...",
+    "role": "Mayor (formerly",
+    "attributes": {
+      "Status": "Alive",
+      "Age": "40s-50s",
+      "Aliases": "Lar (By Jim Hopper",
+      "Residence": "Hawkins , Indiana",
+      "Marital": "Married to Winnie Kline",
+      "Relatives": "Winnie Kline (wife",
+      "Other Relations": "Candice (secretary; mistress) Jim Hopper (former acquaintance; enemy) Joyce Byers (enemy) Grigori † (former colleague",
+      "Affiliation": "Hawkins Town Hall (formerly",
+      "Occupation": "Mayor (formerly",
+      "Eyes": "Blue",
+      "Portrayer": "Cary Elwes",
+      "Appearances": "19 , 21 , 23 , 24 , 25"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/Larry_Kline"
   },
   {
     "name": "Barbara Holland",
@@ -320,176 +494,125 @@
     "source_url": "https://strangerthings.fandom.com/wiki/Barbara_Holland"
   },
   {
-    "name": "Gareth",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/8/81/Gareth.jpg",
-    "description": "GarethBiographical informationStatusAliveBorn1968-1969Age16-18(season four)AliasesFreak(byJason Carver)Gareth The Great(byEddie Munson)ResidenceHawkins,IndianaOther relationsEddie Munson†(friend/fellow club member)Jeff(friend/fellow club member)Freak 1(friend/fellow club member)Dustin Henderson(friend/fellow club member)Mike Wheeler(friend/fellow club member)Lucas Sinclair(friend/fellow club member)Jason Carver†(enemy)AffiliationHellfire ClubCorroded Coffin(Drummer)OccupationStudent atHawkins...",
-    "role": "Student at Hawkins High School",
+    "name": "Kelly",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/6/68/Kelly_EtG.png",
+    "description": "KellyBiographical informationStatusAliveBornc. 1975AliasesKelly the Cleric(formerly)ResidenceHawkins,IndianaFamilyUnnamed fatherAffiliationErica SinclairPhysical informationEye colorBlackHair colorBlackPortrayalAppears inStranger Things: Erica the GreatKellyis a side character in the comic one-shotStranger Things: Erica the Great.She is one ofErica Sinclair's friends and a Bard/Cleric in her D&D Party.",
+    "role": "Alive",
     "attributes": {
       "Status": "Alive",
-      "Born": "1968-1969 [ 1",
-      "Age": "16-18 (season four) [ 1",
-      "Aliases": "Freak (by Jason Carver ) Gareth The Great (by Eddie Munson",
+      "Born": "c. 1975 [ 1",
+      "Aliases": "Kelly the Cleric (formerly",
       "Residence": "Hawkins , Indiana",
-      "Other Relations": "Eddie Munson † (friend/fellow club member) Jeff (friend/fellow club member) Freak 1 (friend/fellow club member) Dustin Henderson (friend/fellow club member) Mike Wheeler (friend/fellow club member)...",
-      "Affiliation": "Hellfire Club Corroded Coffin (Drummer",
-      "Occupation": "Student at Hawkins High School",
-      "Height": "5'8\" (172cm",
-      "Eyes": "Blue",
-      "Hair Color": "Brown",
-      "Portrayer": "Gwydion Lashlee-Walton",
-      "Appearances": "26 27* 28 30* * = photograph"
+      "Eyes": "Black",
+      "Hair Color": "Black"
     },
-    "source_url": "https://strangerthings.fandom.com/wiki/Gareth"
+    "source_url": "https://strangerthings.fandom.com/wiki/Kelly"
   },
   {
-    "name": "Dottie",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/8/8b/S2-Dottie.jpeg",
-    "description": "DottieBiographical informationStatusAliveBornSometime in the 1960sOther relationsKali Prasad(friend/accomplice)Axel(friend/accomplice)Mick(friend/accomplice)Funshine(friend/accomplice)AffiliationKali's gangOccupationCriminalPhysical informationEye colorBlueHair colorBlonde with different color tips (Dyed)PortrayalMain actorAnna Jacoby-HeronAppears in9,15Dottie, portrayed byAnna Jacoby-Heron, is a recurring character introduced in thesecond seasonofStranger Things. BeforeEleven, she was the la...",
-    "role": "Criminal",
-    "attributes": {
-      "Status": "Alive",
-      "Other Relations": "Kali Prasad (friend/accomplice) Axel (friend/accomplice) Mick (friend/accomplice) Funshine (friend/accomplice",
-      "Occupation": "Criminal",
-      "Eyes": "Blue",
-      "Appearances": "9 , 15"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Dottie"
-  },
-  {
-    "name": "Donald Melvald",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/6/6e/Donald_Melvald.jpg",
-    "description": "Donald MelvaldBiographical informationStatusAliveAffiliationMelvald's General StoreOccupationOwner ofMelvald's General StorePhysical informationEye colorDark BluePortrayalMain actorCharles LawlorAppears in2,3,5,9Donald Melvald, portrayed byCharles Lawlor, is a recurring character in thefirst seasonand a minor character in thesecond seasonofStranger Things. He is the eponymous shopkeeper ofMelvald's General Storein downtownHawkins, and the employer ofJoyce ByersandJeffrey.",
-    "role": "Owner of Melvald's General Store",
-    "attributes": {
-      "Status": "Alive",
-      "Occupation": "Owner of Melvald's General Store",
-      "Eyes": "Dark Blue",
-      "Appearances": "2 , 3 , 5 , 9"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Donald_Melvald"
-  },
-  {
-    "name": "Glenn Daniels",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/4/47/Glenn_Daniels.png",
-    "description": "Glenn DanielsBiographical informationStatusAliveResidenceHawkins,IndianaRelationship statusUnknownOther relationsCalvin Powell(boss)Phil Callahan(co-worker)AffiliationHawkins Police DepartmentOccupationPolice officerPhysical informationEye colorBrownHair colorBlackPortrayalMain actorJeff SprauveAppears in27,28,31,32Glenn Daniels, portrayed byJeff Sprauve, is a recurring character inStranger Things, who was introduced in thefourth season. He is a police officer inHawkins,Indiana.",
-    "role": "Police officer",
-    "attributes": {
-      "Status": "Alive",
-      "Residence": "Hawkins , Indiana",
-      "Other Relations": "Calvin Powell (boss) Phil Callahan (co-worker",
-      "Eyes": "Brown",
-      "Hair Color": "Black",
-      "Appearances": "27 , 28 , 31 , 32"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Glenn_Daniels"
-  },
-  {
-    "name": "Bruce Lowe",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/1/17/ST3_Bruce_Lowe.jpg",
-    "description": "Bruce LoweBiographical informationStatusDeceasedBorn1930s-1950sDiedJuly 3,1985Other relationsTom Holloway†(boss)Nancy Wheeler(former co-worker/enemy/killer)Jonathan Byers(former co-worker/enemy)Hospital Monster†(created from remains)AffiliationThe Hawkins Post(formerly)OccupationJournalist(formerly)Physical informationHeight6’3” (190)Eye colorBlueHair colorBlondePortrayalMain actorJake BuseyAppears in18,19,20,21,22Bruce Lowe, portrayed byJake Busey, was a recurring antagonist in thethird seas...",
-    "role": "Journalist (formerly",
-    "attributes": {
-      "Status": "Deceased",
-      "Born": "1930s - 1950s",
-      "Died": "July 3 , 1985",
-      "Other Relations": "Tom Holloway † (boss) Nancy Wheeler (former co-worker/enemy/killer) Jonathan Byers (former co-worker/enemy) Hospital Monster † (created from remains",
-      "Affiliation": "The Hawkins Post (formerly",
-      "Occupation": "Journalist (formerly",
-      "Height": "6’3” (190",
-      "Eyes": "Blue",
-      "Hair Color": "Blonde",
-      "Portrayer": "Jake Busey",
-      "Appearances": "18 , 19 , 20 , 21 , 22"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Bruce_Lowe"
-  },
-  {
-    "name": "Alice Creel",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/7/7f/Alice_Creel.png",
-    "description": "Alice CreelBiographical informationStatusDeceasedBorn1944-1949*DiedMarch 15,1959Age10-15(at death)ResidenceRachel,Nevada(19??-19??)South Bend,Indiana(19??-19??)Creel House,Hawkins,Indiana(1959)FamilyVictor Creel(father)Virginia Creel†(mother)Henry Creel(brother/killer)Unnamed great-great-uncle †Physical informationEye colorBlueHair colorDirty blondePortrayalMain actorLivi BirchOther actorsAnika BoyleFaith DelaneyImogen TurnerAppears in29(flashback),32(flashback",
+    "name": "Russian Demogorgon",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/e/eb/S4_Demogorgon.png",
+    "description": "The\"Russian Demogorgon\"was a member ofa species of humanoid predatorsoriginating from theUpside Down. The creature was held captive at aSoviet-runprison campinKamchatka, from where it would massacre and feast upon unlucky prisoners forced to fight it in an open arena. It was ultimately executed by the escaped American prisonerJim Hopper.",
     "role": "Deceased",
     "attributes": {
       "Status": "Deceased",
-      "Born": "1944-1949 * [ 2",
-      "Died": "March 15 , 1959",
-      "Age": "10-15 (at death) [ 2",
-      "Residence": "Rachel, Nevada (19??-19??) South Bend, Indiana (19??-19??) Creel House , Hawkins , Indiana (1959",
-      "Relatives": "Victor Creel (father) Virginia Creel † (mother) Henry Creel (brother/killer) Unnamed great-great-uncle †",
-      "Eyes": "Blue",
-      "Mainactor": "Livi Birch",
-      "Otheractor": "Anika Boyle Faith Delaney Imogen Turner",
-      "Appearances": "29 (flashback) , 32 (flashback"
+      "Died": "March 27 , 1986",
+      "Residence": "Upside Down (formerly) Kamchatka , Soviet Union",
+      "Other Relations": "Jim Hopper (killer",
+      "Affiliation": "The Upside Down Vecna The Mind Flayer Soviet Union",
+      "Victims": "Oleg Ivan Warden Melnikov 13 unnamed Soviet prisoners 32+ unnamed Soviet guards, prisoners, and personnel",
+      "Species": "Demogorgon",
+      "Height": "9-12 feet",
+      "Appearances": "25 , 32 , 33 , 34"
     },
-    "source_url": "https://strangerthings.fandom.com/wiki/Alice_Creel"
+    "source_url": "https://strangerthings.fandom.com/wiki/Russian_Demogorgon"
   },
   {
-    "name": "Doris Driscoll",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/a/ae/Doris_Driscoll.png",
-    "description": "Doris DriscollBiographical informationStatusDeceasedBornAugust 16,1916DiedJuly 4,1985Age68(at time of death)AliasesDoris Grant(maiden name)Ms. Driscoll(byNancy Wheeler)Residence4819 Cornwallis Rd,Hawkins,IndianaRelationship statusWidowedFamilyJack Driscoll†(late husband)Other relationsNancy Wheeler(former friendly acquaintance)Jonathan Byers(former friendly acquaintance)The Spider Monster†(created from remains)Physical informationEye colorBlueHair colorGreyPortrayalMain actorPeggy MileyAppear...",
-    "role": "Deceased",
+    "name": "Dr. Karine",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/6/63/Karine.png",
+    "description": "Karine is a sadistic and egotistical scientist who works for theSoviet Unionat afacilityinKamchatka. She was one of the researchers working onthe Keys, the experimental technology designed to allow passage into theUpside Down. Though the scientists could not produce a stablegateway, Karine foundan infant Demogorgonin the rubble produced by the machine. Karine then proceeded to experiment upon the Demogorgon, feeding it as many people as she could - prisoners and free citizens alike - to stren...",
+    "role": "Scientist at Kamchatka Facility",
+    "attributes": {
+      "Status": "Alive",
+      "Occupation": "Scientist at Kamchatka Facility",
+      "Hair Color": "Red"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/Dr._Karine"
+  },
+  {
+    "name": "Three",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/b/b2/ST4_Three_E6.png",
+    "description": "ThreeBiographical informationStatusDeceasedBorn1960-1964DiedSeptember 8,1979Age15-19Aliases003(subject name)Full nameUnknownResidenceHawkins National Laboratory,Hawkins,IndianaFamilyMartin Brenner†(captor/father figure)One(fellow test subject/killer)Eight(fellow test subject/sister figure)Eleven(fellow test subject/sister figure/enemy)Two,Four,Five,Six,Seven,Nine,Ten,Twelve,Thirteen,Fourteen,Fifteen,Sixteen,SeventeenandEighteen†(fellow test subjects/sibling figures)AffiliationHawkins National...",
+    "role": "Hawkins National Laboratory test subject",
     "attributes": {
       "Status": "Deceased",
-      "Born": "August 16 , 1916 [ 1",
-      "Died": "July 4 , 1985",
-      "Age": "68 (at time of death",
-      "Aliases": "Doris Grant (maiden name) Ms. Driscoll (by Nancy Wheeler",
-      "Residence": "4819 Cornwallis Rd , Hawkins , Indiana",
-      "Marital": "Widowed",
-      "Relatives": "Jack Driscoll † (late husband",
-      "Other Relations": "Nancy Wheeler (former friendly acquaintance) Jonathan Byers (former friendly acquaintance) The Spider Monster † (created from remains",
-      "Eyes": "Blue",
-      "Hair Color": "Grey",
-      "Appearances": "19 , 20 , 21 , 23"
+      "Born": "1960 - 1964",
+      "Died": "September 8 , 1979",
+      "Age": "15-19",
+      "Aliases": "003 (subject name",
+      "Residence": "Hawkins National Laboratory , Hawkins , Indiana",
+      "Relatives": "Martin Brenner † (captor/father figure) One (fellow test subject/killer) Eight (fellow test subject/sister figure) Eleven (fellow test subject/sister figure/enemy) Two , Four , Five , Six , Seven ,...",
+      "Occupation": "Hawkins National Laboratory test subject",
+      "Portrayer": "Morgan Gao",
+      "Appearances": "26* 30* 31* 32* 33* * = corpse in flashback + NINA memory"
     },
-    "source_url": "https://strangerthings.fandom.com/wiki/Doris_Driscoll"
+    "source_url": "https://strangerthings.fandom.com/wiki/Three"
   },
   {
-    "name": "Scott Clarke",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/0/01/Scott_Clarke_S3.jpg",
-    "description": "Scott Clarke198519841983Biographical informationStatusAliveAliasesMr. ClarkeRelationship statusDatingJen WooOther relationsMike Wheeler(former student)Lucas Sinclair(former student)Dustin Henderson(former student)Will Byers(former student)Max Mayfield(former student)Joyce Byers(friend)Bob Newby†(friend)OccupationScience teacher atHawkins Middle School- specifically Earth and BiologyPhysical informationHeight5’10 “(177cm)Eye colorBrownHair colorBrownPortrayalMain actorRandy HavensAppears in1 2...",
-    "role": "Science teacher at Hawkins Middle School - specifically Earth and Biology",
+    "name": "Ricky",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/c/c3/Ricky.png",
+    "description": "RickyBiographical informationStatusAliveBorn1960Age18 (Stranger Things: SIX)25 (Stranger Things: Into the Fire)Aliases003ThreeResidenceHawkins National Laboratory(1978)Boston, Massachusetts (???-1985)Relationship statusDatingFrancine(formerly)FamilyUnnamed motherMarcy(Ward/adoptive sister)Jamie(Ward/adoptive Sister)Other relationsFrancine†(Girlfriend/fellow test subject)Martin Brenner(Former friend; enemy)Kali Prasad(Friend/fellow test subject)AffiliationHawkins National Laboratory(formerly)O...",
+    "role": "High school student (formerly) Test subject for Hawkins National Laboratory (formerly",
     "attributes": {
-      "Image": "1985",
       "Status": "Alive",
-      "Aliases": "Mr. Clarke",
-      "Marital": "Dating Jen Woo",
-      "Other Relations": "Mike Wheeler (former student) Lucas Sinclair (former student) Dustin Henderson (former student) Will Byers (former student) Max Mayfield (former student) Joyce Byers (friend) Bob Newby † (friend",
-      "Occupation": "Science teacher at Hawkins Middle School - specifically Earth and Biology",
-      "Eyes": "Brown",
-      "Hair Color": "Brown",
-      "Appearances": "1 2 3 4 5 6 7 8 9 11 12 17 19"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Scott_Clarke"
-  },
-  {
-    "name": "Ray Carroll",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/3/3c/Screen_Shot_2017-11-13_at_6.15.01_PM.png",
-    "description": "Ray Carroll19841974Biographical informationStatusAliveBorn1920s,1930sor1940sResidenceChicago, IllinoisFamilyTwo unnamed daughtersOther relationsMartin Brenner†(former colleague)AffiliationHawkins National Laboratory(formerly)OccupationOrderly(formerly)Physical informationHeight5’9” ½(177cm)Eye colorBrownHair colorBaldPortrayalMain actorPruitt Taylor VinceAppears in13* 1523*33**= flashbackRay Carroll, portrayed byPruitt Taylor Vince, is a minor character inSeason 2ofStranger Things. He is a fo...",
-    "role": "Orderly (formerly",
-    "attributes": {
-      "Image": "1984",
-      "Status": "Alive",
-      "Born": "1920s , 1930s or 1940s",
-      "Other Relations": "Martin Brenner † (former colleague",
+      "Born": "1960",
+      "Age": "18 ( Stranger Things: SIX ) 25 ( Stranger Things: Into the Fire",
+      "Aliases": "003 Three",
+      "Residence": "Hawkins National Laboratory (1978) Boston, Massachusetts (???-1985",
+      "Marital": "Dating Francine (formerly",
+      "Relatives": "Unnamed mother Marcy (Ward/adoptive sister) Jamie (Ward/adoptive Sister",
+      "Other Relations": "Francine † (Girlfriend/fellow test subject) Martin Brenner (Former friend; enemy) Kali Prasad (Friend/fellow test subject",
       "Affiliation": "Hawkins National Laboratory (formerly",
-      "Occupation": "Orderly (formerly",
+      "Occupation": "High school student (formerly) Test subject for Hawkins National Laboratory (formerly",
+      "Eyes": "Blue",
+      "Hair Color": "Brown"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/Ricky"
+  },
+  {
+    "name": "Francine",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/2/29/Francine_icon.png",
+    "description": "FrancineBiographical informationStatusDeceasedBorn1960Died1978Age10 (1970)14 (1974)16 (1976)17 (1977)18 (1978)AliasesSix006ResidenceHawkins National Laboratory,Hawkins,IndianaRelationship statusDatingRickyFamilyUnnamed motherRoy(father)Other relationsRicky(boyfriend)Jamie(friend, fellow test subject)Marcy(friend, fellow test subject)AffiliationHawkins National Laboratory(formerly)OccupationTest subject(formerly)Physical informationEye colorBrownHair colorGingerFrancine, also known asSix, is t...",
+    "role": "Test subject (formerly",
+    "attributes": {
+      "Status": "Deceased",
+      "Born": "1960",
+      "Died": "1978",
+      "Age": "10 (1970) 14 (1974) 16 (1976) 17 (1977) 18 (1978",
+      "Aliases": "Six 006",
+      "Residence": "Hawkins National Laboratory , Hawkins , Indiana",
+      "Marital": "Dating Ricky",
+      "Relatives": "Unnamed mother Roy (father",
+      "Other Relations": "Ricky (boyfriend) Jamie (friend, fellow test subject) Marcy (friend, fellow test subject",
+      "Affiliation": "Hawkins National Laboratory (formerly",
+      "Occupation": "Test subject (formerly",
+      "Eyes": "Brown",
+      "Hair Color": "Ginger"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/Francine"
+  },
+  {
+    "name": "Eugene McCorkle",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/2/2d/Eugene.png",
+    "description": "Eugene McCorkleBiographical informationStatusAliveFamilyUnnamed grandsonOccupationFarmerPhysical informationEye colorBrownHair colorBaldPortrayalMain actorAl MitchellAppears in10Eugene McCorkle, portrayed byAl Mitchell, was a minor character in thesecond seasonofStranger Things. He was a local farmer who owned apumpkin patchinHawkins,Indiana. Following amysterious outbreakthat resulted in several pumpkin patches being contaminated, he accused his rivalMerrill Wrightof having poisoned the patc...",
+    "role": "Farmer",
+    "attributes": {
+      "Status": "Alive",
+      "Occupation": "Farmer",
       "Eyes": "Brown",
       "Hair Color": "Bald",
-      "Appearances": "13* 15 23* 33* * = flashback"
+      "Appearances": "10"
     },
-    "source_url": "https://strangerthings.fandom.com/wiki/Ray_Carroll"
-  },
-  {
-    "name": "Party",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/3/33/The_Party.png",
-    "description": "PartyMembersMike WheelerWill ByersLucas SinclairDustin HendersonElevenMax MayfieldAlliesSteve HarringtonNancy WheelerJonathan ByersJoyce ByersJim HopperBob Newby†Sam OwensRobin BuckleyErica SinclairSuzie BinghamEddie Munson†Murray BaumanArgyleSituated atHawkins,IndianaLenora Hills,California(partially)ThePartywas a close-knit friend group formed by the four boysMike Wheeler,Will Byers,Lucas SinclairandDustin Henderson, which would later includeElevenandMax Mayfield.",
-    "role": "Game Character",
-    "attributes": {
-      "Members": "Mike Wheeler Will Byers Lucas Sinclair Dustin Henderson Eleven Max Mayfield",
-      "Allies": "Steve Harrington Nancy Wheeler Jonathan Byers Joyce Byers Jim Hopper Bob Newby † Sam Owens Robin Buckley Erica Sinclair Suzie Bingham Eddie Munson † Murray Bauman Argyle",
-      "Situated At": "Hawkins , Indiana Lenora Hills , California (partially"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/The_Party"
+    "source_url": "https://strangerthings.fandom.com/wiki/Eugene_McCorkle"
   },
   {
     "name": "Patty Newby",
@@ -506,199 +629,94 @@
     "source_url": "https://strangerthings.fandom.com/wiki/Patty_Newby"
   },
   {
-    "name": "Mr. Bingham",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/0/0c/SuzieFather.png",
-    "description": "Mr. Bingham is a resident of Salt Lake CIty, Utah and is a Mormon. He has at least eight known children. As of 1986, the status of his wife (i.e. living or dead) is unclear. Mr. Bingham spends much of his time in his office, located in his home, which is usually kept locked. His children run amuck in the rest of the house with no apparent adult supervision. Mr. Bingham's eldest daughter,Eden, attempts to control her younger siblings, but is frustrated by the lack of assistance that she receiv...",
+    "name": "Six",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/1/16/Six_S4E6.png",
+    "description": "On September 8, Six was being guided byDr. Ellisinto another room at Hawkins Lab. Meanwhile, Dr. Brenner was experimenting with Ten to see if he could locate Dr. Ellis and Ten with his mind. Ten finds them, saying Six is doing an experiment by moving a red block, but begins to hyperventilate when he says Six and Dr. Ellis are screaming. The lab is soon thrown into chaos as the alarm bells go off and screams erupt from the hallway. Ten then confirms to Dr. Brenner that Six and Dr. Ellis are bo...",
+    "role": "Hawkins National Laboratory Test Subject (1978-1979",
+    "attributes": {
+      "Status": "Deceased",
+      "Born": "1960 - 1964",
+      "Died": "September 8 , 1979",
+      "Age": "15-19",
+      "Aliases": "006 (subject name",
+      "Residence": "Hawkins National Laboratory , Hawkins , Indiana (1978-1979",
+      "Relatives": "Martin Brenner (captor/father figure) One (fellow test subject/killer) Eight (fellow test subject/sister figure) Eleven (fellow test subject/sister figure) Two , Three , Four , Five , Seven , Nine ...",
+      "Affiliation": "Hawkins National Laboratory",
+      "Occupation": "Hawkins National Laboratory Test Subject (1978-1979",
+      "Eyes": "Brown",
+      "Hair Color": "Black",
+      "Portrayer": "De'Jon Watts",
+      "Appearances": "26 (flashback) , 30 ( NINA memory) , 31 ( NINA memory) , 32 ( NINA memory"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/Six"
+  },
+  {
+    "name": "Ted Wheeler",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/6/6f/1986TedWheeler.png",
+    "description": "Ted Wheeler1986198519841983Biographical informationStatusAliveBorn1938Age45(season one)45/46(season two)46/47(season three)47/48(season four)Residence2530Maple Street,Hawkins,IndianaRelationship statusMarried toKaren WheelerFamilyKaren Wheeler(wife)Nancy Wheeler(daughter)Mike Wheeler(son)Holly Wheeler(daughter)Joanna(niece)Physical informationHeight6’1 “(185cm)Eye colorBrownHair colorBrownPortrayalMain actorJoe ChrestOther actorsGilles Geary(The First Shadow)Appears in1 2 3 4 5 6 7 89 10 12 1...",
     "role": "Alive",
-    "attributes": {
-      "Status": "Alive",
-      "Residence": "Bingham House , Salt Lake City , Utah , USA",
-      "Marital": "Marital status uncertain",
-      "Relatives": "Unnamed wife Eden Bingham (eldest daughter) Tabitha Bingham (daughter) Suzie Bingham (daughter) Tatum Bingham (daughter) Cornelius Bingham (son) Sterling Bingham (son) Tanner Bingham (son) Peter Bi...",
-      "Eyes": "Brown",
-      "Portrayer": "Mark Rowe",
-      "Appearances": "31"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Mr._Bingham"
-  },
-  {
-    "name": "Ronnie Ecker",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/e/e8/Ronnie_Ecker.png",
-    "description": "Ronnie EckerBiographical informationAge17-18AliasesRonnieFull nameVeronica EckerResidenceForest Hills Trailer ParkFamilyGranny Ecker(grandmother)RelationsEddie Munson(childhood best friend)Gareth(friend)Jeff(friend)Doug Teague(friend)Stan(friend)AffiliationHellfire Club,Corroded CoffinOccupationStudent atHawkins High School(formerly)Drummer ofCorroded Coffin(formerly)Hellfire Clubmember (formerly)Physical informationEye colorBrownHair colorBrownPortrayalAppears inStranger Things: Flight of Ic...",
-    "role": "Student at Hawkins High School (formerly) Drummer of Corroded Coffin (formerly) Hellfire Club member (formerly",
-    "attributes": {
-      "Age": "17-18",
-      "Aliases": "Ronnie",
-      "Relatives": "Granny Ecker (grandmother",
-      "Relations": "Eddie Munson (childhood best friend) Gareth (friend) Jeff (friend) Doug Teague (friend) Stan (friend",
-      "Affiliation": "Hellfire Club , Corroded Coffin",
-      "Occupation": "Student at Hawkins High School (formerly) Drummer of Corroded Coffin (formerly) Hellfire Club member (formerly",
-      "Eyes": "Brown",
-      "Hair Color": "Brown",
-      "Appearances": "Stranger Things: Flight of Icarus Stranger Things x Dungeons & Dragons: The Rise of Hellfire"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Ronnie_Ecker"
-  },
-  {
-    "name": "Walter Henderson",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/2/2f/Mike_acquire_more_knowledge.png",
-    "description": "Walter HendersonBiographical informationFamilyClaudia HendersonDustin Henderson(son)PortrayalMain actorCalum Ross(The First Shadow)Walter Hendersonwas a character fromStranger Things: The First Shadow, portrayed byCalum Ross. Walter was the ex-partner ofClaudia Henderson, and the father ofDustin Henderson.",
-    "role": "Anime Character",
-    "attributes": {
-      "Relatives": "Claudia Henderson Dustin Henderson (son",
-      "Portrayer": "Calum Ross ( The First Shadow"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Walter_Henderson"
-  },
-  {
-    "name": "Russian Agent",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/3/39/The_Russian_agent.jpeg",
-    "description": "Russian AgentBiographical informationStatusUnknownAffiliationSoviet UnionKGB(possibly)OccupationInformantPortrayalMain actorAndre PushkinAppears in528**= archive footage/montageARussian agent, portrayed byAndre Pushkin, was a minor character in thefirst seasonofStranger Things. In 1983, he discussed with an unknown individual(s) about Russian spies on American soil. Unbeknownst to him, the American lab test subjectElevenwas listening in, harnessing her psychic abilities as commanded byHawkins...",
-    "role": "Informant",
-    "attributes": {
-      "Affiliation": "Soviet Union KGB (possibly",
-      "Occupation": "Informant",
-      "Appearances": "5 28* * = archive footage/montage"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Russian_Agent"
-  },
-  {
-    "name": "Billy Hargrove",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/a/a3/Billy_Hargrove_-_S3.jpg",
-    "description": "Billy Hargrove198519841970sCurse visionBiographical informationStatusDeceasedBornMarch 29,1967DiedJuly 4,1985Age17(season two)18(season three)ResidenceCalifornia(1967–1984)4819 Cherry Lane,Hawkins,Indiana(1984–1985)FamilyUnnamed motherMax Mayfield(stepsister)Neil Hargrove(father)Susan Hargrove(stepmother)Other relationsSteve Harrington(rival)Heather Holloway†(co-worker/victim-turned-ally)The Spider Monster†(killer)Eleven(former enemy/ally)OccupationLifeguard atHawkins Community Pool(1985)Stud...",
-    "role": "Lifeguard at Hawkins Community Pool (1985) Student at Hawkins High School (1984–1985",
-    "attributes": {
-      "Image": "1985",
-      "Status": "Deceased",
-      "Born": "March 29 , 1967 [ 1",
-      "Died": "July 4 , 1985 [ 2",
-      "Age": "17 (season two) 18 (season three",
-      "Residence": "California (1967– 1984 ) 4819 Cherry Lane , Hawkins , Indiana (1984–1985",
-      "Relatives": "Unnamed mother Max Mayfield (stepsister) Neil Hargrove (father) Susan Hargrove (stepmother",
-      "Other Relations": "Steve Harrington (rival) Heather Holloway † (co-worker/victim-turned-ally) The Spider Monster † (killer) Eleven (former enemy/ally",
-      "Occupation": "Lifeguard at Hawkins Community Pool (1985) Student at Hawkins High School (1984–1985",
-      "Height": "5'10\" (178cm",
-      "Eyes": "Blue",
-      "Hair Color": "Dirty blond",
-      "Portrayer": "Dacre Montgomery",
-      "Otheractor": "Christopher Convery (child",
-      "Appearances": "9 10 11 12 13 14 15 16 17 18 19 20 21 22* 23 24 25 26* 28* 29* 34* * = flashback/hallucination/archival footage"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Billy_Hargrove"
-  },
-  {
-    "name": "Sara Hopper",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/e/e2/Sarah-Hopper.png",
-    "description": "Sara HopperBiographical informationStatusDeceasedBornApril 1971Died1978Age7ResidenceHawkins(1971 - 1972)New York City(1972 - 1978)FamilyJim Hopper(father)Diane(mother)Bill(maternal step-father)Unnamed maternal half-siblingEleven(paternal adoptive-half-sister)James Hopper Sr(paternal grandfather)Physical informationEye colorBlueHair colorBlondePortrayalMain actorElle GrahamAppears in8,30Sara Hopper, portrayed byElle Graham, was a minor character inStranger Things. She was the only daughter ofJ...",
-    "role": "Deceased",
-    "attributes": {
-      "Status": "Deceased",
-      "Born": "April 1971 [ 1",
-      "Died": "1978",
-      "Residence": "Hawkins (1971 - 1972) New York City (1972 - 1978",
-      "Relatives": "Jim Hopper (father) Diane (mother) Bill (maternal step-father) Unnamed maternal half-sibling Eleven (paternal adoptive-half-sister) James Hopper Sr (paternal grandfather",
-      "Eyes": "Blue",
-      "Hair Color": "Blonde",
-      "Appearances": "8 , 30"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Sara_Hopper"
-  },
-  {
-    "name": "Tammy Thompson",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/0/08/Tammy.png",
-    "description": "Tammy was classmates withRobin Buckleysince they were kids. During fourth grade, Tammy used to spend every rainy day rescuing earth worms from the blacktop, throwing them back into the dirt. She was known to constantly sing before class began. On September 6, 1983, Tammy attended the first day of history class with Robin atHawkins High School. She was singing Kiss On My List by Hall & Oates. When Robin noticed her, she seemed to develop an attraction to Tammy right then and there, even though...",
-    "role": "Singer Student at Hawkins High School (formerly",
-    "attributes": {
-      "Status": "Alive",
-      "Born": "1965-1967",
-      "Age": "19-21",
-      "Residence": "Hawkins , Indiana (formerly) Nashville, Tennessee (current",
-      "Affiliation": "Hawkins High School (formerly",
-      "Occupation": "Singer Student at Hawkins High School (formerly",
-      "Eyes": "Blue",
-      "Hair Color": "Light auburn",
-      "Portrayer": "Julia Reilly",
-      "Appearances": "26"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Tammy_Thompson"
-  },
-  {
-    "name": "Hawkins Head of Security",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/4/48/Hawkins_Head_of_Security.png",
-    "description": "When a piece of cloth was found at the edge of a drainpipe that led to Hawkins National Laboratory, Chief of PoliceJim Hoppergrew suspicious, prompting him to visit the lab. The head of security escorted them around the premises, all the while dismissing their claims. He stated they would've known if a child had crawled through the pipe due to the surveillance cameras and tight security. When Hopper requested to see the surveillance footage, he obliged and led Hopper and his officers into the...",
-    "role": "Head of security at Hawkins National Laboratory",
-    "attributes": {
-      "Affiliation": "Department of Energy",
-      "Occupation": "Head of security at Hawkins National Laboratory",
-      "Eyes": "Gray",
-      "Portrayer": "Pete Burris",
-      "Appearances": "3 , 5 , 8"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Hawkins_Head_of_Security"
-  },
-  {
-    "name": "Agent Wallace",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/0/0e/Agent_Wallace.png",
-    "description": "WallaceBiographical informationStatusAliveOther relationsDr. Sam Owens(boss)Agent Harmon†(colleague)Agent Ellen Stinson(colleague)Jonathan Byers(protectee)Will Byers(protectee)Mike Wheeler(protectee)Jack Sullivan(enemy)AffiliationDr. Sam OwensU.S. GovernmentOccupationBodyguardAgentPhysical informationHeight6’0” (183cm)Eye colorBrownHair colorBlackPortrayalMain actorKendrick CrossAppears in28,29,30,31,32",
-    "role": "Bodyguard Agent",
-    "attributes": {
-      "Status": "Alive",
-      "Other Relations": "Dr. Sam Owens (boss) Agent Harmon † (colleague) Agent Ellen Stinson (colleague) Jonathan Byers (protectee) Will Byers (protectee) Mike Wheeler (protectee) Jack Sullivan (enemy",
-      "Affiliation": "Dr. Sam Owens U.S. Government",
-      "Occupation": "Bodyguard Agent",
-      "Eyes": "Brown",
-      "Hair Color": "Black",
-      "Appearances": "28 , 29 , 30 , 31 , 32"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Agent_Wallace"
-  },
-  {
-    "name": "Yuri Ismaylov",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/3/35/Yuri_and_Jif.jpg",
-    "description": "Yuri IsmaylovBiographical informationStatusAliveBornApril 3,1938Age47AliasesThe Peanut Butter SmugglerCoward(byDmitri Antonov)ResidenceYuri's Fish n' Fly,Nome, AlaskaYuri's warehouse,KyrzranRelationship statusSingleFamilyUnnamed mother †Unnamed brotherUnnamed daughterOther relationsDmitri Antonov(former friend; former enemy)Joyce Byers(former enemy; ally)Murray Bauman(former enemy; ally)Jim Hopper(former enemy; ally)Katinka(former lover)AffiliationYuri's Fish n' FlyRed Army(formerly)Occupatio...",
-    "role": "Soldier (formerly) Smuggler",
-    "attributes": {
-      "Status": "Alive",
-      "Born": "April 3 , 1938",
-      "Age": "47",
-      "Aliases": "The Peanut Butter Smuggler Coward (by Dmitri Antonov",
-      "Residence": "Yuri's Fish n' Fly , Nome, Alaska Yuri's warehouse , Kyrzran",
-      "Marital": "Single",
-      "Relatives": "Unnamed mother † Unnamed brother Unnamed daughter",
-      "Other Relations": "Dmitri Antonov (former friend; former enemy) Joyce Byers (former enemy; ally) Murray Bauman (former enemy; ally) Jim Hopper (former enemy; ally) Katinka (former lover",
-      "Affiliation": "Yuri's Fish n' Fly Red Army (formerly",
-      "Occupation": "Soldier (formerly) Smuggler",
-      "Height": "6'1\" (185cm",
-      "Eyes": "Brown",
-      "Hair Color": "Black",
-      "Portrayer": "Nikola Đuričko",
-      "Appearances": "29 , 30 , 31 , 32 , 33 , 34"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Yuri_Ismaylov"
-  },
-  {
-    "name": "Murray Bauman",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/f/f6/Murray_-S4.jpg",
-    "description": "Murray Bauman198619851984Biographical informationStatusAliveBorn1930s-1940sAge40sAliasesBald Eagle(codename)Bald Bastard(byErica)Mr. Bunman(by Erica)Freud(byHopper)Yuri Ismaylov(impersonation)Residence3833 Walker DriveSesser, IllinoisRelationship statusSingleOther relationsJim Hopper(friend)Nancy Wheeler(friend)Jonathan Byers(friend)Joyce Byers(friend)Alexei†(former enemy/friend)Grigori†(enemy)Warden Melnikov†(enemy)Yuri Ismaylov(former enemy/ally)Dmitri Antonov(ally)AffiliationChicago Sun-Ti...",
-    "role": "Private Investigator Investigative Journalist (formerly",
     "attributes": {
       "Image": "1986",
       "Status": "Alive",
-      "Born": "1930s-1940s [ 1",
-      "Age": "40s [ 1",
-      "Aliases": "Bald Eagle (codename) Bald Bastard (by Erica ) Mr. Bunman (by Erica) Freud (by Hopper ) Yuri Ismaylov (impersonation",
-      "Residence": "3833 Walker Drive Sesser, Illinois",
-      "Marital": "Single",
-      "Other Relations": "Jim Hopper (friend) Nancy Wheeler (friend) Jonathan Byers (friend) Joyce Byers (friend) Alexei † (former enemy/friend) Grigori † (enemy) Warden Melnikov † (enemy) Yuri Ismaylov (former enemy/ally) ...",
-      "Affiliation": "Chicago Sun-Times (formerly",
-      "Occupation": "Private Investigator Investigative Journalist (formerly",
-      "Height": "6'1\" (185 cm",
-      "Eyes": "Hazel",
+      "Born": "1938 [ 1",
+      "Age": "45 ( season one ) 45/46 ( season two ) 46/47 ( season three ) 47/48 ( season four",
+      "Residence": "2530 Maple Street , Hawkins , Indiana",
+      "Marital": "Married to Karen Wheeler",
+      "Relatives": "Karen Wheeler (wife) Nancy Wheeler (daughter) Mike Wheeler (son) Holly Wheeler (daughter) Joanna (niece",
+      "Eyes": "Brown",
       "Hair Color": "Brown",
-      "Portrayer": "Brett Gelman",
-      "Appearances": "9 13 14 17 22 23 24 25 26 27 28 29 30 31 32 33 34"
+      "Portrayer": "Joe Chrest",
+      "Otheractor": "Gilles Geary ( The First Shadow",
+      "Appearances": "1 2 3 4 5 6 7 8 9 10 12 13 17 18 20 24 26 30 31 32 34"
     },
-    "source_url": "https://strangerthings.fandom.com/wiki/Murray_Bauman"
+    "source_url": "https://strangerthings.fandom.com/wiki/Ted_Wheeler"
+  },
+  {
+    "name": "Sam Mayfield",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/2/23/Unseen_and_Unnamed_Character_Family_Tree_icon.png",
+    "description": "Sam MayfieldBiographical informationStatusAliveResidenceCaliforniaRelationship statusDivorced fromSusan HargroveFamilyMax Mayfield(daughter)Other relationsSusan Hargrove(ex-wife)PortrayalAppears inStranger Things: Runaway MaxSam Mayfieldis a character who appeared in the bookRunaway Maxand was mentioned inStranger Things. He is the ex-husband of Susan Hargrove and the biological father of Max Mayfield. He lives in California.",
+    "role": "Alive",
+    "attributes": {
+      "Status": "Alive",
+      "Residence": "California",
+      "Marital": "Divorced from Susan Hargrove",
+      "Relatives": "Max Mayfield (daughter",
+      "Other Relations": "Susan Hargrove (ex-wife"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/Sam_Mayfield"
+  },
+  {
+    "name": "Hospital Monster",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/7/79/MindFlayerseason3.JPG",
+    "description": "Hospital MonsterBiographical informationStatusDeceasedBornJuly 3,1985DiedJuly 3,1985FormsThe Mind Flayer(controller)RelationsThe Spider MonsterBruce Lowe(created fromremains)Tom Holloway(created from remains)AffiliationThe Mind FlayerVecna(by proxy; through the Mind Flayer)PortrayalAppears in22,23TheHospital Monsterwasa thrallof theMind Flayerthat vaguely resembled a crab, born from the remains of theFlayedhumansBruce LoweandTom Holloway. It consisted entirely of bones and cartilage.",
+    "role": "Deceased",
+    "attributes": {
+      "Status": "Deceased",
+      "Born": "July 3 , 1985",
+      "Died": "July 3 , 1985",
+      "Forms": "The Mind Flayer (controller",
+      "Other Relations": "The Spider Monster Bruce Lowe (created from remains) Tom Holloway (created from remains",
+      "Affiliation": "The Mind Flayer Vecna (by proxy; through the Mind Flayer",
+      "Appearances": "22 , 23"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/Hospital_Monster"
+  },
+  {
+    "name": "Jennifer Hayes",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/c/ce/Jennifer.png",
+    "description": "Jennifer HayesBiographical informationStatusAliveBorn1971Age12 (season one)ResidenceHawkins,IndianaFamilyUnnamed fatherUnnamed motherOther relationsTommy H(potential older brother/relative)Dustin Henderson(classmate)Lucas Sinclair(classmate)Mike Wheeler(classmate)Will Byers(classmate)OccupationStudent atHawkins Middle School(presumably from 1982-1985)Physical informationHeight5'3\" (160cm)Eye colorGreenHair colorDirty blondePortrayalMain actorKaylee GloverAppears in5",
+    "role": "Student at Hawkins Middle School (presumably from 1982-1985",
+    "attributes": {
+      "Status": "Alive",
+      "Born": "1971",
+      "Age": "12 ( season one",
+      "Residence": "Hawkins , Indiana",
+      "Relatives": "Unnamed father Unnamed mother",
+      "Other Relations": "Tommy H (potential older brother/relative) Dustin Henderson (classmate) Lucas Sinclair (classmate) Mike Wheeler (classmate) Will Byers (classmate",
+      "Occupation": "Student at Hawkins Middle School (presumably from 1982-1985",
+      "Eyes": "Green"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/Jennifer_Hayes"
   },
   {
     "name": "Terry Ives",
@@ -727,118 +745,159 @@
     "source_url": "https://strangerthings.fandom.com/wiki/Terry_Ives"
   },
   {
-    "name": "Russian Scientist",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/8/82/Russian_Scientist.jpg",
-    "description": "Russian ScientistBiographical informationStatusDeceasedDiedJune 28,1984Other relationsStepanov(employer)Ozerov(ally)Dr. Zharkov†(ally)Grigori†(former ally/killer)Alexei†(ally)AffiliationSoviet UnionOccupationScientistPhysical informationEye colorBrownHair colorBaldPortrayalMain actorYasen PeyankovAppears in18ARussian scientist, portrayed byYasen Peyankov, was a minor character in thethird seasonofStranger Things.The scientist wasDr. Alexei's colleague, with the pair attempting to open aportal...",
-    "role": "Scientist",
-    "attributes": {
-      "Status": "Deceased",
-      "Died": "June 28 , 1984",
-      "Other Relations": "Stepanov (employer) Ozerov (ally) Dr. Zharkov † (ally) Grigori † (former ally/killer) Alexei † (ally",
-      "Occupation": "Scientist",
-      "Eyes": "Brown",
-      "Hair Color": "Bald",
-      "Appearances": "18"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Russian_Scientist"
-  },
-  {
-    "name": "Lieutenant Akers",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/2/25/5_icon4.png",
-    "description": "Lieutenant Akers, portrayed byAlex Breaux, will be a character in thefifth seasonofStranger Things.",
-    "role": "Anime Character",
-    "attributes": {},
-    "source_url": "https://strangerthings.fandom.com/wiki/Lieutenant_Akers"
-  },
-  {
-    "name": "Stacey Albright",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/b/b5/Stacey_Albright%2C_circa_1985.png",
-    "description": "OnJune 30, Stacey went shopping at theStarcourt Mall. While in the shoe department, she, along with a few other girls, were annoyed whenElevenandMax Mayfieldfell trying on heels as they tried them on for fun. Stacey and the girls gave Max and Eleven dirty looks, but they just laughed it off. Later, Max and Eleven spotted Stacey and her friends flirting with a boy outside of Orange Julius in the food court. Hiding behind a pillar, El used her telekinetic abilities to cause their drinks to expl...",
-    "role": "Student",
-    "attributes": {
-      "Image": "1985",
-      "Status": "Alive",
-      "Born": "1971",
-      "Age": "13 (season two) 14 (season three",
-      "Residence": "Hawkins , Indiana",
-      "Other Relations": "Dustin Henderson (enemy) Eleven (enemy) Max Mayfield (enemy",
-      "Occupation": "Student",
-      "Eyes": "Brown",
-      "Hair Color": "Auburn",
-      "Portrayer": "Sydney Bullock",
-      "Appearances": "17 , 19"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Stacey_Albright"
-  },
-  {
-    "name": "The Demogorgon",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/f/ff/Demogorgon_-_Chapter_Eight.jpg",
-    "description": "The Demogorgon, also known asthe Monster, was a predatory humanoid creature that enteredHawkins,IndianainNovember 1983. The creature seemed to originate from the parallel dimension known as theUpside Down.WhenEleven, a child test subject fromHawkins National Laboratorywith psychokinetic abilities, madetransdimensional contactwith the creature,a gate between dimensionsopened at the lab. The creature then set foot in Hawkins, and began hunting, killing and kidnapping various local townspeople.",
+    "name": "D'Artagnan",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/7/7e/Dart-stage_4.png",
+    "description": "The next day, Dustin brought Dart to school, showing it toMike,Will,Lucas, andMax. After discussing what type of animal Dart could be, Dustin concluded that he had discovered a new species. However, after noticing it resembled a slug he had thrown up the year before, Will realized Dart originated from the Upside Down. Before Dustin could showMr. Clarke, Mike took Dart and urged everyone to meet again in theAV Clubroom, excluding Max. When Dart started to emit a screeching sound, the boys open...",
     "role": "Deceased",
     "attributes": {
+      "Image": "Stage Five",
       "Status": "Deceased",
-      "Died": "November 12 , 1983",
-      "Aliases": "The Monster Man with No Face The Thing on the Phone",
-      "Residence": "The Upside Down",
-      "Other Relations": "Eleven (enemy/killer",
-      "Affiliation": "The Upside Down Vecna The Mind Flayer",
-      "Victims": "Will Byers Barbara Holland † Dale † Henry †",
+      "Born": "Before October 31 , 1984",
+      "Died": "November 5 , 1984",
+      "Aliases": "Dart",
+      "Residence": "Hawkins , Indiana ( pre 1984 - 1984 ) Henderson House (1984) Hawkins Tunnel System (1984",
+      "Other Relations": "Vecna (controller) The Mind Flayer (controller) Unnamed Demodogs † (allies) Dustin Henderson (former owner) Eleven (enemy/killer",
+      "Affiliation": "Dustin Henderson The Upside Down The Mind Flayer",
+      "Victims": "Mews",
       "Species": "Demogorgon",
-      "Height": "8.7-9 ft",
-      "Portrayer": "Mark Steger",
-      "Appearances": "1 , 2 , 3 , 5 , 6 , 8"
+      "Portrayer": "Craig Henighan (voice",
+      "Appearances": "11 , 12 , 13 , 14 , 16 , 17"
     },
-    "source_url": "https://strangerthings.fandom.com/wiki/The_Demogorgon"
+    "source_url": "https://strangerthings.fandom.com/wiki/D%27Artagnan"
   },
   {
-    "name": "Dr. Ellis",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/2/28/Dr._Ellis.png",
-    "description": "EllisBiographical informationStatusDeceasedDiedSeptember 8,1979Other relationsDr. Martin Brenner†(colleague)Six†(test subject)Henry Creel/One(killer)OccupationResearch scientist atHawkins National LaboratoryPhysical informationHair colorGrayPortrayalMain actorElizabeth BeckaAppears in26Dr. Ellis, portrayed byElizabeth Becka, was a minor character in thefourth seasonofStranger Things. She was a scientist atHawkins National Laboratoryworking alongsideDr. Martin Brennerin studying and trainingch...",
-    "role": "Research scientist at Hawkins National Laboratory",
+    "name": "Ray Carroll",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/3/3c/Screen_Shot_2017-11-13_at_6.15.01_PM.png",
+    "description": "Ray Carroll19841974Biographical informationStatusAliveBorn1920s,1930sor1940sResidenceChicago, IllinoisFamilyTwo unnamed daughtersOther relationsMartin Brenner†(former colleague)AffiliationHawkins National Laboratory(formerly)OccupationOrderly(formerly)Physical informationHeight5’9” ½(177cm)Eye colorBrownHair colorBaldPortrayalMain actorPruitt Taylor VinceAppears in13* 1523*33**= flashbackRay Carroll, portrayed byPruitt Taylor Vince, is a minor character inSeason 2ofStranger Things. He is a fo...",
+    "role": "Orderly (formerly",
     "attributes": {
-      "Status": "Deceased",
-      "Died": "September 8 , 1979",
-      "Other Relations": "Dr. Martin Brenner † (colleague) Six † (test subject) Henry Creel/One (killer",
-      "Occupation": "Research scientist at Hawkins National Laboratory",
-      "Hair Color": "Gray",
-      "Appearances": "26"
-    },
-    "source_url": "https://strangerthings.fandom.com/wiki/Dr._Ellis"
-  },
-  {
-    "name": "Marcy",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/7/7f/Marcy_STSIX.png",
-    "description": "Jamie's powers proved to be too powerful to control, as it caused her family's home to be engulfed in flames. Marcy and Jamie were the only people to survive the fire, and they were soon brought to Hawkins Lab by Brenner. After being told that he could help Jaime control her abilities, she accepts his offer to join his program. Marcy is implemented into the program to keep Jaime happy, despite her lack of supernatural powers. Jaime is given the number \"Nine\" while Marcy is given the number \"9...",
-    "role": "Test Subject",
-    "attributes": {
+      "Image": "1984",
       "Status": "Alive",
-      "Born": "1969",
-      "Age": "9 (1978) 15-16 (1985",
-      "Aliases": "9.5 Control",
-      "Residence": "Hawkins National Laboratory (formerly",
-      "Relatives": "Jamie (sister",
-      "Other Relations": "Francine (friend) Ricky (friend",
+      "Born": "1920s , 1930s or 1940s",
+      "Other Relations": "Martin Brenner † (former colleague",
       "Affiliation": "Hawkins National Laboratory (formerly",
-      "Occupation": "Test Subject",
-      "Eyes": "Blue",
-      "Hair Color": "Brown"
+      "Occupation": "Orderly (formerly",
+      "Eyes": "Brown",
+      "Hair Color": "Bald",
+      "Appearances": "13* 15 23* 33* * = flashback"
     },
-    "source_url": "https://strangerthings.fandom.com/wiki/Marcy"
+    "source_url": "https://strangerthings.fandom.com/wiki/Ray_Carroll"
   },
   {
-    "name": "Mick",
-    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/b/b6/Mick_S2.png",
-    "description": "MickBiographical informationStatusAliveBorn1960sOther relationsKali Prasad(friend/accomplice)Axel(friend/accomplice)Dottie(friend/accompllice)Funshine(friend/accomplice)AffiliationKali's gangOccupationCriminalPhysical informationHeight5’7 “(170cm)Eye colorBrownHair colorBlackPortrayalMain actorGabrielle MaidenAppears in9,15Mick, portrayed byGabrielle Maiden, is a recurring character in thesecond seasonofStranger Things. She is a member ofKali's gang.",
-    "role": "Criminal",
+    "name": "Calvin Powell",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/b/bf/Chief_Powell.png",
+    "description": "Calvin Powell1986198519841983Biographical informationStatusAliveBorn1940s or 1950sAliasesCalOther relationsPhil Callahan(former partner/underling/friend)Jim Hopper(former boss/friend)AffiliationHawkins Police DepartmentOccupationPolice officerPolice ChiefPhysical informationHeight6'0\" (182cm)Eye colorBrownHair colorBlackPortrayalMain actorRob MorganAppears in1 2 3 4 5 6 7 89 10 111927 28 31 32Calvin Powell, portrayed byRob Morgan, is a recurring character inStranger Things. He was an officer ...",
+    "role": "Police officer Police Chief",
     "attributes": {
+      "Image": "1986",
       "Status": "Alive",
-      "Born": "1960s",
-      "Other Relations": "Kali Prasad (friend/accomplice) Axel (friend/accomplice) Dottie (friend/accompllice) Funshine (friend/accomplice",
-      "Occupation": "Criminal",
+      "Aliases": "Cal",
+      "Other Relations": "Phil Callahan (former partner/underling/friend) Jim Hopper (former boss/friend",
+      "Occupation": "Police officer Police Chief",
       "Eyes": "Brown",
       "Hair Color": "Black",
-      "Appearances": "9 , 15"
+      "Mainactor": "Rob Morgan",
+      "Appearances": "1 2 3 4 5 6 7 8 9 10 11 19 27 28 31 32"
     },
-    "source_url": "https://strangerthings.fandom.com/wiki/Mick"
+    "source_url": "https://strangerthings.fandom.com/wiki/Calvin_Powell"
+  },
+  {
+    "name": "Suzie Bingham",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/0/03/Suzie_on_the_roof.jpg",
+    "description": "Suzie Bingham19861985Biographical informationStatusAliveBorn1971Age14(season three)15(season four)AliasesSuzie-Poo(byDustin)Four-Eyed Shit(byEden)ResidenceBingham House,Salt Lake City,UtahRelationship statusDatingDustin HendersonFamilyUnnamed motherMr. Bingham(father)Eden Bingham(sister)Tabitha Bingham(sister)Cornelius Bingham(brother)Sterling Bingham(brother)Tanner Bingham(brother)Tatum Bingham(sister)Peter Bingham(brother)Unnamed brothers and sistersOther relationsDustin Henderson(boyfriend...",
+    "role": "High School Student",
+    "attributes": {
+      "Image": "1986",
+      "Status": "Alive",
+      "Born": "1971",
+      "Age": "14 ( season three ) 15 ( season four",
+      "Aliases": "Suzie-Poo (by Dustin ) Four-Eyed Shit (by Eden",
+      "Residence": "Bingham House , Salt Lake City , Utah",
+      "Marital": "Dating Dustin Henderson",
+      "Relatives": "Unnamed mother Mr. Bingham (father) Eden Bingham (sister) Tabitha Bingham (sister) Cornelius Bingham (brother) Sterling Bingham (brother) Tanner Bingham (brother) Tatum Bingham (sister) Peter Bingh...",
+      "Other Relations": "Dustin Henderson (boyfriend) Mike Wheeler (friend) Will Byers (friend) Jonathan Byers (friend) Argyle (friend",
+      "Affiliation": "Camp Know Where",
+      "Occupation": "High School Student",
+      "Height": "5’5” (165cm",
+      "Eyes": "Brown",
+      "Hair Color": "Dark Brown",
+      "Portrayer": "Gabriella Pizzolo",
+      "Appearances": "25 26 31"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/Suzie_Bingham"
+  },
+  {
+    "name": "Eden Bingham",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/f/f3/Stranger_Things_Eden.PNG",
+    "description": "Eden BinghamBiographical informationStatusAliveBorn1965-1969Age17-21ResidenceBingham House,Salt Lake City,UtahFamilyMr. Bingham(Father)Mrs. Bingham(Mother)Suzie Bingham(Sister)Tabitha Bingham(Sister)Cornelius Bingham(Brother)Sterling Bingham(Brother)Tanner Bingham(Brother)Tatum Bingham(Sister)Peter Bingham(Brother)Other relationsArgyle(Friend/Love Interest)AffiliationThe Bingham FamilyPhysical informationEye colorBrown/HazelHair colorBlackPortrayalMain actorAudrey HolcombAppears in31Eden Bing...",
+    "role": "Alive",
+    "attributes": {
+      "Status": "Alive",
+      "Born": "1965-1969 [ 1",
+      "Age": "17-21 [ 1",
+      "Residence": "Bingham House , Salt Lake City , Utah",
+      "Relatives": "Mr. Bingham (Father) Mrs. Bingham (Mother) Suzie Bingham (Sister) Tabitha Bingham (Sister) Cornelius Bingham (Brother) Sterling Bingham (Brother) Tanner Bingham (Brother) Tatum Bingham (Sister) Pet...",
+      "Other Relations": "Argyle (Friend/Love Interest",
+      "Hair Color": "Black",
+      "Appearances": "31"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/Eden_Bingham"
+  },
+  {
+    "name": "Marsha Holland",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/b/b6/Marsha_Holland.png",
+    "description": "Marsha Holland19841983Biographical informationStatusAliveResidenceHawkins,IndianaRelationship statusMarried toMr. HollandFamilyBarbara Holland†(daughter)Physical informationHeight5’4” (163cm)Eye colorGreenHair colorDark BrownPortrayalMain actorCynthia BarrettAppears in3,9,11,17Marsha Holland, portrayed byCynthia Barrett, was a minor character in thefirst seasonand a recurring character in thesecond seasonofStranger Things. She was the wife ofMr. Hollandand the mother ofBarbara Holland. Follow...",
+    "role": "Alive",
+    "attributes": {
+      "Image": "1984",
+      "Status": "Alive",
+      "Residence": "Hawkins , Indiana",
+      "Marital": "Married to Mr. Holland",
+      "Relatives": "Barbara Holland † (daughter",
+      "Eyes": "Green",
+      "Hair Color": "Dark Brown",
+      "Appearances": "3 , 9 , 11 , 17"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/Marsha_Holland"
+  },
+  {
+    "name": "Eddie Munson",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/c/ca/Eddie_Munson.jpg",
+    "description": "Eddie MunsonBiographical informationStatusDeceasedBorn1964-1968*DiedMarch 27,1986Age17-22*AliasesEddie \"The Freak\" MunsonLong-Haired FreakEddie the BanishedResidenceHawkins,Indiana( ? -1986):Munson trailer,Forest Hills Trailer Park(? - 1986)2121 Holland Rd(1986)Relationship statusSingleFamilyAlan Munson(father)Elizabeth Munson†(mother)Wayne Munson(uncle)Other relationsGareth(friend/fellow club member)Jeff(friend/fellow club member)Freak 1(friend/fellow club member)Ronnie Ecker(friend/fellow c...",
+    "role": "Student at Hawkins Middle School ( 1977 - 1980 ) Leader of Corroded Coffin ( 1970s -1986) Student at Hawkins High School (1980- 1986 ) Leader of the Hellfire Club ( 1980s -1986",
+    "attributes": {
+      "Status": "Deceased",
+      "Born": "1964-1968 * [ 3",
+      "Died": "March 27 , 1986",
+      "Age": "17-22 * [ 3",
+      "Aliases": "Eddie \"The Freak\" Munson Long-Haired Freak Eddie the Banished [ 4",
+      "Residence": "Hawkins , Indiana ( ? - 1986 ) : Munson trailer , Forest Hills Trailer Park (? - 1986) 2121 Holland Rd (1986",
+      "Marital": "Single",
+      "Relatives": "Alan Munson (father) Elizabeth Munson † (mother) Wayne Munson (uncle",
+      "Other Relations": "Gareth (friend/fellow club member) Jeff (friend/fellow club member) Freak 1 (friend/fellow club member) Ronnie Ecker (friend/fellow club member) Mike Wheeler (friend/fellow club member) Dusti...",
+      "Affiliation": "Hellfire Club Corroded Coffin",
+      "Occupation": "Student at Hawkins Middle School ( 1977 - 1980 ) Leader of Corroded Coffin ( 1970s -1986) Student at Hawkins High School (1980- 1986 ) Leader of the Hellfire Club ( 1980s -1986",
+      "Height": "5'10\" (180 cm",
+      "Eyes": "Brown",
+      "Hair Color": "Dark brown",
+      "Portrayer": "Joseph Quinn",
+      "Appearances": "26 27 28 30 31 32 33 34"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/Eddie_Munson"
+  },
+  {
+    "name": "Paige Warner",
+    "image_url": "https://static.wikia.nocookie.net/strangerthings8338/images/2/2f/Mike_acquire_more_knowledge.png",
+    "description": "Paige WarnerBiographical informationAge19-20Full namePaige WarnerResidenceLos Angeles,CaliforniaFamilyHank Warner(father)Julia Warner(mother)Mark Warner(younger brother)RelationsEddie Munson†(ex boyfriend; friend)AffiliationWR RecordsCorroded Coffin(formerly).OccupationAssistant to a record producerPhysical informationHair colorDark brownPortrayalAppears inStranger Things: Flight of Icarus",
+    "role": "Assistant to a record producer",
+    "attributes": {
+      "Age": "19-20",
+      "Residence": "Los Angeles , California",
+      "Relatives": "Hank Warner (father) Julia Warner (mother) Mark Warner (younger brother",
+      "Relations": "Eddie Munson † (ex boyfriend; friend",
+      "Affiliation": "WR Records Corroded Coffin (formerly) . [ 1",
+      "Hair Color": "Dark brown"
+    },
+    "source_url": "https://strangerthings.fandom.com/wiki/Paige_Warner"
   }
 ]

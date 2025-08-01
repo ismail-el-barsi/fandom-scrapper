@@ -1,435 +1,23 @@
 [
   {
-    "name": "Bobbie Draper(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/5/5d/Bobbierpg1.jpg",
-    "description": "Roberta \"Bobbie\" W. Draperwas aMartian Marineand a Gunnery Sergeant of the2ndMarine Expeditionary Force. She was stationed onGanymededuring theGanymede incident. She later became the Captain of theRocinante, Commander of theGathering Storm, and a Leader in theUnderground.",
-    "role": "show status Deceased",
-    "attributes": {
-      "Alias": "Roberta (legal given) \"Babs\" (courtesy Amos",
-      "Gender": "♀ Female",
-      "Groups": "Martian Marine Corps Veterans outreach group Transport Union Rocicorp The Underground",
-      "Status N": "show status Deceased",
-      "Appeared N": "Caliban's War Gods of Risk Cibola Burn Nemesis Games Babylon's Ashes Persepolis Rising Tiamat's Wrath",
-      "Relationships N": "Benji Draper (brother) David Draper (nephew) Corporal Travis (subordinate) Private Hillman (subordinate) Private Gourab (subordinate) Lieutenant Givens (Commanding Officer) Captain Martens (Grief C..."
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Bobbie_Draper_(Books)"
-  },
-  {
-    "name": "David Draper(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/b2/Book-icon-simple.png",
-    "description": "David DraperAppearance and affiliationsGender♂MaleHomeMars,SOLNovels and storiesStatus💓AliveAppearedGods of RiskCibola BurnReferencedNemesis GamesFamilyBen Draper(father)unnamed motherBen Draper(father)Bobbie Draper(aunt)RelationshipsLeelee(friend)HutchTV seriesStatus💓AliveDebut\"New Terra\"Season(s)FourPortrayed byKolton StewartDavid Draperis the nephew ofBobbie Draper.",
-    "role": "💓 Alive",
-    "attributes": {
-      "Gender": "♂ Male",
-      "Home": "Mars , SOL",
-      "Status N": "💓 Alive",
-      "Appeared N": "Gods of Risk Cibola Burn",
-      "Family N": "Ben Draper (father) unnamed mother Ben Draper (father) Bobbie Draper (aunt",
-      "Relationships N": "Leelee (friend) Hutch",
-      "Status Tv": "💓 Alive",
-      "First Appeared Tv": "\" New Terra \"",
-      "Appeared Tv": "Four"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/David_Draper_(Books)"
-  },
-  {
-    "name": "Praxidike Meng (Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/8/8b/Prax_as_refugee-lo-res.jpg",
-    "description": "Dr. Praxidike \"Prax\" Mengis the Chief Botanist of the RMD-Southern soy farm project onGanymedeand father ofMei Meng.",
-    "role": "Anime Character",
-    "attributes": {
-      "Alias": "Prax",
-      "Gender": "Male",
-      "Appeared N": "Caliban's War Babylon's Ashes",
-      "Relationships N": "Nicola Mulko , ex-wife Djuna , wife Mei , daughter Natalia , stepdaughter"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Praxidike_Meng_(Books)"
-  },
-  {
-    "name": "Michio Pa(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/4/40/Michio_closeup.png",
-    "description": "In the TV series, her part as it appeared on theBehemothand told during season 3 is merged with that ofDrummer. However, a character sharing the name Michio does appear beginning in season 5.",
-    "role": "Alive",
-    "attributes": {
-      "Image": "TV",
-      "Alias": "Michi (courtesy Laura",
-      "Gender": "♀ Female",
-      "Eyes": "Dark",
-      "Groups": "Outer Planets Alliance (former) Free Navy (former) Transport Union",
-      "Status N": "Alive",
-      "Appeared N": "Abaddon's Gate The Vital Abyss Babylon's Ashes",
-      "Referenced N": "Persepolis Rising",
-      "Family N": "Josep , husband ¤ Nadia , wife ¤ Bertold , husband ¤ Laura , wife ¤ Evans Garner-Choi , husband ¤ Oksana Busch , wife ¤ ¤ (Connaught ketubah",
-      "Relationships N": "Samara Rosenberg , lover (deceased"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Michio_Pa_(Books)"
-  },
-  {
-    "name": "Jillian Houston(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/b2/Book-icon-simple.png",
-    "description": "Jillian HoustonAppearance and affiliationsGender♀FemaleHomeFreehold,FREAffiliationFreeholdundergroundGathering Storm(Executive Officer, 51XTE)(Captain, 51XTE)Novels and storiesStatusDeceasedAppearedTiamat's WrathLeviathan FallsRelationshipsPayne Houston(father",
-    "role": "Deceased",
-    "attributes": {
-      "Gender": "♀ Female",
-      "Home": "Freehold , FRE",
-      "Groups": "Freehold underground Gathering Storm (Executive Officer, 51 XTE ) (Captain, 51 XTE",
-      "Status N": "Deceased",
-      "Appeared N": "Tiamat's Wrath Leviathan Falls",
-      "Relationships N": "Payne Houston (father"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Jillian_Houston_(Books)"
-  },
-  {
-    "name": "Solomon Epstein(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/e/e4/Solomon_Epstein-closeup.jpg",
-    "description": "Solomon Epsteinas seen in theTV showAppearance and affiliationsGender♂MaleHomeLondres Nova,Mars,SOLNovels and storiesStatusDeceasedAppeared\"Drive\"FamilyCaitlin Esquibel(wife)TV seriesStatusDeceasedDebut\"Paradigm Shift\"Season(s)TwoPortrayed bySam Huntington",
-    "role": "Deceased",
-    "attributes": {
-      "Gender": "♂ Male",
-      "Home": "Londres Nova , Mars , SOL",
-      "Status N": "Deceased",
-      "Appeared N": "\" Drive \"",
-      "Family N": "Caitlin Esquibel (wife",
-      "Status Tv": "Deceased",
-      "First Appeared Tv": "\" Paradigm Shift \"",
-      "Appeared Tv": "Two"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Solomon_Epstein_(Books)"
-  },
-  {
-    "name": "Salis",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/a/ae/OPA_logo.png",
-    "description": "SalisAppearance and affiliationsGender♂MaleAffiliationOuter Planets AllianceNovels and storiesAppearedBabylon's AshesRelationshipsJakulski(co-worker)Vandercaust(co-worker)Roberts(co-worker)Salisis a tech with theFree NavyonMedina Station.",
-    "role": "Anime Character",
-    "attributes": {
-      "Gender": "♂ Male",
-      "Relationships N": "Jakulski (co-worker) Vandercaust (co-worker) Roberts (co-worker"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Salis"
-  },
-  {
-    "name": "The Investigator(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/e/ef/BeyondtheringRPGTheInvestigator.jpg",
-    "description": "The Investigatoris a programmed construct of theRing Station, designed to investigate what happened to theRing Builders, the civilization that built thegate network, and what may have caused their disappearance. The Investigator is broad in its powers and its mandate is broad in its scope. In pursuing this mandate, the construct dedicates part of its processing capacity to neurally mimickingDetective Miller'spersona in the mind ofJames Holden, doing this through subtle and delicate but incred...",
-    "role": "Game Character",
-    "attributes": {
-      "Alias": "Proto-Miller",
-      "Gender": "Male (using Miller 's persona"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/The_Investigator_(Books)"
-  },
-  {
-    "name": "Manéo Jung-Espinoza(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/4/45/3x07_27.jpg",
-    "description": "Born to anEarth-born father who oversaw a grid maintenance group, and a mother from theBeltwho worked at a water treatment plant, he had a crush on his older cousin on his mother's side,Evita Jung. He decided become a slingshot racer after meetingSilvestari Cammposat the age of fourteen.",
-    "role": "Deceased",
-    "attributes": {
-      "Alias": "Néo",
-      "Gender": "♂ Male",
-      "Status N": "Deceased",
-      "Appeared N": "Abaddon's Gate",
-      "Relationships N": "Evita Jung (Cousin",
-      "Status Tv": "Deceased",
-      "First Appeared Tv": "\" Delta-V \"",
-      "Appeared Tv": "Three",
-      "Actor": "Zach Villa"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Man%C3%A9o_Jung-Espinoza_(Books)"
-  },
-  {
-    "name": "Sauveterre(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/b2/Book-icon-simple.png",
-    "description": "SauveterreAppearance and affiliationsGender♂MaleHomeMars,SOL(fomer)BarkeithAffiliationMCR(former)Free Navy(former)RogueMCRNfleet(former)Laconian EmpireNovels and storiesStatusDeceasedAppearedNemesis GamesEpilog: SauveterreTV seriesStatusDeceasedDebut\"Churn\"Portrayed byTim DeKay",
-    "role": "Deceased",
-    "attributes": {
-      "Gender": "♂ Male",
-      "Home": "Mars , SOL (fomer) Barkeith",
-      "Groups": "MCR (former) Free Navy (former) Rogue MCRN fleet (former) Laconian Empire",
-      "Status N": "Deceased",
-      "Appeared N": "Nemesis Games Epilog: Sauveterre",
-      "Status Tv": "Deceased",
-      "First Appeared Tv": "\" Churn \"",
-      "Actor": "Tim DeKay"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Sauveterre_(Books)"
-  },
-  {
-    "name": "Anderson Dawes(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/b4/RPG_Anderson_Dawes_abzusbounty.jpg",
-    "description": "He is tall and lanky, and his face is scarred by acne and pock-marked. His speech is typical of a belter.",
+    "name": "Camina Drummer(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/7/7d/Drummer.jpg",
+    "description": "Camina Drummeris aBelterwoman working as Chief of Security onTycho Station.",
     "role": "Alive 💓",
     "attributes": {
-      "Gender": "♂ Male",
-      "Groups": "Outer Planets Alliance Governor of Ceres (after United Nations withdrawl",
-      "Status N": "Alive 💓",
-      "Appeared N": "\" The Butcher of Anderson Station \" Leviathan Wakes Nemesis Games Babylon's Ashes",
-      "First Appeared Tv": "\" Remember the Cant \"",
-      "Appeared Tv": "One , Two"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Anderson_Dawes_(Books)"
-  },
-  {
-    "name": "Roberts",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/a/ae/OPA_logo.png",
-    "description": "RobertsAppearance and affiliationsGender♀FemaleAffiliationOuter Planets AllianceNovels and storiesAppearedBabylon's Ashes",
-    "role": "Anime Character",
-    "attributes": {
-      "Gender": "♀ Female"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Roberts"
-  },
-  {
-    "name": "Josephus Miller(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/f/f1/RPG_Miller.jpg",
-    "description": "Josephus MillerAlias(es)\"Joe\", \"Miller\"Appearance and affiliationsGender♂MaleAffiliationStar Helix SecurityNovels and storiesStatusDeceased(killed by Eros Impact into Venus)AppearedLeviathan WakesReferencedCaliban's WarAbaddon's GateCibola BurnRelationshipsJames Holden(co-conspirator)SematimbaDimitri Havelock(ex-partner)Octavia Muss(ex-partner)Candace(ex-wife)TV seriesStatusDeceasedDebut\"Dulcinea\"Season(s)One,TwoPortrayed byThomas Jane",
-    "role": "Deceased (killed by Eros Impact into Venus",
-    "attributes": {
-      "Gender": "♂ Male",
-      "Status N": "Deceased (killed by Eros Impact into Venus",
-      "Referenced N": "Caliban's War Abaddon's Gate Cibola Burn",
-      "Relationships N": "James Holden (co-conspirator) Sematimba Dimitri Havelock (ex-partner) Octavia Muss (ex-partner) Candace (ex-wife",
-      "Status Tv": "Deceased",
-      "First Appeared Tv": "\" Dulcinea \"",
-      "Appeared Tv": "One , Two"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Josephus_Miller_(Books)"
-  },
-  {
-    "name": "Dimitri Havelock(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/3/31/S01E02-JayHernandez_as_DimitriHavelock_01d.jpg",
-    "description": "Dimitri Havelockis a security contractor. He worked as a Detective forStar Helix SecurityonCeres Stationfor about a year, partnered withJosephus Miller. He later worked forRoyal Charter Energy(RCE), serving as acting Chief of Security aboard theEdward Israel. In that position, he played a critical role in the proceedings between RCE and the inhabitants ofFirst Landing.",
-    "role": "Alive",
-    "attributes": {
-      "Alias": "Dmitri (see notes",
-      "Gender": "♂ Male",
-      "Complexion": "Pale",
-      "Hair": "Light",
-      "Eyes": "Dark",
-      "Groups": "Star Helix Security (former) Royal Charter Energy",
-      "Status N": "Alive",
-      "Appeared N": "Leviathan Wakes Cibola Burn",
-      "Relationships N": "Josephus Miller (ex-partner",
-      "Status Tv": "Alive",
-      "First Appeared Tv": "\" Dulcinea \"",
-      "Appeared Tv": "One",
-      "Actor": "Jay Hernandez"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Dimitri_Havelock_(Books)"
-  },
-  {
-    "name": "Alex Kamal(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/8/8f/AlexKrpg.jpg",
-    "description": "Alex KamalAppearance and affiliationsGender♂MaleComplexionBrownHairBlackHomeMars,SOL(originally, former)NWSRocinanteAffiliationMCRN(former)OPA(former)RocicorpUndergroundNovels and storiesStatus💓AliveAppearedLeviathan WakesCaliban's WarAbaddon's GateCibola BurnNemesis GamesBabylon's AshesPersepolis RisingTiamat's WrathLeviathan FallsFamilyTalissa(1st ex-wife)Unnamed sonGiselle(2nd ex-wife)Kit Kamal(son with Giselle)Bakari Kamal(grandson)Min(cousin)Narendra(great-uncle)RelationshipsJames Holden...",
-    "role": "💓 Alive",
-    "attributes": {
-      "Gender": "♂ Male",
-      "Complexion": "Brown",
-      "Hair": "Black",
-      "Home": "Mars , SOL (originally, former) NWS Rocinante",
-      "Groups": "MCRN (former) OPA (former) Rocicorp Underground",
-      "Status N": "💓 Alive",
-      "Appeared N": "Leviathan Wakes Caliban's War Abaddon's Gate Cibola Burn Nemesis Games Babylon's Ashes Persepolis Rising Tiamat's Wrath Leviathan Falls",
-      "Family N": "Talissa (1st ex-wife) Unnamed son Giselle (2nd ex-wife) Kit Kamal (son with Giselle) Bakari Kamal (grandson) Min (cousin) Narendra (great-uncle) [ 2",
-      "Relationships N": "James Holden (captain) Naomi Nagata (XO, crewmate) Amos Burton (crewmate) Bobbie Draper (crewmate) Sandra Ip (lover, former",
-      "Status Tv": "Deceased",
-      "Appeared Tv": "One , Two , Three , Four , Five",
-      "Actor": "Cas Anvar"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Alex_Kamal_(Books)"
-  },
-  {
-    "name": "Fayez Okoye-Sarkis(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/b2/Book-icon-simple.png",
-    "description": "Fayez Okoye-SarkisAlias(es)Fayez SarkisAppearance and affiliationsGender♂MaleHomeMarsSOL(place of birth, former)Edward Israel/IlusILU(former)LaconiaLCNAffiliationRoyal Charter Energy(former)Laconian EmpireNovels and storiesStatusAliveAppearedCibola BurnPersepolis RisingTiamat's WrathLeviathan FallsFamilyElvi Okoye(wife)TV seriesSeason(s)FourPortrayed byZach Smadu",
-    "role": "Alive",
-    "attributes": {
-      "Gender": "♂ Male",
-      "Home": "Mars SOL (place of birth, former) Edward Israel / Ilus ILU (former) Laconia LCN",
-      "Groups": "Royal Charter Energy (former) Laconian Empire",
-      "Status N": "Alive",
-      "Appeared N": "Cibola Burn Persepolis Rising Tiamat's Wrath Leviathan Falls",
-      "Family N": "Elvi Okoye (wife",
-      "Appeared Tv": "Four",
-      "Actor": "Zach Smadu"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Fayez_Okoye-Sarkis"
-  },
-  {
-    "name": "Clarissa Mao - AKA Melba Koh(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/4/4d/S03E09-NadineNicole_as_ClarissaMao_01c.jpg",
-    "description": "Clarissa MaoTVRPGAlias(es)\"Melba Koh\"Claire(courtesy Tilly)Peaches(courtesy Amos)Appearance and affiliationsGender♀FemaleAffiliationMao-Kwikowski MercantileRocicorpUndergroundNovels and storiesStatusshow statusDeceasedAppearedAbaddon's GateNemesis GamesBabylon's AshesPersepolis RisingReferencedTiamat's WrathRelationshipsJules-Pierre Mao(father)Ariadne Mao(mother)Julie Mao(sister)Petyr Mao(brother)Michael Mao(brother)Anthea Mao(sister)Jim Holden(Captain)Naomi Nagata(Executive Officer)Alex Kama...",
-    "role": "show status Deceased",
-    "attributes": {
       "Image": "TV",
-      "Alias": "\"Melba Koh\" Claire (courtesy Tilly) Peaches (courtesy Amos",
       "Gender": "♀ Female",
-      "Groups": "Mao-Kwikowski Mercantile Rocicorp Underground",
-      "Status N": "show status Deceased",
-      "Appeared N": "Abaddon's Gate Nemesis Games Babylon's Ashes Persepolis Rising",
-      "Relationships N": "Jules-Pierre Mao (father) Ariadne Mao (mother) Julie Mao (sister) Petyr Mao (brother) Michael Mao (brother) Anthea Mao (sister) Jim Holden (Captain) Naomi Nagata (Executive Officer) Alex Kamal (Pil...",
-      "Appeared Tv": "Three , Four , Five , Six",
-      "Actor": "Nadine Nicole"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Clarissa_Mao_(Books)"
-  },
-  {
-    "name": "Annushka Volovodov",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/b2/Book-icon-simple.png",
-    "description": "Annushka VolovodovAlias(es)Pastor AnnaAnnie(courtesy of Tilly)Red(courtesy of Amos)Saint Anna(courtesy of Nami)Appearance and affiliationsGender♀FemaleHairRed, long and thick, worn in a bunHomeEarth,SOL(formerly)New Dolinsk,Europa, SOL(formerly)JannahNovels and storiesStatusDeceasedAppearedAbaddon's GateBabylon's AshesReferencedThe Sins of Our FathersFamilyNamono \"Nono\"(wife)Namono \"Nami\"(daughter)Unnamed parentsUnnamed sibling-in-lawRelationshipsTilly Fagan(friend)TV seriesStatusAliveDebut\"I...",
-    "role": "Deceased",
-    "attributes": {
-      "Alias": "Pastor Anna Annie (courtesy of Tilly) Red (courtesy of Amos) Saint Anna (courtesy of Nami",
-      "Gender": "♀ Female",
-      "Home": "Earth , SOL (formerly) New Dolinsk, Europa , SOL (formerly) Jannah",
-      "Status N": "Deceased",
-      "Appeared N": "Abaddon's Gate Babylon's Ashes",
-      "Family N": "Namono \"Nono\" (wife) Namono \"Nami\" (daughter) Unnamed parents Unnamed sibling-in-law [ 1",
-      "Relationships N": "Tilly Fagan (friend",
-      "Status Tv": "Alive",
-      "First Appeared Tv": "\" IFF \"",
-      "Appeared Tv": "Three , Six",
-      "Actor": "Elizabeth Mitchell"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Annushka_Volovodov"
-  },
-  {
-    "name": "Marrel Imvic",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/bd/Spoiler-war.png",
-    "description": "Marrel is from theDobridomov systemand is a crew member of theMusafir. He speaks more than a dozen of languages, including Chinese and Common English.",
-    "role": "Alive 💓",
-    "attributes": {
-      "Gender": "♂ Male",
-      "Home": "Dobridomov , DBR",
-      "Status N": "Alive 💓",
-      "Appeared N": "Leviathan Falls"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Marrel_Imvic"
-  },
-  {
-    "name": "Basia Merton(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/2/22/Basia_Merton.jpg",
-    "description": "Basia \"Baz\" Mertonis a welder who lived onGanymedewith his wifeLuciaand their three children,Felcia,Jacek, andKatoa. His son Katoa suffered froma rare genetic disorderthat was of particular interest to Ganymede pediatricianDr. Lawrence Stricklanddue to his work involving theprotomolecule.",
-    "role": "Alive",
-    "attributes": {
-      "Gender": "♂ Male",
-      "Status N": "Alive",
-      "Appeared N": "Caliban's War Cibola Burn",
-      "Relationships N": "Lucia Merton (wife) Felcia Merton (daughter) Jacek Merton (son) Katoa Merton † (son",
-      "Status Tv": "Alive",
-      "First Appeared Tv": "\" Cascade \"",
-      "Appeared Tv": "Two",
-      "Actor": "Ryan Blakely"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Basia_Merton_(Books)"
-  },
-  {
-    "name": "Carlos c de Baca(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/b2/Book-icon-simple.png",
-    "description": "Bull has pale brown \"cookie dough\" skin, dark eyes, a broad chin, and wrinkles on his forehead and the corners of his mouth. He has a deep voice with reedy overtones.",
-    "role": "Deceased",
-    "attributes": {
-      "Alias": "Bull",
-      "Gender": "♂ Male",
-      "Groups": "Outer Planets Alliance United Nations Marine Corps (former",
-      "Status N": "Deceased",
-      "Appeared N": "Abaddon's Gate",
-      "Referenced N": "Babylon's Ashes",
-      "First Appeared Tv": "\" Exodus \"",
-      "Appeared Tv": "Five",
-      "Actor": "José Zúñiga"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Carlos_c_de_Baca_(Books)"
-  },
-  {
-    "name": "Cara Bisset(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/b2/Book-icon-simple.png",
-    "description": "Cara's parents were scientific researchers that had leftEarthto come toLaconiaas part of the initial scientific expedition to the planet prior to AdmiralWinston Duarterelocating his loyalists there. She has a younger brother namedXan. Cara loved to explore the nearby wilderness of the planet that they settled on.",
-    "role": "Alive (resurrected",
-    "attributes": {
-      "Alias": "\"Sparkles\" (courtesy Amos",
-      "Gender": "♀ Female",
-      "Complexion": "Gray",
-      "Eyes": "Black",
-      "Home": "Laconia , LCN",
-      "Status N": "Alive (resurrected",
-      "Appeared N": "Strange Dogs Tiamat's Wrath Leviathan Falls",
-      "Family N": "Xan Bisset (brother) Gary Bisset (father) Dot Bisset (mother"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Cara_Bisset_(Books)"
-  },
-  {
-    "name": "Filip Inaros(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/b2/Book-icon-simple.png",
-    "description": "Filip is the first and only son ofMarco InarosandNaomi Nagata. Born onCeresafter a difficult pregnancy due to the dangers of low gravity, Filip was raised lovingly by his parents during his very early life. However, after the destruction of the transportAugustin Gamarraby his father, his mother's guilt of her involvement made her severely depressed and unstable, so his father manipulatively hid Filip away from her to keep her silence and \"good behaviour\". His mother then tried to take her own...",
-    "role": "Alive",
-    "attributes": {
-      "Alias": "Filipito Filip Nagata Oskar Daksan Tyr Saint Angél Morella [ 1",
-      "Gender": "♂ Male",
-      "Complexion": "Dark",
-      "Hair": "Dark",
-      "Eyes": "Brown",
-      "Groups": "Outer Planets Alliance Free Navy Transport Union Association of Worlds",
-      "Status N": "Alive",
-      "Appeared N": "Nemesis Games Babylon's Ashes The Sins of Our Fathers",
-      "Referenced N": "Leviathan Falls",
-      "Family N": "Marco Inaros (father) Naomi Nagata (mother",
-      "Status Tv": "Alive",
-      "First Appeared Tv": "\" Cibola Burn \"",
-      "Appeared Tv": "Four , Five , Six",
-      "Actor": "Jasai Chase Owens"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Filip_Inaros_(Books)"
-  },
-  {
-    "name": "Elvi Okoye(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/b3/Bobbiesdraper_elvi_okoye.png",
-    "description": "Elvi OkoyeAppearance and affiliationsGender♀FemaleHomeEarth,SOL(formerly)Laconia,LCNAffiliationRoyal Charter Energy(formerly)Laconian EmpireNovels and storiesStatus💓AliveAppearedCibola BurnTiamat's WrathLeviathan FallsReferencedPersepolis RisingFamilyFayez Okoye-Sarkis(husband)TV seriesStatusAliveDebut\"New Terra\"Season(s)Four,Five,SixPortrayed byLyndie Greenwood",
-    "role": "💓 Alive",
-    "attributes": {
-      "Gender": "♀ Female",
-      "Home": "Earth , SOL (formerly) Laconia , LCN",
-      "Groups": "Royal Charter Energy (formerly) Laconian Empire",
-      "Status N": "💓 Alive",
-      "Appeared N": "Cibola Burn Tiamat's Wrath Leviathan Falls",
-      "Family N": "Fayez Okoye-Sarkis (husband",
-      "Status Tv": "Alive",
-      "First Appeared Tv": "\" New Terra \"",
-      "Appeared Tv": "Four , Five , Six"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Elvi_Okoye_(Books)"
-  },
-  {
-    "name": "James Holden(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/2/23/Holdenrpg2.JPG",
-    "description": "James Holdenas depicted inThe Expanse RPGAlias(es)JimHoss(by Alex)The Dancing BearAppearance and affiliationsGender♂MaleComplexionPaleHairDarkEyesBlueHomeMontana,Earth,SOL(former, original residence)Canterbury(former)Rocinante(former)AffiliationUnited Nations Navy(former)Outer Planets Alliance(former)Transport Union(former)RocicorpUndergroundNovels and storiesStatusshow statusDeceasedAppearedLeviathan WakesCaliban's WarAbaddon's GateCibola BurnNemesis GamesBabylon's AshesPersepolis RisingTiam...",
-    "role": "show status Deceased",
-    "attributes": {
-      "Alias": "Jim Hoss (by Alex) The Dancing Bear [ 2",
-      "Gender": "♂ Male",
       "Complexion": "Pale",
-      "Hair": "Dark",
-      "Eyes": "Blue",
-      "Home": "Montana , Earth , SOL (former, original residence) Canterbury (former) Rocinante (former",
-      "Groups": "United Nations Navy (former) Outer Planets Alliance (former) Transport Union (former) Rocicorp Underground",
-      "Status N": "show status Deceased",
-      "Appeared N": "Leviathan Wakes Caliban's War Abaddon's Gate Cibola Burn Nemesis Games Babylon's Ashes Persepolis Rising Tiamat's Wrath Leviathan Falls",
-      "Family N": "Elise (mother) Tamara (mother) Caesar (father) Tom (father) Sophie (mother) Anton (father) Dimitri (father) Joseph (father",
-      "Relationships N": "Naomi Nagata (lover, XO) Ade Tukunbo (former lover) Alex Kamal (crewmate) Amos Burton (crewmate) Bobbie Draper (crewmate) Clarissa Mao (crewmate) Teresa Duarte (crewmate) Muskrat (crewmate",
-      "Appeared Tv": "One , Two , Three , Four , Five , Six",
-      "Actor": "Steven Strait"
+      "Home": "Tynan , Belt , SOL",
+      "Groups": "Outer Planets Alliance Transport Union",
+      "Status N": "Alive 💓",
+      "Appeared N": "Nemesis Games Babylon's Ashes Persepolis Rising Tiamat's Wrath",
+      "Relationships N": "Saba",
+      "Status Tv": "Alive",
+      "Appeared Tv": "Two , Three , Four , Five , Six",
+      "Actor": "Cara Gee"
     },
-    "source_url": "https://expanse.fandom.com/wiki/James_Holden_(Books)"
-  },
-  {
-    "name": "Vandercaust(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/a/ae/OPA_logo.png",
-    "description": "VandercaustAppearance and affiliationsGender♂MaleAffiliationOuter Planets AllianceNovels and storiesStatus💓AliveAppearedBabylon's Ashes",
-    "role": "💓 Alive",
-    "attributes": {
-      "Gender": "♂ Male",
-      "Status N": "💓 Alive"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Vandercaust"
+    "source_url": "https://expanse.fandom.com/wiki/Camina_Drummer_(Books)"
   },
   {
     "name": "Amos Burton(Books)",
@@ -455,6 +43,347 @@
     "source_url": "https://expanse.fandom.com/wiki/Amos_Burton_(Books)"
   },
   {
+    "name": "Dimitri Havelock(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/3/31/S01E02-JayHernandez_as_DimitriHavelock_01d.jpg",
+    "description": "Dimitri Havelockis a security contractor. He worked as a Detective forStar Helix SecurityonCeres Stationfor about a year, partnered withJosephus Miller. He later worked forRoyal Charter Energy(RCE), serving as acting Chief of Security aboard theEdward Israel. In that position, he played a critical role in the proceedings between RCE and the inhabitants ofFirst Landing.",
+    "role": "Alive",
+    "attributes": {
+      "Alias": "Dmitri (see notes",
+      "Gender": "♂ Male",
+      "Complexion": "Pale",
+      "Hair": "Light",
+      "Eyes": "Dark",
+      "Groups": "Star Helix Security (former) Royal Charter Energy",
+      "Status N": "Alive",
+      "Appeared N": "Leviathan Wakes Cibola Burn",
+      "Relationships N": "Josephus Miller (ex-partner",
+      "Status Tv": "Alive",
+      "First Appeared Tv": "\" Dulcinea \"",
+      "Appeared Tv": "One",
+      "Actor": "Jay Hernandez"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Dimitri_Havelock_(Books)"
+  },
+  {
+    "name": "Basia Merton(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/2/22/Basia_Merton.jpg",
+    "description": "Basia \"Baz\" Mertonis a welder who lived onGanymedewith his wifeLuciaand their three children,Felcia,Jacek, andKatoa. His son Katoa suffered froma rare genetic disorderthat was of particular interest to Ganymede pediatricianDr. Lawrence Stricklanddue to his work involving theprotomolecule.",
+    "role": "Alive",
+    "attributes": {
+      "Gender": "♂ Male",
+      "Status N": "Alive",
+      "Appeared N": "Caliban's War Cibola Burn",
+      "Relationships N": "Lucia Merton (wife) Felcia Merton (daughter) Jacek Merton (son) Katoa Merton † (son",
+      "Status Tv": "Alive",
+      "First Appeared Tv": "\" Cascade \"",
+      "Appeared Tv": "Two",
+      "Actor": "Ryan Blakely"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Basia_Merton_(Books)"
+  },
+  {
+    "name": "Fred Johnson(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/0/08/FredJohnson.png",
+    "description": "Frederick \"Fred\" Lucius Johnsonis a former Colonel (Col) of theUnited Nations Marine Corps, one of the most decorated officers in the UN military, and the de facto leader of theOPA'smoderate arm.",
+    "role": "Deceased",
+    "attributes": {
+      "Image": "TV",
+      "Gender": "Male",
+      "Complexion": "Dark",
+      "Groups": "United Nations Marine Corps (formerly) Outer Planets Alliance Tycho Station OPA OPA Council",
+      "Status N": "Deceased",
+      "Appeared N": "\" The Butcher of Anderson Station \" Leviathan Wakes Caliban's War Abaddon's Gate Cibola Burn Nemesis Games Babylon's Ashes",
+      "Appeared Tv": "One , Two , Three , Four , Five",
+      "Actor": "Chad L. Coleman"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Fred_Johnson_(Books)"
+  },
+  {
+    "name": "Nono(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/b2/Book-icon-simple.png",
+    "description": "Namono \"Nono\"Alias(es)NamonoAppearance and affiliationsGender♀FemaleHomeAbuja, Nigeria,Earth,SOL(formerly)New Dolinsk,Europa, SOL(formerly)Novels and storiesStatus💓AliveAppearedAbaddon's GateBabylon's AshesFamilyAnnushka Volovodov(wife)Namono \"Nami\"(daughter)Unnamed older twinAmiri(cousin)TV seriesDebut\"IFF\"Season(s)ThreePortrayed byRaven Dauda",
+    "role": "💓 Alive",
+    "attributes": {
+      "Alias": "Namono",
+      "Gender": "♀ Female",
+      "Home": "Abuja, Nigeria, Earth , SOL (formerly) New Dolinsk, Europa , SOL (formerly",
+      "Status N": "💓 Alive",
+      "Appeared N": "Abaddon's Gate Babylon's Ashes",
+      "Family N": "Annushka Volovodov (wife) Namono \"Nami\" (daughter) Unnamed older twin Amiri (cousin) [ 1",
+      "First Appeared Tv": "\" IFF \"",
+      "Appeared Tv": "Three"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Nono_(Books)"
+  },
+  {
+    "name": "Solomon Epstein(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/e/e4/Solomon_Epstein-closeup.jpg",
+    "description": "Solomon Epsteinas seen in theTV showAppearance and affiliationsGender♂MaleHomeLondres Nova,Mars,SOLNovels and storiesStatusDeceasedAppeared\"Drive\"FamilyCaitlin Esquibel(wife)TV seriesStatusDeceasedDebut\"Paradigm Shift\"Season(s)TwoPortrayed bySam Huntington",
+    "role": "Deceased",
+    "attributes": {
+      "Gender": "♂ Male",
+      "Home": "Londres Nova , Mars , SOL",
+      "Status N": "Deceased",
+      "Appeared N": "\" Drive \"",
+      "Family N": "Caitlin Esquibel (wife",
+      "Status Tv": "Deceased",
+      "First Appeared Tv": "\" Paradigm Shift \"",
+      "Appeared Tv": "Two"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Solomon_Epstein_(Books)"
+  },
+  {
+    "name": "Vandercaust(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/a/ae/OPA_logo.png",
+    "description": "VandercaustAppearance and affiliationsGender♂MaleAffiliationOuter Planets AllianceNovels and storiesStatus💓AliveAppearedBabylon's Ashes",
+    "role": "💓 Alive",
+    "attributes": {
+      "Gender": "♂ Male",
+      "Status N": "💓 Alive"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Vandercaust"
+  },
+  {
+    "name": "Marco Inaros(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/b2/Book-icon-simple.png",
+    "description": "Inaros became the leader of theFree Navyand orchestrated anunprecedented attackagainstEarth.",
+    "role": "Deceased",
+    "attributes": {
+      "Gender": "♂ Male",
+      "Groups": "Outer Planets Alliance (former) Free Navy",
+      "Status N": "Deceased",
+      "Appeared N": "Nemesis Games Babylon's Ashes",
+      "Referenced N": "Persepolis Rising The Sins of Our Fathers",
+      "Relationships N": "Filip Inaros (son) Naomi Nagata (former lover, mother of Filip",
+      "Status Tv": "Deceased (presumed",
+      "First Appeared Tv": "\" Retrograde \"",
+      "Appeared Tv": "Four , Five , Six",
+      "Actor": "Keon Alexander"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Marco_Inaros_(Books)"
+  },
+  {
+    "name": "Manéo Jung-Espinoza(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/4/45/3x07_27.jpg",
+    "description": "Born to anEarth-born father who oversaw a grid maintenance group, and a mother from theBeltwho worked at a water treatment plant, he had a crush on his older cousin on his mother's side,Evita Jung. He decided become a slingshot racer after meetingSilvestari Cammposat the age of fourteen.",
+    "role": "Deceased",
+    "attributes": {
+      "Alias": "Néo",
+      "Gender": "♂ Male",
+      "Status N": "Deceased",
+      "Appeared N": "Abaddon's Gate",
+      "Relationships N": "Evita Jung (Cousin",
+      "Status Tv": "Deceased",
+      "First Appeared Tv": "\" Delta-V \"",
+      "Appeared Tv": "Three",
+      "Actor": "Zach Villa"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Man%C3%A9o_Jung-Espinoza_(Books)"
+  },
+  {
+    "name": "Aliana Tanaka(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/8/8f/Martian_Congressional_Republic.png",
+    "description": "Tanaka had an extremely troubled childhood inInnis Deep, which somewhat explains her later actions. Tanaka's mother committed a murder-suicide upon discovering an irreconcilable truth about Tanaka's father, and the aunt she was left in custody of physically punished her to supress sadness and pity, touting turning anger to action.",
+    "role": "Deceased",
+    "attributes": {
+      "Gender": "♀ Female",
+      "Home": "Mars , SOL (former) Laconia , LCN",
+      "Groups": "Martian Congressional Republic (former; defected) Martian Marine Corps (former; defected) Laconian Empire Laconian Marine Corps Gathering Storm (former) Heart of the Tempest (former) Sparrowhawk (f...",
+      "Status N": "Deceased",
+      "Appeared N": "Persepolis Rising Leviathan Falls",
+      "Family N": "Akari (aunt",
+      "Relationships N": "Anton Trejo Santiago Jilie Singh Lester Overstreet Tristan Reeves (lover) Noel Mugabo Botton"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Aliana_Tanaka_(Books)"
+  },
+  {
+    "name": "Santiago Jilie Singh(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/1/18/LaconiaFlagE_Alt2.png",
+    "description": "Santiago Jilie Singhwas aLaconianmilitary officer with the rank of captain. Singh was married toNatalia, or \"Nat\", a nanotech scientist, and they had a daughterElsa, roughly two years old, whom they call \"monster\".",
+    "role": "Deceased",
+    "attributes": {
+      "Alias": "Sonny",
+      "Gender": "♂ Male",
+      "Home": "Londres Nova , Mars , SOL (formerly) Laconia Capital City , Laconia , LCN",
+      "Groups": "Laconian Empire Laconian Imperial Navy Cleo (former executive officer) Gathering Storm (commanding officer) Medina Station 1 ˢᵗ Laconian Governor",
+      "Status N": "Deceased",
+      "Appeared N": "Persepolis Rising",
+      "Referenced N": "Strange Dogs Tiamat's Wrath",
+      "Relationships N": "Natalia (wife) Elsa (daughter) Captain Iwasa (former commanding officer) Admiral Goyer"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Santiago_Jilie_Singh_(Books)"
+  },
+  {
+    "name": "Fayez Okoye-Sarkis(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/b2/Book-icon-simple.png",
+    "description": "Fayez Okoye-SarkisAlias(es)Fayez SarkisAppearance and affiliationsGender♂MaleHomeMarsSOL(place of birth, former)Edward Israel/IlusILU(former)LaconiaLCNAffiliationRoyal Charter Energy(former)Laconian EmpireNovels and storiesStatusAliveAppearedCibola BurnPersepolis RisingTiamat's WrathLeviathan FallsFamilyElvi Okoye(wife)TV seriesSeason(s)FourPortrayed byZach Smadu",
+    "role": "Alive",
+    "attributes": {
+      "Gender": "♂ Male",
+      "Home": "Mars SOL (place of birth, former) Edward Israel / Ilus ILU (former) Laconia LCN",
+      "Groups": "Royal Charter Energy (former) Laconian Empire",
+      "Status N": "Alive",
+      "Appeared N": "Cibola Burn Persepolis Rising Tiamat's Wrath Leviathan Falls",
+      "Family N": "Elvi Okoye (wife",
+      "Appeared Tv": "Four",
+      "Actor": "Zach Smadu"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Fayez_Okoye-Sarkis"
+  },
+  {
+    "name": "Michio Pa(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/4/40/Michio_closeup.png",
+    "description": "In the TV series, her part as it appeared on theBehemothand told during season 3 is merged with that ofDrummer. However, a character sharing the name Michio does appear beginning in season 5.",
+    "role": "Alive",
+    "attributes": {
+      "Image": "TV",
+      "Alias": "Michi (courtesy Laura",
+      "Gender": "♀ Female",
+      "Eyes": "Dark",
+      "Groups": "Outer Planets Alliance (former) Free Navy (former) Transport Union",
+      "Status N": "Alive",
+      "Appeared N": "Abaddon's Gate The Vital Abyss Babylon's Ashes",
+      "Referenced N": "Persepolis Rising",
+      "Family N": "Josep , husband ¤ Nadia , wife ¤ Bertold , husband ¤ Laura , wife ¤ Evans Garner-Choi , husband ¤ Oksana Busch , wife ¤ ¤ (Connaught ketubah",
+      "Relationships N": "Samara Rosenberg , lover (deceased"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Michio_Pa_(Books)"
+  },
+  {
+    "name": "Salis",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/a/ae/OPA_logo.png",
+    "description": "SalisAppearance and affiliationsGender♂MaleAffiliationOuter Planets AllianceNovels and storiesAppearedBabylon's AshesRelationshipsJakulski(co-worker)Vandercaust(co-worker)Roberts(co-worker)Salisis a tech with theFree NavyonMedina Station.",
+    "role": "Anime Character",
+    "attributes": {
+      "Gender": "♂ Male",
+      "Relationships N": "Jakulski (co-worker) Vandercaust (co-worker) Roberts (co-worker"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Salis"
+  },
+  {
+    "name": "Carlos c de Baca(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/b2/Book-icon-simple.png",
+    "description": "Bull has pale brown \"cookie dough\" skin, dark eyes, a broad chin, and wrinkles on his forehead and the corners of his mouth. He has a deep voice with reedy overtones.",
+    "role": "Deceased",
+    "attributes": {
+      "Alias": "Bull",
+      "Gender": "♂ Male",
+      "Groups": "Outer Planets Alliance United Nations Marine Corps (former",
+      "Status N": "Deceased",
+      "Appeared N": "Abaddon's Gate",
+      "Referenced N": "Babylon's Ashes",
+      "First Appeared Tv": "\" Exodus \"",
+      "Appeared Tv": "Five",
+      "Actor": "José Zúñiga"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Carlos_c_de_Baca_(Books)"
+  },
+  {
+    "name": "Julie Mao(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/9/98/Julie_Mao.jpg",
+    "description": "Julie MaoAlias(es)Juliette Andromeda Mao(full name)Appearance and affiliationsGender♀FemaleHairBlackNovels and storiesStatusDeceasedAppearedLeviathan WakesReferencedCaliban's WarAbaddon's GateCibola BurnRelationshipsJules-Pierre Mao(father)Ariadne Mao(mother)Clarissa Mao(sister)Petyr Mao(brother)Michael Mao(brother)Anthea Mao(sister)TV seriesDebut\"Dulcinea\"Season(s)One,Two,ThreePortrayed byFlorence Faivre",
+    "role": "Deceased",
+    "attributes": {
+      "Alias": "Juliette Andromeda Mao (full name",
+      "Gender": "♀ Female",
+      "Hair": "Black",
+      "Status N": "Deceased",
+      "Referenced N": "Caliban's War Abaddon's Gate Cibola Burn",
+      "Relationships N": "Jules-Pierre Mao (father) Ariadne Mao (mother) Clarissa Mao (sister) Petyr Mao (brother) Michael Mao (brother) Anthea Mao (sister",
+      "First Appeared Tv": "\" Dulcinea \"",
+      "Appeared Tv": "One , Two , Three"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Julie_Mao_(Books)"
+  },
+  {
+    "name": "The Investigator(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/e/ef/BeyondtheringRPGTheInvestigator.jpg",
+    "description": "The Investigatoris a programmed construct of theRing Station, designed to investigate what happened to theRing Builders, the civilization that built thegate network, and what may have caused their disappearance. The Investigator is broad in its powers and its mandate is broad in its scope. In pursuing this mandate, the construct dedicates part of its processing capacity to neurally mimickingDetective Miller'spersona in the mind ofJames Holden, doing this through subtle and delicate but incred...",
+    "role": "Game Character",
+    "attributes": {
+      "Alias": "Proto-Miller",
+      "Gender": "Male (using Miller 's persona"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/The_Investigator_(Books)"
+  },
+  {
+    "name": "David Draper(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/b2/Book-icon-simple.png",
+    "description": "David DraperAppearance and affiliationsGender♂MaleHomeMars,SOLNovels and storiesStatus💓AliveAppearedGods of RiskCibola BurnReferencedNemesis GamesFamilyBen Draper(father)unnamed motherBen Draper(father)Bobbie Draper(aunt)RelationshipsLeelee(friend)HutchTV seriesStatus💓AliveDebut\"New Terra\"Season(s)FourPortrayed byKolton StewartDavid Draperis the nephew ofBobbie Draper.",
+    "role": "💓 Alive",
+    "attributes": {
+      "Gender": "♂ Male",
+      "Home": "Mars , SOL",
+      "Status N": "💓 Alive",
+      "Appeared N": "Gods of Risk Cibola Burn",
+      "Family N": "Ben Draper (father) unnamed mother Ben Draper (father) Bobbie Draper (aunt",
+      "Relationships N": "Leelee (friend) Hutch",
+      "Status Tv": "💓 Alive",
+      "First Appeared Tv": "\" New Terra \"",
+      "Appeared Tv": "Four"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/David_Draper_(Books)"
+  },
+  {
+    "name": "Roberts",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/a/ae/OPA_logo.png",
+    "description": "RobertsAppearance and affiliationsGender♀FemaleAffiliationOuter Planets AllianceNovels and storiesAppearedBabylon's Ashes",
+    "role": "Anime Character",
+    "attributes": {
+      "Gender": "♀ Female"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Roberts"
+  },
+  {
+    "name": "Ekko Levy",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/bd/Spoiler-war.png",
+    "description": "Ekko had signed on to theForgivenesswhen he was fifteen and had had always been onboard it except one year when he stayed onFirdawsto work on his command certifications.",
+    "role": "💓 Alive",
+    "attributes": {
+      "Gender": "♂ Male",
+      "Home": "Firdaws",
+      "Status N": "💓 Alive",
+      "Appeared N": "Leviathan Falls",
+      "Relationships N": "Annamarie (ship's navigator"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Ekko_Levy"
+  },
+  {
+    "name": "Jillian Houston(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/b2/Book-icon-simple.png",
+    "description": "Jillian HoustonAppearance and affiliationsGender♀FemaleHomeFreehold,FREAffiliationFreeholdundergroundGathering Storm(Executive Officer, 51XTE)(Captain, 51XTE)Novels and storiesStatusDeceasedAppearedTiamat's WrathLeviathan FallsRelationshipsPayne Houston(father",
+    "role": "Deceased",
+    "attributes": {
+      "Gender": "♀ Female",
+      "Home": "Freehold , FRE",
+      "Groups": "Freehold underground Gathering Storm (Executive Officer, 51 XTE ) (Captain, 51 XTE",
+      "Status N": "Deceased",
+      "Appeared N": "Tiamat's Wrath Leviathan Falls",
+      "Relationships N": "Payne Houston (father"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Jillian_Houston_(Books)"
+  },
+  {
+    "name": "Annushka Volovodov",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/b2/Book-icon-simple.png",
+    "description": "Annushka VolovodovAlias(es)Pastor AnnaAnnie(courtesy of Tilly)Red(courtesy of Amos)Saint Anna(courtesy of Nami)Appearance and affiliationsGender♀FemaleHairRed, long and thick, worn in a bunHomeEarth,SOL(formerly)New Dolinsk,Europa, SOL(formerly)JannahNovels and storiesStatusDeceasedAppearedAbaddon's GateBabylon's AshesReferencedThe Sins of Our FathersFamilyNamono \"Nono\"(wife)Namono \"Nami\"(daughter)Unnamed parentsUnnamed sibling-in-lawRelationshipsTilly Fagan(friend)TV seriesStatusAliveDebut\"I...",
+    "role": "Deceased",
+    "attributes": {
+      "Alias": "Pastor Anna Annie (courtesy of Tilly) Red (courtesy of Amos) Saint Anna (courtesy of Nami",
+      "Gender": "♀ Female",
+      "Home": "Earth , SOL (formerly) New Dolinsk, Europa , SOL (formerly) Jannah",
+      "Status N": "Deceased",
+      "Appeared N": "Abaddon's Gate Babylon's Ashes",
+      "Family N": "Namono \"Nono\" (wife) Namono \"Nami\" (daughter) Unnamed parents Unnamed sibling-in-law [ 1",
+      "Relationships N": "Tilly Fagan (friend",
+      "Status Tv": "Alive",
+      "First Appeared Tv": "\" IFF \"",
+      "Appeared Tv": "Three , Six",
+      "Actor": "Elizabeth Mitchell"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Annushka_Volovodov"
+  },
+  {
     "name": "Naomi Nagata(Books)",
     "image_url": "https://static.wikia.nocookie.net/expanse/images/2/26/NaomiNag2rpg.jpg",
     "description": "She has the thin look of aBelter, standing at almost a full two meters tall. She has dark skin and black curly hair.Her features are a mix of African, Asian, and South American. She has a long forehead, flatnose, and large lips.",
@@ -475,35 +404,20 @@
     "source_url": "https://expanse.fandom.com/wiki/Naomi_Nagata_(Books)"
   },
   {
-    "name": "Santiago Jilie Singh(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/1/18/LaconiaFlagE_Alt2.png",
-    "description": "Santiago Jilie Singhwas aLaconianmilitary officer with the rank of captain. Singh was married toNatalia, or \"Nat\", a nanotech scientist, and they had a daughterElsa, roughly two years old, whom they call \"monster\".",
-    "role": "Deceased",
-    "attributes": {
-      "Alias": "Sonny",
-      "Gender": "♂ Male",
-      "Home": "Londres Nova , Mars , SOL (formerly) Laconia Capital City , Laconia , LCN",
-      "Groups": "Laconian Empire Laconian Imperial Navy Cleo (former executive officer) Gathering Storm (commanding officer) Medina Station 1 ˢᵗ Laconian Governor",
-      "Status N": "Deceased",
-      "Appeared N": "Persepolis Rising",
-      "Referenced N": "Strange Dogs Tiamat's Wrath",
-      "Relationships N": "Natalia (wife) Elsa (daughter) Captain Iwasa (former commanding officer) Admiral Goyer"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Santiago_Jilie_Singh_(Books)"
-  },
-  {
-    "name": "Ekko Levy",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/bd/Spoiler-war.png",
-    "description": "Ekko had signed on to theForgivenesswhen he was fifteen and had had always been onboard it except one year when he stayed onFirdawsto work on his command certifications.",
-    "role": "💓 Alive",
+    "name": "Josephus Miller(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/f/f1/RPG_Miller.jpg",
+    "description": "Josephus MillerAlias(es)\"Joe\", \"Miller\"Appearance and affiliationsGender♂MaleAffiliationStar Helix SecurityNovels and storiesStatusDeceased(killed by Eros Impact into Venus)AppearedLeviathan WakesReferencedCaliban's WarAbaddon's GateCibola BurnRelationshipsJames Holden(co-conspirator)SematimbaDimitri Havelock(ex-partner)Octavia Muss(ex-partner)Candace(ex-wife)TV seriesStatusDeceasedDebut\"Dulcinea\"Season(s)One,TwoPortrayed byThomas Jane",
+    "role": "Deceased (killed by Eros Impact into Venus",
     "attributes": {
       "Gender": "♂ Male",
-      "Home": "Firdaws",
-      "Status N": "💓 Alive",
-      "Appeared N": "Leviathan Falls",
-      "Relationships N": "Annamarie (ship's navigator"
+      "Status N": "Deceased (killed by Eros Impact into Venus",
+      "Referenced N": "Caliban's War Abaddon's Gate Cibola Burn",
+      "Relationships N": "James Holden (co-conspirator) Sematimba Dimitri Havelock (ex-partner) Octavia Muss (ex-partner) Candace (ex-wife",
+      "Status Tv": "Deceased",
+      "First Appeared Tv": "\" Dulcinea \"",
+      "Appeared Tv": "One , Two"
     },
-    "source_url": "https://expanse.fandom.com/wiki/Ekko_Levy"
+    "source_url": "https://expanse.fandom.com/wiki/Josephus_Miller_(Books)"
   },
   {
     "name": "Paolo Cortázar(Books)",
@@ -525,55 +439,116 @@
     "source_url": "https://expanse.fandom.com/wiki/Paolo_Cort%C3%A1zar_(Books)"
   },
   {
-    "name": "Chrisjen Avasarala(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/4/4a/Avasaralarpgimage.jpg",
-    "description": "Chrisjen AvasaralaAlias(es)Kiki(courtesy Arjun)Nani(courtesy Suri)Chrissie(courtesy Amos)Appearance and affiliationsGenderFemaleHairGrayAffiliationUndersecretary ExecutiveAdministration(Abaddon's Gate&Cibola Burn)Interim Secretary-General(Nemesis Games)Secretary-General(Babylon's Ashes)Novels and storiesStatusshow statusDeceasedAppearedThe Churn(probable)Caliban's WarCibola BurnNemesis GamesBabylon's AshesPersepolis RisingReferencedAbaddon's GateTiamat's WrathFamilyArjun(husband)Charanpal(son...",
-    "role": "show status Deceased",
-    "attributes": {
-      "Alias": "Kiki (courtesy Arjun) Nani (courtesy Suri) Chrissie (courtesy Amos",
-      "Gender": "Female",
-      "Hair": "Gray",
-      "Groups": "Undersecretary Executive Administration ( Abaddon's Gate & Cibola Burn ) Interim Secretary-General ( Nemesis Games ) Secretary-General ( Babylon's Ashes",
-      "Status N": "show status Deceased",
-      "Appeared N": "The Churn (probable) Caliban's War Cibola Burn Nemesis Games Babylon's Ashes Persepolis Rising",
-      "Referenced N": "Abaddon's Gate Tiamat's Wrath",
-      "Family N": "Arjun (husband) Charanpal (son, deceased) Ashanti (daughter) Unnamed son-in-law Kiki (granddaughter) Suri (granddaughter",
-      "Relationships N": "Soren Cottwald (aide, former) Bobbie Draper (aide) Said (aide",
-      "Appeared Tv": "One , Two , Three , Four , Five , Six",
-      "Actor": "Shohreh Aghdashloo"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Chrisjen_Avasarala_(Books)"
-  },
-  {
-    "name": "Aliana Tanaka(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/8/8f/Martian_Congressional_Republic.png",
-    "description": "Tanaka had an extremely troubled childhood inInnis Deep, which somewhat explains her later actions. Tanaka's mother committed a murder-suicide upon discovering an irreconcilable truth about Tanaka's father, and the aunt she was left in custody of physically punished her to supress sadness and pity, touting turning anger to action.",
-    "role": "Deceased",
+    "name": "Elvi Okoye(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/b3/Bobbiesdraper_elvi_okoye.png",
+    "description": "Elvi OkoyeAppearance and affiliationsGender♀FemaleHomeEarth,SOL(formerly)Laconia,LCNAffiliationRoyal Charter Energy(formerly)Laconian EmpireNovels and storiesStatus💓AliveAppearedCibola BurnTiamat's WrathLeviathan FallsReferencedPersepolis RisingFamilyFayez Okoye-Sarkis(husband)TV seriesStatusAliveDebut\"New Terra\"Season(s)Four,Five,SixPortrayed byLyndie Greenwood",
+    "role": "💓 Alive",
     "attributes": {
       "Gender": "♀ Female",
-      "Home": "Mars , SOL (former) Laconia , LCN",
-      "Groups": "Martian Congressional Republic (former; defected) Martian Marine Corps (former; defected) Laconian Empire Laconian Marine Corps Gathering Storm (former) Heart of the Tempest (former) Sparrowhawk (f...",
-      "Status N": "Deceased",
-      "Appeared N": "Persepolis Rising Leviathan Falls",
-      "Family N": "Akari (aunt",
-      "Relationships N": "Anton Trejo Santiago Jilie Singh Lester Overstreet Tristan Reeves (lover) Noel Mugabo Botton"
+      "Home": "Earth , SOL (formerly) Laconia , LCN",
+      "Groups": "Royal Charter Energy (formerly) Laconian Empire",
+      "Status N": "💓 Alive",
+      "Appeared N": "Cibola Burn Tiamat's Wrath Leviathan Falls",
+      "Family N": "Fayez Okoye-Sarkis (husband",
+      "Status Tv": "Alive",
+      "First Appeared Tv": "\" New Terra \"",
+      "Appeared Tv": "Four , Five , Six"
     },
-    "source_url": "https://expanse.fandom.com/wiki/Aliana_Tanaka_(Books)"
+    "source_url": "https://expanse.fandom.com/wiki/Elvi_Okoye_(Books)"
   },
   {
-    "name": "Anton Trejo(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/8/8f/Martian_Congressional_Republic.png",
-    "description": "Trejo is a short, stocky man with bright green eyes and thinning black hair. His Mariner Valley drawl is nearly imperceptible, but becomes more pronounced when he is angry.",
+    "name": "Marrel Imvic",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/bd/Spoiler-war.png",
+    "description": "Marrel is from theDobridomov systemand is a crew member of theMusafir. He speaks more than a dozen of languages, including Chinese and Common English.",
+    "role": "Alive 💓",
+    "attributes": {
+      "Gender": "♂ Male",
+      "Home": "Dobridomov , DBR",
+      "Status N": "Alive 💓",
+      "Appeared N": "Leviathan Falls"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Marrel_Imvic"
+  },
+  {
+    "name": "Cara Bisset(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/b2/Book-icon-simple.png",
+    "description": "Cara's parents were scientific researchers that had leftEarthto come toLaconiaas part of the initial scientific expedition to the planet prior to AdmiralWinston Duarterelocating his loyalists there. She has a younger brother namedXan. Cara loved to explore the nearby wilderness of the planet that they settled on.",
+    "role": "Alive (resurrected",
+    "attributes": {
+      "Alias": "\"Sparkles\" (courtesy Amos",
+      "Gender": "♀ Female",
+      "Complexion": "Gray",
+      "Eyes": "Black",
+      "Home": "Laconia , LCN",
+      "Status N": "Alive (resurrected",
+      "Appeared N": "Strange Dogs Tiamat's Wrath Leviathan Falls",
+      "Family N": "Xan Bisset (brother) Gary Bisset (father) Dot Bisset (mother"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Cara_Bisset_(Books)"
+  },
+  {
+    "name": "Clarissa Mao - AKA Melba Koh(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/4/4d/S03E09-NadineNicole_as_ClarissaMao_01c.jpg",
+    "description": "Clarissa MaoTVRPGAlias(es)\"Melba Koh\"Claire(courtesy Tilly)Peaches(courtesy Amos)Appearance and affiliationsGender♀FemaleAffiliationMao-Kwikowski MercantileRocicorpUndergroundNovels and storiesStatusshow statusDeceasedAppearedAbaddon's GateNemesis GamesBabylon's AshesPersepolis RisingReferencedTiamat's WrathRelationshipsJules-Pierre Mao(father)Ariadne Mao(mother)Julie Mao(sister)Petyr Mao(brother)Michael Mao(brother)Anthea Mao(sister)Jim Holden(Captain)Naomi Nagata(Executive Officer)Alex Kama...",
+    "role": "show status Deceased",
+    "attributes": {
+      "Image": "TV",
+      "Alias": "\"Melba Koh\" Claire (courtesy Tilly) Peaches (courtesy Amos",
+      "Gender": "♀ Female",
+      "Groups": "Mao-Kwikowski Mercantile Rocicorp Underground",
+      "Status N": "show status Deceased",
+      "Appeared N": "Abaddon's Gate Nemesis Games Babylon's Ashes Persepolis Rising",
+      "Relationships N": "Jules-Pierre Mao (father) Ariadne Mao (mother) Julie Mao (sister) Petyr Mao (brother) Michael Mao (brother) Anthea Mao (sister) Jim Holden (Captain) Naomi Nagata (Executive Officer) Alex Kamal (Pil...",
+      "Appeared Tv": "Three , Four , Five , Six",
+      "Actor": "Nadine Nicole"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Clarissa_Mao_(Books)"
+  },
+  {
+    "name": "Alex Kamal(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/8/8f/AlexKrpg.jpg",
+    "description": "Alex KamalAppearance and affiliationsGender♂MaleComplexionBrownHairBlackHomeMars,SOL(originally, former)NWSRocinanteAffiliationMCRN(former)OPA(former)RocicorpUndergroundNovels and storiesStatus💓AliveAppearedLeviathan WakesCaliban's WarAbaddon's GateCibola BurnNemesis GamesBabylon's AshesPersepolis RisingTiamat's WrathLeviathan FallsFamilyTalissa(1st ex-wife)Unnamed sonGiselle(2nd ex-wife)Kit Kamal(son with Giselle)Bakari Kamal(grandson)Min(cousin)Narendra(great-uncle)RelationshipsJames Holden...",
     "role": "💓 Alive",
     "attributes": {
       "Gender": "♂ Male",
-      "Hair": "Thin black",
-      "Groups": "Martian Congressional Republic (formerly) Laconian Empire : Laconian Imperial Navy Laconian Naval Command",
+      "Complexion": "Brown",
+      "Hair": "Black",
+      "Home": "Mars , SOL (originally, former) NWS Rocinante",
+      "Groups": "MCRN (former) OPA (former) Rocicorp Underground",
       "Status N": "💓 Alive",
-      "Appeared N": "Persepolis Rising Tiamat's Wrath Leviathan Falls",
-      "Relationships N": "Colonel Tanaka Captain Fisher ( Tempest operations officer"
+      "Appeared N": "Leviathan Wakes Caliban's War Abaddon's Gate Cibola Burn Nemesis Games Babylon's Ashes Persepolis Rising Tiamat's Wrath Leviathan Falls",
+      "Family N": "Talissa (1st ex-wife) Unnamed son Giselle (2nd ex-wife) Kit Kamal (son with Giselle) Bakari Kamal (grandson) Min (cousin) Narendra (great-uncle) [ 2",
+      "Relationships N": "James Holden (captain) Naomi Nagata (XO, crewmate) Amos Burton (crewmate) Bobbie Draper (crewmate) Sandra Ip (lover, former",
+      "Status Tv": "Deceased",
+      "Appeared Tv": "One , Two , Three , Four , Five",
+      "Actor": "Cas Anvar"
     },
-    "source_url": "https://expanse.fandom.com/wiki/Anton_Trejo_(Books)"
+    "source_url": "https://expanse.fandom.com/wiki/Alex_Kamal_(Books)"
+  },
+  {
+    "name": "Anderson Dawes(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/b4/RPG_Anderson_Dawes_abzusbounty.jpg",
+    "description": "He is tall and lanky, and his face is scarred by acne and pock-marked. His speech is typical of a belter.",
+    "role": "Alive 💓",
+    "attributes": {
+      "Gender": "♂ Male",
+      "Groups": "Outer Planets Alliance Governor of Ceres (after United Nations withdrawl",
+      "Status N": "Alive 💓",
+      "Appeared N": "\" The Butcher of Anderson Station \" Leviathan Wakes Nemesis Games Babylon's Ashes",
+      "First Appeared Tv": "\" Remember the Cant \"",
+      "Appeared Tv": "One , Two"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Anderson_Dawes_(Books)"
+  },
+  {
+    "name": "Jakulski",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/a/ae/OPA_logo.png",
+    "description": "JakulskiAppearance and affiliationsGender♂MaleAffiliationOuter Planets AllianceNovels and storiesAppearedBabylon's Ashes",
+    "role": "Anime Character",
+    "attributes": {
+      "Gender": "♂ Male"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Jakulski"
   },
   {
     "name": "Winston Duarte(Books)",
@@ -601,6 +576,83 @@
     "source_url": "https://expanse.fandom.com/wiki/Winston_Duarte_(Books)"
   },
   {
+    "name": "Sauveterre(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/b2/Book-icon-simple.png",
+    "description": "SauveterreAppearance and affiliationsGender♂MaleHomeMars,SOL(fomer)BarkeithAffiliationMCR(former)Free Navy(former)RogueMCRNfleet(former)Laconian EmpireNovels and storiesStatusDeceasedAppearedNemesis GamesEpilog: SauveterreTV seriesStatusDeceasedDebut\"Churn\"Portrayed byTim DeKay",
+    "role": "Deceased",
+    "attributes": {
+      "Gender": "♂ Male",
+      "Home": "Mars , SOL (fomer) Barkeith",
+      "Groups": "MCR (former) Free Navy (former) Rogue MCRN fleet (former) Laconian Empire",
+      "Status N": "Deceased",
+      "Appeared N": "Nemesis Games Epilog: Sauveterre",
+      "Status Tv": "Deceased",
+      "First Appeared Tv": "\" Churn \"",
+      "Actor": "Tim DeKay"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Sauveterre_(Books)"
+  },
+  {
+    "name": "James Holden(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/2/23/Holdenrpg2.JPG",
+    "description": "James Holdenas depicted inThe Expanse RPGAlias(es)JimHoss(by Alex)The Dancing BearAppearance and affiliationsGender♂MaleComplexionPaleHairDarkEyesBlueHomeMontana,Earth,SOL(former, original residence)Canterbury(former)Rocinante(former)AffiliationUnited Nations Navy(former)Outer Planets Alliance(former)Transport Union(former)RocicorpUndergroundNovels and storiesStatusshow statusDeceasedAppearedLeviathan WakesCaliban's WarAbaddon's GateCibola BurnNemesis GamesBabylon's AshesPersepolis RisingTiam...",
+    "role": "show status Deceased",
+    "attributes": {
+      "Alias": "Jim Hoss (by Alex) The Dancing Bear [ 2",
+      "Gender": "♂ Male",
+      "Complexion": "Pale",
+      "Hair": "Dark",
+      "Eyes": "Blue",
+      "Home": "Montana , Earth , SOL (former, original residence) Canterbury (former) Rocinante (former",
+      "Groups": "United Nations Navy (former) Outer Planets Alliance (former) Transport Union (former) Rocicorp Underground",
+      "Status N": "show status Deceased",
+      "Appeared N": "Leviathan Wakes Caliban's War Abaddon's Gate Cibola Burn Nemesis Games Babylon's Ashes Persepolis Rising Tiamat's Wrath Leviathan Falls",
+      "Family N": "Elise (mother) Tamara (mother) Caesar (father) Tom (father) Sophie (mother) Anton (father) Dimitri (father) Joseph (father",
+      "Relationships N": "Naomi Nagata (lover, XO) Ade Tukunbo (former lover) Alex Kamal (crewmate) Amos Burton (crewmate) Bobbie Draper (crewmate) Clarissa Mao (crewmate) Teresa Duarte (crewmate) Muskrat (crewmate",
+      "Appeared Tv": "One , Two , Three , Four , Five , Six",
+      "Actor": "Steven Strait"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/James_Holden_(Books)"
+  },
+  {
+    "name": "Anton Trejo(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/8/8f/Martian_Congressional_Republic.png",
+    "description": "Trejo is a short, stocky man with bright green eyes and thinning black hair. His Mariner Valley drawl is nearly imperceptible, but becomes more pronounced when he is angry.",
+    "role": "💓 Alive",
+    "attributes": {
+      "Gender": "♂ Male",
+      "Hair": "Thin black",
+      "Groups": "Martian Congressional Republic (formerly) Laconian Empire : Laconian Imperial Navy Laconian Naval Command",
+      "Status N": "💓 Alive",
+      "Appeared N": "Persepolis Rising Tiamat's Wrath Leviathan Falls",
+      "Relationships N": "Colonel Tanaka Captain Fisher ( Tempest operations officer"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Anton_Trejo_(Books)"
+  },
+  {
+    "name": "Filip Inaros(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/b2/Book-icon-simple.png",
+    "description": "Filip is the first and only son ofMarco InarosandNaomi Nagata. Born onCeresafter a difficult pregnancy due to the dangers of low gravity, Filip was raised lovingly by his parents during his very early life. However, after the destruction of the transportAugustin Gamarraby his father, his mother's guilt of her involvement made her severely depressed and unstable, so his father manipulatively hid Filip away from her to keep her silence and \"good behaviour\". His mother then tried to take her own...",
+    "role": "Alive",
+    "attributes": {
+      "Alias": "Filipito Filip Nagata Oskar Daksan Tyr Saint Angél Morella [ 1",
+      "Gender": "♂ Male",
+      "Complexion": "Dark",
+      "Hair": "Dark",
+      "Eyes": "Brown",
+      "Groups": "Outer Planets Alliance Free Navy Transport Union Association of Worlds",
+      "Status N": "Alive",
+      "Appeared N": "Nemesis Games Babylon's Ashes The Sins of Our Fathers",
+      "Referenced N": "Leviathan Falls",
+      "Family N": "Marco Inaros (father) Naomi Nagata (mother",
+      "Status Tv": "Alive",
+      "First Appeared Tv": "\" Cibola Burn \"",
+      "Appeared Tv": "Four , Five , Six",
+      "Actor": "Jasai Chase Owens"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Filip_Inaros_(Books)"
+  },
+  {
     "name": "Kit Kamal",
     "image_url": "https://static.wikia.nocookie.net/expanse/images/b/bd/Spoiler-war.png",
     "description": "Kit KamalAppearance and affiliationsGender♂MaleHomeMars,SOL(former)Fortuna Sittard,NWSNovels and storiesStatus💓AliveAppearedTiamat's WrathLeviathan FallsReferencedPersepolis RisingRelationshipsAlex Kamal(father)Giselle(mother)Rohi Kamal(wife)Bakari Kamal(son)Bobbie Draper(adopted aunt)Himemiya Gosset(boss",
@@ -615,103 +667,51 @@
     "source_url": "https://expanse.fandom.com/wiki/Kit_Kamal"
   },
   {
-    "name": "Camina Drummer(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/7/7d/Drummer.jpg",
-    "description": "Camina Drummeris aBelterwoman working as Chief of Security onTycho Station.",
-    "role": "Alive 💓",
+    "name": "Chrisjen Avasarala(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/4/4a/Avasaralarpgimage.jpg",
+    "description": "Chrisjen AvasaralaAlias(es)Kiki(courtesy Arjun)Nani(courtesy Suri)Chrissie(courtesy Amos)Appearance and affiliationsGenderFemaleHairGrayAffiliationUndersecretary ExecutiveAdministration(Abaddon's Gate&Cibola Burn)Interim Secretary-General(Nemesis Games)Secretary-General(Babylon's Ashes)Novels and storiesStatusshow statusDeceasedAppearedThe Churn(probable)Caliban's WarCibola BurnNemesis GamesBabylon's AshesPersepolis RisingReferencedAbaddon's GateTiamat's WrathFamilyArjun(husband)Charanpal(son...",
+    "role": "show status Deceased",
     "attributes": {
-      "Image": "TV",
+      "Alias": "Kiki (courtesy Arjun) Nani (courtesy Suri) Chrissie (courtesy Amos",
+      "Gender": "Female",
+      "Hair": "Gray",
+      "Groups": "Undersecretary Executive Administration ( Abaddon's Gate & Cibola Burn ) Interim Secretary-General ( Nemesis Games ) Secretary-General ( Babylon's Ashes",
+      "Status N": "show status Deceased",
+      "Appeared N": "The Churn (probable) Caliban's War Cibola Burn Nemesis Games Babylon's Ashes Persepolis Rising",
+      "Referenced N": "Abaddon's Gate Tiamat's Wrath",
+      "Family N": "Arjun (husband) Charanpal (son, deceased) Ashanti (daughter) Unnamed son-in-law Kiki (granddaughter) Suri (granddaughter",
+      "Relationships N": "Soren Cottwald (aide, former) Bobbie Draper (aide) Said (aide",
+      "Appeared Tv": "One , Two , Three , Four , Five , Six",
+      "Actor": "Shohreh Aghdashloo"
+    },
+    "source_url": "https://expanse.fandom.com/wiki/Chrisjen_Avasarala_(Books)"
+  },
+  {
+    "name": "Bobbie Draper(Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/5/5d/Bobbierpg1.jpg",
+    "description": "Roberta \"Bobbie\" W. Draperwas aMartian Marineand a Gunnery Sergeant of the2ndMarine Expeditionary Force. She was stationed onGanymededuring theGanymede incident. She later became the Captain of theRocinante, Commander of theGathering Storm, and a Leader in theUnderground.",
+    "role": "show status Deceased",
+    "attributes": {
+      "Alias": "Roberta (legal given) \"Babs\" (courtesy Amos",
       "Gender": "♀ Female",
-      "Complexion": "Pale",
-      "Home": "Tynan , Belt , SOL",
-      "Groups": "Outer Planets Alliance Transport Union",
-      "Status N": "Alive 💓",
-      "Appeared N": "Nemesis Games Babylon's Ashes Persepolis Rising Tiamat's Wrath",
-      "Relationships N": "Saba",
-      "Status Tv": "Alive",
-      "Appeared Tv": "Two , Three , Four , Five , Six",
-      "Actor": "Cara Gee"
+      "Groups": "Martian Marine Corps Veterans outreach group Transport Union Rocicorp The Underground",
+      "Status N": "show status Deceased",
+      "Appeared N": "Caliban's War Gods of Risk Cibola Burn Nemesis Games Babylon's Ashes Persepolis Rising Tiamat's Wrath",
+      "Relationships N": "Benji Draper (brother) David Draper (nephew) Corporal Travis (subordinate) Private Hillman (subordinate) Private Gourab (subordinate) Lieutenant Givens (Commanding Officer) Captain Martens (Grief C..."
     },
-    "source_url": "https://expanse.fandom.com/wiki/Camina_Drummer_(Books)"
+    "source_url": "https://expanse.fandom.com/wiki/Bobbie_Draper_(Books)"
   },
   {
-    "name": "Nono(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/b2/Book-icon-simple.png",
-    "description": "Namono \"Nono\"Alias(es)NamonoAppearance and affiliationsGender♀FemaleHomeAbuja, Nigeria,Earth,SOL(formerly)New Dolinsk,Europa, SOL(formerly)Novels and storiesStatus💓AliveAppearedAbaddon's GateBabylon's AshesFamilyAnnushka Volovodov(wife)Namono \"Nami\"(daughter)Unnamed older twinAmiri(cousin)TV seriesDebut\"IFF\"Season(s)ThreePortrayed byRaven Dauda",
-    "role": "💓 Alive",
-    "attributes": {
-      "Alias": "Namono",
-      "Gender": "♀ Female",
-      "Home": "Abuja, Nigeria, Earth , SOL (formerly) New Dolinsk, Europa , SOL (formerly",
-      "Status N": "💓 Alive",
-      "Appeared N": "Abaddon's Gate Babylon's Ashes",
-      "Family N": "Annushka Volovodov (wife) Namono \"Nami\" (daughter) Unnamed older twin Amiri (cousin) [ 1",
-      "First Appeared Tv": "\" IFF \"",
-      "Appeared Tv": "Three"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Nono_(Books)"
-  },
-  {
-    "name": "Julie Mao(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/9/98/Julie_Mao.jpg",
-    "description": "Julie MaoAlias(es)Juliette Andromeda Mao(full name)Appearance and affiliationsGender♀FemaleHairBlackNovels and storiesStatusDeceasedAppearedLeviathan WakesReferencedCaliban's WarAbaddon's GateCibola BurnRelationshipsJules-Pierre Mao(father)Ariadne Mao(mother)Clarissa Mao(sister)Petyr Mao(brother)Michael Mao(brother)Anthea Mao(sister)TV seriesDebut\"Dulcinea\"Season(s)One,Two,ThreePortrayed byFlorence Faivre",
-    "role": "Deceased",
-    "attributes": {
-      "Alias": "Juliette Andromeda Mao (full name",
-      "Gender": "♀ Female",
-      "Hair": "Black",
-      "Status N": "Deceased",
-      "Referenced N": "Caliban's War Abaddon's Gate Cibola Burn",
-      "Relationships N": "Jules-Pierre Mao (father) Ariadne Mao (mother) Clarissa Mao (sister) Petyr Mao (brother) Michael Mao (brother) Anthea Mao (sister",
-      "First Appeared Tv": "\" Dulcinea \"",
-      "Appeared Tv": "One , Two , Three"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Julie_Mao_(Books)"
-  },
-  {
-    "name": "Fred Johnson(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/0/08/FredJohnson.png",
-    "description": "Frederick \"Fred\" Lucius Johnsonis a former Colonel (Col) of theUnited Nations Marine Corps, one of the most decorated officers in the UN military, and the de facto leader of theOPA'smoderate arm.",
-    "role": "Deceased",
-    "attributes": {
-      "Image": "TV",
-      "Gender": "Male",
-      "Complexion": "Dark",
-      "Groups": "United Nations Marine Corps (formerly) Outer Planets Alliance Tycho Station OPA OPA Council",
-      "Status N": "Deceased",
-      "Appeared N": "\" The Butcher of Anderson Station \" Leviathan Wakes Caliban's War Abaddon's Gate Cibola Burn Nemesis Games Babylon's Ashes",
-      "Appeared Tv": "One , Two , Three , Four , Five",
-      "Actor": "Chad L. Coleman"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Fred_Johnson_(Books)"
-  },
-  {
-    "name": "Jakulski",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/a/ae/OPA_logo.png",
-    "description": "JakulskiAppearance and affiliationsGender♂MaleAffiliationOuter Planets AllianceNovels and storiesAppearedBabylon's Ashes",
+    "name": "Praxidike Meng (Books)",
+    "image_url": "https://static.wikia.nocookie.net/expanse/images/8/8b/Prax_as_refugee-lo-res.jpg",
+    "description": "Dr. Praxidike \"Prax\" Mengis the Chief Botanist of the RMD-Southern soy farm project onGanymedeand father ofMei Meng.",
     "role": "Anime Character",
     "attributes": {
-      "Gender": "♂ Male"
+      "Alias": "Prax",
+      "Gender": "Male",
+      "Appeared N": "Caliban's War Babylon's Ashes",
+      "Relationships N": "Nicola Mulko , ex-wife Djuna , wife Mei , daughter Natalia , stepdaughter"
     },
-    "source_url": "https://expanse.fandom.com/wiki/Jakulski"
-  },
-  {
-    "name": "Marco Inaros(Books)",
-    "image_url": "https://static.wikia.nocookie.net/expanse/images/b/b2/Book-icon-simple.png",
-    "description": "Inaros became the leader of theFree Navyand orchestrated anunprecedented attackagainstEarth.",
-    "role": "Deceased",
-    "attributes": {
-      "Gender": "♂ Male",
-      "Groups": "Outer Planets Alliance (former) Free Navy",
-      "Status N": "Deceased",
-      "Appeared N": "Nemesis Games Babylon's Ashes",
-      "Referenced N": "Persepolis Rising The Sins of Our Fathers",
-      "Relationships N": "Filip Inaros (son) Naomi Nagata (former lover, mother of Filip",
-      "Status Tv": "Deceased (presumed",
-      "First Appeared Tv": "\" Retrograde \"",
-      "Appeared Tv": "Four , Five , Six",
-      "Actor": "Keon Alexander"
-    },
-    "source_url": "https://expanse.fandom.com/wiki/Marco_Inaros_(Books)"
+    "source_url": "https://expanse.fandom.com/wiki/Praxidike_Meng_(Books)"
   }
 ]

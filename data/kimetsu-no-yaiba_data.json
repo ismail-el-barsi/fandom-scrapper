@@ -1,5 +1,225 @@
 [
   {
+    "name": "Swordsmith Village",
+    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/4b/Swordsmith_Village_%28Anime%29.png",
+    "description": "To safeguard the village fromDemonattacks, strict measures are taken to keep the place concealed and its exact location is kept confidential. Demon Slayers who wish to visit the village must travel blindfolded, with their ears and noses plugged, while piggybacking aKakushi, to prevent information from being leaked to the demons. After some time, the travelers are passed from one Kakushi to another. Furthermore, the routes and Kakushi themselves are frequently changed. Even the Kakushi who tra...",
+    "role": "Anime Character",
+    "attributes": {
+      "Image": "Anime",
+      "Japanese": "刀鍛冶の里",
+      "Rōmaji": "Katanakaji no Sato",
+      "Affiliation": "Demon Slayer Corps",
+      "Manga Debut": "Chapter 100",
+      "Anime Debut": "Episode 45"
+    },
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Swordsmith_Village"
+  },
+  {
+    "name": "Eternal Paradise Faith",
+    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/e/ec/Doma_waits_for_his_followers.png",
+    "description": "The cult was located in a shrine with several lotus iconography, with Doma being surrounded by a bed of lotuses. However, Doma is also shown to have his own palace surrounded by a large water garden with endless pathways inside theInfinity Castle. Given that Doma's is shown dining on several female disciples on the pathways, it is possible that the location inside the secret demon fortress is where Doma's followers meet their demise. In addition, Doma was known to collect the decomposed heads...",
+    "role": "Disbanded",
+    "attributes": {
+      "Image": "Anime",
+      "Japanese": "万世極楽教",
+      "Rōmaji": "Bansei Gokuraku Kyō",
+      "Status": "Disbanded",
+      "Affiliation": "Doma",
+      "Manga Debut": "Chapter 99",
+      "Anime Debut": "Episode 45"
+    },
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Eternal_Paradise_Faith"
+  },
+  {
+    "name": "Yoshiwara",
+    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/2/28/Yoshiwara%2C_Tokyo_Anime.png",
+    "description": "For about a century, before the latest intervention of theDemon Slayer Corps, Yoshiwara became the home and the lair of two extremely powerful demons: the siblingsDakiandGyutaro, the dual holders of the position of Upper Rank Six of theTwelve Kizuki. Owing to Daki's great beauty, experience in sex work, and her unique Blood Demon Art, they made Yoshiwara a successful hunting ground, where they captured and devoured numerous victims over the years. Daki's nigh-immortality and subsequent attemp...",
+    "role": "North of Central Tokyo",
+    "attributes": {
+      "Image": "Anime",
+      "Japanese": "吉原",
+      "Rōmaji": "Yoshiwara",
+      "Position": "North of Central Tokyo",
+      "Status": "Destroyed",
+      "Manga Debut": "Chapter 70 (Mentioned) Chapter 71",
+      "Anime Debut": "Episode 34 (Mentioned) Episode 35"
+    },
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Yoshiwara"
+  },
+  {
+    "name": "Mount Natagumo",
+    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/d/d2/Mount_Natagumo_Anime.png",
+    "description": "The Spider Family attempts to live in peace on the mountain and whenever anyone approaches them, the family attack the intruders and kill them. The mountain is ruled byRui, Lower Rank 5 of theTwelve Kizuki, and also the head of the Spider Family. Rui makes sure that all of his family members are doing their tasks to keep the family safe.",
+    "role": "Anime Character",
+    "attributes": {
+      "Image": "Anime",
+      "Japanese": "那田蜘蛛山",
+      "Rōmaji": "Natagumo Yama",
+      "Manga Debut": "Chapter 28",
+      "Anime Debut": "Episode 15"
+    },
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Mount_Natagumo"
+  },
+  {
+    "name": "Butterfly Mansion",
+    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/9/99/Butterfly_Mansion_Anime.png",
+    "description": "AfterNezuko Kamadobecame the first demon to conquer the sun, she was relocated to the Butterfly Mansion for her protection withSakonji Urokodakias her caretaker. In additionKiriya,Kuina, andKanata Ubuyashikiwere stationed at the mansion to prepare and aid for theeventualbattleagainstMuzan Kibutsuji, and to keep tabs on the corps when they were forced inside the Infinity Castle usingKasugai CrowsandYushiro'sBlood Demon Art.Former-HashiraTengen UzuiandShinjuro Rengokuacted as bodyguards andSuma...",
+    "role": "Anime Character",
+    "attributes": {
+      "Image": "Anime",
+      "Japanese": "蝶屋敷",
+      "Rōmaji": "Chō Yashiki",
+      "Affiliation": "Demon Slayer Corps",
+      "Manga Debut": "Chapter 48",
+      "Anime Debut": "Episode 23"
+    },
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Butterfly_Mansion"
+  },
+  {
+    "name": "Mugen Train (locomotive)",
+    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/5/52/Inosuke_sees_the_Mugen_train.png",
+    "description": "Sometime after theLower Ranks Meeting, several passengers of the Mugen Train went missing, with the casualty count reaching at least 40. This suspicious pattern was not lost on theDemon Slayer Corps, who suspected that ademonwas behind the disappearances.FlameHashiraKyojuro Rengokuwas assigned to investigate the train, and with the recommendation ofInsectHashiraShinobu Kocho, Demon SlayersTanjiro Kamado,Zenitsu Agatsuma, andInosuke Hashibirawere also sent to accompany him. However, only Zenit...",
+    "role": "Derailed",
+    "attributes": {
+      "Image": "Anime",
+      "Japanese": "無限 列車",
+      "Rōmaji": "Mugen Ressha",
+      "Status": "Derailed",
+      "Manga Debut": "Chapter 53",
+      "Anime Debut": "Episode 26"
+    },
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Mugen_Train_(locomotive)"
+  },
+  {
+    "name": "Mount Fujikasane",
+    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/d/d0/Mount_Fujikasane_Anime.png",
+    "description": "Mount FujikasaneAnimeMangaNameJapanese藤襲山RōmajiFujikasane YamaCharacteristicsAffiliationDemon Slayer CorpsDebutMangaChapter 6AnimeEpisode 4Mount Fujikasane(藤襲山,Fujikasane Yama?), is a mountain full ofWisteriablooming every season from the mountain's foot to its slope.",
+    "role": "Anime Character",
+    "attributes": {
+      "Image": "Anime",
+      "Japanese": "藤襲山",
+      "Manga Debut": "Chapter 6",
+      "Anime Debut": "Episode 4"
+    },
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Mount_Fujikasane"
+  },
+  {
+    "name": "Asakusa",
+    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/3/3d/Asakusa%2C_Tokyo_Anime.png",
+    "description": "It is a large, heavily populated urban center with tall buildings and bright lights that illuminate the city during the night.Many people walk through crowded marketplaces with dozens of business signs. UnlikeTanjiro's small town, there are cars of carriages guiding citizens through the roads. There is also a trolley system that runs throughout the city. The city sits on a bay decorated with a large fountain tower next to a large body of water.",
+    "role": "North-East of Central Tokyo",
+    "attributes": {
+      "Image": "Anime",
+      "Japanese": "浅草",
+      "Rōmaji": "Asakusa",
+      "Position": "North-East of Central Tokyo",
+      "Manga Debut": "Chapter 13",
+      "Anime Debut": "Episode 7"
+    },
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Asakusa"
+  },
+  {
+    "name": "Kirimise",
+    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/d/d5/Kirimise_Anime.png",
+    "description": "After interrogating the master of theKyogoku Housefor her whereabouts,Tengen Uzuienters the Kirimise and is able to locate Hinatsuru, ill and still bound in obi. He cuts her free and gives her an antidote, whilst she explains why she was unable to contact him. Telling him to leave her and fight the demon, Hinatsuru is hugged by Tengen before he leaves for battle, leaving her to heal.",
+    "role": "Yoshiwara , Tokyo",
+    "attributes": {
+      "Image": "Anime",
+      "Japanese": "切見世",
+      "Rōmaji": "Kirimise",
+      "Position": "Yoshiwara , Tokyo",
+      "Manga Debut": "Chapter 77",
+      "Anime Debut": "Episode 38"
+    },
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Kirimise"
+  },
+  {
+    "name": "Ogimoto House",
+    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/2/2b/Ogimoto_House_%28Anime%29.png",
+    "description": "After he loses contact with his wife, Tengen travels to the Entertainment District with the Demon Slayer's to try to infiltrate a second time. When they are walking on the street, the madam of the Ogimoto household coincidentally bumps intoInosuke Hashibira(disguised as Inoko), and offers to take her in as a courtesan.",
+    "role": "Yoshiwara , Tokyo",
+    "attributes": {
+      "Image": "Anime",
+      "Japanese": "荻本屋",
+      "Rōmaji": "Ogimoto ya",
+      "Position": "Yoshiwara , Tokyo",
+      "Manga Debut": "Chapter 71 (Mentioned) Chapter 72",
+      "Anime Debut": "Episode 35"
+    },
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Ogimoto_House"
+  },
+  {
+    "name": "Northwest Town",
+    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/6/63/Northwest_Town_%28Anime%29.png",
+    "description": "Northwest TownAnimeMangaNameJapanese北西の町RōmajiHokusei no machiCharacteristicsPositionNearMount SagiriDebutMangaChapter 10AnimeEpisode 6Northwest Town(北西の町,Hokusei no machi?)is a location in theKidnapper's Bog Arc. It is the location ofTanjiro Kamado's first mission after he officially became aDemon Slayerafter passing theFinal Selection.",
+    "role": "Near Mount Sagiri",
+    "attributes": {
+      "Image": "Anime",
+      "Japanese": "北西の町 [ 1",
+      "Position": "Near Mount Sagiri",
+      "Manga Debut": "Chapter 10",
+      "Anime Debut": "Episode 6"
+    },
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Northwest_Town"
+  },
+  {
+    "name": "Tsuzumi Mansion",
+    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/b/b8/Tsuzumi_Mansion_Anime.png",
+    "description": "Tsuzumi MansionAnimeMangaNameJapanese鼓の屋敷RōmajiTsuzumi no YashikiCharacteristicsPositionSouth-southeastStatusAbandonedDebutMangaChapter 21AnimeEpisode 11TheTsuzumi Mansion(鼓の屋敷,Tsuzumi no Yashiki?)is a large house controlled byKyogailocated in the south-southeast.It is the titular setting of theTsuzumi Mansion Arc.",
+    "role": "South-southeast",
+    "attributes": {
+      "Image": "Anime",
+      "Japanese": "鼓の屋敷",
+      "Status": "Abandoned",
+      "Manga Debut": "Chapter 21",
+      "Anime Debut": "Episode 11"
+    },
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Tsuzumi_Mansion"
+  },
+  {
+    "name": "Ubuyashiki Mansion",
+    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/8/8b/Ubuyashiki_Estate.png",
+    "description": "Ubuyashiki MansionAnimeMangaNameJapanese産屋敷邸RōmajiUbuyashiki-teiCharacteristicsPositionOn top of a mountainStatusDestroyedAffiliationDemon Slayer CorpsDebutMangaChapter 45AnimeEpisode 22Ubuyashiki Mansion(産屋敷邸,Ubuyashiki-tei?)was a significant location inDemon Slayer: Kimetsu no Yaiba. It was the place where theOyakata, leader of theDemon Slayer Corps, and his family resided. It also served as the headquarters for the Corps.",
+    "role": "On top of a mountain",
+    "attributes": {
+      "Image": "Anime",
+      "Japanese": "産屋敷邸",
+      "Status": "Destroyed",
+      "Manga Debut": "Chapter 45",
+      "Anime Debut": "Episode 22"
+    },
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Ubuyashiki_Mansion"
+  },
+  {
+    "name": "Mount Kumotori",
+    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/9/96/Mount_Kumotori_Anime.png",
+    "description": "After his mother died from illness when he was ten years old,Yoriichi Tsugikunifled from his home. He ran straight for one day and one night without any sign of exhaustion. Eventually, he arrived at a place full of compact fields and paddies on Mount Kumotori. There, he metUta, a girl of similar age who had tragically lost her entire family to a a widespread illness. Yoriichi made the decision to reside with Uta in her humble mountain hut, and over the course of ten years, their bond deepened...",
+    "role": "Boundary of Tokyo, Saitama, and Yamanashi Prefectures",
+    "attributes": {
+      "Image": "Anime",
+      "Rōmaji": "Kumotori Yama",
+      "Position": "Boundary of Tokyo, Saitama, and Yamanashi Prefectures",
+      "Manga Debut": "Chapter 1",
+      "Anime Debut": "Episode 1"
+    },
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Mount_Kumotori"
+  },
+  {
+    "name": "Tokito House",
+    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/5/5b/Tokito_House_%28Anime%29.png",
+    "description": "After he loses contact with his wife, Tengen travels to the Entertainment District with the Demon Slayers to try to infiltrate a second time. Tengen presents the Demon Slayers, crudely dressed in makeup, to the Tokito house, hoping one of them will be taken in and begin the mission. Though the owners are shocked at their appearance, the house's madam happily agrees to take one in, taken aback by Tengen's handsomeness. Tanjiro (disguised as Sumiko) is taken. At first, the madam is furious that...",
+    "role": "Yoshiwara, Tokyo",
+    "attributes": {
+      "Image": "Anime",
+      "Japanese": "ときと屋",
+      "Rōmaji": "Tokito ya",
+      "Position": "Yoshiwara, Tokyo",
+      "Manga Debut": "Chapter 71 (Mentioned) Chapter 72",
+      "Anime Debut": "Episode 35"
+    },
+    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Tokito_House"
+  },
+  {
     "name": "Infinity Castle",
     "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/4d/Infinity_Castle_Anime.gif",
     "description": "The Infinity Castle is a pocket dimension consisting of lamplit wooden rooms, long halls, and moving corridors. It possesses a warped direction of gravity, allowing demons to stand upright, upside down, or perpendicularly on the walls, or move in physically impossible directions. Its unusual structure and layout as Nakime's Blood Demon Art allows any structure within to shift at her will, though the castle additionally also seems to move on its own.",
@@ -30,181 +250,6 @@
     "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Mount_Sagiri"
   },
   {
-    "name": "Ogimoto House",
-    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/2/2b/Ogimoto_House_%28Anime%29.png",
-    "description": "After he loses contact with his wife, Tengen travels to the Entertainment District with the Demon Slayer's to try to infiltrate a second time. When they are walking on the street, the madam of the Ogimoto household coincidentally bumps intoInosuke Hashibira(disguised as Inoko), and offers to take her in as a courtesan.",
-    "role": "Yoshiwara , Tokyo",
-    "attributes": {
-      "Image": "Anime",
-      "Japanese": "荻本屋",
-      "Rōmaji": "Ogimoto ya",
-      "Position": "Yoshiwara , Tokyo",
-      "Manga Debut": "Chapter 71 (Mentioned) Chapter 72",
-      "Anime Debut": "Episode 35"
-    },
-    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Ogimoto_House"
-  },
-  {
-    "name": "Ubuyashiki Mansion",
-    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/8/8b/Ubuyashiki_Estate.png",
-    "description": "Ubuyashiki MansionAnimeMangaNameJapanese産屋敷邸RōmajiUbuyashiki-teiCharacteristicsPositionOn top of a mountainStatusDestroyedAffiliationDemon Slayer CorpsDebutMangaChapter 45AnimeEpisode 22Ubuyashiki Mansion(産屋敷邸,Ubuyashiki-tei?)was a significant location inDemon Slayer: Kimetsu no Yaiba. It was the place where theOyakata, leader of theDemon Slayer Corps, and his family resided. It also served as the headquarters for the Corps.",
-    "role": "On top of a mountain",
-    "attributes": {
-      "Image": "Anime",
-      "Japanese": "産屋敷邸",
-      "Status": "Destroyed",
-      "Manga Debut": "Chapter 45",
-      "Anime Debut": "Episode 22"
-    },
-    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Ubuyashiki_Mansion"
-  },
-  {
-    "name": "Mount Natagumo",
-    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/d/d2/Mount_Natagumo_Anime.png",
-    "description": "The Spider Family attempts to live in peace on the mountain and whenever anyone approaches them, the family attack the intruders and kill them. The mountain is ruled byRui, Lower Rank 5 of theTwelve Kizuki, and also the head of the Spider Family. Rui makes sure that all of his family members are doing their tasks to keep the family safe.",
-    "role": "Anime Character",
-    "attributes": {
-      "Image": "Anime",
-      "Japanese": "那田蜘蛛山",
-      "Rōmaji": "Natagumo Yama",
-      "Manga Debut": "Chapter 28",
-      "Anime Debut": "Episode 15"
-    },
-    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Mount_Natagumo"
-  },
-  {
-    "name": "Eternal Paradise Faith",
-    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/e/ec/Doma_waits_for_his_followers.png",
-    "description": "The cult was located in a shrine with several lotus iconography, with Doma being surrounded by a bed of lotuses. However, Doma is also shown to have his own palace surrounded by a large water garden with endless pathways inside theInfinity Castle. Given that Doma's is shown dining on several female disciples on the pathways, it is possible that the location inside the secret demon fortress is where Doma's followers meet their demise. In addition, Doma was known to collect the decomposed heads...",
-    "role": "Disbanded",
-    "attributes": {
-      "Image": "Anime",
-      "Japanese": "万世極楽教",
-      "Rōmaji": "Bansei Gokuraku Kyō",
-      "Status": "Disbanded",
-      "Affiliation": "Doma",
-      "Manga Debut": "Chapter 99",
-      "Anime Debut": "Episode 45"
-    },
-    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Eternal_Paradise_Faith"
-  },
-  {
-    "name": "Northwest Town",
-    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/6/63/Northwest_Town_%28Anime%29.png",
-    "description": "Northwest TownAnimeMangaNameJapanese北西の町RōmajiHokusei no machiCharacteristicsPositionNearMount SagiriDebutMangaChapter 10AnimeEpisode 6Northwest Town(北西の町,Hokusei no machi?)is a location in theKidnapper's Bog Arc. It is the location ofTanjiro Kamado's first mission after he officially became aDemon Slayerafter passing theFinal Selection.",
-    "role": "Near Mount Sagiri",
-    "attributes": {
-      "Image": "Anime",
-      "Japanese": "北西の町 [ 1",
-      "Position": "Near Mount Sagiri",
-      "Manga Debut": "Chapter 10",
-      "Anime Debut": "Episode 6"
-    },
-    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Northwest_Town"
-  },
-  {
-    "name": "Yoshiwara",
-    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/2/28/Yoshiwara%2C_Tokyo_Anime.png",
-    "description": "For about a century, before the latest intervention of theDemon Slayer Corps, Yoshiwara became the home and the lair of two extremely powerful demons: the siblingsDakiandGyutaro, the dual holders of the position of Upper Rank Six of theTwelve Kizuki. Owing to Daki's great beauty, experience in sex work, and her unique Blood Demon Art, they made Yoshiwara a successful hunting ground, where they captured and devoured numerous victims over the years. Daki's nigh-immortality and subsequent attemp...",
-    "role": "North of Central Tokyo",
-    "attributes": {
-      "Image": "Anime",
-      "Japanese": "吉原",
-      "Rōmaji": "Yoshiwara",
-      "Position": "North of Central Tokyo",
-      "Status": "Destroyed",
-      "Manga Debut": "Chapter 70 (Mentioned) Chapter 71",
-      "Anime Debut": "Episode 34 (Mentioned) Episode 35"
-    },
-    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Yoshiwara"
-  },
-  {
-    "name": "Mount Kumotori",
-    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/9/96/Mount_Kumotori_Anime.png",
-    "description": "After his mother died from illness when he was ten years old,Yoriichi Tsugikunifled from his home. He ran straight for one day and one night without any sign of exhaustion. Eventually, he arrived at a place full of compact fields and paddies on Mount Kumotori. There, he metUta, a girl of similar age who had tragically lost her entire family to a a widespread illness. Yoriichi made the decision to reside with Uta in her humble mountain hut, and over the course of ten years, their bond deepened...",
-    "role": "Boundary of Tokyo, Saitama, and Yamanashi Prefectures",
-    "attributes": {
-      "Image": "Anime",
-      "Rōmaji": "Kumotori Yama",
-      "Position": "Boundary of Tokyo, Saitama, and Yamanashi Prefectures",
-      "Manga Debut": "Chapter 1",
-      "Anime Debut": "Episode 1"
-    },
-    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Mount_Kumotori"
-  },
-  {
-    "name": "Swordsmith Village",
-    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/4b/Swordsmith_Village_%28Anime%29.png",
-    "description": "To safeguard the village fromDemonattacks, strict measures are taken to keep the place concealed and its exact location is kept confidential. Demon Slayers who wish to visit the village must travel blindfolded, with their ears and noses plugged, while piggybacking aKakushi, to prevent information from being leaked to the demons. After some time, the travelers are passed from one Kakushi to another. Furthermore, the routes and Kakushi themselves are frequently changed. Even the Kakushi who tra...",
-    "role": "Anime Character",
-    "attributes": {
-      "Image": "Anime",
-      "Japanese": "刀鍛冶の里",
-      "Rōmaji": "Katanakaji no Sato",
-      "Affiliation": "Demon Slayer Corps",
-      "Manga Debut": "Chapter 100",
-      "Anime Debut": "Episode 45"
-    },
-    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Swordsmith_Village"
-  },
-  {
-    "name": "Asakusa",
-    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/3/3d/Asakusa%2C_Tokyo_Anime.png",
-    "description": "It is a large, heavily populated urban center with tall buildings and bright lights that illuminate the city during the night.Many people walk through crowded marketplaces with dozens of business signs. UnlikeTanjiro's small town, there are cars of carriages guiding citizens through the roads. There is also a trolley system that runs throughout the city. The city sits on a bay decorated with a large fountain tower next to a large body of water.",
-    "role": "North-East of Central Tokyo",
-    "attributes": {
-      "Image": "Anime",
-      "Japanese": "浅草",
-      "Rōmaji": "Asakusa",
-      "Position": "North-East of Central Tokyo",
-      "Manga Debut": "Chapter 13",
-      "Anime Debut": "Episode 7"
-    },
-    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Asakusa"
-  },
-  {
-    "name": "Butterfly Mansion",
-    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/9/99/Butterfly_Mansion_Anime.png",
-    "description": "AfterNezuko Kamadobecame the first demon to conquer the sun, she was relocated to the Butterfly Mansion for her protection withSakonji Urokodakias her caretaker. In additionKiriya,Kuina, andKanata Ubuyashikiwere stationed at the mansion to prepare and aid for theeventualbattleagainstMuzan Kibutsuji, and to keep tabs on the corps when they were forced inside the Infinity Castle usingKasugai CrowsandYushiro'sBlood Demon Art.Former-HashiraTengen UzuiandShinjuro Rengokuacted as bodyguards andSuma...",
-    "role": "Anime Character",
-    "attributes": {
-      "Image": "Anime",
-      "Japanese": "蝶屋敷",
-      "Rōmaji": "Chō Yashiki",
-      "Affiliation": "Demon Slayer Corps",
-      "Manga Debut": "Chapter 48",
-      "Anime Debut": "Episode 23"
-    },
-    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Butterfly_Mansion"
-  },
-  {
-    "name": "Tsuzumi Mansion",
-    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/b/b8/Tsuzumi_Mansion_Anime.png",
-    "description": "Tsuzumi MansionAnimeMangaNameJapanese鼓の屋敷RōmajiTsuzumi no YashikiCharacteristicsPositionSouth-southeastStatusAbandonedDebutMangaChapter 21AnimeEpisode 11TheTsuzumi Mansion(鼓の屋敷,Tsuzumi no Yashiki?)is a large house controlled byKyogailocated in the south-southeast.It is the titular setting of theTsuzumi Mansion Arc.",
-    "role": "South-southeast",
-    "attributes": {
-      "Image": "Anime",
-      "Japanese": "鼓の屋敷",
-      "Status": "Abandoned",
-      "Manga Debut": "Chapter 21",
-      "Anime Debut": "Episode 11"
-    },
-    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Tsuzumi_Mansion"
-  },
-  {
-    "name": "Mount Fujikasane",
-    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/d/d0/Mount_Fujikasane_Anime.png",
-    "description": "Mount FujikasaneAnimeMangaNameJapanese藤襲山RōmajiFujikasane YamaCharacteristicsAffiliationDemon Slayer CorpsDebutMangaChapter 6AnimeEpisode 4Mount Fujikasane(藤襲山,Fujikasane Yama?), is a mountain full ofWisteriablooming every season from the mountain's foot to its slope.",
-    "role": "Anime Character",
-    "attributes": {
-      "Image": "Anime",
-      "Japanese": "藤襲山",
-      "Manga Debut": "Chapter 6",
-      "Anime Debut": "Episode 4"
-    },
-    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Mount_Fujikasane"
-  },
-  {
     "name": "Kyogoku House",
     "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/f/f2/Kyogoku_House_%28Anime%29.png",
     "description": "After he loses contact with his wife, Tengen travels to the Entertainment District with the Demon Slayers to try to infiltrate a second time. AfterTanjiroandInosukeare dropped off at their corresponding houses, Zenitsu is abandoned at the Kyogoku house by Tengen (disguised as Zenko).",
@@ -218,50 +263,5 @@
       "Anime Debut": "Episode 35"
     },
     "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Kyogoku_House"
-  },
-  {
-    "name": "Tokito House",
-    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/5/5b/Tokito_House_%28Anime%29.png",
-    "description": "After he loses contact with his wife, Tengen travels to the Entertainment District with the Demon Slayers to try to infiltrate a second time. Tengen presents the Demon Slayers, crudely dressed in makeup, to the Tokito house, hoping one of them will be taken in and begin the mission. Though the owners are shocked at their appearance, the house's madam happily agrees to take one in, taken aback by Tengen's handsomeness. Tanjiro (disguised as Sumiko) is taken. At first, the madam is furious that...",
-    "role": "Yoshiwara, Tokyo",
-    "attributes": {
-      "Image": "Anime",
-      "Japanese": "ときと屋",
-      "Rōmaji": "Tokito ya",
-      "Position": "Yoshiwara, Tokyo",
-      "Manga Debut": "Chapter 71 (Mentioned) Chapter 72",
-      "Anime Debut": "Episode 35"
-    },
-    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Tokito_House"
-  },
-  {
-    "name": "Mugen Train (locomotive)",
-    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/5/52/Inosuke_sees_the_Mugen_train.png",
-    "description": "Sometime after theLower Ranks Meeting, several passengers of the Mugen Train went missing, with the casualty count reaching at least 40. This suspicious pattern was not lost on theDemon Slayer Corps, who suspected that ademonwas behind the disappearances.FlameHashiraKyojuro Rengokuwas assigned to investigate the train, and with the recommendation ofInsectHashiraShinobu Kocho, Demon SlayersTanjiro Kamado,Zenitsu Agatsuma, andInosuke Hashibirawere also sent to accompany him. However, only Zenit...",
-    "role": "Derailed",
-    "attributes": {
-      "Image": "Anime",
-      "Japanese": "無限 列車",
-      "Rōmaji": "Mugen Ressha",
-      "Status": "Derailed",
-      "Manga Debut": "Chapter 53",
-      "Anime Debut": "Episode 26"
-    },
-    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Mugen_Train_(locomotive)"
-  },
-  {
-    "name": "Kirimise",
-    "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/d/d5/Kirimise_Anime.png",
-    "description": "After interrogating the master of theKyogoku Housefor her whereabouts,Tengen Uzuienters the Kirimise and is able to locate Hinatsuru, ill and still bound in obi. He cuts her free and gives her an antidote, whilst she explains why she was unable to contact him. Telling him to leave her and fight the demon, Hinatsuru is hugged by Tengen before he leaves for battle, leaving her to heal.",
-    "role": "Yoshiwara , Tokyo",
-    "attributes": {
-      "Image": "Anime",
-      "Japanese": "切見世",
-      "Rōmaji": "Kirimise",
-      "Position": "Yoshiwara , Tokyo",
-      "Manga Debut": "Chapter 77",
-      "Anime Debut": "Episode 38"
-    },
-    "source_url": "https://kimetsu-no-yaiba.fandom.com/wiki/Kirimise"
   }
 ]

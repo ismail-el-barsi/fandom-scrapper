@@ -1,6 +1,6 @@
 # Rapport de Scraping pour : hollowknight
 - **Statut :** ✅ SUCCÈS - 23 fiches valides (minimum requis: 10)
-- **Temps total :** 34.93s
+- **Temps total :** 33.65s
 - **Catégories testées :** 1 (Catégorie principale)
 - **Catégorie utilisée :** Catégorie principale
 - **Liens trouvés :** 23

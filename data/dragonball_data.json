@@ -1,282 +1,530 @@
 [
   {
-    "name": "Chief Moginaian",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/1/1a/Minion_alien_base_form.png",
-    "description": "Chief Moginaian is a muscular, yellowish neon green caveman-like alien. He has two sets of arms and two sets of eyes. He wears a caveman tunic with a rugged, furry brown scarf around his neck. On his back, he carries a makeshift hammer, which is a long, thick stick with a heavy stone tied to it.",
-    "role": "Main Character",
+    "name": "East Kai",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/b/bf/EastKaiNV.png",
+    "description": "Directory:Characters→Deities→KaiEast Kai東の界王Higashi no KaiōAnime nameEast KaiDebutsAppears inDragon Ball ZDragon Ball GTAnime Debut\"Tournament Begins\"Movie DebutDragon Ball Z: Fusion RebornGame DebutDragon Ball Z: Buu's FuryCharacteristicsRaceGlindGenderFemaleProfessional StatusOccupationKaiPersonal StatusStudentsArquaChapuchai",
+    "role": "Kai",
     "attributes": {
-      "Aniname": "Leader [ 1",
-      "Appears In": "Dragon Ball Super",
-      "Anime Debut": "\" To the Promised Resort! Vegeta Takes a Family Trip! \"",
-      "Game Debut": "IC Carddass Dragon Ball",
-      "Race": "Moginaian",
-      "Date Of Death": "Age 778",
-      "Address": "Planet Mogina"
+      "Aniname": "East Kai",
+      "Appears In": "Dragon Ball Z Dragon Ball GT",
+      "Anime Debut": "\" Tournament Begins \"",
+      "Race": "Glind",
+      "Gender": "Female",
+      "Occupation": "Kai",
+      "Students": "Arqua Chapuchai"
     },
-    "source_url": "https://dragonball.fandom.com/wiki/Chief_Moginaian"
+    "source_url": "https://dragonball.fandom.com/wiki/East_Kai"
   },
   {
-    "name": "Mr. Satan (Universe 6)",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/e/e4/U6_Mr_Satan.png",
-    "description": "Mr. Satanミスター・サタンマークMisutā SatanMākuAliasHercule (Universe 6)DebutsGame DebutSuper Dragon Ball Heroes: World MissionCharacteristicsRaceHuman-type EarthlingProfessional StatusOccupationMartial ArtistGod of Destructioncandidate ofUniverse 6AddressEarth(Universe 6)Personal StatusCounterpartsMr. SatanFuture Mr. SatanMentorsVados",
-    "role": "Martial Artist God of Destruction candidate of Universe 6",
+    "name": "Future Tien Shinhan",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/c/c1/The_History_of_Trunks_-_Future_Tien_battling_Future_Android_18.png",
+    "description": "Future Tien Shinhan(未来の天津飯or天津飯,Mirai no Tenshinhan, lit. \"Tenshinhan of the future\")is thealternate timelinecounterpart ofTien Shinhan.",
+    "role": "Martial Artist",
     "attributes": {
-      "Occupation": "Martial Artist God of Destruction candidate of Universe 6",
-      "Address": "Earth ( Universe 6",
-      "Counterparts": "Mr. Satan Future Mr. Satan",
-      "Mentors": "Vados"
-    },
-    "source_url": "https://dragonball.fandom.com/wiki/Mr._Satan_(Universe_6)"
-  },
-  {
-    "name": "Dr. Gero's Supercomputer",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/d/d0/SuperComputer%28mov7%29.png",
-    "description": "Dr. Gero's Supercomputerドクター・ゲロのスーパーコンピュータDokutā Gero no Sūpā KonpyūtaAliasGeroDr. GeroDebutsAppears inDragon Ball ZDragon Ball SuperManga Debut\"Son Goku Awakens\"Anime Debut\"Laboratory Basement\"Movie DebutDragon Ball Z: Super Android 13!Game DebutDragon Ball Z 2: Super BattleCharacteristicsRaceMechanical Type AndroidDeath Date(s)Age 767Professional StatusAllegianceRed Ribbon ArmyPersonal StatusRelativesDr. Gero(creator)Present Cell(creation)Android 13(creation)Android 14(creation)Android 15(c...",
-    "role": "Villain",
-    "attributes": {
-      "Altname": "Gero Dr. Gero",
+      "Altname": "Mirai Tien Mirai Tien Shinhan Mirai Tenshinhan Future Tenshinhan Future Tien Tien Shinhan of the Future",
       "Appears In": "Dragon Ball Z Dragon Ball Super",
-      "Manga Debut": "\" Son Goku Awakens \"",
-      "Anime Debut": "\" Laboratory Basement \"",
-      "Race": "Mechanical Type Android [ 2",
-      "Date Of Death": "Age 767",
-      "Famconnect": "Dr. Gero (creator) Present Cell (creation) Android 13 (creation) Android 14 (creation) Android 15 (creation) Android 21 (creation",
-      "Counterparts": "Future Dr. Gero's Supercomputer",
-      "Students": "Cell"
-    },
-    "source_url": "https://dragonball.fandom.com/wiki/Dr._Gero%27s_Supercomputer"
-  },
-  {
-    "name": "Reality Machine",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/c/c2/RealityMachine.png",
-    "description": "Reality Machine本物マシーンHonmono MashīnAliasPrawdziwek (Polish)DebutsAppears inDr. SlumpDragon Ball SuperManga DebutThe Reality MachineAnime DebutThe Reality MachineCharacteristicsRaceRice Cooker(Robot)GenderMaleProfessional StatusAllegianceNorimaki familyAddress1 Flying SquirrelPersonal StatusRelativesSenbei Norimaki(creator",
-    "role": "Anime Character",
-    "attributes": {
-      "Appears In": "Dr. Slump Dragon Ball Super",
-      "Race": "Rice Cooker ( Robot",
+      "Manga Debut": "\" Bonus Story \"",
+      "Anime Debut": "Cameo: \" Mystery Revealed \" Full Appearance: \" Ghosts from Tomorrow \"",
+      "Movie Debut": "Dragon Ball Z: The History of Trunks",
+      "Game Debut": "Dragon Ball Z: Kakarot",
+      "Race": "Human-type Earthling / Triclops hybrid [ 2",
       "Gender": "Male",
-      "Famconnect": "Senbei Norimaki (creator"
+      "Height": "187 cm (6'2\") [ 2",
+      "Weight": "75 kg (165 lbs) [ 2",
+      "Date Of Birth": "Age 733",
+      "Date Of Death": "November 3, Age 762 May 12, Age 767",
+      "Occupation": "Martial Artist",
+      "Allegiance": "Crane School (before Age 749 - 753 ) Dragon Team ( Age 761 - 767",
+      "Address": "Tien, Chiaotzu & Launch's Capsule Home",
+      "Famconnect": "Triclops (ancestors) Future Launch (girlfriend",
+      "Counterparts": "Tien Shinhan Future Tien Shinhan (Cell's timeline",
+      "Mentors": "Future Master Shen Future Mercenary Tao Future Korin Future Kami Future Mr. Popo Future King Kai"
     },
-    "source_url": "https://dragonball.fandom.com/wiki/Reality_Machine"
+    "source_url": "https://dragonball.fandom.com/wiki/Future_Tien_Shinhan"
   },
   {
-    "name": "Oceanus Shenron",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/2/27/040.jpg",
-    "description": "Oceanus ShenronAnimeManga六星龍RyūshinronAnime nameOceanus ShenronAliasSix-Star DragonPrincess OtoLiù Xīng LóngDebutsAppears inDragon Ball GTManga Debut\"Seven Evil Dragons\"Anime Debut\"The Six-Star Dragon\"Game DebutDragon Ball Z: Bakuretsu ImpactCharacteristicsRaceEternal Dragon(Shadow Dragon)Birth DateSeptember 10, Age 749Death Date(s)Age 790AroundAge 889Professional StatusPersonal StatusRelativesBlack Smoke Shenron(creator)Oolong(creator)CounterpartsXeno Oceanus Shenron",
+    "name": "Sachie Momochi",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/6/61/Sachie.jpg",
+    "description": "Sachie has orange hair and wears a shuriken behind her ear. She is only seen wearing her Satoyama Junior High uniform which is blue and white and wears a pair of red and white running shoes. She has a distinct birthmark on her left butt cheek that many of her fellow students call aPoopmark but to aliens it resembles the symbol of theGalactic Patrol.",
+    "role": "Junior High Student Kunoichi",
+    "attributes": {
+      "Firstapp": "\" Sachie-chan Guu!! \"",
+      "Race": "Earthling",
+      "Gender": "Female",
+      "Occupation": "Junior High Student Kunoichi",
+      "Allegiance": "Momochi Clan",
+      "Famconnect": "Momochi the 20th (grandfather) Momochi the 21st (father) Unnamed younger brother"
+    },
+    "source_url": "https://dragonball.fandom.com/wiki/Sachie_Momochi"
+  },
+  {
+    "name": "Yamcha/Dragonball Evolution",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/5/59/LiveYamcha.jpg",
+    "description": "AsGoku,Master Roshi, andBulmacontinue their journey for the sevenDragon Balls, they fall into an incredibly deep ditch. Straight after, Yamcha arrives, pretending to be a passer-by and offering help. Soon after though, Yamcha is revealed to be a bandit, who had dug the huge ditch to begin with. After some persuasion from Bulma that he'll get a reward, Yamcha joins the gang. He assists them in fighting againstLord Piccolo'sFu-Lum. After Piccolo manages to retrieve all the Dragon Balls with the...",
     "role": "Villain",
     "attributes": {
-      "Image": "Anime",
-      "Altname": "Six-Star Dragon Princess Oto Liù Xīng Lóng",
-      "Manga Debut": "\" Seven Evil Dragons \"",
-      "Anime Debut": "\" The Six-Star Dragon \"",
-      "Race": "Eternal Dragon ( Shadow Dragon",
-      "Date Of Death": "Age 790 Around Age 889 [ 1",
-      "Famconnect": "Black Smoke Shenron (creator) Oolong (creator"
+      "Firstapp": "Dragonball Evolution (March 2009",
+      "Appears In": "Dragonball Evolution",
+      "Race": "Earthling",
+      "Gender": "Male"
     },
-    "source_url": "https://dragonball.fandom.com/wiki/Oceanus_Shenron"
+    "source_url": "https://dragonball.fandom.com/wiki/Yamcha/Dragonball_Evolution"
   },
   {
-    "name": "Dium",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/7/7b/Jium.png",
-    "description": "Dium is a green parrot-like humanoid who has wings instead of human-like arms. His eyes are purple, and he wears a red and yellow hat. His outfit consists of a white tank top with red line and a purple and red skirt attached along a black belt and a pair of red shoes.",
-    "role": "Warrior",
+    "name": "Jimizu",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/6/6e/DBS_Yardrat.PNG",
+    "description": "\"You'll never lay a hand on the grand defenders of the Second again. Take heart, Maidens. I won't the let the flames of your love fade away.\"— Jimizu in \"Gohan, Get Ruthless! Showdown with the 10th Universe!\"",
+    "role": "Warrior Knight",
     "attributes": {
       "Image": "Anime",
-      "Aniname": "Dium",
-      "Manganame": "Zium",
-      "Altname": "Jium",
+      "Aniname": "Jimizu Jimeze",
+      "Manganame": "Jimeze",
+      "Altname": "Gymiiz Jimisu",
       "Appears In": "Dragon Ball Super",
       "Manga Debut": "\" Universe Survival! The Tournament of Power Begins!! \"",
       "Anime Debut": "\" The Time Has Come! To the Null Realm with the Universes on the Line! \"",
+      "Race": "Yardrat",
       "Gender": "Male",
       "Date Of Death": "Age 780",
-      "Occupation": "Warrior",
-      "Allegiance": "Team Universe 10"
+      "Occupation": "Warrior Knight",
+      "Allegiance": "Kamikaze Fireballs Team Universe 2",
+      "Address": "Planet Yardrat ( Universe 2"
     },
-    "source_url": "https://dragonball.fandom.com/wiki/Dium"
+    "source_url": "https://dragonball.fandom.com/wiki/Jimizu"
   },
   {
-    "name": "Guldo",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/c/cb/GULDO.jpg",
-    "description": "Guldo(グルド,Gurudo, lit. \"Ghurd\")is the smallest and least physically powerful member of theGinyu Force. Guldo possesses some psychic abilities, including being able tostop timefor as long as he can hold his breath; this seems to be one of the primary reasons he has attained membership to the Ginyu Force. In battle, Guldo is cowardly, and desperate, resorting to different tactics to defeat his enemies.",
-    "role": "Elite Soldier",
+    "name": "Raiti",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/d/dd/Riti.jpg",
+    "description": "RaitiライチRaichiAliasRaitichLycheeDebutsAppears inDragon Ball ZAnime Debut\"Look Out Below\"Game DebutDragon Ball Z II: Gekishin FreezaCharacteristicsGenderMaleProfessional StatusPersonal Status",
+    "role": "Villain",
+    "attributes": {
+      "Altname": "Raitich Lychee",
+      "Anime Debut": "\" Look Out Below \"",
+      "Gender": "Male"
+    },
+    "source_url": "https://dragonball.fandom.com/wiki/Raiti"
+  },
+  {
+    "name": "Dark Demon God Berserker",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/4/45/Egnlavogfbo.png",
+    "description": "Directory:Characters→Villains→Video game villainsDark Demon God BerserkerDebutsGame DebutDragon Ball HeroesCharacteristicsRaceDemon Realm RaceGenderMaleProfessional StatusAllegianceDark EmpirePersonal Status",
+    "role": "Villain",
+    "attributes": {
+      "Gender": "Male"
+    },
+    "source_url": "https://dragonball.fandom.com/wiki/Dark_Demon_God_Berserker"
+  },
+  {
+    "name": "Xeno Dende",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/d/d6/Brainwashed_Kami.png",
+    "description": "Directory:Characters→Namekian→Local deitiesXeno Dendeデンデ：ゼノDende: ZenoAliasDende (Xeno)Dende: XenoDebutsAppears inSuper Dragon Ball HeroesManga Debut\"Dark Dragon Ball\"CharacteristicsRaceNamekianGenderMaleProfessional StatusOccupationGuardianofEarthDemon Clansman(while brainwashed)AllegianceDragon ClanDark Empire(brainwashed slave)Time PatrolPersonal StatusRelativesDark Shenron(creation)CounterpartsDendeFuture Dende",
+    "role": "Guardian of Earth Demon Clansman (while brainwashed",
+    "attributes": {
+      "Altname": "Dende (Xeno) Dende: Xeno",
+      "Manga Debut": "\" Dark Dragon Ball \"",
+      "Race": "Namekian",
+      "Gender": "Male",
+      "Occupation": "Guardian of Earth Demon Clansman (while brainwashed",
+      "Allegiance": "Dragon Clan Dark Empire (brainwashed slave) Time Patrol",
+      "Famconnect": "Dark Shenron (creation",
+      "Counterparts": "Dende Future Dende"
+    },
+    "source_url": "https://dragonball.fandom.com/wiki/Xeno_Dende"
+  },
+  {
+    "name": "Youth (Dragon Ball Online)",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/3/38/Heroes1.jpg",
+    "description": "As a custom character, the Youth's appearance is entirely dictated by the player, whose race can beSaiyan-Earthlinghybrid,Namekian, orMajinwith the first one having male and female version. The skin and hair color can also be customized. The only thing consistent with the Youth's appearance is that it starts the adventure as a child, and then grows up after finishing quest forKorin.",
+    "role": "Time Patroller Martial Artist Swordsman Spiritualist Engineer",
+    "attributes": {
+      "Altname": "Time Patrollers Kids Children sucked into the past",
+      "Game Debut": "Dragon Ball Online",
+      "Race": "Earthling Saiyan hybrid Namekian Majin",
+      "Occupation": "Time Patroller Martial Artist Swordsman Spiritualist Engineer",
+      "Allegiance": "Time Patrol Dragon Team New Turtle School (Turtle Hermit) New Crane School (Crane Hermit) Kikoukenjutsu Sword School (Swordsman) Demon Clan Style",
+      "Address": "Bee Village (starting village, Majin",
+      "Famconnect": "Goku (potential ancestor; Earthling) Vegeta (potential ancestor; Earthling) Mr. Buu (ancestor; Majin) Miss Buu (ancestor; Majin) Bolon (child; Poko Priest) Bongo (child; Poko Priest"
+    },
+    "source_url": "https://dragonball.fandom.com/wiki/Youth_(Dragon_Ball_Online)"
+  },
+  {
+    "name": "Gohan",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/3/3b/Gohan_anime_profile_3.png",
+    "description": "Son Gohan(孫悟飯,Son Gohan)is a half-breedSaiyanand one of the most prominent characters in theDragon Ballseries. He is the elder son of the series' primary protagonistGokuand his wifeChi-Chi, the older brother ofGoten, the husband ofVideland father toPan. He is named after Goku's adoptive grandfather,Gohan.",
+    "role": "Superhero (as Great Saiyaman) Supreme Kai Disciple Scholar Professor's Assistant Stunt Double Leader of Team Universe 7 ( Tournament of Power ; anime only ) Galactic Patrolman (Temporar...",
     "attributes": {
       "Image": "Anime",
-      "Aniname": "Guldo",
-      "Manganame": "Gurd",
-      "Altname": "Ghurd Guld [ 1",
+      "Aniname": "Gohan",
+      "Manganame": "Son Gohan",
+      "Altname": "Gohan Son Great Saiyaman The Golden Fighter The Golden Warrior The Chosen One Monkey Boy Son Gohan Jr. Ultimate Gohan Mightiest Warrior Gohan [ 1",
       "Appears In": "Dragon Ball Z Dragon Ball GT Dragon Ball Super Super Dragon Ball Heroes",
-      "Manga Debut": "\" The Ginyu Force \"",
-      "Anime Debut": "\" Bulma's Big Day \"",
-      "Movie Debut": "Dragon Ball: The Return of Son Goku and Friends!",
-      "Game Debut": "Dragon Ball Z II: Gekishin Freeza",
-      "Race": "Mutant Boulean",
+      "Manga Debut": "\" Kakarrot \"",
+      "Anime Debut": "\" The New Threat \"",
+      "Movie Debut": "Dragon Ball Z: Dead Zone",
+      "Game Debut": "Dragon Ball Z: Ganbare! Son Gohan",
+      "Race": "1/2 Saiyan -1/2 Human-type Earthling Tuffle -Saiyan-Earthling (formerly; GT",
       "Gender": "Male",
-      "Height": "100 cm (approximately 3'3\"",
-      "Date Of Death": "December 24, Age 762 Age 790",
-      "Occupation": "Elite Soldier",
-      "Allegiance": "Frieza Force ( Ginyu Force",
-      "Counterparts": "Kuruzo Parm"
+      "Height": "176 cm (5'9\") \"adult\" [ 2",
+      "Weight": "61 kg (134 lbs) \"adult\" [ 2",
+      "Date Of Birth": "May 18, Age 757 [ 2",
+      "Date Of Death": "May 8, Age 774 Before Age 889 [ 3",
+      "Occupation": "Superhero (as Great Saiyaman) Supreme Kai Disciple Scholar Professor's Assistant Stunt Double Leader of Team Universe 7 ( Tournament of Power ; anime only ) Galactic Patrolman (Temporar...",
+      "Allegiance": "Dragon Team Saiya Squad (as Great Saiyaman) Team Universe 7 Galactic Patrol",
+      "Address": "439 East District (Formerly) Gohan's House",
+      "Famconnect": "Grandpa Gohan (adoptive great-grandfather) Bardock (paternal grandfather) Gine (paternal grandmother) Ox-King (maternal grandfather) Maternal grandmother Goku (father) Chi-Chi (mother) Goten (young...",
+      "Counterparts": "Future Gohan Future Gohan (Cell's timeline) Xeno Gohan Future Warrior in Black Gohan Black",
+      "Mentors": "Piccolo Goku Shin Old Kai",
+      "Students": "Goten Videl"
     },
-    "source_url": "https://dragonball.fandom.com/wiki/Guldo"
+    "source_url": "https://dragonball.fandom.com/wiki/Gohan"
   },
   {
-    "name": "Chao",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/1/16/Chao.png",
-    "description": "Chao left her village to get the help of theTiger Thief, only to be nearly killed by him, and then saved byGoku. Chao askedGokuto save her village because of his great strength. She brought Goku back to her village and they arrived right when theTerrorwas about to seal a baby called Chenshi in theGourd of Mist, because he was two weeks old, and he could not say his name when called.",
+    "name": "Manpuku Okawari",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/e/e0/Manpuku_Okawari.jpg",
+    "description": "Manpuku Okawari piloted theTwinkle 8on a mission to space withTightsjoining who was a body double forAn Azukiin case of any accidents. The shuttle malfunctioned while flying and was going to crash intoEast Citybut Manpuku was saved along with Tights byJacowith the help ofTokunoshin Omori's faultyTime Machinewhich stopped time briefly. Manpuku rode inJaco's Spaceshipwhile Jaco kicked the Twinkle 8 off course to fall into the ocean and Manpuku got out safely in East City.",
+    "role": "Eastern Capital Astronaut",
+    "attributes": {
+      "Appears In": "Jaco the Galactic Patrolman",
+      "Manga Debut": "\" The Galactic Patrolman's Glory \"",
+      "Race": "Human-type Earthling",
+      "Gender": "Male",
+      "Date Of Birth": "Age 689 [ 1",
+      "Occupation": "Eastern Capital Astronaut",
+      "Address": "East City"
+    },
+    "source_url": "https://dragonball.fandom.com/wiki/Manpuku_Okawari"
+  },
+  {
+    "name": "Future Zeno",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/7/7f/MiraiZenosama.png",
+    "description": "Future ZenoAnimeManga未来の全王Mirai no Zen’ōManga nameKing of AllAliasFuture Zen-OhOmni-KingColorful bratDebutsAppears inDragon Ball SuperSuper Dragon Ball HeroesManga Debut\"The Decisive Battle! Farewell, Trunks!\"Anime Debut\"With New Hope in His Heart - Farewell, Trunks\"Game DebutDragon Ball Xenoverse 2CharacteristicsGenderMaleProfessional StatusOccupationRuler of ExistenceAllegianceZenoAddressZeno's PalacePersonal StatusCounterpartsZeno",
+    "role": "Ruler of Existence",
+    "attributes": {
+      "Image": "Anime",
+      "Altname": "Future Zen-Oh Omni-King Colorful brat",
+      "Appears In": "Dragon Ball Super Super Dragon Ball Heroes",
+      "Manga Debut": "\" The Decisive Battle! Farewell, Trunks! \"",
+      "Anime Debut": "\" With New Hope in His Heart - Farewell, Trunks \"",
+      "Gender": "Male",
+      "Allegiance": "Zeno",
+      "Counterparts": "Zeno"
+    },
+    "source_url": "https://dragonball.fandom.com/wiki/Future_Zeno"
+  },
+  {
+    "name": "Coco",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/3/34/Dbzmovie10_079.jpg",
+    "description": "Coco was selected byMaloja, the village priest, to be the annual human sacrifice to the \"monster\" attacking the village. The human sacrifice is said to appease the angry spirits and leave the village in peace. Later,Goten,Trunks, andVidelfind out about this and defeat the monster, adinosaur.",
     "role": "Anime Character",
     "attributes": {
+      "Appears In": "Dragon Ball Z",
+      "Movie Debut": "Dragon Ball Z: Broly - Second Coming",
+      "Race": "Earthling",
+      "Gender": "Female",
+      "Date Of Death": "May 8, Age 774 Age 779",
+      "Address": "Natade Village",
+      "Famconnect": "Kasal (grandfather"
+    },
+    "source_url": "https://dragonball.fandom.com/wiki/Coco"
+  },
+  {
+    "name": "Demon Realm Soldier",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/d/d6/Dark_Empire_soldiers.png",
+    "description": "Once Mechikabura was revived, and the Dark Demon Realm army became the Dark Empire, many soldiers of different types were enlisted to serve the commanding Demon Gods of the army, so they could invade different times and locations in order to obtain theDark Dragon Balls.",
+    "role": "Soldiers of the Dark Empire Soldiers of the Demigra Army",
+    "attributes": {
+      "Altname": "Makai Soldiers Dark Empire Soldiers Demigra Army Soldiers",
+      "Firstapp": "Game: Dragon Ball Heroes",
+      "Appears In": "Super Dragon Ball Heroes",
+      "Manga Debut": "\" The Unknown Cell \"",
+      "Race": "Demon Realm Race (presumably",
+      "Occupation": "Soldiers of the Dark Empire Soldiers of the Demigra Army",
+      "Allegiance": "Dark Empire Demigra Army",
+      "Famconnect": "Mechikabura (boss) Demigra (boss) Demon Gods (bosses"
+    },
+    "source_url": "https://dragonball.fandom.com/wiki/Demon_Realm_Soldier_%CE%A9"
+  },
+  {
+    "name": "Mugley",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/4/47/31st_tenkaichi_winner.jpg",
+    "description": "Mugley is a scrawny, underweight boy with a dark brown bowl haircut and a pair of green thick-rimmed glasses. He wears a very loose-fitting red wrestling leotard, a pair of blue wristbands, and a pair of red wrestling boots.",
+    "role": "Anime Character",
+    "attributes": {
+      "Appears In": "Dragon Ball GT",
+      "Anime Debut": "\" Curtain Call \"",
+      "Race": "Earthling",
+      "Gender": "Male"
+    },
+    "source_url": "https://dragonball.fandom.com/wiki/Mugley"
+  },
+  {
+    "name": "Neko Majin Mike",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/7/76/Neko_Majin_Mike.jpg",
+    "description": "Directory:Characters→NekomajinNeko Majin MikeネコマジンみけNeko Majin MikeManga nameNeko Majin MikeDebutsAppears inNekomajinManga Debut\"Neko Majin Mike\"Game DebutDragon Ball HeroesCharacteristicsRaceNeko MajinGenderMaleProfessional StatusAllegianceOrganization of Babidi(temporarily)Dragon Ball Heroes(allies)Personal StatusRelativesKojiro(friend",
+    "role": "Game Character",
+    "attributes": {
+      "Appears In": "Nekomajin",
+      "Manga Debut": "\" Neko Majin Mike \"",
+      "Race": "Neko Majin",
+      "Gender": "Male",
+      "Allegiance": "Organization of Babidi (temporarily) Dragon Ball Heroes (allies) [ 1",
+      "Famconnect": "Kojiro (friend"
+    },
+    "source_url": "https://dragonball.fandom.com/wiki/Neko_Majin_Mike"
+  },
+  {
+    "name": "Oatmeel",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/b/ba/Oatmeel_eyepiece.PNG",
+    "description": "Not much is known about Oatmeel, but he is capable at providingGranolahwith information. He also seems to be more level-headed and reads situations better than Granolah, especially when it comes to theSaiyans, as while Granolah was hellbent on exacting vengeance for his people, Oatmeel listened to what bothGokuandVegetahad to say and came to the correct conclusion that they were not acting onFrieza's behalf nor liked the tyrant in the slightest.",
+    "role": "Artificial Intelligent Eye Piece",
+    "attributes": {
+      "Appears In": "Dragon Ball Super",
+      "Manga Debut": "\" Happy Endings...And Then... \"",
+      "Race": "Artificial Intelligence / Robot",
+      "Occupation": "Artificial Intelligent Eye Piece",
+      "Allegiance": "Granolah Monaito Dragon Team (allies"
+    },
+    "source_url": "https://dragonball.fandom.com/wiki/Oatmeel"
+  },
+  {
+    "name": "Taro",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/c/ce/Vlcsnap-2019-01-31-16h57m13s749.png",
+    "description": "Like allUniverse 7Saiyans, Taro possesses atailand also wears clothing of Saiyans who worked under theFrieza Force. He also possesses a mustache and has a well-built physique. Like most Saiyans, Taro possesses jet black hair, and his hair is short and flat at the top. He is also light in skin complexion and appears to be medium in height.",
+    "role": "Soldier",
+    "attributes": {
+      "Image": "Anime",
+      "Appears In": "Dragon Ball Super Jaco the Galactic Patrolman",
+      "Manga Debut": "Dragon Ball Minus: The Departure of the Fated Child",
+      "Movie Debut": "Dragon Ball Super: Broly",
+      "Race": "Saiyan",
+      "Gender": "Male",
+      "Date Of Death": "Age 737 Age 739 [ 2",
+      "Occupation": "Soldier",
+      "Allegiance": "Frieza Force Saiyan Army ( Team Bardock"
+    },
+    "source_url": "https://dragonball.fandom.com/wiki/Taro_(Saiyan)"
+  },
+  {
+    "name": "Old Scientist",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/3/3e/OldScientist.jpg",
+    "description": "At some point during his researches, he decided to travel to the volcanicMount Kiwi, the home of the Fire-Eater, but all that he could find there was the lasteggof this seemingly extinct bird species. He then decided to stay in the island and took care of the egg for many years, hoping that it would hatch some day.",
+    "role": "Scientist",
+    "attributes": {
+      "Altname": "Revered Scholar",
       "Appears In": "Dragon Ball",
-      "Anime Debut": "\" Terror and Plague \"",
-      "Race": "Earthling",
-      "Gender": "Female",
-      "Famconnect": "Unnamed father"
-    },
-    "source_url": "https://dragonball.fandom.com/wiki/Chao"
-  },
-  {
-    "name": "Doskoi",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/f/fc/Images-4-0.jpg",
-    "description": "Doskoi fights in theIntergalactic Tournamentfunded byX.S. Cash. He wins the qualifications by pushing people off the arena with his sumo might, allowing him to be the only human untrained inkicontrol to make it to the finals. Doskoi wins in his match in the third round againstSky Dragon, but he is killed byBidowhile wandering the desert Battle Zone onBattle Island 2.",
-    "role": "Main Character",
-    "attributes": {
-      "Aniname": "Doskoi",
-      "Altname": "Doscoy Dosukoi",
-      "Appears In": "Dragon Ball Z",
-      "Movie Debut": "Dragon Ball Z: Bojack Unbound",
+      "Anime Debut": "\" The Fire-Eater \"",
       "Race": "Earthling",
       "Gender": "Male",
-      "Date Of Death": "Age 767"
+      "Date Of Death": "May 8, Age 774 Age 779",
+      "Occupation": "Scientist",
+      "Address": "Mount Kiwi"
     },
-    "source_url": "https://dragonball.fandom.com/wiki/Doskoi"
+    "source_url": "https://dragonball.fandom.com/wiki/Old_Scientist"
   },
   {
-    "name": "Pit Bull Pete",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/2/2a/Pit_Bull_Pete.jpg",
-    "description": "Pit Bull Pete is a fairly tall, muscular, tan-skinned man with small, beady eyes, a cleft chin, and spiky black hair. He wears a black shirt with torn shoulders, green cargo pants, black sneakers and a pair of red boxing gloves. During his failed robbery of a diamond store, he was also shown wearing sunglasses, presumably in an attempt at disguising his identity.",
-    "role": "Villain",
+    "name": "Bon Para",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/4/4f/Bon_Para_DBGT_Ep_08_001.png",
+    "description": "Bon Para is one of the threePara Brothers, along with Don and Son Para, and often speaks on behalf of the trio. AfterGoku,PanandTrunksseemingly secure theBlack Star Dragon Ballon planetGelbo, Bon Para appears disguised as aGelboianand steals the artifact fromPan's hands by using histelekinesis. In their haste to track down the thieves, theSaiyansfind themselves tricked into touching down on adangerous asteroid.",
+    "role": "Mercenary",
     "attributes": {
-      "Altname": "Boss Peter",
-      "Appears In": "Dragon Ball Z",
-      "Anime Debut": "\" Celebrations with Majin Buu \"",
-      "Race": "Earthling",
+      "Aniname": "Bon Para",
+      "Appears In": "Dragon Ball GT",
+      "Anime Debut": "\" Whisker Power \"",
+      "Game Debut": "Dragon Ball Z: Dokkan Battle",
       "Gender": "Male",
-      "Date Of Death": "May 8, Age 774 Age 779"
+      "Occupation": "Mercenary",
+      "Allegiance": "Luud Cult",
+      "Famconnect": "Don Para (brother) Son Para (brother"
     },
-    "source_url": "https://dragonball.fandom.com/wiki/Pit_Bull_Pete"
+    "source_url": "https://dragonball.fandom.com/wiki/Bon_Para"
   },
   {
-    "name": "Marron",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/b/bd/Marron_naso1.jpg",
-    "description": "MarronAnimeMangaマーロンMāronAliasMarlonMaaronDebutsAppears inDragon Ball ZDragon Ball GTDragon Ball SuperManga Debut\"Strongest in the Heavens!\"Anime Debut\"I'll Fight Too!\"Movie DebutDragon Ball Z: Bio-BrolyGame DebutDragon Ball Z: Supersonic WarriorsCharacteristicsRaceHuman-type EarthlingTuffle-Earthling((Formerly);GT)GenderFemaleBirth DateAge 771Death Date(s)May 8, Age 774Age 779BeforeAge 889Professional StatusOccupationPark Ranger (part time job)AllegianceDragon TeamMIRAddressNBI 8250012 B(For...",
-    "role": "Park Ranger (part time job",
+    "name": "Bikini",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/2/22/MrsBriefDBZ.png",
+    "description": "Directory:Characters→Earthlings→Dragon Team SupportBikiniAnimeMangaビキニBikiniAliasBulma's motherPanchyBikini BriefMrs. BriefDebutsAppears inDragon BallDragon Ball ZDragon Ball GTDragon Ball SuperJaco the Galactic PatrolmanManga Debut\"Bulma and Goku\"Anime Debut\"Master Thief, Hasky\"Movie DebutDragon Ball Z: Broly - The Legendary Super SaiyanGame DebutDragon Ball Z 2: Super BattleCharacteristicsRaceHuman-type EarthlingGenderFemaleDeath Date(s)May 8, Age 774Age 779Professional StatusOccupationHome...",
+    "role": "Homemaker Matriarch of the Brief family",
     "attributes": {
       "Image": "Anime",
-      "Altname": "Marlon Maaron [ 1",
-      "Appears In": "Dragon Ball Z Dragon Ball GT Dragon Ball Super",
-      "Manga Debut": "\" Strongest in the Heavens! \"",
-      "Anime Debut": "\" I'll Fight Too! \"",
-      "Race": "Human-type Earthling Tuffle -Earthling ( (Formerly) ; GT",
+      "Altname": "Bulma's mother Panchy Bikini Brief Mrs. Brief",
+      "Appears In": "Dragon Ball Dragon Ball Z Dragon Ball GT Dragon Ball Super Jaco the Galactic Patrolman",
+      "Manga Debut": "\" Bulma and Goku \"",
+      "Anime Debut": "\" Master Thief, Hasky \"",
       "Gender": "Female",
-      "Date Of Birth": "Age 771",
-      "Date Of Death": "May 8, Age 774 Age 779 Before Age 889 [ 2",
-      "Allegiance": "Dragon Team MIR",
-      "Address": "NBI 8250012 B (Formerly) Krillin's House [ 3",
-      "Famconnect": "Krillin (father) Android 18 (mother) Android 17 (uncle) Android 17's wife (aunt) Android 17's children (cousins"
+      "Date Of Death": "May 8, Age 774 Age 779",
+      "Occupation": "Homemaker Matriarch of the Brief family",
+      "Allegiance": "Brief family Capsule Corporation Dragon Team",
+      "Address": "WST 3338926 K. [ 1",
+      "Famconnect": "Dr. Brief (husband) Tights (eldest daughter) Bulma (youngest daughter) Future Bulma (daughter, alternate timeline) Scratch (pet) Vegeta (son-in-law) Trunks (grandson) Future Trunks (grandson,..."
     },
-    "source_url": "https://dragonball.fandom.com/wiki/Marron"
+    "source_url": "https://dragonball.fandom.com/wiki/Bikini"
   },
   {
-    "name": "Tamagami Number One",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/2/24/Tamagami_Number_One_DBD_Ep_16.jpg",
-    "description": "Tamagami Number Oneタマガミ・ナンバー・ワンTamagami Nanbā WanDebutsAppears inAnime Debut\"Conspiracy\"Game DebutDragon Ball Super DiversCharacteristicsRaceConstructProfessional StatusOccupationGuardian of theDemon Realm Dragon BallsAllegianceTamagamiAddressDemon RealmPersonal StatusRelativesNeva(creator",
-    "role": "Guardian of the Demon Realm Dragon Balls",
+    "name": "Ultra Fusion",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/3/32/Golden_Super_Saiyan_4.png",
+    "description": "Ultra FusionSaiyan (male)Saiyan (female)Earthling (male)Earthling (female)Otherworlder (male)Otherworlder (female)Alien (male)Alien (female)NamekianManga (Tekka)マキシフュージョンMakishi FyūjonAliasMaxi-Fusion5-Way FusionUltra TekkaUltra Trunks (Child)Ultra GotenUltra Goku (Young)Ultra PanDebutsAppears inDragon Ball Fusions the Manga!!Manga Debut\"On the Way\"Game DebutDragon Ball FusionsCharacteristicsRaceEarthling/SaiyanHybrid(in story)Part-SaiyanPart-Earthling(Earthling, Saiyan hybrid,Android,Bio-And...",
+    "role": "Anime Character",
     "attributes": {
-      "Anime Debut": "\" Conspiracy \"",
-      "Race": "Construct",
-      "Occupation": "Guardian of the Demon Realm Dragon Balls",
-      "Allegiance": "Tamagami",
-      "Famconnect": "Neva (creator"
+      "Altname": "Maxi-Fusion 5-Way Fusion Ultra Tekka Ultra Trunks (Child) Ultra Goten Ultra Goku (Young) Ultra Pan",
+      "Manga Debut": "\" On the Way \"",
+      "Race": "Earthling / Saiyan Hybrid (in story) Part-Saiyan Part-Earthling (Earthling, Saiyan hybrid, Android , Bio-Android ) Part- Offworlder ( Glind , Angel , Demon , Majin , Beerus' race , or Eternal Drago...",
+      "Gender": "Male (Male initiated) Female (Female initiated",
+      "Counterparts": "Ultra Pinich",
+      "Mentors": "Bulma King Kai Ginyu Force Master Roshi Goku King Yemma Korin Kami"
     },
-    "source_url": "https://dragonball.fandom.com/wiki/Tamagami_Number_One"
+    "source_url": "https://dragonball.fandom.com/wiki/Ultra_Fusion"
   },
   {
-    "name": "Gale",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/8/8a/Gale.Ep.5.GT.png",
-    "description": "GaleゲールGēruAnime nameGaleAliasGelGailDebutsAppears inDragon Ball GTAnime Debut\"The Most Wanted List\"Game DebutDragon Ball GT: TransformationCharacteristicsRaceImeckianGenderMaleProfessional StatusOccupationSafety officerAllegianceImeckian ArmyAddressImeckaPersonal Status",
-    "role": "Safety officer",
+    "name": "Yunba",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/9/92/Yunba.png",
+    "description": "Yunba is a large, portly being almost resembling that of a humanoid bear, complete with two small rounded eyes at the top of his head. His face is a lighter tone than the outline of his head, eyes and the area surrounding his eyes.",
+    "role": "Villain",
     "attributes": {
-      "Aniname": "Gale",
-      "Altname": "Gel Gail",
-      "Anime Debut": "\" The Most Wanted List \"",
-      "Race": "Imeckian",
+      "Appears In": "Dragon Ball Super",
+      "Manga Debut": "\" Great Escape \"",
       "Gender": "Male",
-      "Address": "Imecka"
+      "Allegiance": "Galactic Bandit Brigade"
     },
-    "source_url": "https://dragonball.fandom.com/wiki/Gale"
+    "source_url": "https://dragonball.fandom.com/wiki/Yunba"
   },
   {
-    "name": "Future Chiaotzu",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/3/31/Chiaotzu_-_The_History_of_Trunks_-_002.png",
-    "description": "Directory:Characters→Earthlings→Dragon Team→Alternate TimelineFuture Chiaotzu未来の餃子Mirai no ChaozuAliasChiaotzu of the FutureMirai ChiaotzuDebutsAppears inDragon Ball ZAnime Debut\"Mystery Revealed\"Movie DebutDragon Ball Z: The History of TrunksGame DebutDragon Ball Z: KakarotCharacteristicsRaceHuman-type EarthlingGenderMaleHeight138 cm (4'6\")Weight33 kg (72 lbs)Birth DateAge 738Death Date(s)May 8, Age 753November 3, Age 762May 12, Age 767Professional StatusOccupationMartial ArtistAllegianceCra...",
-    "role": "Martial Artist",
+    "name": "Ziku",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/b/b4/DB_Fusions_Timespace_Radar_CCFD49_Ziku_%28Opening_Cutscene%29.png",
+    "description": "ZikuジクーJikūAliasCCFDR49 \"Ziku\"Ziku-kanDebutsDebutGame:Dragon Ball FusionsCharacteristicsRaceMechaProfessional StatusOccupationRobo-ClerkAllegianceCapsule CorporationDragon TeamTekka's TeamPersonal StatusRelativesBulma(creator)Tekka(owner",
+    "role": "Robo-Clerk",
     "attributes": {
-      "Altname": "Chiaotzu of the Future Mirai Chiaotzu",
-      "Anime Debut": "\" Mystery Revealed \"",
-      "Gender": "Male",
-      "Date Of Birth": "Age 738",
-      "Date Of Death": "May 8, Age 753 November 3, Age 762 May 12, Age 767",
-      "Allegiance": "Crane School (before Age 749 - 753 ) Dragon Team ( Age 761 - 767",
-      "Address": "Tien, Chiaotzu & Launch's Capsule Home",
-      "Counterparts": "Chiaotzu",
-      "Mentors": "Future Master Shen Future Korin Future Kami Future Mr. Popo Future King Kai"
+      "Altname": "CCFDR49 \" Ziku \" Ziku-kan",
+      "Firstapp": "Game: Dragon Ball Fusions",
+      "Race": "Mecha",
+      "Occupation": "Robo-Clerk",
+      "Allegiance": "Capsule Corporation Dragon Team Tekka's Team",
+      "Famconnect": "Bulma (creator) Tekka (owner"
     },
-    "source_url": "https://dragonball.fandom.com/wiki/Future_Chiaotzu"
+    "source_url": "https://dragonball.fandom.com/wiki/Ziku"
   },
   {
-    "name": "Bojack",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/2/29/Bojack.BojackUnbound.png",
-    "description": "Bojack(ボージャック,Bōjakku)is a ruthless and powerful space pirate who serves as the leader of theGalaxy Soldiers. Having caused havoc across the four galaxies ofUniverse 7, he was originally defeated and sealed by theKaisbefore being freed due to the aftermath of theCell Games, allowing him to return as the main antagonist ofDragon Ball Z: Bojack Unbound. InSuper Dragon Ball Heroes, he also serves as a minor antagonist.",
-    "role": "Space Pirate",
+    "name": "Hasky's Followers",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/b/b1/Hasky%27s_Followers.png",
+    "description": "Hasky's followers(ワル,Waru, lit. Bad Guys)are two street thugs that work withHaskyinWest City.",
+    "role": "Thiefs",
     "attributes": {
-      "Image": "Film",
-      "Altname": "Kujila Boujack Lord Bojack [ 4",
-      "Appears In": "Dragon Ball Z Super Dragon Ball Heroes Dr. Slump",
-      "Manga Debut": "\" Prison Planet \"",
-      "Anime Debut": "\" Goku vs. Goku! A Transcendent Battle Begins on the Prison Planet! \"",
-      "Game Debut": "Dragon Ball Z: Super Butōden 2",
-      "Race": "Hera Clan [ 7",
-      "Gender": "Male",
-      "Height": "218 cm (7'2\"",
-      "Date Of Death": "Age 767 Age 774 [ 8",
-      "Allegiance": "Galaxy Soldiers Frieza Force Kings of Destruction Organization of Babidi Universe Creation Planners Team 9 Berserkers"
+      "Altname": "Bad Guys",
+      "Appears In": "Dragon Ball Dragon Ball Z",
+      "Manga Debut": "\" Monkey in the City \"",
+      "Anime Debut": "\" A Trip to the City \"",
+      "Game Debut": "Dragon Ball: Daimaō Fukkatsu",
+      "Race": "Human Type Earthling & Animal Type Earthling ( Boar",
+      "Gender": "Males",
+      "Date Of Death": "May 8, Age 774 Age 779",
+      "Occupation": "Thiefs",
+      "Allegiance": "Red Ribbon Army (Formerly",
+      "Address": "West City"
     },
-    "source_url": "https://dragonball.fandom.com/wiki/Bojack"
+    "source_url": "https://dragonball.fandom.com/wiki/Hasky%27s_Followers"
   },
   {
-    "name": "Kid Buu",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/b/b7/Kid_Buu_Dragon_Ball_Z_Episode_277.png",
-    "description": "Kid Buu(魔人ブウ（純粋）,Majin Bū (Junsui), lit. \"Demon Person Boo (Pure)\")is the original, pure form of Majin Buu. Unlike his other forms, this form of Buu's thought process is seen to be irrational and spontaneous, even destroying his own body to destroy theEarth. Although he appears smaller than any other form, he is more dangerous than any other forms of Buu due to his full relentless evil and unpredictability. He is also completely free of restraint and has no trace of sanity and, because of thi...",
+    "name": "Yamu",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/c/c9/Yamu_Good.png",
+    "description": "YamuAnimeMangaヤムーYamūAnime nameYamuAliasYamuhDebutsAppears inDragon Ball ZSuper Dragon Ball HeroesManga Debut\"The Finalists are Chosen!\"Anime Debut\"Who Will Fight Who?\"Game DebutDragon Ball Z: Legendary Super WarriorsCharacteristicsRaceEarthlingGenderMaleDeath Date(s)May 7th, Age 774Professional StatusAllegianceOrganization of BabidiPersonal Status",
     "role": "Villain",
     "attributes": {
       "Image": "Anime",
-      "Aniname": "Majin Buu",
-      "Manganame": "Djinn Boo",
-      "Altname": "Buu Kid Boo Majin Buu Majin Boo Pure Buu Buu: Kid Ultimate Majin (by Hoi ) [ 2",
-      "Appears In": "Dragon Ball Z Dragon Ball GT Dragon Ball Super Super Dragon Ball Heroes Dr. Slump",
-      "Manga Debut": "\" The Boo of Pure Evil \"",
-      "Anime Debut": "\" Evil Kid Buu! \"",
-      "Movie Debut": "Dragon Ball Z: Battle of Gods",
-      "Game Debut": "Dragon Ball Z: Hyper Dimension",
-      "Race": "Majin",
-      "Gender": "Male",
-      "Date Of Birth": "Time Immemorial or 5 Million Before Age [ 4",
-      "Date Of Death": "May 9, Age 774",
-      "Allegiance": "Organization of Babidi Mastermind's group [ 1",
-      "Famconnect": "Marba (creator) Bibidi (summoner or creator /father ) Uub (reincarnation",
-      "Counterparts": "Xeno Majin Buu Future Kid Buu Good Buu Future Good Buu Evil Buu Future Evil Buu Super Buu Future Super Buu Innocent Buu Future Innocent Buu Clone Kid Buus Miss Buu"
+      "Aniname": "Yamu",
+      "Altname": "Yamuh",
+      "Appears In": "Dragon Ball Z Super Dragon Ball Heroes",
+      "Manga Debut": "\" The Finalists are Chosen! \"",
+      "Anime Debut": "\" Who Will Fight Who? \"",
+      "Race": "Earthling",
+      "Gender": "Male"
     },
-    "source_url": "https://dragonball.fandom.com/wiki/Kid_Buu"
+    "source_url": "https://dragonball.fandom.com/wiki/Yamu"
+  },
+  {
+    "name": "Ipana",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/7/72/Ipana-EOP.png",
+    "description": "Ipana finds the unconsciousBardockon his planet after theSaiyan's failed attempt to defeatFriezaand stop the destruction ofPlanet Vegeta. He brings Bardock to his house and heals him. Bardock leaves Ipana's house when Toobi and Kyabira, two soldiers of theFrieza Force, arrive and threaten to conquer Planet Plant. After Bardock kills the two soldiers, he flies away to hang out in a cave. To thank him, Ipana asks his son, Berry, to bring Bardock baskets of food.",
+    "role": "Doctor",
+    "attributes": {
+      "Manga Debut": "\" Chapter 1 (Episode of Bardock) \"",
+      "Movie Debut": "Dragon Ball: Episode of Bardock",
+      "Race": "Inhabitants of Plant",
+      "Occupation": "Doctor",
+      "Famconnect": "Berry (son"
+    },
+    "source_url": "https://dragonball.fandom.com/wiki/Ipana"
+  },
+  {
+    "name": "Bizu",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/4/42/Bizu.Ep.18.GT.png",
+    "description": "BizuビースBīsuAnime nameBizuVeisDebutsAppears inDragon Ball GTAnime Debut\"Giru's Checkered Past\"Game DebutDragon Ball GT: TransformationCharacteristicsRaceMachine MutantDeath Date(s)Age 789Professional StatusAllegianceSigma ForceAddressM-2Personal StatusRelativesDr. Myuu(creator",
+    "role": "Villain",
+    "attributes": {
+      "Aniname": "Bizu Veis",
+      "Anime Debut": "\" Giru's Checkered Past \"",
+      "Date Of Death": "Age 789",
+      "Address": "M-2",
+      "Famconnect": "Dr. Myuu (creator"
+    },
+    "source_url": "https://dragonball.fandom.com/wiki/Bizu"
+  },
+  {
+    "name": "King Tuffle",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/8/89/SaiyanTuffleWar02.png",
+    "description": "King Tuffleツフル王Tsufuru-ōAnime nameTuffle KingDebutsAppears inDragon Ball GTAnime Debut\"The Attack on Vegeta\"CharacteristicsRaceTuffleGenderMaleBirth Datec. pre-Age 720Death Date(s)Age 730Age 789(Baby's death)Professional StatusOccupationKing ofPlanet PlantAddressPlanet PlantPersonal StatusCounterpartsBaby",
+    "role": "King of Planet Plant",
+    "attributes": {
+      "Anime Debut": "\" The Attack on Vegeta \"",
+      "Race": "Tuffle",
+      "Gender": "Male",
+      "Date Of Birth": "c. pre- Age 720",
+      "Date Of Death": "Age 730 Age 789 (Baby's death",
+      "Occupation": "King of Planet Plant",
+      "Counterparts": "Baby"
+    },
+    "source_url": "https://dragonball.fandom.com/wiki/King_Tuffle"
+  },
+  {
+    "name": "Mercenary Tao",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/8/87/Mercenary_Tao_Dragon_Ball_Episode_59.png",
+    "description": "Mercenary Tao, also known asTao Pai Pai(桃白白,Taopaipai), is a highly skilled assassin-for-hire, as well as the younger brother ofMaster Shen. He charges a hefty price for his expert services, as he normally charges ten billionZeniper kill (one hundred million in the Japanese version) but gaveCommander Reda 20th anniversary discount of five billion Zeni (fifty million in the Japanese version).",
+    "role": "Assassin Military Bodyguard Henchman General ( Mifan Army",
+    "attributes": {
+      "Image": "Anime",
+      "Manganame": "Taopaipai",
+      "Altname": "Tao Pai Pai General Tao Cyborg Tao Master Tao General Tao Pei ( Harmony Gold dub",
+      "Appears In": "Dragon Ball Dragon Ball Z Dragon Ball Super Super Dragon Ball Heroes",
+      "Manga Debut": "\" Taopaipai the Assassin \"",
+      "Anime Debut": "\" The Land of Korin \"",
+      "Movie Debut": "Dragon Ball: Mystical Adventure",
+      "Game Debut": "Famicom Jump: Hero Retsuden",
+      "Race": "Human-type Earthling (Formerly) Cyborg",
+      "Gender": "Male",
+      "Height": "178 cm (5'10\") [ 1",
+      "Weight": "70 kg (154 lbs) [ 1",
+      "Date Of Birth": "Age 459 [ 1",
+      "Date Of Death": "Unknown, after Age 767 [ 3",
+      "Occupation": "Assassin Military Bodyguard Henchman General ( Mifan Army",
+      "Allegiance": "Mutaito Training Academy (Formerly) Crane School Mifan Army Red Ribbon Army (hired) Mr. Borbonne (Formerly) Vodka Gang (Formerly) Red Pants Army [ 3",
+      "Famconnect": "Master Shen (brother",
+      "Counterparts": "TPP - EX",
+      "Mentors": "Master Mutaito [ 4",
+      "Students": "Tien Shinhan Chiaotzu General White Jr. [ 3"
+    },
+    "source_url": "https://dragonball.fandom.com/wiki/Mercenary_Tao"
+  },
+  {
+    "name": "Dark Vassals",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/0/04/Two_members_of_King_Piccolo%27s_Demon_Clan_resembling_Cymbal_and_Tambourine.png",
+    "description": "TheDark Vassalsare \"Demon Clan\"(魔族,Mazoku)Namekianspawns. They aredemonNamekiansbirthed byKing Piccoloand later theDark Namekians. They are mutants touched by evil.These creatures are actually the first Namekians to appear,making their first appearance in the chapter \"The Death of Kuririn\" and the episode \"Enter King Piccolo\". All of the named Mutated Namekians have names based on musical instruments, just like Piccolo.",
+    "role": "Villain",
+    "attributes": {
+      "Activated": "Age 461",
+      "Deactivated": "May 9 , Age 753",
+      "Located": "Earth",
+      "Members": "Dark Vassals of the past Ukulele Piano Tambourine Cymbal Drum Bolon Bongo",
+      "Allies": "Pilaf Gang",
+      "Conflicts": "King Piccolo wars"
+    },
+    "source_url": "https://dragonball.fandom.com/wiki/Mandolin"
   },
   {
     "name": "Cacao",
@@ -294,357 +542,15 @@
     "source_url": "https://dragonball.fandom.com/wiki/Cacao"
   },
   {
-    "name": "Mrs. Crab",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/7/7a/NamekCrab.png",
-    "description": "When the four-starNamekian Dragon Ballfell into the ocean, the ball fell onto her back into the pile of all hereggs.Bulmawho was chasing after it in aSubmarineattempted to go after the ball, but Mrs. Crab started attacking her and crushed her submarine making her escape in a robot suit. As Mrs. Crab tries to attack Bulma's suit, she dodges it. After her babies start to hatch from her eggs, a rock starts to fall over almost squishing the babies but Bulma decides to help the babies prevent it f...",
-    "role": "Anime Character",
+    "name": "Good Supreme Demon King",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/c/c9/Good_Supreme_Demon_King.PNG",
+    "description": "Much like one of his successorsAbura, the Good Supreme Demon King has a pretty portly appearance. However, unlike Abura andDabura, his skin tone appears to be more purple and his horns upon his head are much more pronounced. He also has atailand wields a sword.",
+    "role": "Supreme Demon King",
     "attributes": {
-      "Altname": "Namekian Crab Giant Crab",
-      "Appears In": "Dragon Ball Z",
-      "Anime Debut": "\" Destination: Guru \"",
-      "Race": "Namekian crab",
-      "Gender": "Female",
-      "Address": "Namek (Formerly",
-      "Famconnect": "Many unnamed children"
+      "Anime Debut": "\" Ocean \"",
+      "Race": "Majin",
+      "Gender": "Male"
     },
-    "source_url": "https://dragonball.fandom.com/wiki/Mrs._Crab"
-  },
-  {
-    "name": "Ipana",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/7/72/Ipana-EOP.png",
-    "description": "Ipana finds the unconsciousBardockon his planet after theSaiyan's failed attempt to defeatFriezaand stop the destruction ofPlanet Vegeta. He brings Bardock to his house and heals him. Bardock leaves Ipana's house when Toobi and Kyabira, two soldiers of theFrieza Force, arrive and threaten to conquer Planet Plant. After Bardock kills the two soldiers, he flies away to hang out in a cave. To thank him, Ipana asks his son, Berry, to bring Bardock baskets of food.",
-    "role": "Doctor",
-    "attributes": {
-      "Manga Debut": "\" Chapter 1 (Episode of Bardock) \"",
-      "Movie Debut": "Dragon Ball: Episode of Bardock",
-      "Race": "Inhabitants of Plant",
-      "Occupation": "Doctor",
-      "Famconnect": "Berry (son"
-    },
-    "source_url": "https://dragonball.fandom.com/wiki/Ipana"
-  },
-  {
-    "name": "Goten",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/5/5a/Goten_Teenager.jpg",
-    "description": "GotenAnimeManga孫悟天Son GotenAnime nameGotenManga nameSon GotenAliasGoten SonChibi GotenSaiyaman X-2DebutsAppears inDragon Ball ZDragon Ball GTDragon Ball SuperSuper Dragon Ball HeroesNekomajinManga Debut\"Videl's Emergency!!\"Anime Debut\"I am Saiyaman\"Movie DebutDragon Ball Z: Broly - Second ComingGame DebutDragon Ball Z: Idainaru Son Goku DensetsuCharacteristicsRace1/2Saiyan-1/2Human-type EarthlingTuffle-Saiyan-Earthling(Formerly)(GT)GenderMaleHeight123 cm (4'0\") \"child\"Weight26 kg (57 lbs) \"ch...",
-    "role": "Martial Artist Park Ranger (part time job) Martial Arts teacher [ 4",
-    "attributes": {
-      "Image": "Anime",
-      "Aniname": "Goten",
-      "Manganame": "Son Goten",
-      "Altname": "Goten Son Chibi Goten Saiyaman X-2",
-      "Appears In": "Dragon Ball Z Dragon Ball GT Dragon Ball Super Super Dragon Ball Heroes Nekomajin",
-      "Manga Debut": "\" Videl's Emergency!! \"",
-      "Anime Debut": "\" I am Saiyaman \"",
-      "Race": "1/2 Saiyan -1/2 Human-type Earthling Tuffle -Saiyan-Earthling (Formerly) ( GT",
-      "Gender": "Male",
-      "Height": "123 cm (4'0\") \"child\" [ 2",
-      "Weight": "26 kg (57 lbs) \"child\" [ 2",
-      "Date Of Birth": "Age 767 [ 2",
-      "Date Of Death": "May 8, Age 774 Age 779 Before Age 889 [ 3",
-      "Occupation": "Martial Artist Park Ranger (part time job) Martial Arts teacher [ 4",
-      "Allegiance": "Dragon Team ( Age 774 - Age 790 ) MIR Kikoukenjutsu Sword School Team Universe 6 (baseball only",
-      "Address": "439 East District",
-      "Famconnect": "Grandpa Gohan (adoptive great-grandfather) Bardock (paternal grandfather) Gine (paternal grandmother) Ox-King (maternal grandfather) Maternal grandmother Goku (father) Chi-Chi (mother) Gohan (older...",
-      "Counterparts": "Xeno Goten Goten (Goku Black's timeline",
-      "Mentors": "Chi-Chi Gohan Goku Piccolo"
-    },
-    "source_url": "https://dragonball.fandom.com/wiki/Goten"
-  },
-  {
-    "name": "Hasky",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/e/e9/Hasky8.png",
-    "description": "Hasky has bright blonde hair styled similarly toLaunch's \"bad\" side, but in a lighter shade. She wears a blue, form-fitting outfit that complements her role as a master thief. Her overall look is sleek and confident, fitting her cunning personality",
-    "role": "Mercenary",
-    "attributes": {
-      "Altname": "Husky",
-      "Appears In": "Dragon Ball",
-      "Anime Debut": "\" Master Thief, Hasky \"",
-      "Race": "Earthling",
-      "Gender": "Female",
-      "Occupation": "Mercenary",
-      "Allegiance": "Red Ribbon Army"
-    },
-    "source_url": "https://dragonball.fandom.com/wiki/Hasky"
-  },
-  {
-    "name": "Onio",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/d/d9/Onio_color.png",
-    "description": "Directory:Characters→Saiyan→Nekomajin→VillainsOnioオニオOnioManga nameOnioAliasOnionDebutsAppears inNekomajinDragon Ball SuperManga Debut\"Neko Majin Z\"CharacteristicsRaceSaiyanGenderMaleProfessional StatusOccupationElite SoldierAllegianceFrieza ForcePersonal StatusRelativesHoney(ex-wife",
-    "role": "Elite Soldier",
-    "attributes": {
-      "Manganame": "Onio",
-      "Altname": "Onion",
-      "Appears In": "Nekomajin Dragon Ball Super",
-      "Manga Debut": "\" Neko Majin Z \"",
-      "Race": "Saiyan",
-      "Gender": "Male",
-      "Famconnect": "Honey (ex-wife"
-    },
-    "source_url": "https://dragonball.fandom.com/wiki/Onio"
-  },
-  {
-    "name": "Tagoma",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/8/8d/Tagomaa.png",
-    "description": "TagomaAnimeMangaタゴマTagomaDebutsAppears inDragon Ball ZDragon Ball SuperSuper Dragon Ball HeroesManga Debut\"Chapter 1 (Resurrection ‘F’)\"Anime Debut\"I'm Here, Too! Training Commences on Beerus' World\"Movie DebutDragon Ball Z: Resurrection ‘F’CharacteristicsRaceTagoma's raceNamekian FrogGenderMaleDeath Date(s)Age 779Professional StatusOccupationElite SoldierBodyguardCommanderAllegianceFrieza ForcePersonal StatusMentorsFrieza(anime only",
-    "role": "Elite Soldier Bodyguard Commander",
-    "attributes": {
-      "Image": "Anime",
-      "Appears In": "Dragon Ball Z Dragon Ball Super Super Dragon Ball Heroes",
-      "Manga Debut": "\" Chapter 1 (Resurrection ‘F’) \"",
-      "Anime Debut": "\" I'm Here, Too! Training Commences on Beerus' World \"",
-      "Race": "Tagoma's race Namekian Frog [ 1",
-      "Gender": "Male",
-      "Date Of Death": "Age 779 [ 3",
-      "Occupation": "Elite Soldier Bodyguard Commander",
-      "Mentors": "Frieza (anime only"
-    },
-    "source_url": "https://dragonball.fandom.com/wiki/Tagoma"
-  },
-  {
-    "name": "Rigll",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/7/7c/Rigll_art.png",
-    "description": "RigllDebutsGame DebutDragon Ball OnlineCharacteristicsRaceFrog-Face's raceGenderMaleProfessional StatusOccupationLeaderAllegianceGuard Troops(Frieza Force)AddressEarthPersonal Status",
-    "role": "Leader",
-    "attributes": {
-      "Gender": "Male",
-      "Occupation": "Leader",
-      "Allegiance": "Guard Troops ( Frieza Force",
-      "Address": "Earth"
-    },
-    "source_url": "https://dragonball.fandom.com/wiki/Rigll"
-  },
-  {
-    "name": "Android Majin",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/9/93/Android_Majin2.png",
-    "description": "Through the use ofDemon Realm\"science\", the Time Breakers where able to successfully bioengineer Android Majins which resemble the Earthborn Majin subspecies descended fromMr. Buu& his femaleFissionMiss Buu, though they wear Time Breaker Battle Armor similar to theDemon Realm RaceBio-AndroidMiraandJuly.",
-    "role": "Anime Character",
-    "attributes": {
-      "Image": "Female",
-      "Deactivated": "Age 1000",
-      "Located": "Earth ( Boo World",
-      "Leader": "Mira Towa",
-      "Members": "Fin Mira (Fin Absorbed) Haru Haru Shun Shun",
-      "Allies": "Dark Empire Red Pants Army Demigra Army"
-    },
-    "source_url": "https://dragonball.fandom.com/wiki/Android_Majin"
-  },
-  {
-    "name": "Goku Black",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/1/13/Screenshot_%282%29.png",
-    "description": "\"I look down on existence from a much higher perspective thanyoudo. I witness this world, thisuniverse, and the truth of all things. That yields deeper understanding. Wisdom. The realization that allmortalsshould be destroyed! The one and only mistake among all divine creations: that is what mortals are. And this mistake is egregious! To shape existence into the beautiful utopia it was always meant to be, the mistake must be corrected! I will purge all mortals from existence... in place of th...",
-    "role": "North Kai of Universe 10 Apprentice Supreme Kai Supreme Kai (anime only) Unofficial Supreme Kai (manga only",
-    "attributes": {
-      "Image": "Anime",
-      "Aniname": "Goku Black",
-      "Manganame": "Goku Black",
-      "Altname": "Zamasu Zamas Black Present Zamas Present Zamasu Son Goku Rosé Black Goku Rosé Goku Black Gohan Black [ 3",
-      "Appears In": "Dragon Ball Z Dragon Ball Super Super Dragon Ball Heroes",
-      "Manga Debut": "\" SOS from the Future \"",
-      "Anime Debut": "\" SOS from the Future: A Dark New Enemy Appears! \"",
-      "Movie Debut": "Dragon Ball Z: Resurrection ‘F’: Future Trunks Special Edition",
-      "Game Debut": "Dragon Ball Heroes",
-      "Race": "Saiyan Glind (Formerly) Monaka's Race (manga; (Formerly) ) 1/2 Glind -1/2 Saiyan (manga; after mutating) 1/2 Saiyan -1/2 Human-type Earthling (Gohan Black) Ginyu's race (temporarily; Xenoverse 2",
-      "Gender": "Male",
-      "Date Of Death": "Age 796",
-      "Occupation": "North Kai of Universe 10 Apprentice Supreme Kai Supreme Kai (anime only) Unofficial Supreme Kai (manga only",
-      "Allegiance": "Zamases",
-      "Address": "Sacred World of the Kai Zamasu's Hideout",
-      "Counterparts": "Zamasu Future Zamasu Crimson-Masked Saiyan",
-      "Mentors": "Gowasu"
-    },
-    "source_url": "https://dragonball.fandom.com/wiki/Goku_Black"
-  },
-  {
-    "name": "Piccolo",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/7/71/Piccolo_anime_movie_profile.png",
-    "description": "Piccolo Jr.(ピッコロ・ジュニア,Pikkoro Junia, lit. \"Piccolo Junior\"), usually just calledPiccoloand also known asMa Junior(マジュニア,Ma Junia), is aNamekianand also the final child andreincarnationofKing Piccolo, later becoming the reunification of theNameless Namekianafter fusing withKami, at which point he was once referred to asKamiccolo(神コロ様,Kamikoro-sama)byGoku. According toGrand Elder Guru, Piccolo, along with Kami and King Piccolo, are part of theDragon Clan, who were the original creators of theDr...",
-    "role": "Martial Artist Babysitter Galactic Patroller (temporarily deputized) Swordsman [ 8",
-    "attributes": {
-      "Image": "Anime",
-      "Altname": "King Piccolo Junior (Jr.) Ma'ō Ma Junior Demon Junior Green Man (by Raditz ) Mr. Piccolo (by Gohan ) Kamiccolo (by Goku ) Satan The Grill Master Kami (by Korin ) Little Green Bug (by Broly ) ...",
-      "Appears In": "Dragon Ball Dragon Ball Z Dragon Ball GT Dragon Ball Super Super Dragon Ball Heroes",
-      "Manga Debut": "\" The Fist of Son Goku \"",
-      "Anime Debut": "\" Lost and Found \"",
-      "Movie Debut": "Dragon Ball Z: Dead Zone",
-      "Game Debut": "Famicom Jump: Hero Retsuden",
-      "Race": "Demonic Namekian [ 4",
-      "Height": "226 cm (7'5\") [ 5",
-      "Weight": "116 kg (255 lbs) [ 5",
-      "Date Of Birth": "May 9, Age 753",
-      "Date Of Death": "November 3, Age 762 May 8, Age 774 Age 779 Age 789 [ 7",
-      "Occupation": "Martial Artist Babysitter Galactic Patroller (temporarily deputized) Swordsman [ 8",
-      "Allegiance": "King Piccolo's Demon Clan (Formerly) Dragon Team Team Universe 7 Galactic Patrol Red Ribbon Army (temporarily; undercover) [ 3",
-      "Address": "The Lookout (Formerly) Mountain Near Gohan's House (Formerly) Piccolo's House [ 3",
-      "Famconnect": "Katas (grandparent/third parent/past life parent) Nameless Namekian (parent) King Piccolo (parent/past self) Kami (parent's good counterpart) Dark Vassals of the past (siblings) Ukulele (sibling) P...",
-      "Counterparts": "Nameless Namekian Future Piccolo Future Piccolo (Cell's timeline) Namekian in Black",
-      "Mentors": "King Kai Cynthia (Driving Instructor",
-      "Students": "Gohan Goten Trunks Pan"
-    },
-    "source_url": "https://dragonball.fandom.com/wiki/Piccolo"
-  },
-  {
-    "name": "Commander Red",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/7/7b/Commander_Red_DB_Ep_67_003.png",
-    "description": "Commander Red(レッド総帥,Reddo Sōsui), bornRed Ribon(レッド・ライボン,Reddo Raibon),is the dwarfen commander-in-chief of the most feared and ruthless militaristic crime organization: theRed Ribbon Army. After discovering that his enemy,Goku, has a much more sophisticated and superiorDragon Radar, he is angered at the fact that he invested so much in his radar and takes many wary chances only to be contested by a mere child.",
-    "role": "Military Leader",
-    "attributes": {
-      "Image": "Anime",
-      "Altname": "Red General Red Android 9 Supreme Commander Red",
-      "Appears In": "Dragon Ball Dragon Ball Z Dragon Ball Super",
-      "Manga Debut": "\" The Dragon Ball Scramble \"",
-      "Anime Debut": "\" Pilaf and the Mystery Force \"",
-      "Movie Debut": "Dragon Ball: The Path to Power",
-      "Game Debut": "Famicom Jump: Hero Retsuden",
-      "Race": "Earthling",
-      "Gender": "Male",
-      "Date Of Death": "May 12, Age 750 Age 749 [ 1",
-      "Occupation": "Military Leader",
-      "Address": "Red Ribbon Army Headquarters",
-      "Famconnect": "Magenta (son) Pet cat",
-      "Counterparts": "Android 9"
-    },
-    "source_url": "https://dragonball.fandom.com/wiki/Commander_Red"
-  },
-  {
-    "name": "Auta Magetta",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/b/b6/AutaMagetta.png",
-    "description": "Despite heavily resembling a robot, he is not one. He has a large build and clunky stature. His chest, lower jaw, wrists, and ankles are all silver in color and the rest of his body is bronze and purple. He has a pair of glowing cyan eyes and two transparent reactor cores that contain magma, which essentially are his hearts. Magetta also has a steam pipe on top of his head which sets off when he is feeling tense.",
-    "role": "Martial Artist",
-    "attributes": {
-      "Image": "Anime",
-      "Altname": "Goldoma",
-      "Appears In": "Dragon Ball Super Super Dragon Ball Heroes",
-      "Manga Debut": "\" Warriors from Universe 6 \"",
-      "Anime Debut": "\" The Matches Begin! We're All Off to the \"Planet with No Name!\" \"",
-      "Game Debut": "Dragon Ball Heroes",
-      "Race": "Metalman",
-      "Gender": "Male",
-      "Date Of Death": "Age 780",
-      "Occupation": "Martial Artist",
-      "Allegiance": "Team Universe 6"
-    },
-    "source_url": "https://dragonball.fandom.com/wiki/Auta_Magetta"
-  },
-  {
-    "name": "Future Scratch",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/0/02/FutureTrunks-DBSuper.png",
-    "description": "Directory:Characters→Animal→Alternate TimelineFuture ScratchAnimeManga未来のタマMirai no TamaAliasFuture TamaDebutsAppears inDragon Ball SuperManga Debut\"Future Trunks's Past\"Anime Debut\"SOS from the Future: A Dark New Enemy Appears!\"CharacteristicsRaceCatGenderMaleDeath Date(s)Age 796Professional StatusAllegianceDragon Team(support)Capsule CorporationAddressWST 3338926 K.Personal StatusRelativesFuture Dr. Brief(former owner)FutureBikini(former owner)Future Bulma(former owner)Future Vegeta(former ...",
-    "role": "Main Character",
-    "attributes": {
-      "Image": "Anime",
-      "Manga Debut": "\" Future Trunks's Past \"",
-      "Anime Debut": "\" SOS from the Future: A Dark New Enemy Appears! \"",
-      "Race": "Cat",
-      "Gender": "Male",
-      "Date Of Death": "Age 796 [ 1",
-      "Allegiance": "Dragon Team (support) Capsule Corporation",
-      "Famconnect": "Future Dr. Brief (former owner) Future Bikini (former owner) Future Bulma (former owner) Future Vegeta (former owner) Future Trunks (owner) Future Mai (owner) Dr. Brief (current owner; manga only",
-      "Counterparts": "Scratch"
-    },
-    "source_url": "https://dragonball.fandom.com/wiki/Future_Scratch"
-  },
-  {
-    "name": "Angila",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/9/95/Angira.JPG",
-    "description": "AngilaアンギラAngiraAnime nameAngilaDebutsAppears inDragon Ball ZSuper Dragon Ball HeroesManga Debut\"Begin! Super Space-Time Tournament\"Movie DebutDragon Ball Z: Lord SlugGame DebutDragon Ball HeroesCharacteristicsRaceSlug-jinDeath Date(s)Age 762Professional StatusOccupationElite SoldierAllegianceSlug's Demon Clan(Team 8)Personal Status",
-    "role": "Elite Soldier",
-    "attributes": {
-      "Aniname": "Angila",
-      "Appears In": "Dragon Ball Z Super Dragon Ball Heroes",
-      "Manga Debut": "\" Begin! Super Space-Time Tournament \"",
-      "Race": "Slug-jin",
-      "Date Of Death": "Age 762",
-      "Allegiance": "Slug's Demon Clan ( Team 8"
-    },
-    "source_url": "https://dragonball.fandom.com/wiki/Angila"
-  },
-  {
-    "name": "Xeno Lord Slug",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/6/6f/LSlug2.jpg",
-    "description": "Xeno Lord SlugAnimeMangaスラッグ：ゼノSuraggu: ZenoAliasSlug: XenoLord SlugSlug (Xeno)Slug (by Nail and Kami)DebutsAppears inSuper Dragon Ball HeroesManga Debut\"The Dark Giant\"Game DebutDragon Ball HeroesCharacteristicsRaceDemonicNamekianBirth DateAge 261Death Date(s)Age 762Professional StatusOccupationDemon ClansmenAllegianceDark Dragon BallsSlug's Demon ClanPersonal StatusCounterpartsLord Slug",
-    "role": "Demon Clansmen",
-    "attributes": {
-      "Image": "Anime",
-      "Altname": "Slug: Xeno Lord Slug Slug (Xeno) Slug (by Nail and Kami) [ 1",
-      "Manga Debut": "\" The Dark Giant \"",
-      "Race": "Demonic Namekian",
-      "Date Of Birth": "Age 261",
-      "Date Of Death": "Age 762",
-      "Allegiance": "Dark Dragon Balls Slug's Demon Clan",
-      "Counterparts": "Lord Slug"
-    },
-    "source_url": "https://dragonball.fandom.com/wiki/Xeno_Lord_Slug"
-  },
-  {
-    "name": "Pasta",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/d/dc/Pasta_-_Blood_Rubies_-_002.png",
-    "description": "PastaパスタPasutaAnime namePastaAliasRavenAldeviaMaliliaGurumes Warrioress PastaDebutsAppears inDragon BallMovie DebutDragon Ball: Curse of the Blood RubiesGame DebutDragon Ball Z: Dokkan BattleCharacteristicsRaceEarthlingGenderFemaleProfessional StatusAllegianceGurumes ArmyPersonal Status",
-    "role": "Villain",
-    "attributes": {
-      "Aniname": "Pasta",
-      "Altname": "Raven Aldevia Malilia Gurumes Warrioress Pasta",
-      "Race": "Earthling",
-      "Gender": "Female"
-    },
-    "source_url": "https://dragonball.fandom.com/wiki/Pasta_(Gurumes_Army)"
-  },
-  {
-    "name": "Roasie",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/1/1a/Suunewpiic.png",
-    "description": "Roasie(ロージィ,Rōjī), whose real name isSous Roas(スー・ロース,Sū Rōsu)in the anime, is a warrior fromUniverse 2and a member of theKamikaze Fireballs.",
-    "role": "Member of the Kamikaze Fireballs",
-    "attributes": {
-      "Image": "Anime",
-      "Aniname": "Sous Roas",
-      "Manganame": "Rozie",
-      "Altname": "Su Roas Roasie Rozie Magical Girl Rozie Logi Lougi",
-      "Appears In": "Dragon Ball Super",
-      "Manga Debut": "\" Universe Survival! The Tournament of Power Begins!! \"",
-      "Anime Debut": "\" The Time Has Come! To the Null Realm with the Universes on the Line! \"",
-      "Game Debut": "Dragon Ball Z: Dokkan Battle",
-      "Gender": "Female",
-      "Date Of Death": "Age 780",
-      "Occupation": "Member of the Kamikaze Fireballs",
-      "Allegiance": "Kamikaze Fireballs Team Universe 2",
-      "Counterparts": "Zarbuto"
-    },
-    "source_url": "https://dragonball.fandom.com/wiki/Roasie"
-  },
-  {
-    "name": "World Tournament Chairman",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/b/bf/World_Tournament_Chairman_DB_Ep_21_001.png",
-    "description": "The Tournament Chairman is said to have an important announcement to make and is handed the microphone by theWorld Tournament Announcerbefore the final matches of the21st World Martial Arts Tournamentstart. However, he simply says\"Woof\". It is assumed that he keeps his duty as the Chairman but is never seen in the series again after the 21st World Martial Arts Tournament. His actual name is never revealed, and he is only referred to as the \"Tournament Chairman\".",
-    "role": "Chairman",
-    "attributes": {
-      "Image": "Anime",
-      "Altname": "Chairman Tenkaichi Budokai Chairman World Martial Arts Tournament Chairman",
-      "Appears In": "Dragon Ball",
-      "Manga Debut": "\" The Battle is Set!! \"",
-      "Anime Debut": "\" Smells Like Trouble \"",
-      "Race": "Animal Type Earthling ( Dog",
-      "Gender": "Male",
-      "Date Of Death": "May 8, Age 774 Age 779",
-      "Occupation": "Chairman",
-      "Address": "Papaya Island"
-    },
-    "source_url": "https://dragonball.fandom.com/wiki/World_Tournament_Chairman"
-  },
-  {
-    "name": "Sunglasses Crocodile",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/3/34/Sunglasses_Crocodile.png",
-    "description": "Sunglasses CrocodileワニWaniAliasAligatorAligator with sunglassesDebutsAppears inDragon BallDragon Ball ZAnime Debut\"The Nimbus Cloud of Roshi\"CharacteristicsRaceAnimal Type Earthling(Crocodile)GenderMaleBirth DateAge 725Professional StatusAllegianceToad WarriorsAddressKame House(Formerly)Prison(Formerly)Personal Status",
-    "role": "Villain",
-    "attributes": {
-      "Altname": "Aligator Aligator with sunglasses",
-      "Appears In": "Dragon Ball Dragon Ball Z",
-      "Anime Debut": "\" The Nimbus Cloud of Roshi \"",
-      "Race": "Animal Type Earthling ( Crocodile",
-      "Gender": "Male",
-      "Date Of Birth": "Age 725",
-      "Allegiance": "Toad Warriors [ 1",
-      "Address": "Kame House (Formerly) Prison (Formerly"
-    },
-    "source_url": "https://dragonball.fandom.com/wiki/Sunglasses_Crocodile"
+    "source_url": "https://dragonball.fandom.com/wiki/Good_Supreme_Demon_King"
   }
 ]

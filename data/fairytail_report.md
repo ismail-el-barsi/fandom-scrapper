@@ -1,6 +1,6 @@
 # Rapport de Scraping pour : fairytail
 - **Statut :** ✅ SUCCÈS - 50 fiches valides (minimum requis: 10)
-- **Temps total :** 87.12s
+- **Temps total :** 76.41s
 - **Catégories testées :** 1 (Catégorie principale)
 - **Catégorie utilisée :** Catégorie principale
 - **Liens trouvés :** 157
@@ -20,7 +20,7 @@
 - 📝 Avec description valide : 50/50 (100.0%)
 - 🏷️ Avec rôle spécifique : 50/50 (100.0%)
 - 🔖 Avec attributs : 50/50 (100.0%)
-- 📈 Nombre moyen d'attributs : 12.6
+- 📈 Nombre moyen d'attributs : 13.5
 
 **Système de nettoyage :** ✅ Améliorations activées
 - Détection de valeurs tronquées

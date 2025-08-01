@@ -1,14 +1,80 @@
 [
   {
-    "name": "Thirteen Sovereign Lords",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Thirteen_Sovereign_Lords.png",
-    "description": "The Thirteen Lords were artificial intelligence rulers created by the Pyro Dragon SovereignXiuhcoatl, each of whom governed over an individual territory in Natlantea. On occasion, they would gather together in a council called theChamber of Deliberation, presided over by the First Lord as Speaker, to deliberate and vote on certain matters. They and Xiuhcoatl survived the invasion ofTeyvatby theHeavenly Principlesthrough hiding inside the underground city ofTollan.",
+    "name": "The Wild Hunt",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/f/f6/Song_of_the_Welkin_Moon_The_Wild_Hunt.png",
+    "description": "SinceNod-Kraiwas the first area to be affected by thecataclysmafterKhaenri'ah, the Abyssal forces that exist there are extraordinarily powerful; these forces gather to form an Abyssal calamity known as the \"Wild Hunt\".They have an unnamed leader.",
     "role": "Game Character",
     "attributes": {
-      "Leader": "Xiuhcoatl",
-      "Region": "Natlan"
+      "Affiliation": "Abyss",
+      "Region": "Nod-Krai"
     },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Thirteen_Sovereign_Lords"
+    "source_url": "https://genshin-impact.fandom.com/wiki/The_Wild_Hunt"
+  },
+  {
+    "name": "Ministry of Civil Affairs",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Ministry_of_Civil_Affairs.png",
+    "description": "Ministry of Civil AffairsPoint of InterestWorld MapTeyvatLocationFeiyun Slope,Liyue Harbor,Sea of Clouds,LiyueTheMinistry of Civil Affairsis a government organization under theLiyue Qixingand is headquartered inLiyue Harbor. It is comprised of various departmentsand will sometimes command theMillelithto ensure public safety.",
+    "role": "Game Character",
+    "attributes": {
+      "Map": "Teyvat",
+      "Type": "Feiyun Slope , Liyue Harbor , Sea of Clouds , Liyue"
+    },
+    "source_url": "https://genshin-impact.fandom.com/wiki/Ministry_of_Civil_Affairs"
+  },
+  {
+    "name": "Corps of Thirty",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/6/61/Item_Athelwood_Metal_Buckler.png",
+    "description": "Corps of ThirtyLeader(s)Rukh Shah(Parchamdar)Asfand(Consultant)DetailsBaseCitadel of Regzar,Sumeru CityRegionSumeruTheCorps of Thirtyis the military and peace-keeping force ofSumeru Cityhired bySumeru Akademiya. They are not an officially institutionalized military, but rather a permanently hired mercenary brigade of theEremites. Their headquarters are the barracks stationed at theCitadel of Regzarin the center of the city.",
+    "role": "Game Character",
+    "attributes": {
+      "Leader": "Rukh Shah (Parchamdar) Asfand (Consultant",
+      "Base": "Citadel of Regzar , Sumeru City",
+      "Region": "Sumeru"
+    },
+    "source_url": "https://genshin-impact.fandom.com/wiki/Corps_of_Thirty"
+  },
+  {
+    "name": "Maison Gardiennage",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Item_%22Yet_Another_Discussion%22.png",
+    "description": "The Maison Gardiennage is responsible for public order and safety. Their main force is composed ofGardesandGardemeks. They have two special branches: One is known as the Special Security and Surveillance Patrol; they handle particularly difficult affairs that ordinary Gardes would struggle with.The other is theMarechaussee Phantom, which is primarily responsible for investigation and answers directly to theChief Justice.",
+    "role": "Game Character",
+    "attributes": {
+      "Base": "Palais Mermonia , Court of Fontaine",
+      "Region": "Fontaine"
+    },
+    "source_url": "https://genshin-impact.fandom.com/wiki/Maison_Gardiennage"
+  },
+  {
+    "name": "Church of Favonius",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Favonius_Cathedral_Exterior.png",
+    "description": "Church of FavoniusLeader(s)Seamus PeggAffil­i­a­tionKnights of FavoniusDetailsRegionMondstadtTheChurch of Favonius,managed by theKnights of Favonius,is an organization whose members are the devoted adherents of theAnemo Archon. They manage theFavonius Cathedral, where many of its members work and pray.",
+    "role": "Game Character",
+    "attributes": {
+      "Region": "Mondstadt"
+    },
+    "source_url": "https://genshin-impact.fandom.com/wiki/Church_of_Favonius"
+  },
+  {
+    "name": "Four Winds",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/da/Symbol_Wolf_of_the_North.png",
+    "description": "Four WindsNorthSouthEastWestWolf of the NorthLion of the SouthDragon of the EastFalcon of the WestDetailsBaseMondstadtRegionMondstadtTheFour Windsare four entities that theAnemoArchon,Barbatos, entrusted the safety and protection ofMondstadtto before he disappeared a thousand years ago. They consist of the Wolf of the North, the Lion of the South, the Dragon of the East, and the Falcon of the West.",
+    "role": "Game Character",
+    "attributes": {
+      "Image": "North South East West Wolf of the North Lion of the South Dragon of the East Falcon of the West",
+      "Base": "Mondstadt",
+      "Region": "Mondstadt"
+    },
+    "source_url": "https://genshin-impact.fandom.com/wiki/Four_Winds"
+  },
+  {
+    "name": "Voynich Guild",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Song_of_the_Welkin_Moon_Voynich_Guild.png",
+    "description": "Voynich GuildDetailsRegionNod-KraiTheVoynich Guildis an organization fromSnezhnaya. According toLiben, it is the \"strongest force\" inNod-Kraithat is located in the southernmost part of Snezhnaya. The people of the Voynich Guild comprise of merchants fromNasha Town, which is also the guild's main base of operations.",
+    "role": "Game Character",
+    "attributes": {
+      "Region": "Nod-Krai"
+    },
+    "source_url": "https://genshin-impact.fandom.com/wiki/Voynich_Guild"
   },
   {
     "name": "Daiya",
@@ -24,62 +90,80 @@
     "source_url": "https://genshin-impact.fandom.com/wiki/Daiya"
   },
   {
-    "name": "Dawn Winery",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Item_Newly_Grown_Grapevines.png",
-    "description": "The estate itself is situated in the south-western reaches of the Mondstadt region, betweenSpringvaleand the Stone Gate toLiyue. It is comprised of thecentral two-story manoratop a small hill around which the vineyard itself is circling in several rows, as well as a handful of small storage sheds and single-story buildings in the vicinity.",
+    "name": "Arataki Gang",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Arataki_Gang.png",
+    "description": "Everyone in the Arataki Gang has a good heart, and only mean the best for other people. However, its members (with the exception of Kuki Shinobu) are not very intelligent, and in the process of trying to promote the gang and help their community, they often end up accidentally causing trouble, resulting in the members frequently getting arrested. The various acts of mischief that have gotten in the gang in trouble include, but are not limited to: Posting unauthorized flyers, hosting unapprove...",
     "role": "Game Character",
     "attributes": {
-      "Leader": "Diluc Ragnvindr",
-      "Base": "Dawn Winery",
-      "Region": "Mondstadt"
-    },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Dawn_Winery/Lore"
-  },
-  {
-    "name": "Liyue Qixing",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/8/89/Liyue_Qixing.png",
-    "description": "TheLiyue Qixing(Chinese:璃月七星Líyuè Qīxīng, \"Seven Stars of Liyue\") is a committee made up of seven merchants and business leaders who governLiyue,specializing within the commerce and trade sectors. The job of the Qixing is to implement the policies laid out by theGeoArchonMoraxand manage the day to day governance of the region of Liyue.",
-    "role": "Game Character",
-    "attributes": {
-      "Base": "Yuehai Pavilion, Liyue Harbor",
-      "Region": "Liyue"
-    },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Liyue_Qixing"
-  },
-  {
-    "name": "Tenryou Commission",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Tenryou_Commission_Headquarters.png",
-    "description": "Tenryou CommissionLeader(s)Kujou Kamaji(acting/Proxy Clan Head)Kujou SaraKujou MasahitoKujou Takayuki(formerly)Affil­i­a­tionInazuma ShogunateParent Fac­tion(s)Tri-CommissionDetailsBaseInazumaRegionInazumaTheTenryou Commission(Japanese:天領奉行Tenryou-bugyou) of theTri-Commissionis the executive arm of theRaiden Shogun. It is led by theKujou Clanand is responsible for managing security and military affairs, including enforcement of theVision Hunt Decree,enforcement of theSakoku Decree,Compared to...",
-    "role": "Game Character",
-    "attributes": {
-      "Leader": "Kujou Kamaji (acting/Proxy Clan Head) Kujou Sara Kujou Masahito Kujou Takayuki (formerly",
-      "Base": "Inazuma",
+      "Affiliation": "Arataki Itto",
+      "Founder": "Arataki Itto",
+      "Base": "Hanamizaka",
       "Region": "Inazuma"
     },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Tenryou_Commission"
+    "source_url": "https://genshin-impact.fandom.com/wiki/Arataki_Gang"
   },
   {
-    "name": "Sumeru Akademiya",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Sumeru_Akademiya_Emblem.png",
-    "description": "The Akademiya accepts students from all over Teyvat and often sends traveling scholars, known as Driyosh, to other nations to gather material for research. It is unknown how long the Akademiya has existed, but it was already a prestigious institute by the time of thecataclysm500 years ago.According toDainsleif, the Akademiya is a millennia-old institution, meaning it was founded over 1000 years ago.The Akademiya also takes a role as a governing body of Sumeru handling much of the day-to-day a...",
+    "name": "Benny's Adventure Team",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/BennysAdventureTeam-RoyceBennett.jpg",
+    "description": "Benny's Adventure Team is led by Bennett, a young adventurer with notoriously bad luck. Although it previously had three other members, they left after incidents that they attributed to his luck.Jack, who initially thought the rumors of \"Unlucky Bennett\" were just a joke,left after a traumatizing incident involving a rareGeoTurbulence.Royceabandoned the team afterKleeof theKnights of Favoniusmistook a cave that Benny's Adventure Team was exploring as a rabbit hole and blew it up. Another memb...",
     "role": "Game Character",
     "attributes": {
-      "Leader": "Lesser Lord Kusanali Six Great Sages",
-      "Subfaction": "Matra",
-      "Region": "Sumeru"
+      "Leader": "Bennett"
     },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Sumeru_Akademiya"
+    "source_url": "https://genshin-impact.fandom.com/wiki/Benny%27s_Adventure_Team"
   },
   {
-    "name": "Rtawahist",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Sumeru_Akademiya_Rtawahist.png",
-    "description": "Its school color is blue.Azarwas formerly its sage and also formerly the Grand Sage of the Akademiya. The mascot on its symbol resembles an elephant.",
+    "name": "Hexenzirkel",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Song_of_the_Welkin_Moon_Hexenzirkel.png",
+    "description": "According toSkirk,Rhinedottiris similar to Skirk's masterSurtalogi, in that they are both \"pursuing some form of perfection.\" Rhinedottir is well known for her practice of theArt of Khemia, which she used to create beings such asAlbedo,Durin, and theRifthounds. She was also described as \"a flower that is not of this world,\"suggesting that she does not originate from Teyvat.",
     "role": "Game Character",
     "attributes": {
-      "Affiliation": "Sumeru Akademiya",
-      "Region": "Sumeru"
+      "Founder": "Alice"
     },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Rtawahist"
+    "source_url": "https://genshin-impact.fandom.com/wiki/Hexenzirkel"
+  },
+  {
+    "name": "Yaksha",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Yakshas_-_Trailer.png",
+    "description": "YakshaLeader(s)Rex LapisBosaciusDetailsRegionLiyueYakshaswere a race of particularly fierceilluminated beasts,both in appearance and their martial prowess. To quell the lingering hatred of fallen gods from theArchon War, which caused plagues, curses, and miasmas all overLiyue,Moraxcalled upon the yakshas to help. They waged a never-ending war against the monsters and other such manifestations of the gods' hatred.",
+    "role": "Game Character",
+    "attributes": {
+      "Leader": "Rex Lapis Bosacius",
+      "Region": "Liyue"
+    },
+    "source_url": "https://genshin-impact.fandom.com/wiki/Yaksha"
+  },
+  {
+    "name": "Frostmoon Scions",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Song_of_the_Welkin_Moon_Frostmoon_Scions.png",
+    "description": "The Frostmoon Scions worship theFrost Moonas their \"Moon Goddess\".They once abandoned their ancient homeland inHyperborea, finding new homes among the mountains and forests inNod-Krai. They appear in an area known asHiisi Island.According toHelka, they are completely unlike the people ofNasha Town, and they have created statues all over Nod-Krai.",
+    "role": "Game Character",
+    "attributes": {
+      "Region": "Nod-Krai"
+    },
+    "source_url": "https://genshin-impact.fandom.com/wiki/Frostmoon_Scions"
+  },
+  {
+    "name": "Maison Ordalie",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Neuvillette_Icon.png",
+    "description": "Maison OrdalieLeader(s)NeuvilletteDetailsBasePalais Mermonia,Court of FontaineRegionFontaineTheMaison Ordalieis the governmental organization responsible for the management of the judicial system ofFontaine.It is led by the incumbent Chief Justice of Fontaine,Neuvillette.",
+    "role": "Game Character",
+    "attributes": {
+      "Base": "Palais Mermonia , Court of Fontaine",
+      "Region": "Fontaine"
+    },
+    "source_url": "https://genshin-impact.fandom.com/wiki/Maison_Ordalie"
+  },
+  {
+    "name": "The Crux",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/0/0c/Alcor.png",
+    "description": "The Crux divides its crew into 2 teams:The Shield of the CruxandThe Spear of the Crux. The Spear of the Crux consists of individuals that is trained in and responsible for naval warfare as well as handling cargo deals. Those assigned in The Shield, on the other hand, are the ones trained and specialized in comprehensive survival skills to ensure safe navigation. These skills include, but not limited to, maritime emergency rescue, cartography, marine meteorology, and psychological counseling. ...",
+    "role": "Game Character",
+    "attributes": {
+      "Leader": "Beidou (Captain) Juza (Chief Mate/Acting Leader",
+      "Region": "Liyue"
+    },
+    "source_url": "https://genshin-impact.fandom.com/wiki/The_Crux"
   },
   {
     "name": "Wangsheng Funeral Parlor",
@@ -94,109 +178,72 @@
     "source_url": "https://genshin-impact.fandom.com/wiki/Wangsheng_Funeral_Parlor"
   },
   {
-    "name": "Hexenzirkel",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Song_of_the_Welkin_Moon_Hexenzirkel.png",
-    "description": "According toSkirk,Rhinedottiris similar to Skirk's masterSurtalogi, in that they are both \"pursuing some form of perfection.\" Rhinedottir is well known for her practice of theArt of Khemia, which she used to create beings such asAlbedo,Durin, and theRifthounds. She was also described as \"a flower that is not of this world,\"suggesting that she does not originate from Teyvat.",
+    "name": "Gardemek",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Gardemek.png",
+    "description": "While Clockwork Meka in general can be used by anyone, Gardemeks can be privately owned, albeit only by the wealthiest amongst the citizenry.Each Gardemek also has a serial number associated with it as to ensure for accountability.Gardemeks owned by the Maison Gardiennage are pre-programmed to complete tasks assigned to them and thus cannot be fully controlled by a human Garde. For this reason, the Special Patrol are not fond of Gardemeks, as their rigid movement and large size often block th...",
     "role": "Game Character",
     "attributes": {
-      "Founder": "Alice"
-    },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Hexenzirkel"
-  },
-  {
-    "name": "Yun-Han Opera Troupe",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Item_Pear_Orchard_Percussion_Gong_on_the_Dot.png",
-    "description": "At some point in theYun Family's history, they began pursuing Liyue Opera as a family tradition instead of weaponsmithing, which their family was famous for around 500 years ago. By the time of Yun Jin's grandfather, the Yun-Han Opera Troupe was established.",
-    "role": "Game Character",
-    "attributes": {
-      "Leader": "Yun Jin",
-      "Region": "Liyue"
-    },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Yun-Han_Opera_Troupe"
-  },
-  {
-    "name": "Watatsumi Army",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Fort_Fujitou_internal.png",
-    "description": "Watatsumi ArmyInternal view of Fort FujitouLeader(s)Sangonomiya KokomiDetailsBaseWatatsumi IslandFort Fujitou,Yashiori IslandRegionInazumaTheWatatsumi Army, also known asthe resistance, is anInazumanresistance organization led bySangonomiya Kokomithat opposes theVision Hunt Decree. It is comprised of those who fear losing or have already lost theirVisionsto theTenryou Commission, and those who are against theVision Hunt Decreewhether they have Visions themselves or not. The resistance is base...",
-    "role": "Game Character",
-    "attributes": {
-      "Base": "Watatsumi Island Fort Fujitou , Yashiori Island",
-      "Region": "Inazuma"
-    },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Watatsumi_Army"
-  },
-  {
-    "name": "Temple of Silence",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/After_Repose_Drawing.png",
-    "description": "Not much is currently known regarding the Temple of Silence. It is depicted to be a part of theAkademiyain the second volume ofA Thousand Nights, wherein envoys from the Temple of Silence approached aVahumanaDastur to inform him of his mentor's death and his promotion to Herbad. Notably,Cynois affiliated with the Temple of Silence according to his in-game profile, and an unnamed member of the Temple of Silence has commented onAlhaitham's default outfit,The Rational. At the Akademiya, the Temp...",
-    "role": "Game Character",
-    "attributes": {
-      "Leader": "Cyno (de facto, Vessel of Hermanubis) Sethos (appointed",
-      "Affiliation": "Sumeru Akademiya",
-      "Founder": "Hermanubis",
-      "Base": "Temple of Silence (Instance",
-      "Region": "Sumeru"
-    },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Temple_of_Silence"
-  },
-  {
-    "name": "Communications Office",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Hezhe_Post.png",
-    "description": "Communications OfficeAffil­i­a­tionEight TradesSubor­di­nate Fac­tion(s)Sword and Strongbox Secure Transport Agency (Faction)DetailsBaseHezhe PostRegionLiyueTheCommunications Officeis one of theEight Tradesunder the jurisdiction of theLiyue Qixing, specializing in transportation.",
-    "role": "Game Character",
-    "attributes": {
-      "Base": "Hezhe Post",
-      "Region": "Liyue"
-    },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Communications_Office"
-  },
-  {
-    "name": "Lochknight",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Lochknight_Symbol.png",
-    "description": "TheLochknightswere a group of knights who were charged with the duty of protectingOceanids. They were also one of the rebel groups led by the LochknightErinnyesto resistRemus' rule overRemuria.",
-    "role": "Game Character",
-    "attributes": {
-      "Affiliation": "Remuria",
+      "Image": "Type 1",
+      "Base": "Fontaine",
       "Region": "Fontaine"
     },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Lochknight"
+    "source_url": "https://genshin-impact.fandom.com/wiki/Gardemek"
   },
   {
-    "name": "Mighty Mythical Beasts",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Mighty_Mythical_Beasts_Faction.png",
-    "description": "Gaming formally founded the Mighty Mythical Beasts soon after meeting his suanni companionMan Chai.His goal for the troupe is to popularize Wushou Dance inLiyue Harbor. Gaming works hard to promote the troupe however he can, including by busking and recommending them to histransport agencyclientele. The Mighty Mythical Beasts haven't yet seen much professional success, but their recent performance at Liyue'sLantern Ritewas very well received.",
+    "name": "Garde",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Garde_Emblem.png",
+    "description": "GardeLeader(s)GrosrochardDetailsBaseFontaineRegionFontaineGardesare the officers who are in charge of maintaining the security inFontaineregions includingCourt of Fontainealong with theGardemeks. They are associated withMaison Gardiennage.",
     "role": "Game Character",
     "attributes": {
-      "Leader": "Gaming",
-      "Region": "Liyue"
+      "Base": "Fontaine",
+      "Region": "Fontaine"
     },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Mighty_Mythical_Beasts"
+    "source_url": "https://genshin-impact.fandom.com/wiki/Garde"
   },
   {
-    "name": "Kanjou Commission",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/7/70/Kanjou_Commission.png",
-    "description": "Kanjou CommissionLeader(s)Hiiragi Chisato(acting/Proxy Clan Head)Hiiragi Shinsuke(formerly)Hiiragi ClanAffil­i­a­tionInazuma ShogunateTri-CommissionDetailsBaseInazumaRegionInazumaTheKanjou Commission(Japanese:勘定奉行Kanjou-bugyou) is the authority who managesInazuma's finances, customs, and borders and is one of the three organizations that comprise theTri-Commission.They work with theInazuma Shogunateunder the rule of theRaiden Shogun. It is led by theHiiragi Clan, who are based inRitou.",
+    "name": "Gourmet Supremos",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/9/90/World_Quest_Gourmet_Supremos%2C_Assemble%21.png",
+    "description": "Gourmet SupremosLeader(s)Xudong(Self-Proclaimed)TheGourmet Supremosis a group initially comprised of three friends who travel around the world in a quest to improve theirculinary skills. After completingThe Gourmet Supremos: The Importance of Eating Well,Kamei Munehisajoins the group as their bodyguard and fourth member.",
     "role": "Game Character",
     "attributes": {
-      "Leader": "Hiiragi Chisato (acting/Proxy Clan Head) Hiiragi Shinsuke (formerly) Hiiragi Clan",
-      "Affiliation": "Inazuma Shogunate Tri-Commission",
-      "Base": "Inazuma",
-      "Region": "Inazuma"
+      "Leader": "Xudong (Self-Proclaimed"
     },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Kanjou_Commission"
+    "source_url": "https://genshin-impact.fandom.com/wiki/Gourmet_Supremos"
   },
   {
-    "name": "Treasure Hoarders",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Treasure_Hoarder_Emblem.png",
-    "description": "Originating fromNod-Krai, the Treasure Hoarders are a group of bandits that can be found across numerous locations inTeyvat, especially in ruins. Renowned for their Ravenwing motif, all members have their own reason of joining the criminal organization, but it is usually attributed either illegal activities or a lack of stable income. Not all members get along though, as some of them are more looked down upon than others. To protect their identities from law enforcement, most members wear a f...",
+    "name": "Adventurers' Guild",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Icon_Adventurers%27_Guild.png",
+    "description": "Each adventurer is issued an Adventure Handbook, which is presumably, at the least, used to record their completed commissions and part of the system the Guild uses to pay out commission rewards. Once a Handbook is full, the adventurer can get a new one. Each Adventure Handbook has a unique serial number, which is also recorded when issued to an adventurer. It is unknown if old Handbooks are kept by the Guild, but their serial numbers become part of the adventurer's file.",
     "role": "Game Character",
     "attributes": {
-      "Leader": "Freckle Huang (Liyue Branch) [ 1",
-      "Founder": "Reed Miller",
-      "Base": "All of Teyvat , mostly in Liyue",
+      "Leader": "Cyrus (Mondstadt Branch Master) Lan (Liyue Branch Master) Kamal (Sumeru Branch Master) Mansa (Natlan Branch Master",
+      "Base": "Snezhnaya",
+      "Region": "Teyvat"
+    },
+    "source_url": "https://genshin-impact.fandom.com/wiki/Adventurers%27_Guild"
+  },
+  {
+    "name": "Eleven Fatui Harbingers",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/The_Eleven_Fatui_Harbingers.png",
+    "description": "TheEleven Fatui Harbingersare the executive heads of theFatuiwho have been given god-like authority by theTsaritsa, and with it, strength surpassing that of other mortals.They also have had their abilities boosted with theDelusionsgranted to them by the Tsaritsa, which makes them far more powerful than normalallogenes. Each Harbinger leads their own division within the Fatui.",
+    "role": "Game Character",
+    "attributes": {
+      "Type": "Factions Lore",
+      "Affiliation": "Fatui",
       "Region": "Snezhnaya"
     },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Treasure_Hoarders"
+    "source_url": "https://genshin-impact.fandom.com/wiki/Eleven_Fatui_Harbingers"
+  },
+  {
+    "name": "Schwanenritter",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Unknown_Icon.png",
+    "description": "King Irmin used knowledge from \"beyond the skies\" to create machines which could defy this world's laws. This knowledge, which was very likelyforbidden knowledge, eventually culminated in an onslaught of dark beasts which ravaged Khaenri'ah. Around this time, Irmin was left incapable of ruling, so Anfortas declared himself Regent and took Irmin's place at the Regnum Concilium Ultimum.",
+    "role": "Game Character",
+    "attributes": {
+      "Leader": "Knight Marshal Anfortas [ Note 1",
+      "Region": "Khaenri'ah"
+    },
+    "source_url": "https://genshin-impact.fandom.com/wiki/Schwanenritter"
   },
   {
     "name": "Fruity Order",
@@ -210,106 +257,77 @@
     "source_url": "https://genshin-impact.fandom.com/wiki/Fruity_Order"
   },
   {
-    "name": "Maison Ordalie",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Neuvillette_Icon.png",
-    "description": "Maison OrdalieLeader(s)NeuvilletteDetailsBasePalais Mermonia,Court of FontaineRegionFontaineTheMaison Ordalieis the governmental organization responsible for the management of the judicial system ofFontaine.It is led by the incumbent Chief Justice of Fontaine,Neuvillette.",
+    "name": "Forest Rangers",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Tighnari_Icon.png",
+    "description": "They are responsible for helping travelers in need as well as preserving the ecosystem of Sumeru's rainforests, for example by suppressingWithering Zonesand monitoring beast populations. They also send regular reports about the state of Avidya Forest to the researchers ofPardis Dhyai, who in turn provide them with various ecological support, such as seeds and nutrients.",
     "role": "Game Character",
     "attributes": {
-      "Base": "Palais Mermonia , Court of Fontaine",
+      "Base": "Gandharva Ville , Sumeru",
+      "Region": "Sumeru"
+    },
+    "source_url": "https://genshin-impact.fandom.com/wiki/Forest_Rangers"
+  },
+  {
+    "name": "Lochknight",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Lochknight_Symbol.png",
+    "description": "TheLochknightswere a group of knights who were charged with the duty of protectingOceanids. They were also one of the rebel groups led by the LochknightErinnyesto resistRemus' rule overRemuria.",
+    "role": "Game Character",
+    "attributes": {
+      "Affiliation": "Remuria",
       "Region": "Fontaine"
     },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Maison_Ordalie"
+    "source_url": "https://genshin-impact.fandom.com/wiki/Lochknight"
   },
   {
-    "name": "Four Winds",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/da/Symbol_Wolf_of_the_North.png",
-    "description": "Four WindsNorthSouthEastWestWolf of the NorthLion of the SouthDragon of the EastFalcon of the WestDetailsBaseMondstadtRegionMondstadtTheFour Windsare four entities that theAnemoArchon,Barbatos, entrusted the safety and protection ofMondstadtto before he disappeared a thousand years ago. They consist of the Wolf of the North, the Lion of the South, the Dragon of the East, and the Falcon of the West.",
+    "name": "Tri-Commission",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Tenryou_Commission_Headquarters.png",
+    "description": "The Tri-Commission meets together atTenshukakuto decide on government affairs. In the Archon QuestA Flower Blooms in a Prison,Kamisato Ayakasays that whenever theYashiro Commissionmade a proposal to repeal theVision Hunt Decree, it was promptly vetoed by both theTenryou Commissionand theKanjou Commission. This implies the existence of some sort of council or committee where proposals must pass through, and that the Yashiro Commission cannot present their proposal directly to theRaiden Shogun....",
     "role": "Game Character",
     "attributes": {
-      "Image": "North South East West Wolf of the North Lion of the South Dragon of the East Falcon of the West",
-      "Base": "Mondstadt",
-      "Region": "Mondstadt"
-    },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Four_Winds"
-  },
-  {
-    "name": "Grand Narukami Shrine",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Grand_Narukami_Shrine_Emblem.png",
-    "description": "The Shrine has several responsibilities which includes assisting visitors who come to the shrine to pray to the Electro Archon, protecting theSacred Sakuraand theThunder Sakura, as well as performing rituals and ceremonial affairs, such as theSacred Sakura Cleansing Ritual. According toInagi Hotomi, many of the visitors pray for theSakoku Decreeto be lifted as it has caused them economic hardship.",
-    "role": "Game Character",
-    "attributes": {
-      "Leader": "Yae Miko",
-      "Founder": "Hakushin",
-      "Base": "Grand Narukami Shrine",
+      "Image": "Tenryou",
+      "Leader": "Kujou Clan (Head of Tenryou) Hiiragi Clan (Head of Kanjou) Kamisato Clan (Head of Yashiro",
+      "Affiliation": "Inazuma Shogunate",
+      "Subfaction": "Tenryou Commission Kanjou Commission Yashiro Commission",
+      "Base": "Inazuma",
       "Region": "Inazuma"
     },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Grand_Narukami_Shrine_(Faction)"
+    "source_url": "https://genshin-impact.fandom.com/wiki/Tri-Commission"
   },
   {
-    "name": "The Crux",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/0/0c/Alcor.png",
-    "description": "The Crux divides its crew into 2 teams:The Shield of the CruxandThe Spear of the Crux. The Spear of the Crux consists of individuals that is trained in and responsible for naval warfare as well as handling cargo deals. Those assigned in The Shield, on the other hand, are the ones trained and specialized in comprehensive survival skills to ensure safe navigation. These skills include, but not limited to, maritime emergency rescue, cartography, marine meteorology, and psychological counseling. ...",
+    "name": "Liyue Qixing",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/8/89/Liyue_Qixing.png",
+    "description": "TheLiyue Qixing(Chinese:璃月七星Líyuè Qīxīng, \"Seven Stars of Liyue\") is a committee made up of seven merchants and business leaders who governLiyue,specializing within the commerce and trade sectors. The job of the Qixing is to implement the policies laid out by theGeoArchonMoraxand manage the day to day governance of the region of Liyue.",
     "role": "Game Character",
     "attributes": {
-      "Leader": "Beidou (Captain) Juza (Chief Mate/Acting Leader",
+      "Base": "Yuehai Pavilion, Liyue Harbor",
       "Region": "Liyue"
     },
-    "source_url": "https://genshin-impact.fandom.com/wiki/The_Crux"
+    "source_url": "https://genshin-impact.fandom.com/wiki/Liyue_Qixing"
   },
   {
-    "name": "Spantamad",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Sumeru_Akademiya_Spantamad.png",
-    "description": "Its school color is red.The mascot on its symbol resembles a peacock with seven feathers and a tree beneath, possibly representing the seven elements and the Ley Lines of theIrminsultree.",
+    "name": "Dawn Winery",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Item_Newly_Grown_Grapevines.png",
+    "description": "The estate itself is situated in the south-western reaches of the Mondstadt region, betweenSpringvaleand the Stone Gate toLiyue. It is comprised of thecentral two-story manoratop a small hill around which the vineyard itself is circling in several rows, as well as a handful of small storage sheds and single-story buildings in the vicinity.",
     "role": "Game Character",
     "attributes": {
-      "Affiliation": "Sumeru Akademiya",
-      "Region": "Sumeru"
+      "Leader": "Diluc Ragnvindr",
+      "Base": "Dawn Winery",
+      "Region": "Mondstadt"
     },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Spantamad"
+    "source_url": "https://genshin-impact.fandom.com/wiki/Dawn_Winery/Lore"
   },
   {
-    "name": "Benny's Adventure Team",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/BennysAdventureTeam-RoyceBennett.jpg",
-    "description": "Benny's Adventure Team is led by Bennett, a young adventurer with notoriously bad luck. Although it previously had three other members, they left after incidents that they attributed to his luck.Jack, who initially thought the rumors of \"Unlucky Bennett\" were just a joke,left after a traumatizing incident involving a rareGeoTurbulence.Royceabandoned the team afterKleeof theKnights of Favoniusmistook a cave that Benny's Adventure Team was exploring as a rabbit hole and blew it up. Another memb...",
+    "name": "Inazuma Shogunate",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Vision_Inazuma_Electro.png",
+    "description": "TheInazuma Shogunate(Japanese:稲妻幕府Inazuma Bakufu), also simply called theShogunate, is the entity that rulesInazuma. It is led by theElectro Archon, who is also known as theRaiden Shogun. Under the Inazuma Shogunate is theTri-Commission, the group of three commissions that oversee every matter in Inazuma.",
     "role": "Game Character",
     "attributes": {
-      "Leader": "Bennett"
+      "Subfaction": "Tri-Commission : Tenryou Commission Kanjou Commission Yashiro Commission Shogun's Army",
+      "Founder": "Makoto [ 1",
+      "Base": "Tenshukaku",
+      "Region": "Inazuma"
     },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Benny%27s_Adventure_Team"
-  },
-  {
-    "name": "Matra",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Item_Chilling_Sand_Grilling.png",
-    "description": "The Matra hand out disciplinary actions to researchers who have committed serious academic offenses, such as plagiarism or misappropriation of funds. Once the Matra is made aware of the situation, they personally visit the offender, which has caused them to be feared by researchers, as most meetings with the Matra are known to go poorly.They are also the authority responsible for controls regarding Knowledge Capsules transactions,and apply a specific seal on goods that have passed their inspe...",
-    "role": "Game Character",
-    "attributes": {
-      "Leader": "Sumeru Akademiya Sages Cyno (General Mahamatra",
-      "Base": "The Akademiya",
-      "Region": "Sumeru"
-    },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Matra"
-  },
-  {
-    "name": "Kshahrewar",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Sumeru_Akademiya_Kshahrewar.png",
-    "description": "KshahrewarAffil­i­a­tionSumeru AkademiyaDetailsRegionSumeruKshahrewaris one of theSix Darshans, the six main schools ofSumeru Akademiya.",
-    "role": "Game Character",
-    "attributes": {
-      "Region": "Sumeru"
-    },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Kshahrewar"
-  },
-  {
-    "name": "Eleven Fatui Harbingers",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/The_Eleven_Fatui_Harbingers.png",
-    "description": "TheEleven Fatui Harbingersare the executive heads of theFatuiwho have been given god-like authority by theTsaritsa, and with it, strength surpassing that of other mortals.They also have had their abilities boosted with theDelusionsgranted to them by the Tsaritsa, which makes them far more powerful than normalallogenes. Each Harbinger leads their own division within the Fatui.",
-    "role": "Game Character",
-    "attributes": {
-      "Type": "Factions Lore",
-      "Affiliation": "Fatui",
-      "Region": "Snezhnaya"
-    },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Eleven_Fatui_Harbingers"
+    "source_url": "https://genshin-impact.fandom.com/wiki/Inazuma_Shogunate"
   },
   {
     "name": "Knights of Favonius",
@@ -326,82 +344,72 @@
     "source_url": "https://genshin-impact.fandom.com/wiki/Knights_of_Favonius"
   },
   {
-    "name": "Schwanenritter",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Unknown_Icon.png",
-    "description": "King Irmin used knowledge from \"beyond the skies\" to create machines which could defy this world's laws. This knowledge, which was very likelyforbidden knowledge, eventually culminated in an onslaught of dark beasts which ravaged Khaenri'ah. Around this time, Irmin was left incapable of ruling, so Anfortas declared himself Regent and took Irmin's place at the Regnum Concilium Ultimum.",
+    "name": "Thirteen Sovereign Lords",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Thirteen_Sovereign_Lords.png",
+    "description": "The Thirteen Lords were artificial intelligence rulers created by the Pyro Dragon SovereignXiuhcoatl, each of whom governed over an individual territory in Natlantea. On occasion, they would gather together in a council called theChamber of Deliberation, presided over by the First Lord as Speaker, to deliberate and vote on certain matters. They and Xiuhcoatl survived the invasion ofTeyvatby theHeavenly Principlesthrough hiding inside the underground city ofTollan.",
     "role": "Game Character",
     "attributes": {
-      "Leader": "Knight Marshal Anfortas [ Note 1",
-      "Region": "Khaenri'ah"
+      "Leader": "Xiuhcoatl",
+      "Region": "Natlan"
     },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Schwanenritter"
+    "source_url": "https://genshin-impact.fandom.com/wiki/Thirteen_Sovereign_Lords"
   },
   {
-    "name": "Maison Gardiennage",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Item_%22Yet_Another_Discussion%22.png",
-    "description": "The Maison Gardiennage is responsible for public order and safety. Their main force is composed ofGardesandGardemeks. They have two special branches: One is known as the Special Security and Surveillance Patrol; they handle particularly difficult affairs that ordinary Gardes would struggle with.The other is theMarechaussee Phantom, which is primarily responsible for investigation and answers directly to theChief Justice.",
+    "name": "Abyss Order",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Defiled_Statue.png",
+    "description": "The Abyss Order was founded byChlothar Alberich, a noble in theAlberich royal family. Some time after thecataclysm, he encountered thesinnerVedrfolnirand was greatly awed by his power. Chlothar would then go on to establish the Abyss Order. With theTraveler's Siblingeventually becoming their(‍PrincessPrincessText for male Traveler/PrincePrinceText for female Traveler‍).",
     "role": "Game Character",
     "attributes": {
-      "Base": "Palais Mermonia , Court of Fontaine",
-      "Region": "Fontaine"
+      "Leader": "Traveler's Sibling (‍ Prince Prince Text for male Traveler / Princess Princess Text for female Traveler ‍",
+      "Founder": "Chlothar",
+      "Base": "The Abyss"
     },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Maison_Gardiennage"
+    "source_url": "https://genshin-impact.fandom.com/wiki/Abyss_Order"
   },
   {
-    "name": "The Seven",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Version_5.0_Wallpaper_3.png",
-    "description": "Each Archon possesses a magic focus called aGnosis, which allows them to resonate directly withCelestia.By comparison,Visionsare \"primitive\" — though a Gnosis's capabilities and purpose, beyond acting as a symbol of an Archon's status, remain unknown. Each Archon is bound to a Divine Throne, which is composed of the elemental Authority of one of theSeven Sovereigns, and which grants them authority over the corresponding element.",
+    "name": "Four Drunkards",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/NPC_Quinn.png",
+    "description": "Four DrunkardsDetailsRegionMondstadtTheFour DrunkardsofMondstadtare a group of four individuals of Mondstadt that are known for being excessive drinkers.",
     "role": "Game Character",
     "attributes": {
-      "Base": "Celestia"
+      "Region": "Mondstadt"
     },
-    "source_url": "https://genshin-impact.fandom.com/wiki/The_Seven"
+    "source_url": "https://genshin-impact.fandom.com/wiki/Four_Drunkards"
   },
   {
-    "name": "House of the Hearth",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Arlecchino_Icon.png",
-    "description": "Orphans raised in the House of the Hearth are gathered from all over the continent, likely to make it easier for people who are ethnically from a certain nation to blend in with its people,and those who clearly belong to a certain ethnicity (such asLyudochka Snezhevna, who was ofInazumandescent) may study affairs relating to their native land from a young age.",
+    "name": "Spantamad",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Sumeru_Akademiya_Spantamad.png",
+    "description": "Its school color is red.The mascot on its symbol resembles a peacock with seven feathers and a tree beneath, possibly representing the seven elements and the Ley Lines of theIrminsultree.",
     "role": "Game Character",
     "attributes": {
-      "Leader": "Arlecchino",
-      "Affiliation": "Fatui",
-      "Region": "Snezhnaya Fontaine"
+      "Affiliation": "Sumeru Akademiya",
+      "Region": "Sumeru"
     },
-    "source_url": "https://genshin-impact.fandom.com/wiki/House_of_the_Hearth"
+    "source_url": "https://genshin-impact.fandom.com/wiki/Spantamad"
   },
   {
-    "name": "Four Shades",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Four_Shades.png",
-    "description": "Four ShadesLeader(s)Heavenly PrinciplesDetailsRegionTeyvatTheFour Shadesare fourgodswho serve directly as envoys or emissaries under theHeavenly Principles.They were created by the Heavenly Principles after they descended toTeyvatand battled against theSeven Sovereigns.",
+    "name": "Feiyun Commerce Guild",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/c5/Item_Furnishing_Set_Indoor.png",
+    "description": "TheFeiyun Commerce Guild(Chinese:飞云商会Fēiyún Shānghuì) is a powerful trading guild based inLiyue. They apparently originate fromYilong WharfinChenyu Valeand have kept their old family home there as part of their property.",
     "role": "Game Character",
     "attributes": {
-      "Region": "Teyvat"
+      "Type": "Factions",
+      "Region": "Liyue"
     },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Four_Shades"
+    "source_url": "https://genshin-impact.fandom.com/wiki/Feiyun_Commerce_Guild"
   },
   {
-    "name": "Arataki Gang",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Arataki_Gang.png",
-    "description": "Everyone in the Arataki Gang has a good heart, and only mean the best for other people. However, its members (with the exception of Kuki Shinobu) are not very intelligent, and in the process of trying to promote the gang and help their community, they often end up accidentally causing trouble, resulting in the members frequently getting arrested. The various acts of mischief that have gotten in the gang in trouble include, but are not limited to: Posting unauthorized flyers, hosting unapprove...",
+    "name": "Temple of Silence",
+    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/After_Repose_Drawing.png",
+    "description": "Not much is currently known regarding the Temple of Silence. It is depicted to be a part of theAkademiyain the second volume ofA Thousand Nights, wherein envoys from the Temple of Silence approached aVahumanaDastur to inform him of his mentor's death and his promotion to Herbad. Notably,Cynois affiliated with the Temple of Silence according to his in-game profile, and an unnamed member of the Temple of Silence has commented onAlhaitham's default outfit,The Rational. At the Akademiya, the Temp...",
     "role": "Game Character",
     "attributes": {
-      "Affiliation": "Arataki Itto",
-      "Founder": "Arataki Itto",
-      "Base": "Hanamizaka",
-      "Region": "Inazuma"
+      "Leader": "Cyno (de facto, Vessel of Hermanubis) Sethos (appointed",
+      "Affiliation": "Sumeru Akademiya",
+      "Founder": "Hermanubis",
+      "Base": "Temple of Silence (Instance",
+      "Region": "Sumeru"
     },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Arataki_Gang"
-  },
-  {
-    "name": "Spina di Rosula",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Spina_di_Rosula.png",
-    "description": "Spina di RosulaFrom left to right: Melus, Navia, and Silver.Leader(s)NaviaCallas(former)DetailsBasePoissonRegionsFontaineSimulankaTheSpina di Rosulais an organization inFontainethat dedicates their time to helping the people of Fontaine and investigating matters that theGardeswould not or have difficulty with.",
-    "role": "Game Character",
-    "attributes": {
-      "Leader": "Navia Callas (former",
-      "Base": "Poisson",
-      "Region": "Fontaine Simulanka"
-    },
-    "source_url": "https://genshin-impact.fandom.com/wiki/Spina_di_Rosula"
+    "source_url": "https://genshin-impact.fandom.com/wiki/Temple_of_Silence"
   }
 ]

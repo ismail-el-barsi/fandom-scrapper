@@ -1,6 +1,6 @@
 # Rapport de Scraping pour : evangelion
 - **Statut :** ✅ SUCCÈS - 50 fiches valides (minimum requis: 10)
-- **Temps total :** 48.15s
+- **Temps total :** 46.53s
 - **Catégories testées :** 1 (Catégorie principale)
 - **Catégorie utilisée :** Catégorie principale
 - **Liens trouvés :** 154
@@ -14,13 +14,13 @@
 
 **Qualité générale :**
 - 🎯 Score de qualité moyen : 8.5/10
-- ⭐ Fiches haute qualité (≥7/10) : 48/50 (96.0%)
+- ⭐ Fiches haute qualité (≥7/10) : 49/50 (98.0%)
 
 **Complétude des données :**
-- 📝 Avec description valide : 50/50 (100.0%)
+- 📝 Avec description valide : 47/50 (94.0%)
 - 🏷️ Avec rôle spécifique : 50/50 (100.0%)
-- 🔖 Avec attributs : 48/50 (96.0%)
-- 📈 Nombre moyen d'attributs : 3.6
+- 🔖 Avec attributs : 49/50 (98.0%)
+- 📈 Nombre moyen d'attributs : 4.0
 
 **Système de nettoyage :** ✅ Améliorations activées
 - Détection de valeurs tronquées

@@ -1,96 +1,5 @@
 [
   {
-    "name": "GE M134 Minigun",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/6/6e/GE_M134_Minigun.png",
-    "description": "The «GE M134 Minigun»(GE・M134 ミニガン,GE M134 Minigan?)is a heavy machine gun-class Gatling gun and one of the largest firearms available inGun Gale Online.Due to the weight of the gun, players wielding it are usually overweight and cannot run.The playtime required to obtain the Minigun is similar or longer than than that ofPGM Ultima Ratio Hecate IIand requires a large value of STR to wield.The weapon is based on the real lifeM134 Minigun.",
-    "role": "Game Character",
-    "attributes": {
-      "Game": "« Gun Gale Online »",
-      "Type": "Weapon; Live ammunition",
-      "User": "Behemoth"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/GE_M134_Minigun"
-  },
-  {
-    "name": "Defense Field",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/c/c1/Defense_Field.png",
-    "description": "ADefense Field(防護フィールド,Bōgo Fīrudo?), also known as an Anti-Beam Defense Field(対光弾防護フィールド,Tai-Koudan Bōgo Fīrudo?), is a device in «Gun Gale Online» that reduces or nullifies the damage dealt by optical guns.The effectiveness of the shield decreases in short range.",
-    "role": "Game Character",
-    "attributes": {
-      "Kanji": "防護フィールド",
-      "Type": "Device",
-      "User": "GGO Players"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/Defense_Field"
-  },
-  {
-    "name": "Karakurenai",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/6/6c/Karakurenai.png",
-    "description": "«Karakurenai»(カラクレナイ,Karakurenai?)is the curved katana used by the guild leader of «Fuurinkazan»,Klein. This sword uses the «Katana»Extra Skill, which is unlocked by training the «Curved Sword» skill and sufficiently.",
-    "role": "Game Character",
-    "attributes": {
-      "Kanji": "カラクレナイ",
-      "Game": "Sword Art Online",
-      "Type": "Weapon",
-      "User": "Klein"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/Karakurenai"
-  },
-  {
-    "name": "Crystal Bottle of Kales'Oh",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/c/cb/Warning.png",
-    "description": "Before the bottle is used, the user needs to use the properties window to select the skill they would like to store in the bottle. A skill already stored in the bottle can be retrieved by pulling out the stopper and inhaling the light-turned liquid inside the bottle. To store a skill already equipped, the user exhales their light-turned skill into the bottle, and the light turns into a liquid, the colour of which depends on the stored skill.",
-    "role": "Game Character",
-    "attributes": {
-      "Kanji": "カレス・オーの水晶瓶",
-      "Romaji": "Karesu Ō no Suishōbin",
-      "Game": "Sword Art Online",
-      "Type": "Miscellaneous",
-      "User": "Asuna"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/Crystal_Bottle_of_Kales%27Oh"
-  },
-  {
-    "name": "Fragrant Olive Sword",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/0/0b/Fragrant_Olive_Sword.png",
-    "description": "The Fragrant Olive Sword is a longsword with a slender form. Every part of the sword from the guard to the pommel seem like they are made out of dazzling gold while the blade itself is dyed in a bright golden yellow distinctly more intense than the sword’s scabbard. A cross-shape flower design decorates the sword’s guard.",
-    "role": "Game Character",
-    "attributes": {
-      "Kanji": "金木犀(きんもくせい)の剣",
-      "Romaji": "Kinmokusei no Ken",
-      "Game": "« Project Alicization »",
-      "Type": "Weapon; « Divine Object »",
-      "User": "Alice Synthesis Thirty"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/Fragrant_Olive_Sword"
-  },
-  {
-    "name": "Type 54 \"Black Star\"",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/4/42/Type_54_Black_Star.png",
-    "description": "In the year 2020, Asada Shino, then eleven years old, entered a post office with her mother. Shortly afterwards, a robber armed with a Type 54 handgun and likely on narcotics entered, demanding money. The robber shot an employee after he attempted to activate an alarm, then threatened to shoot Shino's mother. At that point, Shino bit the man on the arm, causing him drop the gun, which Shino seized and shot him in the torso. Shino's attacker, however, was not killed by the first shot, in part ...",
-    "role": "Game Character",
-    "attributes": {
-      "Kanji": "五四式・黒星(ヘイシン",
-      "Romaji": "Go-jū Yon Shiki Heishin",
-      "Game": "Gun Gale Online",
-      "Type": "Weapon",
-      "User": "Asada Shino (real life) Sterben (Gun Gale Online"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/Type_54_%22Black_Star%22"
-  },
-  {
-    "name": "Blackwyrm Coat",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/f/f3/Blackwyrm_Coat.png",
-    "description": "TheBlackwyrm Coat(ブラックウィルム・コート,Burakku Uirumu Kōto?)is a player-made black leather coat, tailored from black dragon leather, a high grade raw material, byAincrad's best player seamstress,Ashley, thatKiritowore in the final months ofSword Art Online.",
-    "role": "Game Character",
-    "attributes": {
-      "Type": "Armor",
-      "User": "Kirito",
-      "Crafted By": "Ashley"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/Blackwyrm_Coat"
-  },
-  {
     "name": "Crystallite Ingot",
     "image_url": "https://static.wikia.nocookie.net/swordartonline/images/c/c2/Crystallite_Ingot.png",
     "description": "A «Crystallite Ingot»(クリスタライト・インゴット,Kurisutaraito Ingotto?)is a high-grade weapon material inSword Art Online. The ingot is only found in X'rphan the White Wyrm's nestin theWest Mountainof the55thFloorafter starting a quest in the nearby village.It was rumored to require the presence of a master smith in apartyfor the crystal to be harvested.",
@@ -101,157 +10,41 @@
     "source_url": "https://swordartonline.fandom.com/wiki/Crystallite_Ingot"
   },
   {
-    "name": "Coat of Midnight",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/7/72/Coat_of_Midnight.png",
-    "description": "Coat of Midnight(コート・オブ・ミッドナイト,Kōto Obu Middonaito?)was theLast Attackbonus item acquired fromAincrad's 1st Floor Boss,Illfang the Kobold Lord. It wasKirito's first generation leather coat.",
+    "name": "Kagemitsu G4",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/8/89/Kagemitsu_G4.png",
+    "description": "«Kagemitsu G4»(カゲミツG4,Kagemitsu G4?)is a photon sword(フォトンソード,Foton Sōdo?)sold for 150,000creditsinGun Gale Online. The sword is alternatively referred to as a«Kouken»(光剣,Kōken?, lit. \"light sword\"), laser blade, lightsaber or beam sabre.",
     "role": "Game Character",
     "attributes": {
-      "Game": "Sword Art Online",
-      "Type": "Armor",
-      "User": "Kirito"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/Coat_of_Midnight"
-  },
-  {
-    "name": "Elucidator",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/3/39/Elucidator.png",
-    "description": "Elucidator is a pitch black sword with trims of gray. It has a black hilt connected to a hand guard that drops down on the right side. Attached to this elongated area of the hand-guard is part of Elucidator's blade, so as to better aid the user in retaining their grip on the sword when it is being used. The blade is completely black like the rest of the sword and the said blade is outlined in a light gray.In the design art by the illustrator of the novels, a small cross is emblazoned on the f...",
-    "role": "Game Character",
-    "attributes": {
-      "Kanji": "エリュシデータ",
-      "Romaji": "Eryushidēta",
-      "Game": "Sword Art Online",
+      "Kanji": "カゲミツG4",
       "Type": "Weapon",
       "User": "Kirito"
     },
-    "source_url": "https://swordartonline.fandom.com/wiki/Elucidator"
+    "source_url": "https://swordartonline.fandom.com/wiki/Kagemitsu_G4"
   },
   {
-    "name": "Sword Breaker",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/a/a1/Sword_Breaker.png",
-    "description": "Sword Breaker appears to be an ordinary dagger with a saw-shaped back portion. Despite its low offensive abilities, the Sword Breaker can become a powerful blade when used properly. When in combat, the Sword Breaker can be used to parry an opponent's weapon. If the back portion of the blade is used, it gives a slight bonus that increases the chance of destroying the opponent's weapon.",
+    "name": "Mate Chopper",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/b/ba/Mate_Chopper.png",
+    "description": "The «Mate Chopper»(友切包丁,Meito Choppā?, lit. \"friend-cutting cleaver\")is a rare and powerful dagger-class cursed weapon that served asPoH's primary weapon inSword Art Online. It is amonster-drop, likely originating from aboss-level monster. Due to surpassing the best weapons any highest level player blacksmith could craft by April 2024, it was considered a maken(魔剣,maken?).[† 1]If the player were to lift the curse placed on the weapon, it would transform into a katana named Tomogiri-maru(友切丸,T...",
     "role": "Game Character",
     "attributes": {
-      "Kanji": "ソードブレイカー",
-      "Romaji": "Sōdo Bureikā",
-      "Game": "Sword Art Online",
+      "Kanji": "友切包丁",
       "Type": "Weapon",
-      "User": "Kirito"
+      "User": "PoH"
     },
-    "source_url": "https://swordartonline.fandom.com/wiki/Sword_Breaker"
+    "source_url": "https://swordartonline.fandom.com/wiki/Mate_Chopper"
   },
   {
-    "name": "Object Eraser",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/6/6f/Object_Eraser.png",
-    "description": "The Object Eraser can only be summoned with the use of a GM console with a GM authority account. Once summoned, crimson flames come forth, coiling out of the user's arm until it takes the form of a sword.",
+    "name": "Procyon SL",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/2/23/Procyon_SL.png",
+    "description": "The Procyon SL's grip is shaped in an ergonomic curve, with a high caliber gun barrel above the large trigger guard. It might be said to be a Bullpup style gun, with the dull machine part with heat vents placed somewhere behind and above the grip.",
     "role": "Game Character",
     "attributes": {
-      "Game": "Sword Art Online",
-      "Type": "GM tool, weapon",
-      "User": "Yui"
+      "Kanji": "プロキオンSL",
+      "Romaji": "Purokion SL",
+      "Game": "Gun Gale Online",
+      "Type": "Weapon, Optical Gun"
     },
-    "source_url": "https://swordartonline.fandom.com/wiki/Object_Eraser"
-  },
-  {
-    "name": "Argyro's Sheet",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/6/67/Argyro%27s_Sheet.png",
-    "description": "The instant the cloth covers something, the sheet changed to the colour of the surface of the water, making it hardly possible to see the hidden objects; however, enough light passes through the sheet for people hiding under it to see through it.The durability of the item decreases by approximately ten percent per five minutes when the item’s ability is activated.The lost durability can be restored by repairing it using the Tailoringskill.",
-    "role": "Game Character",
-    "attributes": {
-      "Kanji": "アルギロの 薄布",
-      "Romaji": "Arugiro no Usununo",
-      "Game": "Sword Art Online",
-      "Type": "Cloth",
-      "User": "Kirito and Asuna"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/Argyro%27s_Sheet"
-  },
-  {
-    "name": "Gigas Cedar",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/3/39/Vol_9_-_004-005.png",
-    "description": "TheGigas Cedar(ギガスシダー,Gigasu Shidā?)was a tree inRulid Villagethat blocked the way to the forest, as it absorbed the blessings of Solus and Terraria from its surroundings in an enormous range, preventing cultivation of crops in the area of the great tree. The tree had a diameter of four mels (meters) and a height of seventy mels (meters), standing four times higher than the bell tower of the Rulid church, the tallest building in Rulid, with its roots stretching as deep as it was tall. Its bar...",
-    "role": "Game Character",
-    "attributes": {
-      "Kanji": "ギガスシダー",
-      "Game": "Project Alicization",
-      "Novel": "Volume 9 Prologue I"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/Gigas_Cedar"
-  },
-  {
-    "name": "Goblin Sword",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/2/27/Goblin_Sword.png",
-    "description": "TheGoblin Swordrefers to a sword that belonged to an unnamed goblin that was part ofLizard Killer Ugachi's scouting party.Kiritostole this sword and commented that the goblin should clean the sword, as it was weak and almost unusable due to the lack of care. This sword was assumed to be a machete, as it was mentioned that the entire party ofgoblinswere carrying machetes. Its handle was wrapped by leather and it has an emblem of the goblin's clan on it.",
-    "role": "Game Character",
-    "attributes": {
-      "Game": "Project Alicization"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/Goblin_Sword"
-  },
-  {
-    "name": "Night Sky Sword",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/2/2f/Night_Sky_Sword.png",
-    "description": "The «Night Sky Sword»(夜空の剣,Yozora no Ken?), often called \"The Black One\", is a Priority 46Divine Object-class long sword that isKirito's personal one-handed sword inUnderworld. In terms of Priority Class, it outscalesEugeo'sBlue Rose Sword.",
-    "role": "Game Character",
-    "attributes": {
-      "Kanji": "夜空の剣",
-      "Game": "Project Alicization",
-      "Type": "Weapon; « Divine Object »",
-      "User": "Kirito",
-      "Crafted By": "Sadore"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/Night_Sky_Sword"
-  },
-  {
-    "name": "Tremble Shortcake",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/7/74/Tremble_Shortcake.png",
-    "description": "The sponge cake has a radius of eighteen centimeters and a height of eight centimeters. It is made of theTrembling Cow's milk and over a liter of cream. The inside is arranged in four layers: sponge, strawberry-flavored cream, sponge, and strawberry-flavored cream. A bright red strawberry sits on the top of it.The cake is considered to be extremely delicious and is thus very expensive, exceeding the price of the three main dishes ofKiritoandAsuna's dinner at the same restaurant combined.Eatin...",
-    "role": "Game Character",
-    "attributes": {
-      "Kanji": "トレンブル・ショートケーキ",
-      "Romaji": "Torenburu Shōtokēki",
-      "Game": "Sword Art Online",
-      "Type": "Consumable"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/Tremble_Shortcake"
-  },
-  {
-    "name": "Lambent Light",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/8/8e/Lambent_Light.png",
-    "description": "«Lambent Light»(ランベントライト,Ranbento Raito?)was a one-handed rapier owned byAsunainSword Art Online(SAO). The rapier was crafted byLisbethas a masterpiece of a quality that she could only achieve once every three months.Asuna's rapier, combined with her speed, earned her the nickname «The Flash». The Lambent Light was boosted to +32 byLisbethand was Asuna's final weapon in Sword Art Online.",
-    "role": "Game Character",
-    "attributes": {
-      "Kanji": "ランベントライト",
-      "Type": "Weapon",
-      "User": "Asuna",
-      "Crafted By": "Lisbeth"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/Lambent_Light"
-  },
-  {
-    "name": "Ring of Angel's Whisper",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/a/a9/Ring_of_Angel%27s_Whisper.png",
-    "description": "The Ring of Angel's Whisper is a thin ring, decorated with the wings of an angel and a heart-shape gemstone.Although the ring does not raise the user's stats, it has a special magical ability that allows the user to send a voice message to a registered friend once a month via the ring.",
-    "role": "Game Character",
-    "attributes": {
-      "Game": "Sword Art Online ALfheim Online",
-      "Type": "Accessory; ring",
-      "User": "Silica"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/Ring_of_Angel%27s_Whisper"
-  },
-  {
-    "name": "Eternal Storage Trinket",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/f/fe/Stub.png",
-    "description": "AnEternal Storage Trinket(永久保存トリンケット,Eikyū Hozon Torinketto?)is a glossy silver cuboid storage box 10 cm in size that can be used to store and preserve the durability of small items that are the size of accessories, like rings. The box can only be crafted by a master-class craftsman and has a special ability of preventing the loss of durability of the items held inside the box, even if the box with the items are left alone in the wilderness.",
-    "role": "Game Character",
-    "attributes": {
-      "Kanji": "永久保存トリンケット",
-      "Game": "Sword Art Online",
-      "Type": "Storage Item",
-      "User": "Yolko"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/Eternal_Storage_Trinket"
+    "source_url": "https://swordartonline.fandom.com/wiki/Procyon_SL"
   },
   {
     "name": "Blue Rose Sword",
@@ -268,31 +61,104 @@
     "source_url": "https://swordartonline.fandom.com/wiki/Blue_Rose_Sword"
   },
   {
-    "name": "Mirage Sphere",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/c/c8/Mirage_Sphere.png",
-    "description": "The Mirage Sphere is a sphere-shapeyellowdevice with an intricate design on its sidesand a shining crystal ball inside.",
+    "name": "Goblin Sword",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/2/27/Goblin_Sword.png",
+    "description": "TheGoblin Swordrefers to a sword that belonged to an unnamed goblin that was part ofLizard Killer Ugachi's scouting party.Kiritostole this sword and commented that the goblin should clean the sword, as it was weak and almost unusable due to the lack of care. This sword was assumed to be a machete, as it was mentioned that the entire party ofgoblinswere carrying machetes. Its handle was wrapped by leather and it has an emblem of the goblin's clan on it.",
     "role": "Game Character",
     "attributes": {
-      "Kanji": "ミラージュ・スフィア",
-      "Romaji": "Mirāju Sufia",
-      "Game": "Sword Art Online",
-      "Type": "Map"
+      "Game": "Project Alicization"
     },
-    "source_url": "https://swordartonline.fandom.com/wiki/Mirage_Sphere"
+    "source_url": "https://swordartonline.fandom.com/wiki/Goblin_Sword"
   },
   {
-    "name": "Crest of Yggdrasil",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/7/72/Crest_of_Yggdrasil.png",
-    "description": "The Crest of Yggdrasil is a tree branch about 1.5 meters in length.The bark of the branch is smooth and it draws a spiral near its tip.Two large leaves glitter at the staff's tip.",
+    "name": "Ring of Agility",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/3/30/Ring_of_Agility.png",
+    "description": "The ring is silvery-white, with a crimson-red gem in the centre of its front side, and is also emblazoned with several leaves next to the gem. The ring boosts the wearer's AGI stat by 20 points.",
     "role": "Game Character",
     "attributes": {
-      "Kanji": "世界樹の天辺の枝 (クレスト・オブ・イグドラシル",
-      "Romaji": "Kuresuto Obu Igudorashiru",
-      "Game": "ALfheim Online",
-      "Type": "Weapon",
-      "User": "Asuna"
+      "Game": "Sword Art Online",
+      "Type": "Accessory"
     },
-    "source_url": "https://swordartonline.fandom.com/wiki/Crest_of_Yggdrasil"
+    "source_url": "https://swordartonline.fandom.com/wiki/Ring_of_Agility"
+  },
+  {
+    "name": "PGM Ultima Ratio Hecate II",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/f/fb/PGM_Ultima_Ratio_Hecate_II.png",
+    "description": "Sinon acquired Hecate II after going to the dungeons belowSBC Glockenand falling down a chute trap. She ended up in the lowest floor of the dungeon, the place with the highest level of danger, in a stadium-like area. In that room was a strangemonsterthat she had never seen, although she thought that it was probably aboss-class monster. She thus went to an air vent at the top of the stadium and continued to shoot the boss, who was unable to reach her with any of its attacks due to her being to...",
+    "role": "Game Character",
+    "attributes": {
+      "Kanji": "PGM・ウルティマラティオ・ヘカートII",
+      "Romaji": "PGM Urutima Ratio Hekāto II",
+      "Game": "Gun Gale Online",
+      "Type": "Weapon; Live ammunition rifle",
+      "User": "Sinon"
+    },
+    "source_url": "https://swordartonline.fandom.com/wiki/PGM_Ultima_Ratio_Hecate_II"
+  },
+  {
+    "name": "Lambent Light",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/8/8e/Lambent_Light.png",
+    "description": "«Lambent Light»(ランベントライト,Ranbento Raito?)was a one-handed rapier owned byAsunainSword Art Online(SAO). The rapier was crafted byLisbethas a masterpiece of a quality that she could only achieve once every three months.Asuna's rapier, combined with her speed, earned her the nickname «The Flash». The Lambent Light was boosted to +32 byLisbethand was Asuna's final weapon in Sword Art Online.",
+    "role": "Game Character",
+    "attributes": {
+      "Kanji": "ランベントライト",
+      "Type": "Weapon",
+      "User": "Asuna",
+      "Crafted By": "Lisbeth"
+    },
+    "source_url": "https://swordartonline.fandom.com/wiki/Lambent_Light"
+  },
+  {
+    "name": "Anneal Blade",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/6/69/Anneal_Blade.png",
+    "description": "An «Anneal Blade»(アニールブレード,Anīru Burēdo?)is a one-handed sword that is obtained as a reward for the «Secret Medicine of the Forest»questinSword Art Online(SAO). Up to eightenhancementscan be attempted on the «Anneal Blade».",
+    "role": "Game Character",
+    "attributes": {
+      "Kanji": "アニールブレード",
+      "Type": "Weapon",
+      "User": "Kirito Ryufior Orlando Morte [ 4"
+    },
+    "source_url": "https://swordartonline.fandom.com/wiki/Anneal_Blade"
+  },
+  {
+    "name": "Satellite Scan Terminal",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/2/28/Satellite_Scan_Terminal.png",
+    "description": "In the novel, the Satellite Scan Terminal was a smartphone-like device,while in the anime, the terminal was a white device that was close to the shape of a triangle, with one of the sides being considerably shorter than the other two.While in the novel the map was displayed on the screen of the terminal,in the anime the terminal produced a 3D hologram of the map.The terminal has two main buttons, which allow the user to choose whether to display the map on screen, or in front of the user.The ...",
+    "role": "Game Character",
+    "attributes": {
+      "Kanji": "サテライト・スキャン端末",
+      "Romaji": "Sateraito Sukyan Tanmatsu",
+      "Game": "Gun Gale Online",
+      "Type": "Miscellaneous",
+      "User": "Bullet of Bullets finalists, Squad Jam participants"
+    },
+    "source_url": "https://swordartonline.fandom.com/wiki/Satellite_Scan_Terminal"
+  },
+  {
+    "name": "Stout Brand",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/9/92/Stout_Brand.png",
+    "description": "The «Stout Brand» is a sword that is slightly shorter and wider than an «Anneal Blade» and has a large knuckle guard.",
+    "role": "Game Character",
+    "attributes": {
+      "Kanji": "スタウトブランド",
+      "Romaji": "Sutauto Burando",
+      "Game": "Sword Art Online",
+      "Type": "Weapon",
+      "User": "Shivata Orlando [ † 1"
+    },
+    "source_url": "https://swordartonline.fandom.com/wiki/Stout_Brand"
+  },
+  {
+    "name": "Defense Field",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/c/c1/Defense_Field.png",
+    "description": "ADefense Field(防護フィールド,Bōgo Fīrudo?), also known as an Anti-Beam Defense Field(対光弾防護フィールド,Tai-Koudan Bōgo Fīrudo?), is a device in «Gun Gale Online» that reduces or nullifies the damage dealt by optical guns.The effectiveness of the shield decreases in short range.",
+    "role": "Game Character",
+    "attributes": {
+      "Kanji": "防護フィールド",
+      "Type": "Device",
+      "User": "GGO Players"
+    },
+    "source_url": "https://swordartonline.fandom.com/wiki/Defense_Field"
   },
   {
     "name": "Scavenge Toad Meat",
@@ -308,181 +174,55 @@
     "source_url": "https://swordartonline.fandom.com/wiki/Scavenge_Toad_Meat"
   },
   {
-    "name": "Ragout Rabbit's Meat",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/3/36/Ragout_Meat.png",
-    "description": "The Ragout Rabbit's Meat is an ingredient used in cooking and is said to be the most delicious ingredient in the game. Due to its rarity and taste, it can be sold for a minimum of 100,000Cor, an amount of money that is more than enough to pay for a full set of the best armors. In order to successfully cook the meat, a player needs to have theirCooking skillat a high level.Stewing the meat is one of the multiple ways to cook it.",
+    "name": "Blackwyrm Coat",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/f/f3/Blackwyrm_Coat.png",
+    "description": "TheBlackwyrm Coat(ブラックウィルム・コート,Burakku Uirumu Kōto?)is a player-made black leather coat, tailored from black dragon leather, a high grade raw material, byAincrad's best player seamstress,Ashley, thatKiritowore in the final months ofSword Art Online.",
     "role": "Game Character",
     "attributes": {
-      "Kanji": "ラグーラビット肉",
-      "Romaji": "Ragū Rabitto Niku",
-      "Game": "Sword Art Online",
-      "Type": "Ingredient"
+      "Type": "Armor",
+      "User": "Kirito",
+      "Crafted By": "Ashley"
     },
-    "source_url": "https://swordartonline.fandom.com/wiki/Ragout_Rabbit%27s_Meat"
+    "source_url": "https://swordartonline.fandom.com/wiki/Blackwyrm_Coat"
   },
   {
-    "name": "Kagemitsu G4",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/8/89/Kagemitsu_G4.png",
-    "description": "«Kagemitsu G4»(カゲミツG4,Kagemitsu G4?)is a photon sword(フォトンソード,Foton Sōdo?)sold for 150,000creditsinGun Gale Online. The sword is alternatively referred to as a«Kouken»(光剣,Kōken?, lit. \"light sword\"), laser blade, lightsaber or beam sabre.",
+    "name": "Sword Breaker",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/a/a1/Sword_Breaker.png",
+    "description": "Sword Breaker appears to be an ordinary dagger with a saw-shaped back portion. Despite its low offensive abilities, the Sword Breaker can become a powerful blade when used properly. When in combat, the Sword Breaker can be used to parry an opponent's weapon. If the back portion of the blade is used, it gives a slight bonus that increases the chance of destroying the opponent's weapon.",
     "role": "Game Character",
     "attributes": {
-      "Kanji": "カゲミツG4",
+      "Kanji": "ソードブレイカー",
+      "Romaji": "Sōdo Bureikā",
+      "Game": "Sword Art Online",
       "Type": "Weapon",
       "User": "Kirito"
     },
-    "source_url": "https://swordartonline.fandom.com/wiki/Kagemitsu_G4"
+    "source_url": "https://swordartonline.fandom.com/wiki/Sword_Breaker"
   },
   {
-    "name": "Lightning Hammer Mjölnir",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/9/99/Lightning_Hammer_Mjolnir.png",
-    "description": "Lightning Hammer Mjölnir(雷槌ミョルニル,Raitsui Myoruniru?)is a legendary-class one-handed hammer inALfheim Onlinethat was rewarded toKleinfor choosing to rescueFreyja(Thor) during «The Holy Sword of the Ice Palace»quest. The hammer is currently in the possession ofLisbeth.",
+    "name": "Time Piercing Sword",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/7/70/Time_Piercing_Sword.png",
+    "description": "The Time Piercing Sword was a bulky, slightly blackened, dark-gray blade that had been meticulously polished, though an infinite amount of old blemishes, faintly remaining over its entire length, glittered in illumination. The guard and grip of the sword were made from the same quality metal as the blade, though, unlike other Divine Object-class weapons, they lacked any splendid decoration.",
     "role": "Game Character",
     "attributes": {
-      "Kanji": "雷槌ミョルニル",
-      "Type": "Weapon",
-      "User": "Lisbeth"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/Lightning_Hammer_Mj%C3%B6lnir"
-  },
-  {
-    "name": "Ebon Dagger",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/7/74/Ebon_Dagger.png",
-    "description": "TheEbon Dagger(イーボンダガー,Ībon Dagā?)is a one-handed dagger used bySilicainSword Art Online. It was given to her byKiritoafter being rescued from theDrunk Apesin the «Forest of Wandering» on the 35thFloor.",
-    "role": "Game Character",
-    "attributes": {
-      "Kanji": "イーボンダガー",
-      "Romaji": "Ībon Dagā",
-      "Type": "Weapon",
-      "User": "Silica"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/Ebon_Dagger"
-  },
-  {
-    "name": "Ring of Agility",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/3/30/Ring_of_Agility.png",
-    "description": "The ring is silvery-white, with a crimson-red gem in the centre of its front side, and is also emblazoned with several leaves next to the gem. The ring boosts the wearer's AGI stat by 20 points.",
-    "role": "Game Character",
-    "attributes": {
-      "Game": "Sword Art Online",
-      "Type": "Accessory"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/Ring_of_Agility"
-  },
-  {
-    "name": "Frost Scale Whip",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/a/af/Frost_Scale_Whip.png",
-    "description": "The whip was originally a two-headed white snake that was the lord of the largest lake in the eastern empire.Quinellacaptured the snake alive and used it as a base material for forming the whip. The whip inherited the snake's agility, the sharpness of its scales, and the accuracy of its aim.",
-    "role": "Game Character",
-    "attributes": {
-      "Kanji": "霜鱗鞭 (そうりんべん",
-      "Romaji": "Sourinben",
+      "Kanji": "時穿剣 (じせんけん",
+      "Romaji": "Jisenken",
       "Game": "« Project Alicization »",
       "Type": "Weapon; « Divine Object »",
-      "User": "Eldrie Synthesis Thirty-one"
+      "User": "Bercouli Synthesis One"
     },
-    "source_url": "https://swordartonline.fandom.com/wiki/Frost_Scale_Whip"
+    "source_url": "https://swordartonline.fandom.com/wiki/Time_Piercing_Sword"
   },
   {
-    "name": "Mate Chopper",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/b/ba/Mate_Chopper.png",
-    "description": "The «Mate Chopper»(友切包丁,Meito Choppā?, lit. \"friend-cutting cleaver\")is a rare and powerful dagger-class cursed weapon that served asPoH's primary weapon inSword Art Online. It is amonster-drop, likely originating from aboss-level monster. Due to surpassing the best weapons any highest level player blacksmith could craft by April 2024, it was considered a maken(魔剣,maken?).[† 1]If the player were to lift the curse placed on the weapon, it would transform into a katana named Tomogiri-maru(友切丸,T...",
+    "name": "Blue Long Sword",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/a/aa/Kirito%27s_blue_long_sword.png",
+    "description": "TheBlue Long Swordrefers toKirito's unnamed secondary sword inALfheim Online. The sword was wielded along with Kirito'sunnamed black long swordduring the events ofCalibur. It was later replaced by the «Holy Sword Excalibur».",
     "role": "Game Character",
     "attributes": {
-      "Kanji": "友切包丁",
       "Type": "Weapon",
-      "User": "PoH"
+      "User": "Kirito"
     },
-    "source_url": "https://swordartonline.fandom.com/wiki/Mate_Chopper"
-  },
-  {
-    "name": "Liberator",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/0/07/Liberator.png",
-    "description": "«Liberator»(リベレイター,Ribereitā?)is a weapon set consisting of a one-handed straight sword and a Kite shield inSword Art Online. The set was owned by the leader of the «Knights of the Blood» guild,Heathcliff, and was used until the end of the game. His «Unique Skill», «Holy Sword», allowed him to freely switch between offense and defense, creating a near impenetrable defense in battle.The sword, when not in use, is attached to inner side of the shield and the shield can also be used to hit targets.",
-    "role": "Game Character",
-    "attributes": {
-      "Kanji": "リベレイター",
-      "Romaji": "Ribereitā",
-      "Type": "Weapon",
-      "User": "Heathcliff"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/Liberator"
-  },
-  {
-    "name": "Twin Edged Wings",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/9/93/Twin_Edged_Wings.png",
-    "description": "The Twin Edged Wings are a set of extremely thin, approximately forty cen (centimetres)-long steel throwing blades that are bent in the middle. They had no grip to hold them by and both of their sides ended in sharp tips, which had to be held in-between the user's fingers when throwing.",
-    "role": "Game Character",
-    "attributes": {
-      "Kanji": "雙翼刃 (そうよくじん",
-      "Romaji": "Souyokujin",
-      "Game": "« Project Alicization »",
-      "Type": "Weapon; « Divine Object »",
-      "User": "Renly Synthesis Twenty-seven"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/Twin_Edged_Wings"
-  },
-  {
-    "name": "Accuracy International L115A3",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/9/9d/Accuracy_International_L115A3.png",
-    "description": "«Accuracy International L115A3»(アキュラシー・インターナショナル・L115A3,Akyurashī Intānashonaru L115A3?), nicknamed as «Silent Assassin»(沈黙の暗殺者,Sairento Asashin?)by the players, is a rare sniper equipped with a silencer that is used bySterbeninGun Gale Onlineto stun his targets from afar before going in to stage a murder with hisType 54 \"Black Star\".",
-    "role": "Game Character",
-    "attributes": {
-      "Type": "Weapon; Live ammunition rifle",
-      "User": "Sterben"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/Accuracy_International_L115A3"
-  },
-  {
-    "name": "Hand Mirror",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/3/34/Hand_Mirror.png",
-    "description": "The Hand Mirror is a plain rectangular glass mirrorwith a frame. The mirror is only slightly smaller than a player's face.",
-    "role": "Game Character",
-    "attributes": {
-      "Game": "Sword Art Online",
-      "Type": "Miscellaneous",
-      "User": "All SAO Players"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/Hand_Mirror"
-  },
-  {
-    "name": "Black Lily Sword",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/3/38/Black_Lily_Sword.png",
-    "description": "TheBlack Lily Sword(黒百合の剣,Kuroyuri no Ken?)was aDivine Object-class sword used by theIntegrity KnightScheta Synthesis Twelve. The sword shattered during the War of Underworld, when Scheta fought against American players with the Dark Territory Army.",
-    "role": "Game Character",
-    "attributes": {
-      "Kanji": "黒百合(くろゆり)の剣",
-      "Game": "« Project Alicization »",
-      "Type": "Weapon; « Divine Object »"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/Black_Lily_Sword"
-  },
-  {
-    "name": "Dark Repulser",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/d/d8/Dark_Repulser.png",
-    "description": "«Dark Repulser»(ダークリパルサー,Dāku Riparusā?)was a one-handed long sword, created byLisbethforKiritoout of aCrystallite Ingot, which was obtained from aspecial quest. Whenever Kirito used the «Dual Blades»skill, he wielded it alongside «Elucidator». This weapon was destroyed during the fight withHeathcliffon the 75thFloor.",
-    "role": "Game Character",
-    "attributes": {
-      "Kanji": "ダークリパルサー",
-      "Game": "Sword Art Online",
-      "Type": "Weapon",
-      "User": "Kirito",
-      "Crafted By": "Lisbeth"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/Dark_Repulser"
-  },
-  {
-    "name": "Plasma Grenade",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/d/d8/Plasma_Grenade.png",
-    "description": "A plasma grenade is a ball-shaped, metal device.Once the grenade has been activated, one part of the grenade periodically flashes in red and creates a beeping sound.Once the timer expires, the grenade simultaneously causes both a regular explosion and an electrical discharge.The explosion deals direct damage to surrounding players, while the electrical discharge stuns the players that manage to survive the explosion.The explosion at point blank range is powerful enough to instantly kill even ...",
-    "role": "Game Character",
-    "attributes": {
-      "Kanji": "プラズマグレネード",
-      "Romaji": "Purazuma Gurenēdo",
-      "Game": "Gun Gale Online",
-      "Type": "Weapon",
-      "User": "GGO players"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/Plasma_Grenade"
+    "source_url": "https://swordartonline.fandom.com/wiki/Blue_Long_Sword"
   },
   {
     "name": "Mighty Strap of Leather",
@@ -498,17 +238,67 @@
     "source_url": "https://swordartonline.fandom.com/wiki/Mighty_Strap_of_Leather"
   },
   {
-    "name": "Procyon SL",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/2/23/Procyon_SL.png",
-    "description": "The Procyon SL's grip is shaped in an ergonomic curve, with a high caliber gun barrel above the large trigger guard. It might be said to be a Bullpup style gun, with the dull machine part with heat vents placed somewhere behind and above the grip.",
+    "name": "FN Five-Seven",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/b/ba/5.7mm_FN_Five_Seven_handgun.png",
+    "description": "Kirito bought the FN Five-Seven from a weapon store underSinon's recommendation due to its high accuracy after spending half of the money he had earned in thedodging gameto purchase theKagemitsu G4photon sword.",
     "role": "Game Character",
     "attributes": {
-      "Kanji": "プロキオンSL",
-      "Romaji": "Purokion SL",
+      "Kanji": "FN ファイブセブン",
+      "Romaji": "FN Faibu Sebun",
       "Game": "Gun Gale Online",
-      "Type": "Weapon, Optical Gun"
+      "Type": "Weapon, Live ammunition",
+      "User": "Kirito"
     },
-    "source_url": "https://swordartonline.fandom.com/wiki/Procyon_SL"
+    "source_url": "https://swordartonline.fandom.com/wiki/FN_Five-Seven"
+  },
+  {
+    "name": "Long Sword",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/0/07/Kirito%27s_Long_Sword.png",
+    "description": "TheLong Swordrefers toKirito's unnamed main sword inALfheim Onlineafter theFairy Dance Arc. It replaced Kirito'sunnamed black great sword.",
+    "role": "Game Character",
+    "attributes": {
+      "Type": "Weapon",
+      "User": "Kirito",
+      "Crafted By": "Lisbeth"
+    },
+    "source_url": "https://swordartonline.fandom.com/wiki/Long_Sword"
+  },
+  {
+    "name": "Accuracy International L115A3",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/9/9d/Accuracy_International_L115A3.png",
+    "description": "«Accuracy International L115A3»(アキュラシー・インターナショナル・L115A3,Akyurashī Intānashonaru L115A3?), nicknamed as «Silent Assassin»(沈黙の暗殺者,Sairento Asashin?)by the players, is a rare sniper equipped with a silencer that is used bySterbeninGun Gale Onlineto stun his targets from afar before going in to stage a murder with hisType 54 \"Black Star\".",
+    "role": "Game Character",
+    "attributes": {
+      "Type": "Weapon; Live ammunition rifle",
+      "User": "Sterben"
+    },
+    "source_url": "https://swordartonline.fandom.com/wiki/Accuracy_International_L115A3"
+  },
+  {
+    "name": "Crystal Bottle of Kales'Oh",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/c/cb/Warning.png",
+    "description": "Before the bottle is used, the user needs to use the properties window to select the skill they would like to store in the bottle. A skill already stored in the bottle can be retrieved by pulling out the stopper and inhaling the light-turned liquid inside the bottle. To store a skill already equipped, the user exhales their light-turned skill into the bottle, and the light turns into a liquid, the colour of which depends on the stored skill.",
+    "role": "Game Character",
+    "attributes": {
+      "Kanji": "カレス・オーの水晶瓶",
+      "Romaji": "Karesu Ō no Suishōbin",
+      "Game": "Sword Art Online",
+      "Type": "Miscellaneous",
+      "User": "Asuna"
+    },
+    "source_url": "https://swordartonline.fandom.com/wiki/Crystal_Bottle_of_Kales%27Oh"
+  },
+  {
+    "name": "Object Eraser",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/6/6f/Object_Eraser.png",
+    "description": "The Object Eraser can only be summoned with the use of a GM console with a GM authority account. Once summoned, crimson flames come forth, coiling out of the user's arm until it takes the form of a sword.",
+    "role": "Game Character",
+    "attributes": {
+      "Game": "Sword Art Online",
+      "Type": "GM tool, weapon",
+      "User": "Yui"
+    },
+    "source_url": "https://swordartonline.fandom.com/wiki/Object_Eraser"
   },
   {
     "name": "Starship Metal Estoc",
@@ -523,42 +313,67 @@
     "source_url": "https://swordartonline.fandom.com/wiki/Starship_Metal_Estoc"
   },
   {
-    "name": "Demonic Sword Gram",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/a/ab/Demonic_Sword_Gram.png",
-    "description": "Gram is a large, two-handed crimson great sword with two entwined dragons etched on the surface of the blade.It features the unique ability «Ethereal Shift»(エセリアルシフト,Eseriaru Shifuto?), which allows it to phase through objects such as swords or shields in order to hit its target. However, once the ability has been activated, there is a slight delay before it can be activated again, thus it cannot be used in rapid succession.",
+    "name": "Black Iron Great Sword",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/9/95/Black_Sword.2.png",
+    "description": "Leafaspeculated that the sword was made for anImporGnomecharacter due to its size, and was amazed that Kirito, whose avatar seemed to have a speed-build, chose such a heavy sword. Its immense weight was just right for Kirito, as he was able to even block arrows while wielding it with one hand. Even though the sword is nothing special in appearance or power, in the hands of Kirito it is able to match against the «Demonic Sword Gram».",
     "role": "Game Character",
     "attributes": {
-      "Kanji": "魔剣グラム",
-      "Romaji": "Maken Guramu",
       "Game": "ALfheim Online",
       "Type": "Weapon",
-      "User": "General Eugene"
+      "User": "Kirito"
     },
-    "source_url": "https://swordartonline.fandom.com/wiki/Demonic_Sword_Gram"
+    "source_url": "https://swordartonline.fandom.com/wiki/Black_Iron_Great_Sword"
   },
   {
-    "name": "Wind Fleuret",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/0/0e/Wind_Fleuret_LN.png",
-    "description": "«Wind Fleuret»(ウインドフルーレ,Uindo Furūre?)is a rapier that wasAsuna’s primary weapon inSword Art Online, on the lower floors ofAincrad. It was amonsterdrop, obtained after followingKirito's battle advice, and replaced her store-bought «Iron Rapier».Up to sixenhancementscan be attempted on the «Wind Fleuret».",
+    "name": "Mirage Sphere",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/c/c8/Mirage_Sphere.png",
+    "description": "The Mirage Sphere is a sphere-shapeyellowdevice with an intricate design on its sidesand a shining crystal ball inside.",
     "role": "Game Character",
     "attributes": {
-      "Kanji": "ウインドフルーレ",
-      "Type": "Weapon",
-      "User": "Asuna"
+      "Kanji": "ミラージュ・スフィア",
+      "Romaji": "Mirāju Sufia",
+      "Game": "Sword Art Online",
+      "Type": "Map"
     },
-    "source_url": "https://swordartonline.fandom.com/wiki/Wind_Fleuret"
+    "source_url": "https://swordartonline.fandom.com/wiki/Mirage_Sphere"
   },
   {
-    "name": "Holy Sword Excalibur",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/f/f7/Holy_Sword_Excaliber.png",
-    "description": "The «Holy Sword Excalibur»(聖剣エクスキャリバー,Seiken Ekusukyaribā?)is the strongest legendary weapon in «ALfheim Online», being the only weapon that surpasses the «Demonic Sword Gram».The sword is rewarded upon the completion ofThe Holy Sword of the Ice Palacequestand is currently in the possession ofKirito.",
+    "name": "GE M134 Minigun",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/6/6e/GE_M134_Minigun.png",
+    "description": "The «GE M134 Minigun»(GE・M134 ミニガン,GE M134 Minigan?)is a heavy machine gun-class Gatling gun and one of the largest firearms available inGun Gale Online.Due to the weight of the gun, players wielding it are usually overweight and cannot run.The playtime required to obtain the Minigun is similar or longer than than that ofPGM Ultima Ratio Hecate IIand requires a large value of STR to wield.The weapon is based on the real lifeM134 Minigun.",
     "role": "Game Character",
     "attributes": {
-      "Kanji": "聖剣エクスキャリバー",
-      "Type": "Weapon",
-      "User": "Fairy King Oberon Kirito"
+      "Game": "« Gun Gale Online »",
+      "Type": "Weapon; Live ammunition",
+      "User": "Behemoth"
     },
-    "source_url": "https://swordartonline.fandom.com/wiki/Holy_Sword_Excalibur"
+    "source_url": "https://swordartonline.fandom.com/wiki/GE_M134_Minigun"
+  },
+  {
+    "name": "Argyro's Sheet",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/6/67/Argyro%27s_Sheet.png",
+    "description": "The instant the cloth covers something, the sheet changed to the colour of the surface of the water, making it hardly possible to see the hidden objects; however, enough light passes through the sheet for people hiding under it to see through it.The durability of the item decreases by approximately ten percent per five minutes when the item’s ability is activated.The lost durability can be restored by repairing it using the Tailoringskill.",
+    "role": "Game Character",
+    "attributes": {
+      "Kanji": "アルギロの 薄布",
+      "Romaji": "Arugiro no Usununo",
+      "Game": "Sword Art Online",
+      "Type": "Cloth",
+      "User": "Kirito and Asuna"
+    },
+    "source_url": "https://swordartonline.fandom.com/wiki/Argyro%27s_Sheet"
+  },
+  {
+    "name": "Black Lily Sword",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/3/38/Black_Lily_Sword.png",
+    "description": "TheBlack Lily Sword(黒百合の剣,Kuroyuri no Ken?)was aDivine Object-class sword used by theIntegrity KnightScheta Synthesis Twelve. The sword shattered during the War of Underworld, when Scheta fought against American players with the Dark Territory Army.",
+    "role": "Game Character",
+    "attributes": {
+      "Kanji": "黒百合(くろゆり)の剣",
+      "Game": "« Project Alicization »",
+      "Type": "Weapon; « Divine Object »"
+    },
+    "source_url": "https://swordartonline.fandom.com/wiki/Black_Lily_Sword"
   },
   {
     "name": "Sap of the World Tree",
@@ -575,17 +390,6 @@
     "source_url": "https://swordartonline.fandom.com/wiki/Sap_of_the_World_Tree"
   },
   {
-    "name": "Blue Long Sword",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/a/aa/Kirito%27s_blue_long_sword.png",
-    "description": "TheBlue Long Swordrefers toKirito's unnamed secondary sword inALfheim Online. The sword was wielded along with Kirito'sunnamed black long swordduring the events ofCalibur. It was later replaced by the «Holy Sword Excalibur».",
-    "role": "Game Character",
-    "attributes": {
-      "Type": "Weapon",
-      "User": "Kirito"
-    },
-    "source_url": "https://swordartonline.fandom.com/wiki/Blue_Long_Sword"
-  },
-  {
     "name": "The Child's Egg",
     "image_url": "https://static.wikia.nocookie.net/swordartonline/images/d/db/Prince%27s_egg.png",
     "description": "The Child's Egg is a large, green, semi-transparent egg in the shape of a perfect sphere. On the outside, the egg looks like a gigantic pearl, but, with enough lighting, an underdeveloped sea creature can be seen coiled inside the egg.",
@@ -595,6 +399,55 @@
       "Type": "Quest item"
     },
     "source_url": "https://swordartonline.fandom.com/wiki/The_Child%27s_Egg"
+  },
+  {
+    "name": "Ebon Dagger",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/7/74/Ebon_Dagger.png",
+    "description": "TheEbon Dagger(イーボンダガー,Ībon Dagā?)is a one-handed dagger used bySilicainSword Art Online. It was given to her byKiritoafter being rescued from theDrunk Apesin the «Forest of Wandering» on the 35thFloor.",
+    "role": "Game Character",
+    "attributes": {
+      "Kanji": "イーボンダガー",
+      "Romaji": "Ībon Dagā",
+      "Type": "Weapon",
+      "User": "Silica"
+    },
+    "source_url": "https://swordartonline.fandom.com/wiki/Ebon_Dagger"
+  },
+  {
+    "name": "Ragout Rabbit's Meat",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/3/36/Ragout_Meat.png",
+    "description": "The Ragout Rabbit's Meat is an ingredient used in cooking and is said to be the most delicious ingredient in the game. Due to its rarity and taste, it can be sold for a minimum of 100,000Cor, an amount of money that is more than enough to pay for a full set of the best armors. In order to successfully cook the meat, a player needs to have theirCooking skillat a high level.Stewing the meat is one of the multiple ways to cook it.",
+    "role": "Game Character",
+    "attributes": {
+      "Kanji": "ラグーラビット肉",
+      "Romaji": "Ragū Rabitto Niku",
+      "Game": "Sword Art Online",
+      "Type": "Ingredient"
+    },
+    "source_url": "https://swordartonline.fandom.com/wiki/Ragout_Rabbit%27s_Meat"
+  },
+  {
+    "name": "Vendor's Carpet",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/5/59/Episode_7_End_Card.png",
+    "description": "AVendor's Carpet(バンダーズ・カーペット,Bandāzu Kāpetto?)is a magical item inSword Art Online. It is the first basic item that allows aspiring craftsmen and merchants to open shops.",
+    "role": "Game Character",
+    "attributes": {
+      "Type": "Magic Item",
+      "User": "Nezha"
+    },
+    "source_url": "https://swordartonline.fandom.com/wiki/Vendor%27s_Carpet"
+  },
+  {
+    "name": "Lightning Hammer Mjölnir",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/9/99/Lightning_Hammer_Mjolnir.png",
+    "description": "Lightning Hammer Mjölnir(雷槌ミョルニル,Raitsui Myoruniru?)is a legendary-class one-handed hammer inALfheim Onlinethat was rewarded toKleinfor choosing to rescueFreyja(Thor) during «The Holy Sword of the Ice Palace»quest. The hammer is currently in the possession ofLisbeth.",
+    "role": "Game Character",
+    "attributes": {
+      "Kanji": "雷槌ミョルニル",
+      "Type": "Weapon",
+      "User": "Lisbeth"
+    },
+    "source_url": "https://swordartonline.fandom.com/wiki/Lightning_Hammer_Mj%C3%B6lnir"
   },
   {
     "name": "Metamaterial Optical Camouflage Mantle",
@@ -609,14 +462,149 @@
     "source_url": "https://swordartonline.fandom.com/wiki/Metamaterial_Optical_Camouflage_Mantle"
   },
   {
-    "name": "Dusk Lizard Hide",
-    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/f/fe/Stub.png",
-    "description": "ADusk Lizard Hide(ダスクリザードの革,Dasuku Rizādo no Kawa?)is a drop from the «Dusk Lizard», a monster inSword Art Online. It can be used to create high-grade standard armor.",
+    "name": "Karakurenai",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/6/6c/Karakurenai.png",
+    "description": "«Karakurenai»(カラクレナイ,Karakurenai?)is the curved katana used by the guild leader of «Fuurinkazan»,Klein. This sword uses the «Katana»Extra Skill, which is unlocked by training the «Curved Sword» skill and sufficiently.",
     "role": "Game Character",
     "attributes": {
-      "Kanji": "ダスクリザードの革",
-      "Type": "Ingredient"
+      "Kanji": "カラクレナイ",
+      "Game": "Sword Art Online",
+      "Type": "Weapon",
+      "User": "Klein"
     },
-    "source_url": "https://swordartonline.fandom.com/wiki/Dusk_Lizard_Hide"
+    "source_url": "https://swordartonline.fandom.com/wiki/Karakurenai"
+  },
+  {
+    "name": "Tremble Shortcake",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/7/74/Tremble_Shortcake.png",
+    "description": "The sponge cake has a radius of eighteen centimeters and a height of eight centimeters. It is made of theTrembling Cow's milk and over a liter of cream. The inside is arranged in four layers: sponge, strawberry-flavored cream, sponge, and strawberry-flavored cream. A bright red strawberry sits on the top of it.The cake is considered to be extremely delicious and is thus very expensive, exceeding the price of the three main dishes ofKiritoandAsuna's dinner at the same restaurant combined.Eatin...",
+    "role": "Game Character",
+    "attributes": {
+      "Kanji": "トレンブル・ショートケーキ",
+      "Romaji": "Torenburu Shōtokēki",
+      "Game": "Sword Art Online",
+      "Type": "Consumable"
+    },
+    "source_url": "https://swordartonline.fandom.com/wiki/Tremble_Shortcake"
+  },
+  {
+    "name": "Demonic Sword Gram",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/a/ab/Demonic_Sword_Gram.png",
+    "description": "Gram is a large, two-handed crimson great sword with two entwined dragons etched on the surface of the blade.It features the unique ability «Ethereal Shift»(エセリアルシフト,Eseriaru Shifuto?), which allows it to phase through objects such as swords or shields in order to hit its target. However, once the ability has been activated, there is a slight delay before it can be activated again, thus it cannot be used in rapid succession.",
+    "role": "Game Character",
+    "attributes": {
+      "Kanji": "魔剣グラム",
+      "Romaji": "Maken Guramu",
+      "Game": "ALfheim Online",
+      "Type": "Weapon",
+      "User": "General Eugene"
+    },
+    "source_url": "https://swordartonline.fandom.com/wiki/Demonic_Sword_Gram"
+  },
+  {
+    "name": "Night Sky Sword",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/2/2f/Night_Sky_Sword.png",
+    "description": "The «Night Sky Sword»(夜空の剣,Yozora no Ken?), often called \"The Black One\", is a Priority 46Divine Object-class long sword that isKirito's personal one-handed sword inUnderworld. In terms of Priority Class, it outscalesEugeo'sBlue Rose Sword.",
+    "role": "Game Character",
+    "attributes": {
+      "Kanji": "夜空の剣",
+      "Game": "Project Alicization",
+      "Type": "Weapon; « Divine Object »",
+      "User": "Kirito",
+      "Crafted By": "Sadore"
+    },
+    "source_url": "https://swordartonline.fandom.com/wiki/Night_Sky_Sword"
+  },
+  {
+    "name": "Coat of Midnight",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/7/72/Coat_of_Midnight.png",
+    "description": "Coat of Midnight(コート・オブ・ミッドナイト,Kōto Obu Middonaito?)was theLast Attackbonus item acquired fromAincrad's 1st Floor Boss,Illfang the Kobold Lord. It wasKirito's first generation leather coat.",
+    "role": "Game Character",
+    "attributes": {
+      "Game": "Sword Art Online",
+      "Type": "Armor",
+      "User": "Kirito"
+    },
+    "source_url": "https://swordartonline.fandom.com/wiki/Coat_of_Midnight"
+  },
+  {
+    "name": "Crest of Yggdrasil",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/7/72/Crest_of_Yggdrasil.png",
+    "description": "The Crest of Yggdrasil is a tree branch about 1.5 meters in length.The bark of the branch is smooth and it draws a spiral near its tip.Two large leaves glitter at the staff's tip.",
+    "role": "Game Character",
+    "attributes": {
+      "Kanji": "世界樹の天辺の枝 (クレスト・オブ・イグドラシル",
+      "Romaji": "Kuresuto Obu Igudorashiru",
+      "Game": "ALfheim Online",
+      "Type": "Weapon",
+      "User": "Asuna"
+    },
+    "source_url": "https://swordartonline.fandom.com/wiki/Crest_of_Yggdrasil"
+  },
+  {
+    "name": "Dark Repulser",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/d/d8/Dark_Repulser.png",
+    "description": "«Dark Repulser»(ダークリパルサー,Dāku Riparusā?)was a one-handed long sword, created byLisbethforKiritoout of aCrystallite Ingot, which was obtained from aspecial quest. Whenever Kirito used the «Dual Blades»skill, he wielded it alongside «Elucidator». This weapon was destroyed during the fight withHeathcliffon the 75thFloor.",
+    "role": "Game Character",
+    "attributes": {
+      "Kanji": "ダークリパルサー",
+      "Game": "Sword Art Online",
+      "Type": "Weapon",
+      "User": "Kirito",
+      "Crafted By": "Lisbeth"
+    },
+    "source_url": "https://swordartonline.fandom.com/wiki/Dark_Repulser"
+  },
+  {
+    "name": "Eternal Storage Trinket",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/f/fe/Stub.png",
+    "description": "AnEternal Storage Trinket(永久保存トリンケット,Eikyū Hozon Torinketto?)is a glossy silver cuboid storage box 10 cm in size that can be used to store and preserve the durability of small items that are the size of accessories, like rings. The box can only be crafted by a master-class craftsman and has a special ability of preventing the loss of durability of the items held inside the box, even if the box with the items are left alone in the wilderness.",
+    "role": "Game Character",
+    "attributes": {
+      "Kanji": "永久保存トリンケット",
+      "Game": "Sword Art Online",
+      "Type": "Storage Item",
+      "User": "Yolko"
+    },
+    "source_url": "https://swordartonline.fandom.com/wiki/Eternal_Storage_Trinket"
+  },
+  {
+    "name": "Elucidator",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/3/39/Elucidator.png",
+    "description": "Elucidator is a pitch black sword with trims of gray. It has a black hilt connected to a hand guard that drops down on the right side. Attached to this elongated area of the hand-guard is part of Elucidator's blade, so as to better aid the user in retaining their grip on the sword when it is being used. The blade is completely black like the rest of the sword and the said blade is outlined in a light gray.In the design art by the illustrator of the novels, a small cross is emblazoned on the f...",
+    "role": "Game Character",
+    "attributes": {
+      "Kanji": "エリュシデータ",
+      "Romaji": "Eryushidēta",
+      "Game": "Sword Art Online",
+      "Type": "Weapon",
+      "User": "Kirito"
+    },
+    "source_url": "https://swordartonline.fandom.com/wiki/Elucidator"
+  },
+  {
+    "name": "Yui's Heart",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/d/d1/Yui%27s_Heart.png",
+    "description": "Yui's Heart(ユイの心,Yui no Kokoro?)refers to an item containing the data forYui's program, which is around three terabytes large.The item is officially known asMHCP001, which stands for Mental Health Counselling Program, by the system.",
+    "role": "Game Character",
+    "attributes": {
+      "Game": "Sword Art Online , ALfheim Online",
+      "User": "Asuna , Kirito"
+    },
+    "source_url": "https://swordartonline.fandom.com/wiki/Yui%27s_Heart"
+  },
+  {
+    "name": "Type 54 \"Black Star\"",
+    "image_url": "https://static.wikia.nocookie.net/swordartonline/images/4/42/Type_54_Black_Star.png",
+    "description": "In the year 2020, Asada Shino, then eleven years old, entered a post office with her mother. Shortly afterwards, a robber armed with a Type 54 handgun and likely on narcotics entered, demanding money. The robber shot an employee after he attempted to activate an alarm, then threatened to shoot Shino's mother. At that point, Shino bit the man on the arm, causing him drop the gun, which Shino seized and shot him in the torso. Shino's attacker, however, was not killed by the first shot, in part ...",
+    "role": "Game Character",
+    "attributes": {
+      "Kanji": "五四式・黒星(ヘイシン",
+      "Romaji": "Go-jū Yon Shiki Heishin",
+      "Game": "Gun Gale Online",
+      "Type": "Weapon",
+      "User": "Asada Shino (real life) Sterben (Gun Gale Online"
+    },
+    "source_url": "https://swordartonline.fandom.com/wiki/Type_54_%22Black_Star%22"
   }
 ]

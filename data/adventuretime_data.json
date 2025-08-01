@@ -1,274 +1,284 @@
 [
   {
-    "name": "Malus/Talug",
-    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/5/59/Talug.jpg",
-    "description": "This character has a very unique and detailed design. They have a rooster for a head, a shirtless-muscular-human body, a shield in one hand and a whip in the other, a Greek warrior dress around his waist, a cape draped over one of his shoulders, serpentine bodies for legs, and canine heads for feet.",
+    "name": "Limousine Driver",
+    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/b/bb/Limousine_Driver_close_up.png",
+    "description": "Abracadaniel•Ancient Psychic Tandem War Elephant•Ancient Sleeping Magi of Life Giving•Banana Guards(Female Banana Guards) •Banana Guy•Banana Man•Betty Grof•Big Destiny•Billy•Bob&Ethel Rainicorn•Boy Bear•Bronwyn•Bryce•Bufo•Candy Corn Grandma•Candy Heart•Candy Kids•Carroll•Castle Staff•Charlie•Chet•Chicle/Crunchy•Chocoberry•Chocolate Bar Guy•Choose Goose•Cinnamon Bun•Clarence•CMOs•Cow•Cuber•Dancing Bug•Destiny Gang(Trami,Tromo, &Others) •DMO•Don John the Flame Lord•Donny•Dr. Donut•Dr. Ice Cream...",
     "role": "Anime Character",
     "attributes": {
-      "Name": "Malus/Talug",
-      "Species": "Cosmic Entity (implied",
+      "Name": "Limousine Driver",
+      "Gender": "Male",
+      "Occup": "Chauffeur",
+      "Firstintroduced": "\" Ocean of Fear \"",
+      "Actor": "Mark Hamill"
+    },
+    "source_url": "https://adventuretime.fandom.com/wiki/Limousine_Driver"
+  },
+  {
+    "name": "Mr. Trots",
+    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/4/4f/Mr_Trots.jpg",
+    "description": "He appears inIssue 69, wherein he is given toMarcelinebyHunson Abadeeras a birthday gift. He ends up trying to eat Jake's soul so he has to be put down.",
+    "role": "Anime Character",
+    "attributes": {
+      "Name": "Mr. Trots",
+      "Gender": "Male",
+      "Age": "Deceased",
+      "Species": "Nightosphere Pony",
+      "Relatives": "Marceline (owner",
+      "Firstintroduced": "Issue 69"
+    },
+    "source_url": "https://adventuretime.fandom.com/wiki/Mr._Trots"
+  },
+  {
+    "name": "Adventure Tim",
+    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/0/0a/ATim_issue_5.JPG",
+    "description": "Adventure Tim has features reminiscent of both Finn and Jake: he wears a dark blue shirt and light blue shorts (a color-swapped version of Finn's outfit), a backpack that is light green on the bottom and dark green on top (which resembles a palette-swapped version Finn's backpack), as well as a yellow hat with ears like Jake's. He also shares Jake's eye design and even has a small tail. His skin color is slightly tinted yellow rather than having a pinkish hue like Finn's, and his hat is a bri...",
+    "role": "Anime Character",
+    "attributes": {
+      "Gender": "Male",
+      "Species": "Dog / Human Hybrid",
+      "Occup": "Adventurer",
+      "Firstintroduced": "Issue 5",
+      "Lastseen": "Issue 75"
+    },
+    "source_url": "https://adventuretime.fandom.com/wiki/Adventure_Tim"
+  },
+  {
+    "name": "Mr. Fox (Grotto World)",
+    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/0/05/Mr._Fox_%28Grotto_World%29.png",
+    "description": "Mr. FoxNameMr. FoxGenderMaleSpeciesFoxIntroduced in\"Beyond the Grotto\"",
+    "role": "Anime Character",
+    "attributes": {
+      "Name": "Mr. Fox",
+      "Gender": "Male",
+      "Species": "Fox",
+      "Firstintroduced": "\" Beyond the Grotto \""
+    },
+    "source_url": "https://adventuretime.fandom.com/wiki/Mr._Fox_(Grotto_World)"
+  },
+  {
+    "name": "Slime Prince",
+    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/c/ce/Sp.png",
+    "description": "Slime PrinceNameSlime PrinceGenderMaleSpeciesSlime PersonOccupationPrinceSlime Princeis the gender-swapped version ofSlime Princess. He is only ever seen in the book \"Adventure Time: How to Warrior by Fionna and Cake: A Tale of Deadly Quests, Daring Rescues, and Defeating Evil!\". He may be an elemental, although the only evidence of this is that he is the gender-swap of the slime elemental.",
+    "role": "Anime Character",
+    "attributes": {
+      "Gender": "Male",
+      "Occup": "Prince"
+    },
+    "source_url": "https://adventuretime.fandom.com/wiki/Slime_Prince"
+  },
+  {
+    "name": "Lifeguard",
+    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/1/18/Lifeguard_Whistle.png",
+    "description": "In the episode \"Water Park Prank,\" he tries to ensure thatIce Kingslides down all the way to the end of the slide without bouncing back up. This was all part of a prank set up byFinnandJake, however, the Lifeguard was unaware of this as Finn managed to slide all the way down without Jake blocking him from reaching the end. When Ice King assaults Finn for being responsible the lifeguard whistles with his body and ask Ice King to leave. He is later seen helping other whistle people carry the ti...",
+    "role": "Anime Character",
+    "attributes": {
+      "Name": "Whistle Lifeguard",
+      "Gender": "Male",
+      "Species": "Whistle Person",
+      "Occup": "Lifeguard",
+      "Firstintroduced": "\" Water Park Prank \"",
+      "Actor": "David Ferguson"
+    },
+    "source_url": "https://adventuretime.fandom.com/wiki/Lifeguard"
+  },
+  {
+    "name": "Shafter",
+    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/0/01/Bearded_Elf_render.png",
+    "description": "Abracadaniel•Ancient Psychic Tandem War Elephant•Ancient Sleeping Magi of Life Giving•Banana Guards(Female Banana Guards) •Banana Guy•Banana Man•Betty Grof•Big Destiny•Billy•Bob&Ethel Rainicorn•Boy Bear•Bronwyn•Bryce•Bufo•Candy Corn Grandma•Candy Heart•Candy Kids•Carroll•Castle Staff•Charlie•Chet•Chicle/Crunchy•Chocoberry•Chocolate Bar Guy•Choose Goose•Cinnamon Bun•Clarence•CMOs•Cow•Cuber•Dancing Bug•Destiny Gang(Trami,Tromo, &Others) •DMO•Don John the Flame Lord•Donny•Dr. Donut•Dr. Ice Cream...",
+    "role": "Anime Character",
+    "attributes": {
+      "Name": "Shafter",
+      "Gender": "Male",
+      "Age": "1000+",
+      "Species": "Human (formerly) Gray Elf",
+      "Firstintroduced": "\" BMO \"",
+      "Actor": "John Hodgman"
+    },
+    "source_url": "https://adventuretime.fandom.com/wiki/Shafter"
+  },
+  {
+    "name": "Daughter of Peace Master",
+    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/a/ab/0B1F7D95-380A-419B-A14A-A4E9EFD29F22.jpeg",
+    "description": "In the episode, she was revealed to be into the dark arts, asking her father if she could attend the dark arts convention. She also seemed to be more joyed then disgusted whenPeace Master's Babythrew up all over Peace Master. She is also seen to enjoy being turned into a monster, and when was revealed to have been kidnapped by Peppermint Butler, she was smiling instead of being filled with fear.",
+    "role": "Anime Character",
+    "attributes": {
+      "Image": "Normal",
+      "Name": "Daughter of Peace Master",
+      "Gender": "Female",
+      "Species": "Fairy (half",
+      "Relatives": "Peace Master (father) An unnamed younger brother Another unnamed younger brother",
+      "Firstintroduced": "\" Nemesis \"",
+      "Actor": "Hynden Walch"
+    },
+    "source_url": "https://adventuretime.fandom.com/wiki/Daughter_of_Peace_Master"
+  },
+  {
+    "name": "Guardian",
+    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/f/fd/Guardian.png",
+    "description": "GuardianNameGuardianSpeciesRobotRelativesThe Founders(creators)Introduced in\"The Visitor\"(flashback)Latest appearance\"The Light Cloud\"TheGuardian(also known asThe Colossus of the DeeporThe Island's Colossus) is a colossal robot that protects theHumansin theIslandsby keeping anyone living there inside, and keeping any intruder out. It makes its first appearance in \"The Visitor\" during a flashback Martin had when he \"answered\" Finn's questions about Minerva. Guardian appears at the end of \"Whip...",
+    "role": "Anime Character",
+    "attributes": {
+      "Name": "Guardian",
+      "Species": "Robot",
+      "Relatives": "The Founders (creators",
+      "Firstintroduced": "\" The Visitor \" (flashback",
+      "Lastseen": "\" The Light Cloud \""
+    },
+    "source_url": "https://adventuretime.fandom.com/wiki/Guardian"
+  },
+  {
+    "name": "Candy Person 50",
+    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/2/2d/Sugar_cube.png",
+    "description": "Sugar CubeNameSugar CubeGenderMaleSpeciesSugar CubeIntroduced in\"Slumber Party Panic\"Latest appearance\"The Dark Cloud\"TheSugar Cubeis aCandy Personwho appears in many crowds. In \"Power Animal,\" he is at theNorthern Lights Rooftop Party, and he attendsCouples Only Movie Nightwith his girlfriend in \"Go With Me.\" In \"Too Young,\" he donates part of his head to makePrincess Bubblegumold again. He also makes a cameo as one of the passengers on the train in \"Candy Streets.\" His first speaking appear...",
+    "role": "Anime Character",
+    "attributes": {
+      "Name": "Sugar Cube",
+      "Gender": "Male",
+      "Species": "Sugar Cube",
+      "Firstintroduced": "\" Slumber Party Panic \"",
+      "Lastseen": "\" The Dark Cloud \""
+    },
+    "source_url": "https://adventuretime.fandom.com/wiki/Candy_Person_50"
+  },
+  {
+    "name": "King Man",
+    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/9/9a/King_Man.png",
+    "description": "Magic Man (his first identity) lived a normal life onMarswith his wife,Margles, and brother,Grob Gob Glob Grod. Even at this point in his life, he was still a renowned practitioner of magic. The first major step on his descent into madness occured whenGOLB, the incarnation of chaotic evil, attacked Mars and took away many martians, including Margles. This devastated Magic Man, who spent an undetermined amount of time trying to find a means to save his wife, even finding a means of reachingPri...",
+    "role": "Game Character",
+    "attributes": {
+      "Image": "King Man",
+      "Name": "King Man",
+      "Gender": "Male",
+      "Age": "400+",
+      "Species": "Martian Wizard (formerly",
+      "Occup": "King of Mars",
+      "Relatives": "Glob (older brother) Margles (wife) †",
+      "Firstintroduced": "\" Freak City \"",
+      "Lastseen": "\" Come Along With Me \" (main series",
+      "Actor": "Tom Kenny"
+    },
+    "source_url": "https://adventuretime.fandom.com/wiki/King_Man"
+  },
+  {
+    "name": "Boobafina (Grotto World)",
+    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/c/c1/Boobafina_%28Grotto_World%29_-_Render.png",
+    "description": "Abracadaniel•Ancient Psychic Tandem War Elephant•Ancient Sleeping Magi of Life Giving•Banana Guards(Female Banana Guards) •Banana Guy•Banana Man•Betty Grof•Big Destiny•Billy•Bob&Ethel Rainicorn•Boy Bear•Bronwyn•Bryce•Bufo•Candy Corn Grandma•Candy Heart•Candy Kids•Carroll•Castle Staff•Charlie•Chet•Chicle/Crunchy•Chocoberry•Chocolate Bar Guy•Choose Goose•Cinnamon Bun•Clarence•CMOs•Cow•Cuber•Dancing Bug•Destiny Gang(Trami,Tromo, &Others) •DMO•Don John the Flame Lord•Donny•Dr. Donut•Dr. Ice Cream...",
+    "role": "Anime Character",
+    "attributes": {
+      "Name": "Boobafina",
+      "Gender": "Female",
+      "Species": "Goose",
+      "Firstintroduced": "\" Beyond the Grotto \""
+    },
+    "source_url": "https://adventuretime.fandom.com/wiki/Boobafina_(Grotto_World)"
+  },
+  {
+    "name": "Cake Titans",
+    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/8/86/7236736D-483D-467A-9214-DC097C54DB5D.jpeg",
+    "description": "Abracadaniel•Ancient Psychic Tandem War Elephant•Ancient Sleeping Magi of Life Giving•Banana Guards(Female Banana Guards) •Banana Guy•Banana Man•Betty Grof•Big Destiny•Billy•Bob&Ethel Rainicorn•Boy Bear•Bronwyn•Bryce•Bufo•Candy Corn Grandma•Candy Heart•Candy Kids•Carroll•Castle Staff•Charlie•Chet•Chicle/Crunchy•Chocoberry•Chocolate Bar Guy•Choose Goose•Cinnamon Bun•Clarence•CMOs•Cow•Cuber•Dancing Bug•Destiny Gang(Trami,Tromo, &Others) •DMO•Don John the Flame Lord•Donny•Dr. Donut•Dr. Ice Cream...",
+    "role": "Anime Character",
+    "attributes": {
+      "Name": "Cake Titans",
+      "Species": "Candy People",
       "Firstintroduced": "\" Come Along With Me \""
     },
-    "source_url": "https://adventuretime.fandom.com/wiki/Malus/Talug"
+    "source_url": "https://adventuretime.fandom.com/wiki/Cake_Titans"
   },
   {
-    "name": "Ancient Glass Princess",
-    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/0/0c/Ancient_Glass_Princess.png",
-    "description": "Ancient Glass PrincessGenderFemaleAgeDeceasedSpeciesGlass PersonOccupationRuler of theGlass Kingdom(formerly)RelativesSee-Thru PrincessIntroduced in\"Obsidian\"Latest appearance\"Obsidian\"Voiced byCharlotte NicdaoAncient Glass Princesswas a character who appears in flashbacks in theAdventure Time: Distant Landsspecial \"Obsidian\". She is the former ruler of theGlass Kingdom.",
+    "name": "Ice King (Extinct World)",
+    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/a/a5/ExtinctWorldIceKing.png",
+    "description": "Simon PetrikovNameSimon PetrikovAlso known asIce KingGenderMaleAge1046 (Deceased)Biological age47Actual age1046Introduced in\"Jerry\"Latest appearance\"Jerry\"Voiced byTom Kenny",
     "role": "Anime Character",
     "attributes": {
-      "Gender": "Female",
-      "Age": "Deceased",
-      "Occup": "Ruler of the Glass Kingdom (formerly",
-      "Firstintroduced": "\" Obsidian \"",
-      "Lastseen": "\"Obsidian\""
-    },
-    "source_url": "https://adventuretime.fandom.com/wiki/Ancient_Glass_Princess"
-  },
-  {
-    "name": "The United Theme Park Security Force Chief",
-    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/2/2a/The_United_Theme_Park_Security_Force_Chief.jpg",
-    "description": "The United Theme Park Security Force ChiefAlso known asChiefGenderMaleOccupationUnited Theme Park Security Force's ChiefIntroduced inIssue 70Latest appearanceIssue 70United Theme Park Security Force Chief, is a character that shows up inIssue 71were he is guarding Adventure Town from some skateboarding kids. He is the Chief of The United Theme Park Security Force. He has the power to recruit new UTPSF members.",
-    "role": "Anime Character",
-    "attributes": {
-      "Alias": "Chief",
+      "Alias": "Ice King",
       "Gender": "Male",
-      "Firstintroduced": "Issue 70",
-      "Lastseen": "Issue 70"
+      "Bio": "47",
+      "Act": "1046",
+      "Firstintroduced": "\" Jerry \"",
+      "Lastseen": "\"Jerry\"",
+      "Actor": "Tom Kenny"
     },
-    "source_url": "https://adventuretime.fandom.com/wiki/The_United_Theme_Park_Security_Force_Chief"
+    "source_url": "https://adventuretime.fandom.com/wiki/Ice_King_(Extinct_World)"
   },
   {
-    "name": "Magwood",
-    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/2/24/S6e24_Magwood_Transparent.png",
-    "description": "Magwood is a powerful creature that is difficult to defeat even by the likes of Evergreen. The lava dog is able to increase in size when in danger. It is also capable of producing large quantities of lava from its body and using them offensively. Magwood's lava is hot enough to overcome Evergreen's ice magic. Even without lava powers, Magwood is still a formidable foe. The dog possesses great physical strength as it was able to significantly damage Evergreen's tower despite appearing to be in...",
+    "name": "Large Bear",
+    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/8/81/LargeBear.png",
+    "description": "Large BearNameLarge BearSpeciesBearIntroduced in\"Storytelling\"TheLarge Bearis aForest inhabitantthat is seen among other forest inhabitants in the episode, \"Storytelling.\" The bear also makes an appearance in, \"Legends of Ooo.\" In the game, he needs something to eat or he will get grumpy. Finn and Jake continue through the forest after finding the large bear and see a bee hive, which they bring back to he so he can eat the honey. Then the bear will leave so he can play after eating the honey.",
     "role": "Anime Character",
     "attributes": {
-      "Name": "Magwood",
-      "Age": "Deceased",
-      "Species": "Lava Dog",
-      "Firstintroduced": "\" Evergreen \""
+      "Name": "Large Bear",
+      "Species": "Bear",
+      "Firstintroduced": "\" Storytelling \""
     },
-    "source_url": "https://adventuretime.fandom.com/wiki/Magwood"
+    "source_url": "https://adventuretime.fandom.com/wiki/Large_Bear"
   },
   {
-    "name": "Party Bugs",
-    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/7/78/9840C160-989E-45C9-AA3F-F218B10231F9.png",
-    "description": "TheParty Bugsare a group of various arthropods and invertebrates that are seen throwing or attending parties throughout theAdventure Timeseries. These include, but are not limited to,ladybugs,centipedes,beetles,ants,snails,scorpions,worms, and more.",
-    "role": "Anime Character",
-    "attributes": {
-      "Name": "Party Bugs",
-      "Gender": "Various",
-      "Species": "Arthropods Mollusks Worms",
-      "Firstintroduced": "\" Evicted! \"",
-      "Lastseen": "\" Little Brother \""
-    },
-    "source_url": "https://adventuretime.fandom.com/wiki/Party_Bugs"
-  },
-  {
-    "name": "Chatsberry",
-    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/b/b2/Chatsberry.png",
-    "description": "ChatsberryNameChatsberryGenderMaleAgeDeceasedSpeciesCandy ElementalOccupationElementalRelativesPrincess Bubblegum(reincarnation)Introduced in\"Evergreen\"Latest appearance\"Jelly Beans Have Power\"Voiced byAlan TudykChatsberryis a character that appears in \"Evergreen.\" He is aCandy Elementaland one of the few characters known to exist before theMushroom War. He has been reincarnated as several beings, the most recent of which isPrincess Bubblegum.",
-    "role": "Anime Character",
-    "attributes": {
-      "Name": "Chatsberry",
-      "Gender": "Male",
-      "Age": "Deceased",
-      "Occup": "Elemental",
-      "Relatives": "Princess Bubblegum ( reincarnation",
-      "Firstintroduced": "\" Evergreen \"",
-      "Lastseen": "\" Jelly Beans Have Power \"",
-      "Actor": "Alan Tudyk"
-    },
-    "source_url": "https://adventuretime.fandom.com/wiki/Chatsberry"
-  },
-  {
-    "name": "Choose Goose",
-    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/5/54/Choose_Goose.png",
-    "description": "After drinking the ichor ofCoconteppi, he was driven to insanity and turned into an evil magic user. He was being contained in a cage under Simon's watch until Simon sacrificed him in a ritual to summonGOLB.",
-    "role": "Anime Character",
-    "attributes": {
-      "Image": "Normal",
-      "Name": "Choose Goose",
-      "Alias": "Achoose Goose (Ice Elemental) Evil Choose Goose (After \"Wizard City\"",
-      "Gender": "Male",
-      "Age": "Deceased",
-      "Species": "Goose",
-      "Occup": "Merchant (formerly) Magical battery ( Fionna & Cake",
-      "Firstintroduced": "\" Blood Under the Skin \"",
-      "Lastseen": "\" Winter Light \" \" Wizard City \" ( Distant Lands ) \" Cake the Cat \" ( Fionna & Cake",
-      "Actor": "Jeff Glen Bennett"
-    },
-    "source_url": "https://adventuretime.fandom.com/wiki/Choose_Goose"
-  },
-  {
-    "name": "Fionna Lookalike",
-    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/0/0b/Fionna_Lookalike%282%29.png",
-    "description": "An unnamed humanwas briefly seen in \"Cake the Cat\". Cake initially believed she was Fionna, but upon seeing her from the front he saw her face was deformed and covered in purple welts.",
-    "role": "Anime Character",
-    "attributes": {
-      "Name": "????",
-      "Species": "Human (possibly",
-      "Firstintroduced": "\" Cake the Cat \""
-    },
-    "source_url": "https://adventuretime.fandom.com/wiki/Fionna_Lookalike"
-  },
-  {
-    "name": "Disguised banana guard",
-    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/0/01/S4e13_trap_horse.png",
+    "name": "Janice Bizzlethatcher",
+    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/e/e8/Janice_Bizzlethatcher.jpg",
     "description": "Abracadaniel•Ancient Psychic Tandem War Elephant•Ancient Sleeping Magi of Life Giving•Banana Guards(Female Banana Guards) •Banana Guy•Banana Man•Betty Grof•Big Destiny•Billy•Bob&Ethel Rainicorn•Boy Bear•Bronwyn•Bryce•Bufo•Candy Corn Grandma•Candy Heart•Candy Kids•Carroll•Castle Staff•Charlie•Chet•Chicle/Crunchy•Chocoberry•Chocolate Bar Guy•Choose Goose•Cinnamon Bun•Clarence•CMOs•Cow•Cuber•Dancing Bug•Destiny Gang(Trami,Tromo, &Others) •DMO•Don John the Flame Lord•Donny•Dr. Donut•Dr. Ice Cream...",
     "role": "Anime Character",
     "attributes": {
-      "Name": "Disguised banana guard",
-      "Firstintroduced": "\" Princess Cookie \""
+      "Name": "Janice Bizzlethatcher",
+      "Gender": "Female",
+      "Firstintroduced": "Issue 36",
+      "Lastseen": "Issue 75"
     },
-    "source_url": "https://adventuretime.fandom.com/wiki/Disguised_banana_guard"
+    "source_url": "https://adventuretime.fandom.com/wiki/Janice_Bizzlethatcher"
   },
   {
-    "name": "Jay T. Doggzone",
-    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/c/cf/Reign_of_Gunters2.jpg",
-    "description": "Finnand theIce Kinghave tried to use Dawgzone's advice to get women, butJakeaccuses the book of being full of bad advice, as seen in \"Reign of Gunthers\", and that he just keeps the book as a joke. There is no record of Doggzone's face being shown in the book, but he appears in the official artwork ofJesse Moynihanwhich shows Finn reading the book.",
-    "role": "Anime Character",
+    "name": "Dark Magistar Templi Marble",
+    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/c/cb/DMTM.jpg",
+    "description": "He isn't actually \"evil\" but just lived a sad life in the search of fame. He attacked theGrand Master Wizardthen hid away for years hoping his legend would grow. It did grow a little butThe Dark Moon Esbatswhere the first to come seek him out, only to go threw his traps and fight him and win. He has a chance to fight them again but says he is too old to fight, but now his legend would live on after they tell everyone (which they didn't). He also celebrates Halloween.",
+    "role": "Game Character",
     "attributes": {
-      "Name": "Jay T. Doggzone",
+      "Name": "Dark Magistar Templi Marble",
       "Gender": "Male",
-      "Occup": "Author",
-      "Firstintroduced": "\" Reign of Gunters \"",
-      "Lastseen": "\" Come Along with Me \""
+      "Age": "Not defined (teenager",
+      "Species": "Goblin"
     },
-    "source_url": "https://adventuretime.fandom.com/wiki/Jay_T._Doggzone"
+    "source_url": "https://adventuretime.fandom.com/wiki/Dark_Magistar_Templi_Marble"
   },
   {
-    "name": "Turtle Princess Robot",
-    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/b/b6/TurtlePrincess1000.jpg",
+    "name": "Woobeewoo",
+    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/f/fa/Woobeewoo_Villager_-1.png",
     "description": "Abracadaniel•Ancient Psychic Tandem War Elephant•Ancient Sleeping Magi of Life Giving•Banana Guards(Female Banana Guards) •Banana Guy•Banana Man•Betty Grof•Big Destiny•Billy•Bob&Ethel Rainicorn•Boy Bear•Bronwyn•Bryce•Bufo•Candy Corn Grandma•Candy Heart•Candy Kids•Carroll•Castle Staff•Charlie•Chet•Chicle/Crunchy•Chocoberry•Chocolate Bar Guy•Choose Goose•Cinnamon Bun•Clarence•CMOs•Cow•Cuber•Dancing Bug•Destiny Gang(Trami,Tromo, &Others) •DMO•Don John the Flame Lord•Donny•Dr. Donut•Dr. Ice Cream...",
     "role": "Anime Character",
     "attributes": {
-      "Species": "Robot",
-      "Occup": "Librarian",
-      "Firstintroduced": "\" Casper & Nova \""
+      "Name": "Woobeewoo",
+      "Species": "Mudscamp",
+      "Firstintroduced": "\" The Hard Easy \"",
+      "Actor": "Kent Osborne [ 1"
     },
-    "source_url": "https://adventuretime.fandom.com/wiki/Turtle_Princess_Robot"
+    "source_url": "https://adventuretime.fandom.com/wiki/Woobeewoo"
   },
   {
-    "name": "Abraham Lincoln",
-    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/a/a4/Abraham_Lincoln.png",
-    "description": "Abraham \"Abe\" LincolnCurrent designAnimated shortNameAbraham \"Abe\" LincolnGenderMaleAge3000+(Deceased)SpeciesHuman(possibly)Cosmic Entity(possibly)OccupationKing ofMars(main series, formerly)16th U.S. President(Animated short, real life)Introduced inAnimated shortLatest appearance\"Normal Man\"Voiced byPendleton WardAbraham \"Abe\" Lincolnis the King ofMars. He debuts in the originalanimated shortas what is implied to behis real self, where he encouragesFinnto believe in himself after theIce King...",
+    "name": "Rock Giant",
+    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/c/c4/S5e3_Rock_Giant.png",
+    "description": "Abracadaniel•Ancient Psychic Tandem War Elephant•Ancient Sleeping Magi of Life Giving•Banana Guards(Female Banana Guards) •Banana Guy•Banana Man•Betty Grof•Big Destiny•Billy•Bob&Ethel Rainicorn•Boy Bear•Bronwyn•Bryce•Bufo•Candy Corn Grandma•Candy Heart•Candy Kids•Carroll•Castle Staff•Charlie•Chet•Chicle/Crunchy•Chocoberry•Chocolate Bar Guy•Choose Goose•Cinnamon Bun•Clarence•CMOs•Cow•Cuber•Dancing Bug•Destiny Gang(Trami,Tromo, &Others) •DMO•Don John the Flame Lord•Donny•Dr. Donut•Dr. Ice Cream...",
     "role": "Anime Character",
     "attributes": {
+      "Name": "Rock Giant",
+      "Species": "Rock Person",
+      "Occup": "Drummer",
+      "Firstintroduced": "\" Five More Short Graybles \""
+    },
+    "source_url": "https://adventuretime.fandom.com/wiki/Rock_Giant"
+  },
+  {
+    "name": "Martin Mertens",
+    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/d/da/Martinrender.png",
+    "description": "Martin MertensHumanYoungMr. MNameMartin MertensGenderMaleSpeciesHuman(formerly)Cosmic EntityOccupationBarber(formerly)Prisoner/Con artist(formerly)Space Business man(formerly)RelativesFinn(son)Minerva Campbell(former romantic partner)Stormo(genetic grandson)Jay(grandson inPillow World)Bonnie(granddaughter in Pillow World)Finn's Grandson(great-grandson in Pillow World)Roselinen(daughter-in-law in Pillow World)Introduced in\"Finn the Human\"(Farmworld)\"Billy's Bucket List\"(silhouette, cameo)\"Esca...",
+    "role": "Anime Character",
+    "attributes": {
+      "Image": "Human",
       "Gender": "Male",
-      "Age": "3000+ (Deceased",
-      "Species": "Human (possibly) Cosmic Entity (possibly",
-      "Occup": "King of Mars (main series, formerly) 16th U.S. President ( Animated short , real life",
-      "Lastseen": "\" Normal Man \""
+      "Species": "Human (formerly) Cosmic Entity",
+      "Occup": "Barber (formerly) Prisoner/Con artist (formerly) Space Business man (formerly) [ 1",
+      "Relatives": "Finn (son) Minerva Campbell (former romantic partner) Stormo (genetic grandson) Jay (grandson in Pillow World ) Bonnie (granddaughter in Pillow World) Finn's Grandson (great-grandson in Pillow Worl...",
+      "Firstintroduced": "\" Finn the Human \" ( Farmworld ) \" Billy's Bucket List \" (silhouette, cameo) \" Escape from the Citadel \" (actual",
+      "Lastseen": "\" Come Along With Me \" \" BMO \" ( Distant Lands ) \" The Star \" (Vampire Universe) ( Fionna & Cake",
+      "Actor": "Stephen Root"
     },
-    "source_url": "https://adventuretime.fandom.com/wiki/Abraham_Lincoln"
-  },
-  {
-    "name": "Cheryl",
-    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/b/b3/Cheryl.png",
-    "description": "CherylNameCherylGenderFemaleAgeUnknown(deceased)SpeciesSuper Porp MutantOccupationSuper Porp(former mascot/factory owner)Introduced in\"Dark Purple\"Latest appearance\"Come Along With Me\" (pictured)Voiced byAshly BurchCherylis the mascot ofSuper Porpand the head of theSuper Porp Factory. Cheryl is prominently featured on her company's vending machines and is also featured on a fountain inside the Super Porp factory. She is likely the last of the Super Porp mascots afterSusan Strongdefeats her in...",
-    "role": "Anime Character",
-    "attributes": {
-      "Name": "Cheryl",
-      "Gender": "Female",
-      "Age": "Unknown (deceased",
-      "Occup": "Super Porp (former mascot/factory owner",
-      "Firstintroduced": "\" Dark Purple \"",
-      "Lastseen": "\" Come Along With Me \" (pictured"
-    },
-    "source_url": "https://adventuretime.fandom.com/wiki/Cheryl"
-  },
-  {
-    "name": "Half Monster Demon",
-    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/9/96/Half_Monster_Demon.png",
-    "description": "DistryllagNameDistryllagSpeciesDemonOccupationTransportationIntroduced in\"Return to the Nightosphere\"TheHalf Monster Demonis a character who appears in \"Return to the Nightosphere.\" AfterFinnandJakeask him how they can talk toHunson Abadeer, he brings them over to the line that leads toThe Teller, who can help them. His insides are \"habitable,\" so anyone who uses him to transport somewhere can survive without being digested. Three Half Monster Demons are seen as Finn and Jake observe theNight...",
-    "role": "Anime Character",
-    "attributes": {
-      "Name": "Distryllag",
-      "Species": "Demon",
-      "Firstintroduced": "\" Return to the Nightosphere \""
-    },
-    "source_url": "https://adventuretime.fandom.com/wiki/Half_Monster_Demon"
-  },
-  {
-    "name": "Gork",
-    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/5/54/Gork-humanoid.png",
-    "description": "GorkNameGorkGenderMaleSpeciesCyclopsIntroduced in\"Freak City\"Voiced byMichael DornGorkfirst appears in the episode \"Freak City.\" He is one of the people who was turned into a freakish body part byMagic Manand later combines with the other freaks to makeSuper Freak. He states that he is \"leader\" of Freak City, and is the most vocal of them. When they form the \"Super Freak,\" he takes the role of the head.",
-    "role": "Anime Character",
-    "attributes": {
-      "Name": "Gork",
-      "Gender": "Male",
-      "Species": "Cyclops",
-      "Firstintroduced": "\" Freak City \""
-    },
-    "source_url": "https://adventuretime.fandom.com/wiki/Gork"
-  },
-  {
-    "name": "Townspeople",
-    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/d/d3/Townspeople.png",
-    "description": "TownspeopleNameTownspeopleIntroduced in\"His Hero\"Latest appearance\"Lady Rainicorn of the Crystal Dimension\"Thetownspeopleappear in the episode \"His Hero.\" They are the poor inhabitants of the unnamedtown, and they eatFinnandJake'sgruel when Finn and Jake try to help people nonviolently. However, Finn adds aStone-skin potionto the gruel, thinking it will help the townspeople defend themselves, though this backfires, as they are all upset after growing the armor. One individual is especially fr...",
-    "role": "Anime Character",
-    "attributes": {
-      "Firstintroduced": "\" His Hero \"",
-      "Lastseen": "\" Lady Rainicorn of the Crystal Dimension \""
-    },
-    "source_url": "https://adventuretime.fandom.com/wiki/Townspeople"
-  },
-  {
-    "name": "Guy",
-    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/5/5e/Guywolf.PNG",
-    "description": "Guy is mysterious, moody and dreamy. He seems to have a bad habit of lying about what kind of creature he is. Twice in the comic he tries to pass himself off as something that he isn't in order to win the sympathy of Princess Bubblegum (once by pretending to be a werewolf and once more by pretending to be a werefish.) It is also heavily implied that he only pretends to be a mysterious character in order to make himself seem interesting and to make himself feel less angsty.",
-    "role": "Anime Character",
-    "attributes": {
-      "Name": "Guy Samuel",
-      "Gender": "Male",
-      "Species": "Changeling",
-      "Occup": "Keyboardist",
-      "Firstintroduced": "\" Adventure Time: Marceline and the Scream Queens Issue 1 \""
-    },
-    "source_url": "https://adventuretime.fandom.com/wiki/Guy"
-  },
-  {
-    "name": "Lemonhope",
-    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/0/04/LimoncitoSinFeOfficial.png",
-    "description": "LemonhopeNameLemonhopeAlso known asBad-lemon-no-hope(as dubbed byLemongrab)GenderMaleSpeciesLemon PersonRelativesEarl of Lemongrab(creator)Lemongrab 2(creator)Introduced in\"Too Old\"Latest appearance\"Come Along With Me\" (cameo)\"Fionna Campbell\"(Human) (cameo)Voiced byJustin RoilandPitched up to 2 semi-tonesLemonhope, also known asBadlemonnohope, is aLemon Childwho was formerly imprisoned inCastle Lemongrab. Lemonhope first appears in \"Too Old,\" where he escapes from theEarl of Lemongrabwith th...",
-    "role": "Anime Character",
-    "attributes": {
-      "Name": "Lemonhope",
-      "Alias": "Bad-lemon-no-hope (as dubbed by Lemongrab",
-      "Gender": "Male",
-      "Relatives": "Earl of Lemongrab (creator) Lemongrab 2 (creator",
-      "Firstintroduced": "\" Too Old \"",
-      "Lastseen": "\" Come Along With Me \" (cameo) \" Fionna Campbell \" (Human) (cameo",
-      "Actor": "Justin Roiland Pitched up to 2 semi-tones"
-    },
-    "source_url": "https://adventuretime.fandom.com/wiki/Lemonhope"
-  },
-  {
-    "name": "Candy Cane Guy",
-    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/1/13/Candy_Cane.png",
-    "description": "Candy Cane GuyNormalCandy ElementalNameCandy Cane GuyGenderMaleSpeciesCandy PersonIntroduced in\"Slumber Party Panic\"Latest appearance\"Come Along With Me\"Voiced byKeith FergusonCole SanchezCandy Cane Guyis aCandy Personfrom theCandy Kingdom. He first appears in \"Slumber Party Panic\" and plays an important role in the episodes \"Mystery Train\" and \"From Bad to Worse.\" He appears briefly in \"Holly Jolly Secrets Part II,\" being hugged byLumpy Space Princess, and he attendsPrincess Bubblegum's conc...",
-    "role": "Anime Character",
-    "attributes": {
-      "Image": "Normal",
-      "Gender": "Male",
-      "Firstintroduced": "\" Slumber Party Panic \"",
-      "Lastseen": "\" Come Along With Me \"",
-      "Actor": "Keith Ferguson Cole Sanchez"
-    },
-    "source_url": "https://adventuretime.fandom.com/wiki/Candy_Cane_Guy"
-  },
-  {
-    "name": "Creepy Finn & Jake robots",
-    "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/9/94/Fjrobots.jpg",
-    "description": "InIssue 7, when Finn and Jake travel to the future, they learn that the robots turned evil when they were caught in the rain one day. After they were driven off, they built an army of evil robots that kept attacking Finn and his friends for fifteen years. Eventually, inIssue 9, the present Finn and Jake traveled back to their time and smashed the evil, creepy robots.",
-    "role": "Anime Character",
-    "attributes": {
-      "Name": "Creepy Finn and Jake robots",
-      "Firstintroduced": "Issue 5",
-      "Lastseen": "Issue 9"
-    },
-    "source_url": "https://adventuretime.fandom.com/wiki/Creepy_Finn_%26_Jake_robots"
+    "source_url": "https://adventuretime.fandom.com/wiki/Martin_Mertens"
   }
 ]

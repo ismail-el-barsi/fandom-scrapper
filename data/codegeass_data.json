@@ -1,49 +1,375 @@
 [
   {
-    "name": "Lelouch vi Britannia/Suzaku of the Counterattack",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/8/84/Lelouch_%28SotC%29.jpg",
-    "description": "Lelouch vi Britannia(ルルーシュ・ヴィ・ブリタニアRurūshu vi Buritania) is a main character ofCode Geass: Suzaku of the Counterattack. After he was exiled, he used the aliasLelouch Lamperouge(ルルーシュ・ランペルージ,Rurūshu Ranperūji). He was the Eleventh Prince of theHoly Britannian Empireand the son of the 98th Emperor of Britannia,Charles zi Britannia. He was also the leader and founder of TheBlack Knightsand the real identity ofZero.",
-    "role": "Vice President of the Student Council in Ashford Academy Leader of The Order of the Black Knights (Former) 11th Prince of the Holy Britannian Empire",
+    "name": "Sokkia Sherpa",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/4/45/Story_chara_00926.png",
+    "description": "Sokkia SherpaBiographical InformationFull nameSokkia SherpaNickname(s)CrasherAlias(es)ScarecrowNationalityBritannianAge16 (OZ), 17 (at O2)Borna.t.b.n/aStatusAlivePhysical appearanceGenderFemaleHairGreenEye ColorBlueHeightn/aWeightn/aZodiac signn/aBlood typen/aPersonal BackgroundTitle(s)Knight of the Glinda KnightsRank(s)KnightOccupation(s)Military OfficerKnightmare PilotAllegiance(s)Holy Britannian EmpireBritannian MilitaryGlinda KnightsKnightmare(s)Sutherland GlindaSutherland EyeSheffield Ey...",
+    "role": "Knight of the Glinda Knights",
     "attributes": {
-      "Alias": "Lelouch Lamperouge Zero",
-      "Nationality": "Britannian",
-      "Age": "17 22 (End of Manga",
-      "Born": "a.t.b. December 5th 1999",
-      "Status": "Alive",
-      "Gender": "Male",
-      "Hair": "Light Black",
-      "Eye": "Violet",
-      "Height": "178 cm (5'10\"",
-      "Title": "Vice President of the Student Council in Ashford Academy Leader of The Order of the Black Knights (Former) 11th Prince of the Holy Britannian Empire",
-      "Rank": "Prince",
-      "Occupation": "Royalty Student Terrorist",
-      "Relatives": "Charles zi Britannia (Father) Marianne vi Britannia (Mother) Nunnally vi Britannia (Sister) Schneizel el Britannia (Half Brother) Clovis la Britannia",
-      "Allegiance": "Ashford Academy Student Council (As Lelouch Lamperouge) The Black Knights (As Zero) Holy Britannian Empire Britannian Imperial Family"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia/Suzaku_of_the_Counterattack"
-  },
-  {
-    "name": "René Laurent",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/8/82/Rene_Laurent.jpeg",
-    "description": "René LaurentBiographical InformationFull nameRené LaurentNationalityBritannianAgen/aBorna.t.b.n/aStatusAlivePhysical appearanceGenderMaleHairRedEye ColorPurpleHeightn/aWeightn/aBlood typen/aPersonal BackgroundTitle(s)Knight of St. MichaelRank(s)KnightOccupation(s)Knightmare PilotMilitary OfficerAllegiance(s)Holy Britannian EmpireBritannian MilitaryEuro BritanniaKnights of St. MichaelAshura Strike ForceKnightmare(s)CustomizedGloucesterOtherSeeCode Geass: Akito the ExiledReal World InformationF...",
-    "role": "Knight of St. Michael",
-    "attributes": {
+      "Nickname": "Crasher",
+      "Alias": "Scarecrow",
       "Nationality": "Britannian",
       "Born": "a.t.b. n/a",
       "Status": "Alive",
+      "Gender": "Female",
+      "Hair": "Green",
+      "Eye": "Blue",
+      "Rank": "Knight",
+      "Occupation": "Military Officer Knightmare Pilot",
+      "Allegiance": "Holy Britannian Empire Britannian Military Glinda Knights",
+      "Knightmare": "Sutherland Glinda Sutherland Eye Sheffield Eye",
+      "Other": "See Code Geass: Oz the Reflection",
+      "Creator": "Takahiro Kimura",
+      "Voice": "Yui Watanabe"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Sokkia_Sherpa"
+  },
+  {
+    "name": "The Black King",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/0/0e/Black_king.jpg",
+    "description": "The Black King as he first appeared is shown as a lecherous old man rather than an accomplished Chess Player. Before he met Lelouch, he participated in a questionable game called \"Rabbit Hunt\", in the game he has successfully managed to capture three of them save forKallen. He is a believer of EmperorCharles'sIdeology where \"the strong rule and the weak die\" as such he considersElevensas nothing more than slaves. He is also commented byRoloto be a member of the Mafia. After he lost a Chess ma...",
+    "role": "Noble",
+    "attributes": {
+      "Nationality": "Britannian",
+      "Status": "Deceased",
+      "Death": "a.t.b. 2018",
+      "Gender": "Male",
+      "Hair": "Blonde",
+      "Eye": "Blue",
+      "Rank": "Noble",
+      "First": "The Day a Demon Awakens",
+      "Last": "The Day a Demon Awakens",
+      "Creator": "CLAMP",
+      "Voice": "Masaharu Sato (Japanese) Douglas Rye (English) Tom Deininger (German"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/The_Black_King"
+  },
+  {
+    "name": "Asirirera",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/1/19/AsirireraPortraitZoom.png",
+    "description": "AsirireraBiographical InformationNationalityJapanesePhysical appearanceGenderFemaleReal World InformationSeriesCode Geass: Genesic Re;CodeAsirirera(アシリレラ,Ashirirera) is a character appearing inCode Geass: Genesic Re;Code. She is one of the primary characters featured in the third chapter.",
+    "role": "Anime Character",
+    "attributes": {
+      "Nationality": "Japanese",
+      "Gender": "Female"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Asirirera"
+  },
+  {
+    "name": "Miguel de Dalo",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/0/01/Miguel.jpg",
+    "description": "Miguel de DaloBiographical InformationNationalitySpaniardPhysical appearanceGenderMalePersonal BackgroundRank(s)Lieutenant ColonelOccupation(s)Military OfficerAllegiance(s)United Republic of EuropiaReal World InformationSeriesCode Geass: Lost StoriesMiguel de Dalo(ミゲル・ド・ダロ,Migeru do Daro) is a lieutenant colonel ofUnited Republic of Europiafrom Spain.",
+    "role": "Military Officer",
+    "attributes": {
+      "Nationality": "Spaniard",
+      "Gender": "Male"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Miguel_de_Dalo"
+  },
+  {
+    "name": "Kinoshita",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/8/8c/Kinoshita.jpg",
+    "description": "Kinoshita makes his first appearance during the Assault on the Geass Order, being a highly secretive operation being told that it was a highly secret military installation. He commands a squadron with him to kill and destroy the Geass Order. However, during the battle, he and his squadmates concur that the people they are killing are unarmed and isn't aBritannianmilitary installation.Zerothen makes a statement that the Geass Order is a research facility that is researching on how to make immo...",
+    "role": "Commander Knightmare Pilot",
+    "attributes": {
+      "Full Name": "Kinoshita",
+      "Nationality": "Japanese",
+      "Status": "Deceased",
+      "Death": "a.t.b. 2018",
+      "Gender": "Male",
+      "Hair": "Brown",
+      "Eye": "Purple",
+      "Rank": "Sub-Commander Lieutenant",
+      "Occupation": "Commander Knightmare Pilot",
+      "Allegiance": "United Federation of Nations The Black Knights",
+      "Knightmare": "Akatsuki Command Model Zikisan",
+      "Other": "See The Black Knights",
+      "First": "Geass Hunt",
+      "Last": "Final Battle Tokyo II",
+      "Voice": "Kazuki Ogawa (Japanese) Fleet Cooper (English) Levin Jäger (German"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Kinoshita"
+  },
+  {
+    "name": "Yukiya Naruse",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/0/04/Pict508.jpg",
+    "description": "Yukiya NaruseBiographical InformationFull nameYukiya NaruseNationalityJapaneseAge16Borna.t.b.November 17, 2001StatusAlivePhysical appearanceGenderMaleHairLight BrownEye ColorGreenHeight168 cm (5'6\")Weightn/aBlood typen/aPersonal BackgroundRank(s)Second Lieutenant (Former)Warrant Officer (Former)Occupation(s)Terrorist (Formerly)Military Officer (Former)Knightmare Pilot (Former)Relation(s)n/aAllegiance(s)A Group that Opposes the Mafia (Formerly)Europia United(Former)wZERO(Former)Knightmare(s)Al...",
+    "role": "Terrorist (Formerly) Military Officer (Former) Knightmare Pilot (Former",
+    "attributes": {
+      "Nationality": "Japanese",
+      "Age": "16",
+      "Born": "a.t.b. November 17, 2001",
+      "Status": "Alive",
+      "Gender": "Male",
+      "Eye": "Green",
+      "Rank": "Second Lieutenant (Former) Warrant Officer (Former",
+      "Occupation": "Terrorist (Formerly) Military Officer (Former) Knightmare Pilot (Former",
+      "Allegiance": "A Group that Opposes the Mafia (Formerly) Europia United (Former) wZERO (Former",
+      "Knightmare": "Alexander Type-02 Yukiya Version Alexander Valiant Yukiya Version Alexander Drone",
+      "Other": "See Code Geass: Akito the Exiled",
+      "First": "The Wyvern Arrives (episode",
+      "Last": "To Beloved Ones (episode",
+      "Creator": "CLAMP Takahiro Kimura",
+      "Voice": "Yoshitsugu Matsuoka (Japanese) Aaron Dismuke (English) Federico Zanandrea (Italian"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Yukiya_Naruse"
+  },
+  {
+    "name": "Barbaros",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/1/18/Barbaros.png",
+    "description": "BarbarosBiographical InformationNickname(s)Barbaros the ExecutionerNationalityBritannianStatusDeceasedPhysical appearanceGenderMaleHairRedEye ColorGoldPersonal BackgroundTitle(s)Knight of ThirteenOccupation(s)KnightAllegiance(s)Holy Britannian EmpireKnights of the RoundBritannian MilitaryReal World InformationSeriesCode Geass: Renya of DarknessBarbaros the Executioner(処刑台のバルバロスShokeidai no Barubarosu) was a member of theKnights of the Roundduring 19th century, as theKnight of Thirteen. Alongs...",
+    "role": "Knight of Thirteen",
+    "attributes": {
+      "Nationality": "Britannian",
+      "Status": "Deceased",
       "Gender": "Male",
       "Hair": "Red",
-      "Eye": "Purple",
-      "Rank": "Knight",
-      "Occupation": "Knightmare Pilot Military Officer",
-      "Allegiance": "Holy Britannian Empire Britannian Military Euro Britannia Knights of St. Michael Ashura Strike Force",
-      "Knightmare": "Customized Gloucester",
-      "Other": "See Code Geass: Akito the Exiled",
-      "First": "The Wyvern Divided",
-      "Creator": "CLAMP Takahiro Kimura",
-      "Voice": "Ryota Ohsaka (Japanese) Nazeeh Tarsha (English"
+      "Eye": "Gold",
+      "Occupation": "Knight",
+      "Allegiance": "Holy Britannian Empire Knights of the Round Britannian Military"
     },
-    "source_url": "https://codegeass.fandom.com/wiki/Ren%C3%A9_Laurent"
+    "source_url": "https://codegeass.fandom.com/wiki/Barbaros"
+  },
+  {
+    "name": "Magical Device Nemo",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/e/e3/Nemo_2.jpg",
+    "description": "Magical Device NemoAs NunnallyTrue FormBiographical InformationStatusPart of NunnallyPhysical appearanceGenderFemaleHairBlondeEye ColorRedHeight160 cm (5'3\")Personal BackgroundRelation(s)Madd(Creator)C.C.(Source)Nunnally vi Britannia(Other Self)Allegiance(s)Nunnally vi BritanniaKnightmare(s)Mark NemoReal World InformationSeriesCode Geass: Nightmare of NunnallyMagical Device Nemo(魔導器ネモMadōki Nemo), usually just calledNemo(ネモNemo), is a main character from the spin-off mangaNightmare of Nunnally.",
+    "role": "Part of Nunnally",
+    "attributes": {
+      "Gender": "Female",
+      "Hair": "Blonde",
+      "Eye": "Red",
+      "Relatives": "Madd (Creator) C.C. (Source) Nunnally vi Britannia (Other Self",
+      "Knightmare": "Mark Nemo"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Magical_Device_Nemo"
+  },
+  {
+    "name": "Colonel Ren",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/0/04/Colonel_ren.jpg",
+    "description": "Ren was first mentioned during a briefing byZerowhen discussing about mission to liberate the people from his tyrannical rule thanks toDiethard Riedinformation network. TheBlack Knightsare shown a video where a chinese soldier executing a sick villager. The soldier then proceed to execute him believing that he is no longer able to work. Ren enslaved the citizens of a small community under his control to extract wealth from the region and used the wealth to enrich himselves. The Black Knights ...",
+    "role": "Warlord",
+    "attributes": {
+      "Nationality": "Chinese Federation",
+      "Status": "Deceased",
+      "Gender": "Male",
+      "Hair": "Black",
+      "Title": "Warlord",
+      "Rank": "Colonel",
+      "Occupation": "Millitary Officer",
+      "Allegiance": "Chinese Federation Chinese Military",
+      "First": "Code Geass: Lancelot & Guren",
+      "Last": "Code Geass: Lancelot & Guren"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Colonel_Ren"
+  },
+  {
+    "name": "Toshizoh Hijikata",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/5/53/ToshizohPV.png",
+    "description": "Toshizoh HijikataBiographical InformationNickname(s)The Demon Vice-CommanderNationalityJapaneseAge25Borna.t.b.May 31stPhysical appearanceGenderMaleHairBlackPersonal BackgroundRank(s)Vice-CommanderAllegiance(s)ShinsengumiReal World InformationSeriesCode Geass: Genesic Re;CodeVoice Actor(s)Yuichiro UmeharaToshizoh Hijikata(土方トシゾォ,Hijikata toshizo~o) is a character fromCode Geass: Genesic Re;Code. He serves as the protagonist of theCode Geass: Toshizoh the Unwaveringstoryline. He is the Vice-Com...",
+    "role": "Vice-Commander",
+    "attributes": {
+      "Nationality": "Japanese",
+      "Age": "25",
+      "Born": "a.t.b. May 31st",
+      "Gender": "Male",
+      "Hair": "Black"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Toshizoh_Hijikata"
+  },
+  {
+    "name": "Mao",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/7/70/Mao_Code_Geass.png",
+    "description": "MaoBiographical InformationFull nameUnknownNationalityChineseAge17Borna.t.b.January 1, 2001StatusDeceasedDeatha.t.b.September 3, 2017Physical appearanceGenderMaleHairSilverEye ColorBlack (Before)Both eyes are encompassed with GeassHeight186 cm (6'1\")Zodiac signCapricornPersonal BackgroundOtherSeeGeassReal World InformationFirst AppearanceThe Messenger from KyotoLast AppearanceNunnally Held HostageVoice Actor(s)Takeshi Kusao (Japanese)Ezra Weisz (English)Marco Vivio (Italian)Kim Hasper(German)...",
+    "role": "Deceased",
+    "attributes": {
+      "Nationality": "Chinese",
+      "Age": "17",
+      "Born": "a.t.b. January 1, 2001",
+      "Status": "Deceased",
+      "Death": "a.t.b. September 3, 2017",
+      "Gender": "Male",
+      "Hair": "Silver",
+      "Eye": "Black (Before) Both eyes are encompassed with Geass",
+      "Zodiac": "Capricorn",
+      "Other": "See Geass",
+      "Voice": "Takeshi Kusao (Japanese) Ezra Weisz (English) Marco Vivio (Italian) Kim Hasper (German"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Mao"
+  },
+  {
+    "name": "Satori Richelieu",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/9/97/Satori_Richelieu.jpg",
+    "description": "Satori RichelieuBiographical InformationNationalityJapanese-EuropianAge18Physical appearanceGenderFemalePersonal BackgroundAllegiance(s)United Federation of NationsIzayoiSatori Richelieu(サトリ・リシリューSatori Rishiryū) is one of the main characters ofCode Geass: Pure Almaria. She is Hakuba's assistant agent inIzayoi. She is Half Japanese and Europian, as well as a Geass user. She is good at gathering information.",
+    "role": "Anime Character",
+    "attributes": {
+      "Age": "18",
+      "Gender": "Female",
+      "Allegiance": "United Federation of Nations Izayoi"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Satori_Richelieu"
+  },
+  {
+    "name": "Carine ne Britannia",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/c/ca/Code-geass-12-carline-le-brittania.jpg",
+    "description": "Carine's first appearance in the series occurs after the failed attempt to form an alliance with the Chinese Federation through a marriage betweenFirst Prince Odysseusand the young EmpressTianzi. When her half-sisterGuineveredemands retaliation for the perceived insult towards Odysseus in regards to the failed marriage, Carine expresses delight at the thought of battles and violence that would result and how it would upset her half-sister Nunnally. However,Odysseusadmonishes Carine's inclinat...",
+    "role": "Fifth Princess of the Holy Britannian Empire Commander of the Far East Exchange Center",
+    "attributes": {
+      "Full Name": "Carine ne Britannia",
+      "Nationality": "Britannian",
+      "Age": "15 (at Oz), 16 (at R2 and O2",
+      "Born": "a.t.b. Between April 1, 2002 and March 31, 2003",
+      "Status": "Alive",
+      "Gender": "Female",
+      "Hair": "Red",
+      "Eye": "Blue",
+      "Title": "Fifth Princess of the Holy Britannian Empire Commander of the Far East Exchange Center",
+      "Rank": "Princess",
+      "Occupation": "Royalty",
+      "Relatives": "Charles zi Britannia (Father) V.V. (Uncle) Lelouch vi Britannia (Half Brother) Nunnally vi Britannia (Half Sister) Cornelia li Britannia (Half Sister) Euphemia li Britannia (Half Sister) Odysseus e...",
+      "Allegiance": "Holy Britannian Empire Britannian Imperial Family",
+      "Other": "See Britannian Imperial Family",
+      "First": "Love Attack!",
+      "Last": "Emperor Lelouch",
+      "Voice": "Emi Motoi (Japanese) Kate Higgins (English) Ilaria Giorgino (Italian) Damineh Hojat (German"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Carine_ne_Britannia"
+  },
+  {
+    "name": "Pollux rui Britannia",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/5/53/Castorpollux.png",
+    "description": "Pollux rui BritanniaBiographical InformationNationalityBritannianAge15StatusDeceasedPhysical appearanceGenderMaleHairCyanEye ColorYellowPersonal BackgroundTitle(s)15th Prince of theHoly Britannian EmpireRank(s)PrinceOccupation(s)RoyaltyKnightmare PilotAllegiance(s)Holy Britannian EmpireBritannian Imperial FamilyKnightmare(s)EquusRegalia(Co-Pilot)Real World InformationSeriesCode Geass: Lelouch of the Rebellion (DS Game)Pollux rui Britannia(パラックス・ルィ・ブリタニアParakkusu rwi Buritania) is a character ...",
+    "role": "15th Prince of the Holy Britannian Empire",
+    "attributes": {
+      "Nationality": "Britannian",
+      "Age": "15",
+      "Status": "Deceased",
+      "Gender": "Male",
+      "Hair": "Cyan",
+      "Eye": "Yellow",
+      "Title": "15th Prince of the Holy Britannian Empire",
+      "Rank": "Prince",
+      "Occupation": "Royalty Knightmare Pilot",
+      "Allegiance": "Holy Britannian Empire Britannian Imperial Family",
+      "Knightmare": "Equus Regalia (Co-Pilot"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Pollux_rui_Britannia"
+  },
+  {
+    "name": "Ganabati",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/c/cb/Image-Ganabati_%28Color%29.jpg",
+    "description": "GanabatiBiographical InformationFull nameGanabatiNationalityIndianAge55 (OZ), 56 (at O2)Borna.t.b.n/aStatusAlivePhysical appearanceGenderMaleHairBlackEye ColorBrownHeightn/aWeightn/aZodiac signn/aBlood typen/aPersonal BackgroundRank(s)NoneOccupation(s)EngineerMerchantAllegiance(s)Peace MarkOtherSeeCode Geass: Oz the ReflectionReal World InformationCreator(s)Takahiro KimuraGanabati(ガナバティGanabati) is an Indian engineer and merchant who has a connection to “Peace Mark”. When having piled up a lo...",
+    "role": "Engineer Merchant",
+    "attributes": {
+      "Full Name": "Ganabati",
+      "Nationality": "Indian",
+      "Born": "a.t.b. n/a",
+      "Status": "Alive",
+      "Gender": "Male",
+      "Hair": "Black",
+      "Eye": "Brown",
+      "Occupation": "Engineer Merchant",
+      "Allegiance": "Peace Mark",
+      "Other": "See Code Geass: Oz the Reflection"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Ganabati"
+  },
+  {
+    "name": "Stanley Vonbraun",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/5/59/Stanley-Face.jpg",
+    "description": "As shown and like many Neo Britannian’s, Stanley exhibited monstrous brutality and little care for the lives of non-Britannians. Having personally designed theLokiKnightmare Frames for the sake of killing the enemies of theNeo Britannian Empire’s in a extremmely horrific manner. UnlikeChristoph Scissorman, he did not believe into the occult like power ofGeassand much preferred focusing his research on technology and Knightmare Frame development.",
+    "role": "Weiss Bishop",
+    "attributes": {
+      "Nationality": "Britannian",
+      "Status": "Deceased",
+      "Gender": "Male",
+      "Title": "Weiss Bishop",
+      "Series": "Code Geass: Roze of the Recapture",
+      "Voice": "Daisuke Hirakawa"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Stanley_Vonbraun"
+  },
+  {
+    "name": "Shiori",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/3/31/Shiori.jpg",
+    "description": "Shiori is one ofRenya'schildhood friends that survived the attack on the Forgotten Village. She is captured by Jesuit soldiers at one point but is later freed by Renya. She subsequently joins him in search of their friend,Karuraand assistsMisuzuin her fight againstFutaba Sumeragi.",
+    "role": "Student",
+    "attributes": {
+      "Full Name": "Shiori",
+      "Alias": "V.V.",
+      "Nationality": "Japanese",
+      "Gender": "Female",
+      "Occupation": "Student",
+      "Other": "See Code Geass: Shikkoku no Renya"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Shiori"
+  },
+  {
+    "name": "High Eunuchs",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/c/c9/High_Eunchs.JPG",
+    "description": "The other seven are introduced after the Black Knights are exiled, plotting to give up much of the Federation's territory toBritanniain exchange for being made nobles. They areZhao Hao, the only overweight member and the only one with a unique skin-tone;Xia Wang, a tall man with light-brown skin that wears glasses;Cheng Zhong, a short, older-looking man with a shrill voice;Xiang Sheng(項勝Shan Shen), another pale-skinned man somewhat shorter than Gao Hai but apparently around the same age;Cai L...",
+    "role": "Anime Character",
+    "attributes": {
+      "Headquarters": "Vermillion Forbidden City",
+      "Affiliation": "Chinese Federation",
+      "Members": "See Below"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/High_Eunuchs"
+  },
+  {
+    "name": "Gao Hai",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/b/b7/Gaohai.jpg",
+    "description": "Gao Hai makes his first appearance as the Federation's consul toArea 11. Gao Hai arrives at Area 11 withLi Xingkeas his bodyguard. Greeting him on their arrival is the newViceroyof Area 11,Calares, who has a large security force with him in order to allow the Chinese Federation a better understanding of theBritannians. However, Xingke is asked to release his weapon who instead cuts the belts of two Britannians causing Gao Hai to tell him that his actions were rude. Xingke apologizes and respo...",
+    "role": "Member of the High Eunuchs",
+    "attributes": {
+      "Full Name": "Gao Hai",
+      "Nationality": "Chinese",
+      "Status": "Deceased",
+      "Death": "a.t.b. 2018",
+      "Gender": "Male",
+      "Eye": "Green-Blue",
+      "Title": "Member of the High Eunuchs",
+      "Rank": "Eunuch General",
+      "Occupation": "Politician Consul General",
+      "Allegiance": "Chinese Federation High Eunuchs",
+      "Other": "See High Eunuchs",
+      "First": "The Day a Demon Awakens",
+      "Last": "Counterattack at the Gallows",
+      "Voice": "Nobuaki Sekine (Japanese) Dave Wittenberg (English) Santiago Ziesmer (German"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Gao_Hai"
+  },
+  {
+    "name": "Masaki Hoshi",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/6/69/Masaki.jpg",
+    "description": "Masaki HoshiBiographical InformationNationalityJapaneseStatusDeceasedPersonal BackgroundOccupation(s)Knightmare PilotAllegiance(s)Europia UnitedwZEROKnightmare(s)AlexanderReal World InformationSeriesCode Geass: Akito the ExiledCreator(s)CLAMPTakahiro KimuraMasaki Hoshi(保志マサキ,Hoshi Masaki) was a Knightmare Frame pilot for wZERO. He was one of the Japanese youth who was recruited by theUnited Republic of Europia.",
+    "role": "Knightmare Pilot",
+    "attributes": {
+      "Nationality": "Japanese",
+      "Status": "Deceased",
+      "Allegiance": "Europia United wZERO",
+      "Knightmare": "Alexander",
+      "Creator": "CLAMP Takahiro Kimura"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Masaki_Hoshi"
+  },
+  {
+    "name": "Anna Clément",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/4/4d/194527920.jpg",
+    "description": "Anna ClémentBiographical InformationNickname(s)\"Boss\" (by her Subordinate Chloe and Hilda)NationalityEuropeanAge17StatusAlivePhysical appearanceGenderFemaleHairLight PurpleEye ColorBright GreenHeight168 cm (5'6\")Weight47 kgPersonal BackgroundTitle(s)Developer of the AlexanderRank(s)CaptainOccupation(s)ScientistMilitary OfficerAllegiance(s)Europia UnitedClement IndustrieswZEROReal World InformationSeriesCode Geass: Akito the ExiledCreator(s)CLAMPTakahiro KimuraVoice Actor(s)Ai Kayano (Japanese...",
+    "role": "Developer of the Alexander",
+    "attributes": {
+      "Nationality": "European",
+      "Age": "17",
+      "Status": "Alive",
+      "Gender": "Female",
+      "Weight": "47 kg",
+      "Rank": "Captain",
+      "Occupation": "Scientist Military Officer",
+      "Allegiance": "Europia United Clement Industries wZERO",
+      "Creator": "CLAMP Takahiro Kimura",
+      "Voice": "Ai Kayano (Japanese) Bryn Appril (English"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Anna_Cl%C3%A9ment"
   },
   {
     "name": "Conan Watson",
@@ -62,370 +388,124 @@
     "source_url": "https://codegeass.fandom.com/wiki/Conan_Watson"
   },
   {
-    "name": "Toto Thompson",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/5/5a/Story_chara_toto.png",
-    "description": "Toto ThompsonBiographical InformationFull nameToto ThompsonNationalityBritannianAge16Borna.t.b.N/AStatusDeceasedPhysical appearanceGenderFemaleHairWhiteEye ColorRedHeightN/AWeightN/AZodiac signN/ABlood typeN/APersonal BackgroundTitle(s)KMF Operator of the GrandberryOccupation(s)OperatorAllegiance(s)Holy Britannian EmpireZevon Family (Former)Britannian MilitaryGlinda KnightsGeass OrderKnightmare(s)Gloucester GlindaOtherSeeCode Geass: Oz the ReflectionReal World InformationCreator(s)Takahiro Ki...",
-    "role": "KMF Operator of the Grandberry",
+    "name": "Ichijiku Hinata",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/5/59/Bscap908.jpg",
+    "description": "Ichijiku HinataBiographical InformationFull nameIchijiku HinataNationalityJapaneseStatusAlivePhysical appearanceGenderFemaleHairBrownEye ColorGrayPersonal BackgroundTitle(s)One of the Operators of theIkarugaRank(s)VolunteerOccupation(s)OperatorAllegiance(s)United States of JapanUnited Federation of NationsThe Black KnightsOtherSeeThe Black KnightsReal World InformationFirst AppearanceCounterattack at the GallowsLast AppearanceRe;Voice Actor(s)Sayaka Ohara (Japanese)Kari Wahlgren(English)Damin...",
+    "role": "One of the Operators of the Ikaruga",
+    "attributes": {
+      "Nationality": "Japanese",
+      "Status": "Alive",
+      "Gender": "Female",
+      "Hair": "Brown",
+      "Eye": "Gray",
+      "Title": "One of the Operators of the Ikaruga",
+      "Rank": "Volunteer",
+      "Occupation": "Operator",
+      "Allegiance": "United States of Japan United Federation of Nations The Black Knights",
+      "Other": "See The Black Knights",
+      "Last": "Re;",
+      "Voice": "Sayaka Ohara (Japanese) Kari Wahlgren (English) Damineh Hojat (German"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Ichijiku_Hinata"
+  },
+  {
+    "name": "Soichiro Dōmeki",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/5/50/Soichiro_D%C5%8Dmeki.png",
+    "description": "Soichiro DōmekiBiographical InformationNationalityJapaneseStatusDeceasedPhysical appearanceGenderMaleHairBrownEye ColorBrownPersonal BackgroundRelation(s)Vaniella Dōmeki(Wife)Mario/Maya Disel(Son/Daughter)Leena Dōmeki(Daughter)Carly Disel(Sister-In-Law)Real World InformationSeriesCode Geass: Lost StoriesSoichiro Domekiis the deceased father ofthe protagonistinCode Geass: Lelouch of the Rebellion Lost Stories.",
+    "role": "Deceased",
+    "attributes": {
+      "Nationality": "Japanese",
+      "Status": "Deceased",
+      "Gender": "Male",
+      "Hair": "Brown",
+      "Eye": "Brown",
+      "Relatives": "Vaniella Dōmeki (Wife) Mario/Maya Disel (Son/Daughter) Leena Dōmeki (Daughter) Carly Disel (Sister-In-Law"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Soichiro_D%C5%8Dmeki"
+  },
+  {
+    "name": "Schnee Hexen",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/2/20/SchneeM.jpg",
+    "description": "Schnee HexenBiographical InformationNationalityBritannianAge16StatusAlivePhysical appearanceGenderMaleHairBlondeEye ColorBluePersonal BackgroundRank(s)Knight (former)Occupation(s)NobleAllegiance(s)Holy Britannian Empire(former)Konoe KnightsUnited Federation of NationsThe Black KnightsKnightmare(s)SutherlandSutherland Custom (Schnee Machine)Vincent SnipeReal World InformationSeriesCode Geass: Lelouch of the RebellionVoice Actor(s)Gen Sato (Lost Stories)Schnee Hexen(シュネー・ヘクセンShunē Hekusen) is a...",
+    "role": "Noble",
     "attributes": {
       "Nationality": "Britannian",
       "Age": "16",
-      "Born": "a.t.b. N/A",
-      "Status": "Deceased",
-      "Gender": "Female",
-      "Hair": "White",
-      "Eye": "Red",
-      "Occupation": "Operator",
-      "Allegiance": "Holy Britannian Empire Zevon Family (Former) Britannian Military Glinda Knights Geass Order",
+      "Status": "Alive",
+      "Gender": "Male",
+      "Hair": "Blonde",
+      "Eye": "Blue",
+      "Occupation": "Noble",
+      "Allegiance": "Holy Britannian Empire (former) Konoe Knights United Federation of Nations The Black Knights",
+      "Knightmare": "Sutherland Sutherland Custom (Schnee Machine) Vincent Snipe"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Schnee_Hexen"
+  },
+  {
+    "name": "Orpheus Zevon",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/d/d0/Story_chara_00917.png",
+    "description": "Orpheus ZevonBiographical InformationFull nameOrpheus ZevonNickname(s)\"Oz\"Alias(es)LyreNationalityBritannianAge17 (first arc), 18 (at O2)Borna.t.b.June 6, 2000StatusAlivePhysical appearanceGenderMaleHairBlondEye ColorGreenHeightn/aWeightn/aZodiac signn/aBlood typeAPersonal BackgroundTitle(s)Head Knight of Glinda Knights (Former)Rank(s)NobleKnight (Former)Occupation(s)StudentTerroristKnightmare PilotMilitary Officer (Former)Relation(s)Oldrin Zevon(Younger Twin Sister)Oiagros Zevon(Uncle)Olivia...",
+    "role": "Head Knight of Glinda Knights (Former",
+    "attributes": {
+      "Nickname": "\"Oz\"",
+      "Alias": "Lyre",
+      "Nationality": "Britannian",
+      "Born": "a.t.b. June 6, 2000",
+      "Status": "Alive",
+      "Gender": "Male",
+      "Hair": "Blond",
+      "Eye": "Green",
+      "Rank": "Noble Knight (Former",
+      "Occupation": "Student Terrorist Knightmare Pilot Military Officer (Former",
+      "Relatives": "Oldrin Zevon (Younger Twin Sister) Oiagros Zevon (Uncle) Olivia Zevon (Mother",
+      "Allegiance": "Holy Britannian Empire (Former) Britannian Military (Former) Glinda Knights (Former) Geass Order (Former) Peace Mark Ashford Academy",
+      "Knightmare": "Byakuen Glasgow Orpheus Custom Vincent Gram Sutherland Glinda Rekka Byakuen Gouka Byakuen",
       "Other": "See Code Geass: Oz the Reflection",
       "Creator": "Takahiro Kimura",
-      "Voice": "Azumi Waki ( Code Geass: Genesic Re;Code"
+      "Voice": "Tatsuhisa Suzuki (Japanese"
     },
-    "source_url": "https://codegeass.fandom.com/wiki/Toto_Thompson"
+    "source_url": "https://codegeass.fandom.com/wiki/Orpheus_Zevon"
   },
   {
-    "name": "Carly Disel",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/c/cb/CarlyDisel-portrait.jpg",
-    "description": "Carly DiselBiographical InformationNickname(s)Heart CrusherNationalityBritannianAge42Borna.t.b.November 20thStatusDeceasedPhysical appearanceGenderFemaleHairRedEye ColorBlueHeightN/AWeightN/APersonal BackgroundRank(s)EarlOccupation(s)Head of Disel IndustriesRelation(s)Vaniella Dōmeki(Sister)Soichiro Dōmeki(Brother-In-Law)Mario/Maya Disel(Nephew/Niece)Leena Dōmeki(Niece)Knightmare(s)MagdalaReal World InformationSeriesCode Geass: Lelouch of the Rebellion Lost StoriesVoice Actor(s)Minami Takahas...",
-    "role": "Head of Disel Industries",
+    "name": "Ryo Sayama/Genesic Re;Code",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/5/51/RyoPortraitZoom.png",
+    "description": "Ryo SayamaBiographical InformationFull nameRyo SayamaNationalityJapaneseAge17Borna.t.b.January 4StatusAlivePhysical appearanceGenderMaleHairBrownEye ColorBrownPersonal BackgroundOccupation(s)Knightmare PilotMilitary OfficerAllegiance(s)Europia UnitedwZEROKnightmare(s)Alexander Type-02 Ryo VersionOtherSeeCode Geass: Akito the ExiledReal World InformationVoice Actor(s)Satoshi Hino (Japanese)Ryo Sayama(佐山リョウSayama Ryō) is one of the main characters ofCode Geass: Akito the Exiled. He is among tho...",
+    "role": "Knightmare Pilot Military Officer",
     "attributes": {
-      "Nationality": "Britannian",
-      "Age": "42",
-      "Born": "a.t.b. November 20th",
-      "Status": "Deceased",
-      "Gender": "Female",
-      "Hair": "Red",
-      "Eye": "Blue",
-      "Rank": "Earl",
-      "Relatives": "Vaniella Dōmeki (Sister) Soichiro Dōmeki (Brother-In-Law) Mario/Maya Disel (Nephew/Niece) Leena Dōmeki (Niece",
-      "Knightmare": "Magdala",
-      "Voice": "Minami Takahashi"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Carly_Disel"
-  },
-  {
-    "name": "Ryo Konishina",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/0/01/RyoKonishina-Face.jpg",
-    "description": "Ryo KonishinaBiographical InformationNationalityJapanesePhysical appearanceGenderMalePersonal BackgroundTitle(s)Third Squad CaptainRank(s)CaptainAllegiance(s)Japan Liberation Front(former)United Federation of NationsThe Black KnightsKnightmare(s)MeigetsuReal World InformationSeriesCode Geass: Lelouch of the Re;surrection (Manga)Ryo Konishina(古仁科諒Konishina Ryō) is the Captain of theBlack KnightsThird Squad. He is a former member of theJapan Liberation Front.",
-    "role": "Third Squad Captain",
-    "attributes": {
+      "Full Name": "Ryo Sayama",
       "Nationality": "Japanese",
-      "Gender": "Male",
-      "Rank": "Captain",
-      "Allegiance": "Japan Liberation Front (former) United Federation of Nations The Black Knights",
-      "Knightmare": "Meigetsu"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Ryo_Konishina"
-  },
-  {
-    "name": "Nunnally vi Britannia/Nightmare of Nunnally",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/1/14/Nunnally_vi_Britannia_%28NoN%29.png",
-    "description": "Nunnally vi BritanniaBiographical InformationFull nameNunnally vi BritanniaNickname(s)White WitchAlias(es)Nunnally LamperougeNationalityBritannianAge14Borna.t.b.October 25, 2003StatusAlivePhysical appearanceGenderFemaleHairSandy BrownEye ColorVioletHeight160 cm (5'3\")Personal BackgroundTitle(s)Goodwill Ambassador of JapanRank(s)PrincessOccupation(s)Student (Formerly)PoliticianRoyaltyRelation(s)Charles zi Britannia(Father)Marianne vi Britannia(Mother)Lelouch vi Britannia(Brother)Rolo vi Britan...",
-    "role": "Goodwill Ambassador of Japan",
-    "attributes": {
-      "Nationality": "Britannian",
-      "Age": "14",
-      "Born": "a.t.b. October 25, 2003",
+      "Age": "17",
+      "Born": "a.t.b. January 4",
       "Status": "Alive",
-      "Gender": "Female",
-      "Eye": "Violet",
-      "Rank": "Princess",
-      "Occupation": "Student (Formerly) Politician Royalty",
-      "Relatives": "Charles zi Britannia (Father) Marianne vi Britannia (Mother) Lelouch vi Britannia (Brother) Rolo vi Britannia (\"Brother\") Schneizel el Britannia (Half Brother) Cornelia li Britannia (Half Sister) E...",
-      "Allegiance": "Ashford Academy Student Council Holy Britannian Empire Britannian Imperial Family",
-      "Knightmare": "Mark Nemo",
-      "Other": "See Britannian Imperial Family"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Nunnally_vi_Britannia/Nightmare_of_Nunnally"
-  },
-  {
-    "name": "Scott Kleif",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/b/be/Scott.jpg",
-    "description": "Scott was a member of Britannia's League of Nobles. WithEuro Britanniain disarray, fearing thatSchneizelcould soon disband the League and replace it with a more royalist-oriented organization, and believing that the nobility should be independent from theImperial family, he concocted a plan to enact a bloodless revolution. In order to do this, he planned to use the upcoming unveiling ceremony for theKnights of the Round'sKnightmare Framesto take several members of the Imperial Family, includi...",
-    "role": "Noble",
-    "attributes": {
-      "Nationality": "Britannian",
       "Gender": "Male",
-      "Rank": "Marquis",
-      "Occupation": "Noble",
-      "Allegiance": "Holy Britannian Empire League of Nobles"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Scott_Kleif"
-  },
-  {
-    "name": "Ayano Kosaka/Genesic Re;Code",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/2/25/AyanoPortraiZoom.png",
-    "description": "Ayano KosakaBiographical InformationFull nameAyano KosakaNationalityJapaneseAge15Borna.t.b.July 16StatusAlivePhysical appearanceGenderFemaleHairBlackEye ColorPinkPersonal BackgroundOccupation(s)Military OfficerKnightmare PilotAllegiance(s)Europia UnitedwZEROKnightmare(s)Alexander Type-02 Ayano VersionOtherSeeCode Geass: Akito the ExiledReal World InformationVoice Actor(s)Youko Hikasa (Japanese)Ayano Kosaka(香坂アヤノKōsaka Ayano) is one of the main characters ofCode Geass: Akito the Exiled. She is...",
-    "role": "Military Officer Knightmare Pilot",
-    "attributes": {
-      "Nationality": "Japanese",
-      "Age": "15",
-      "Born": "a.t.b. July 16",
-      "Status": "Alive",
-      "Gender": "Female",
-      "Hair": "Black",
-      "Eye": "Pink",
-      "Occupation": "Military Officer Knightmare Pilot",
+      "Hair": "Brown",
+      "Eye": "Brown",
+      "Occupation": "Knightmare Pilot Military Officer",
       "Allegiance": "Europia United wZERO",
       "Other": "See Code Geass: Akito the Exiled"
     },
-    "source_url": "https://codegeass.fandom.com/wiki/Ayano_Kosaka/Genesic_Re;Code"
+    "source_url": "https://codegeass.fandom.com/wiki/Ryo_Sayama/Genesic_Re;Code"
   },
   {
-    "name": "Suzaku Kururugi/Tales of an Alternate Shogunate",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/5/5a/Suzaku_bakumatsu_cover.jpg",
-    "description": "Suzaku KururugiBiographical InformationFull nameSuzaku KururugiNationalityJapanese-Honorary BritannianStatusAlivePhysical appearanceGenderMaleHairBrownEye ColorGreenHeight176 cm (5'9⅝\")Personal BackgroundRank(s)OfficerOccupation(s)Military OfficerKnightmare PilotAllegiance(s)Holy Britannian EmpireBritannian MilitaryPatrol CorpsKnightmare(s)LancelotSuzaku Kururugi(枢木スザクKururugi Suzaku) is the protagonist ofCode Geass: Tales of an Alternate Shogunate. He is an officer of the Patrol Corps and tr...",
-    "role": "Military Officer Knightmare Pilot",
+    "name": "Genbu Kururugi",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/5/52/Genbu_Kururugi.JPG",
+    "description": "Genbu KururugiBiographical InformationFull nameGenbu KururugiNationalityJapaneseStatusDeceasedDeatha.t.b.2010Physical appearanceGenderMaleHairBrownEye ColorDark BrownPersonal BackgroundTitle(s)Prime Minister of Japan (Former)Occupation(s)PoliticianRelation(s)Suzaku Kururugi(Son)Kaguya Sumeragi(Niece)Allegiance(s)JapanOtherSeeJapanReal World InformationFirst Appearancen/aLast Appearancen/aCreator(s)CLAMPVoice Actor(s)Kazuhiko Kishino (Japanese)John Snyder (English)Genbu Kururugi(枢木ゲンブKururugi ...",
+    "role": "Prime Minister of Japan (Former",
     "attributes": {
-      "Nationality": "Japanese - Honorary Britannian",
-      "Status": "Alive",
+      "Nationality": "Japanese",
+      "Status": "Deceased",
+      "Death": "a.t.b. 2010",
       "Gender": "Male",
       "Hair": "Brown",
-      "Eye": "Green",
-      "Rank": "Officer",
-      "Occupation": "Military Officer Knightmare Pilot",
-      "Allegiance": "Holy Britannian Empire Britannian Military Patrol Corps",
-      "Knightmare": "Lancelot"
+      "Eye": "Dark Brown",
+      "Occupation": "Politician",
+      "Relatives": "Suzaku Kururugi (Son) Kaguya Sumeragi (Niece",
+      "Allegiance": "Japan",
+      "Other": "See Japan",
+      "Creator": "CLAMP",
+      "Voice": "Kazuhiko Kishino (Japanese) John Snyder (English"
     },
-    "source_url": "https://codegeass.fandom.com/wiki/Suzaku_Kururugi/Tales_of_an_Alternate_Shogunate"
-  },
-  {
-    "name": "Hong Gu",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/5/5e/Hong_Gu.png",
-    "description": "Hong GuBiographical InformationFull nameHong GuNationalityChineseStatusAlivePhysical appearanceGenderMaleHairBlackEye ColorGreenPersonal BackgroundTitle(s)2nd Division CommanderRank(s)CommanderOccupation(s)Military OfficerKnightmare PilotAllegiance(s)Chinese FederationChinese MilitaryUnited Federation of NationsThe Black KnightsKnightmare(s)Gun-RuOtherSeeChinese FederationReal World InformationFirst AppearanceA Bride in the Vermilion Forbidden CityLast AppearanceRe;Voice Actor(s)Hiroshi Matsu...",
-    "role": "2nd Division Commander",
-    "attributes": {
-      "Full Name": "Hong Gu",
-      "Nationality": "Chinese",
-      "Status": "Alive",
-      "Gender": "Male",
-      "Hair": "Black",
-      "Eye": "Green",
-      "Rank": "Commander",
-      "Occupation": "Military Officer Knightmare Pilot",
-      "Allegiance": "Chinese Federation Chinese Military United Federation of Nations The Black Knights",
-      "Knightmare": "Gun-Ru",
-      "Other": "See Chinese Federation",
-      "Last": "Re;",
-      "Voice": "Hiroshi Matsumoto (Japanese"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Hong_Gu"
-  },
-  {
-    "name": "Camille Hueden",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/5/59/CamillePortraitZoom.png",
-    "description": "Camille HuedenBiographical InformationNationalityBritannianPhysical appearanceGenderMalePersonal BackgroundOccupation(s)KnightRelation(s)Asirirera (Wife)Allegiance(s)Holy Britannian EmpireReal World InformationSeriesCode Geass: Genesic Re;CodeCamille Hueden(カミル・ヒューエデンKamiru Hyueden) is a character appearing inCode Geass: Genesic Re;Code. He is one of the primary characters featured in the third chapter.",
-    "role": "Knight",
-    "attributes": {
-      "Nationality": "Britannian",
-      "Gender": "Male",
-      "Occupation": "Knight"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Camille_Hueden"
-  },
-  {
-    "name": "Hakuba Soga",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/c/c1/Hakuba_soga_pure_almaria_manga_color.jpg",
-    "description": "Hakuba SogaBiographical InformationNationalityJapaneseAge25StatusAlivePhysical appearanceGenderMaleHairBlackEye ColorBrownPersonal BackgroundOccupation(s)Intelligence OfficerPilotRelation(s)Yui Soga (wife)Asuna Soga (daughter)Allegiance(s)United Federation of NationsIzayoiKnightmare(s)ShingetsuReal World InformationVoice Actor(s)Nobuhiko OkamotoHakuba Soga(宗賀ハクバSōga Hakuba) is one of the main characters of ofCode Geass: Pure Almaria. He is an agent ofIzayoi, an intelligence agency that report...",
-    "role": "Intelligence Officer Pilot",
-    "attributes": {
-      "Nationality": "Japanese",
-      "Age": "25",
-      "Status": "Alive",
-      "Gender": "Male",
-      "Hair": "Black",
-      "Eye": "Brown",
-      "Occupation": "Intelligence Officer Pilot",
-      "Relatives": "Yui Soga (wife) Asuna Soga (daughter",
-      "Allegiance": "United Federation of Nations Izayoi",
-      "Knightmare": "Shingetsu",
-      "Voice": "Nobuhiko Okamoto [ 3"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Hakuba_Soga"
-  },
-  {
-    "name": "Denshichirou",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/2/25/Denshichirou.jpg",
-    "description": "He first appears running from a wild boar withFutaba Sumeragi. After being saved by the \"Demon User\"Renya, he begs for help in saving his village that had been attacked by aKnightmarethat can manipulate wind, which surviving villagers are callingKarasu Tengu. After hearing of this, Futaba escapes, determined to gain control of Karasu Tengu's power in order to avengeher brother'sdeath.",
-    "role": "Anime Character",
-    "attributes": {
-      "Nationality": "Japanese",
-      "Gender": "Male",
-      "Series": "Code Geass: Renya of Darkness"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Denshichirou"
-  },
-  {
-    "name": "Divock Merte",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/c/c2/Divock-Face2.jpg",
-    "description": "Divock MerteBiographical InformationNickname(s)Di (By Catherine)NationalityBritannianStatusDeceasedPhysical appearanceGenderMalePersonal BackgroundTitle(s)Weiss RookAllegiance(s)Neo Britannian EmpireKnightmare(s)ElcarmalReal World InformationSeriesCode Geass: Roze of the RecaptureVoice Actor(s)Masaaki MizunakaDivock Merte(ディボック・メルテDibokku Merute) was the \"Weiss Rook\" ofNeo Britannian Empire'sEinberg, inCode Geass: Roze of the Recapture.",
-    "role": "Weiss Rook",
-    "attributes": {
-      "Nationality": "Britannian",
-      "Status": "Deceased",
-      "Gender": "Male",
-      "Title": "Weiss Rook",
-      "Knightmare": "Elcarmal"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Divock_Merte"
-  },
-  {
-    "name": "Caretaker of Spacetime",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/7/77/Code_Geass_Akito_the_Exiled_Screenshot_1553.jpg",
-    "description": "They have an appearance remotely similar toC.C., if only in facial features and hair style. While feminine in nature, they do not appear to have a true gender and only take the form of a woman for the sake of convenience. Their hair has an unnatural coloring impossible for a normal human being, even by the Code Geass universe standards.",
-    "role": "Anime Character",
-    "attributes": {
-      "Gender": "N/A (Appears Female",
-      "Hair": "Black through Pink",
-      "Eye": "Pink",
-      "Series": "Code Geass: Akito the Exiled",
-      "Creator": "CLAMP Takahiro Kimura",
-      "Voice": "Haruka Kudo (Japanese) Michelle Rojas (English"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Caretaker_of_Spacetime"
-  },
-  {
-    "name": "Norland von Lunebelg",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/8/8c/NorlandFace.jpg",
-    "description": "Norland von LunebelgBiographical InformationNationalityBritannianStatusDeceasedPhysical appearanceGenderMaleHairBlondeEye ColorPurplePersonal BackgroundTitle(s)Weiss KingKnight of Five (Former)Relation(s)Charles zi Britannia(Genetic Template)Ash Phoenix(adopted son)Nichol Phoenix(adopted son)Allegiance(s)Neo Britannian EmpireEinbergHoly Britannian Empire(Former)Knights of the Round(Former)Knightmare(s)FoulboutReal World InformationSeriesCode Geass: Roze of the RecaptureVoice Actor(s)Hiroki Ya...",
-    "role": "Weiss King Knight of Five (Former",
-    "attributes": {
-      "Nationality": "Britannian",
-      "Status": "Deceased",
-      "Gender": "Male",
-      "Hair": "Blonde",
-      "Eye": "Purple",
-      "Title": "Weiss King Knight of Five (Former",
-      "Relatives": "Charles zi Britannia (Genetic Template) Ash Phoenix (adopted son) Nichol Phoenix (adopted son",
-      "Allegiance": "Neo Britannian Empire Einberg Holy Britannian Empire (Former) Knights of the Round (Former",
-      "Knightmare": "Foulbout",
-      "Voice": "Hiroki Yasumoto (Japanease) Dan Green (English"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Norland_von_Lunebelg"
-  },
-  {
-    "name": "Henry VI of England",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/3/34/Henry_6.jpg",
-    "description": "Henry VI of Englandis a historical figure that appear inNightmare of Nunnallyas a leader of the English Faction during theHundred Years' War.",
-    "role": "King of England",
-    "attributes": {
-      "Nationality": "English",
-      "Status": "Deceased",
-      "Death": "a.t.b. 1430s",
-      "Gender": "Male",
-      "Title": "King of England",
-      "Rank": "King",
-      "Allegiance": "England",
-      "Series": "Code Geass: Nightmare of Nunnally"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Henry_VI_of_England"
-  },
-  {
-    "name": "Damian Hemworth",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/d/d0/DamisnFace.jpg",
-    "description": "Damian HemworthBiographical InformationFull nameDamian HemworthNationalityBritannianPhysical appearanceGenderMaleHairBlondeEye ColorBrownPersonal BackgroundOccupation(s)NobleRelation(s)Unnamed father2 unnamed older brothersAllegiance(s)Holy Britannian EmpireKnightmare(s)GlasgowReal World InformationSeriesCode Geass: Lelouch of the Rebellion Lost StoriesDamian Hemworth(ダミアン・ヘムワースDamian Hemuwāsu) is the third son of the Hemworth family, who are an accomplished family of Knights.",
-    "role": "Noble",
-    "attributes": {
-      "Nationality": "Britannian",
-      "Gender": "Male",
-      "Hair": "Blonde",
-      "Eye": "Brown",
-      "Occupation": "Noble",
-      "Relatives": "Unnamed father 2 unnamed older brothers",
-      "Knightmare": "Glasgow"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Damian_Hemworth"
-  },
-  {
-    "name": "Yoko Araki",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/6/60/YokoAraki.png",
-    "description": "Yoko ArakiBiographical InformationNationalityJapaneseStatusAlivePhysical appearanceGenderFemaleHairBrownEye ColorBluePersonal BackgroundOccupation(s)Operations officerAllegiance(s)Seven Shining StarsReal World InformationSeriesCode Geass: Roze of the RecaptureVoice Actor(s)Riho Sugiyama (Japanese)Dawn M. Bennett (English)Yoko Araki(新城陽子Araki Yoko) is one of the minor characters inCode Geass: Roze of the Recapture. She is a member of theSeven Shining Stars.",
-    "role": "Operations officer",
-    "attributes": {
-      "Nationality": "Japanese",
-      "Status": "Alive",
-      "Gender": "Female",
-      "Hair": "Brown",
-      "Eye": "Blue",
-      "Voice": "Riho Sugiyama (Japanese) Dawn M. Bennett (English"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Yoko_Araki"
-  },
-  {
-    "name": "Shiori",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/3/31/Shiori.jpg",
-    "description": "Shiori is one ofRenya'schildhood friends that survived the attack on the Forgotten Village. She is captured by Jesuit soldiers at one point but is later freed by Renya. She subsequently joins him in search of their friend,Karuraand assistsMisuzuin her fight againstFutaba Sumeragi.",
-    "role": "Student",
-    "attributes": {
-      "Full Name": "Shiori",
-      "Alias": "V.V.",
-      "Nationality": "Japanese",
-      "Gender": "Female",
-      "Occupation": "Student",
-      "Other": "See Code Geass: Shikkoku no Renya"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Shiori"
-  },
-  {
-    "name": "Lila la Britannia",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/0/00/05_-_Copy.jpg",
-    "description": "Lila la BritanniaBiographical InformationAlias(es)LibraNationalityBritannianAge14Borna.t.b.2004StatusAlivePhysical appearanceGenderFemaleHairLemonEye ColorBluePersonal BackgroundRank(s)PrincessOccupation(s)RoyaltyRelation(s)Charles zi Britannia(Father)Gabrielle la Britannia(Mother)Clovis la Britannia(Brother)Lelouch vi Britannia(Half Brother)Nunnally vi Britannia(Half Sister)Cornelia li Britannia(Half Sister)Euphemia li Britannia(Half Sister)Odysseus eu Britannia(Half Brother)Schneizel el Bri...",
-    "role": "Royalty",
-    "attributes": {
-      "Alias": "Libra",
-      "Nationality": "Britannian",
-      "Age": "14",
-      "Born": "a.t.b. 2004",
-      "Status": "Alive",
-      "Gender": "Female",
-      "Hair": "Lemon",
-      "Eye": "Blue",
-      "Rank": "Princess",
-      "Occupation": "Royalty",
-      "Relatives": "Charles zi Britannia (Father) Gabrielle la Britannia (Mother) Clovis la Britannia (Brother) Lelouch vi Britannia (Half Brother) Nunnally vi Britannia (Half Sister) Cornelia li Britannia (Half Siste...",
-      "Allegiance": "Holy Britannian Empire Britannian Imperial Family",
-      "Series": "Code Geass: Maelstrom of Libra",
-      "Voice": "Maria Naganawa"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Lila_la_Britannia"
-  },
-  {
-    "name": "Greede Kirkwayne",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/f/fd/GreedeFace.jpg",
-    "description": "Greede KirkwayneBiographical InformationNationalityBritannianStatusDeceasedPhysical appearanceGenderMaleHairDark RedPersonal BackgroundTitle(s)Weiss PawnRank(s)KnightAllegiance(s)Neo Britannian EmpireEinberg(Weissritter)Knightmare(s)CamdenReal World InformationSeriesCode Geass: Roze of the RecaptureCreator(s)Takahiro KimuraHidekazu ShimamuraVoice Actor(s)Hirofumi NojimaGreede Kirkwayne(グリード・カークウェインGurīdo Kākuwein) is the \"Weiss Pawn\" ofNeo Britannian Empire'sEinbergand older brother of the Wh...",
-    "role": "Weiss Pawn",
-    "attributes": {
-      "Nationality": "Britannian",
-      "Status": "Deceased",
-      "Gender": "Male",
-      "Hair": "Dark Red",
-      "Title": "Weiss Pawn",
-      "Rank": "Knight",
-      "Allegiance": "Neo Britannian Empire Einberg (Weissritter",
-      "Knightmare": "Camden",
-      "Creator": "Takahiro Kimura Hidekazu Shimamura"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Greede_Kirkwayne"
-  },
-  {
-    "name": "Simon Mericourt",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/4/48/Simon_Mericourt.jpg",
-    "description": "Simon MericourtBiographical InformationNationalityBritannianAgen/aBorna.t.b.n/aStatusAlivePhysical appearanceGenderMaleHairBlackEye ColorPurpleHeightn/aWeightn/aBlood typen/aPersonal BackgroundTitle(s)Knight of St. MichaelRank(s)KnightOccupation(s)Knightmare PilotMilitary OfficerAllegiance(s)Holy Britannian EmpireKnight of St.MichaelAshura Strike ForceKnightmare(s)CustomizedGloucesterReal World InformationSeriesCode Geass: Akito the ExiledCreator(s)CLAMPTakahiro KimuraVoice Actor(s)Yuuichi Ig...",
-    "role": "Knight of St. Michael",
-    "attributes": {
-      "Nationality": "Britannian",
-      "Born": "a.t.b. n/a",
-      "Status": "Alive",
-      "Gender": "Male",
-      "Hair": "Black",
-      "Eye": "Purple",
-      "Rank": "Knight",
-      "Occupation": "Knightmare Pilot Military Officer",
-      "Allegiance": "Holy Britannian Empire Knight of St.Michael Ashura Strike Force",
-      "Knightmare": "Customized Gloucester",
-      "Creator": "CLAMP Takahiro Kimura",
-      "Voice": "Yuuichi Iguchi (Japanese) Apphia Yu (English"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Simon_Mericourt"
+    "source_url": "https://codegeass.fandom.com/wiki/Genbu_Kururugi"
   },
   {
     "name": "Johann Schwarzer",
@@ -448,23 +528,62 @@
     "source_url": "https://codegeass.fandom.com/wiki/Johann_Schwarzer"
   },
   {
-    "name": "C.C./Nightmare of Nunnally",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/0/09/Cc-nunnally-cover.jpg",
-    "description": "C.C.Biographical InformationNickname(s)Witch of BritanniaAlias(es)ZeroAgeAround 600Borna.t.b.15th centuryStatusDeceasedDeatha.t.b.2017Physical appearanceGenderFemaleHairLimeEye ColorGoldHeight168 cm (5'6\")Personal BackgroundOccupation(s)Knight (Formerly)TerroristRelation(s)Magical Device Nemo(Copy)Real World InformationSeriesCode Geass: Nightmare of Nunnally",
-    "role": "Knight (Formerly) Terrorist",
+    "name": "Zeo",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/3/3c/ZeoPV.png",
+    "description": "ZeoBiographical InformationAge17Borna.t.b.May 5thPhysical appearanceGenderMaleHairBrownEye ColorGreenReal World InformationSeriesCode Geass: Genesic Re;CodeVoice Actor(s)Taichi IchikawaZeo(ゼオ,Zeo) is a character fromCode Geass: Genesic Re;Code. He serves as the protagonist for theCode Geass: Zeo of the Endstoryline.",
+    "role": "Anime Character",
     "attributes": {
-      "Alias": "Zero",
-      "Age": "Around 600",
-      "Born": "a.t.b. 15th century",
-      "Status": "Deceased",
-      "Death": "a.t.b. 2017",
-      "Gender": "Female",
-      "Hair": "Lime",
-      "Eye": "Gold",
-      "Occupation": "Knight (Formerly) Terrorist",
-      "Relatives": "Magical Device Nemo (Copy"
+      "Age": "17",
+      "Born": "a.t.b. May 5th",
+      "Gender": "Male",
+      "Hair": "Brown",
+      "Eye": "Green"
     },
-    "source_url": "https://codegeass.fandom.com/wiki/C.C./Nightmare_of_Nunnally"
+    "source_url": "https://codegeass.fandom.com/wiki/Zeo"
+  },
+  {
+    "name": "Anya Alstreim",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/c/cc/Char_6728.jpg",
+    "description": "Anya AlstreimBiographical InformationFull nameAnya AlstreimNationalityBritannianAge15 (at R2)17 (Lelouch Of The Re;surrection)Borna.t.b.October 26, 2003StatusAlivePhysical appearanceGenderFemaleHairLight PinkEye ColorRedHeight163 cm (5'4\")Zodiac signScorpioPersonal BackgroundTitle(s)Knight of Six(Formerly)Rank(s)NobleKnight of the Round(Fomerly)Occupation(s)Military OfficerKnightmare PilotStudentPersonal Knight ofRolo Vi Britannia(Nightmare of Nunnally Only)Allegiance(s)Holy Britannian Empire...",
+    "role": "Knight of Six(Formerly",
+    "attributes": {
+      "Nationality": "Britannian",
+      "Age": "15 (at R2) 17 (Lelouch Of The Re;surrection",
+      "Born": "a.t.b. October 26, 2003",
+      "Status": "Alive",
+      "Gender": "Female",
+      "Hair": "Light Pink",
+      "Eye": "Red",
+      "Zodiac": "Scorpio",
+      "Rank": "Noble Knight of the Round(Fomerly",
+      "Occupation": "Military Officer Knightmare Pilot Student Personal Knight of Rolo Vi Britannia (Nightmare of Nunnally Only",
+      "Allegiance": "Holy Britannian Empire (Formerly) Knights of the Round (Formerly) Britannian Military (Formerly) Ashford Academy (Formerly) Student Council (Formerly) Holy Nation of Eden Vital (Nightmare of Nunnal...",
+      "Knightmare": "Mordred Zetland Mordred Buildup Modified Tristan (Nightmare of Nunnally manga only",
+      "Other": "See Knights of the Round",
+      "First": "The Day a Demon Awakens",
+      "Voice": "Yūko Gotō (Japanese) Stephanie Sheh (English) Letizia Ciampa (Italian) Millie Forsberg (German"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Anya_Alstreim"
+  },
+  {
+    "name": "Castor rui Britannia",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/5/53/Castorpollux.png",
+    "description": "Castor rui BritanniaBiographical InformationNationalityBritannianAge15StatusAlivePhysical appearanceGenderMaleHairLight BlueEye ColorPurplePersonal BackgroundTitle(s)15th Prince of theHoly Britannian EmpireRank(s)PrinceOccupation(s)RoyaltyKnightmare PilotAllegiance(s)Holy Britannian EmpireBritannian Imperial FamilyKnightmare(s)AquilaRegalia(Co-Pilot)Real World InformationSeriesCode Geass DSCastor rui Britannia(キャスタール・ルィ・ブリタニアKyasutāru rwi Buritania) is a character exclusive to the Nintendo DS...",
+    "role": "15th Prince of the Holy Britannian Empire",
+    "attributes": {
+      "Nationality": "Britannian",
+      "Age": "15",
+      "Status": "Alive",
+      "Gender": "Male",
+      "Hair": "Light Blue",
+      "Eye": "Purple",
+      "Title": "15th Prince of the Holy Britannian Empire",
+      "Rank": "Prince",
+      "Occupation": "Royalty Knightmare Pilot",
+      "Allegiance": "Holy Britannian Empire Britannian Imperial Family",
+      "Knightmare": "Aquila Regalia (Co-Pilot"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Castor_rui_Britannia"
   },
   {
     "name": "Guinevere de Britannia",
@@ -493,385 +612,192 @@
     "source_url": "https://codegeass.fandom.com/wiki/Guinevere_de_Britannia"
   },
   {
-    "name": "Castor rui Britannia",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/5/53/Castorpollux.png",
-    "description": "Castor rui BritanniaBiographical InformationNationalityBritannianAge15StatusAlivePhysical appearanceGenderMaleHairLight BlueEye ColorPurplePersonal BackgroundTitle(s)15th Prince of theHoly Britannian EmpireRank(s)PrinceOccupation(s)RoyaltyKnightmare PilotAllegiance(s)Holy Britannian EmpireBritannian Imperial FamilyKnightmare(s)AquilaRegalia(Co-Pilot)Real World InformationSeriesCode Geass DSCastor rui Britannia(キャスタール・ルィ・ブリタニアKyasutāru rwi Buritania) is a character exclusive to the Nintendo DS...",
-    "role": "15th Prince of the Holy Britannian Empire",
-    "attributes": {
-      "Nationality": "Britannian",
-      "Age": "15",
-      "Status": "Alive",
-      "Gender": "Male",
-      "Hair": "Light Blue",
-      "Eye": "Purple",
-      "Title": "15th Prince of the Holy Britannian Empire",
-      "Rank": "Prince",
-      "Occupation": "Royalty Knightmare Pilot",
-      "Allegiance": "Holy Britannian Empire Britannian Imperial Family",
-      "Knightmare": "Aquila Regalia (Co-Pilot"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Castor_rui_Britannia"
-  },
-  {
-    "name": "Elzero",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/d/d3/ElzeroPortraiZoom.png",
-    "description": "ElzeroBiographical InformationNickname(s)ElNationalityBritannian/JapaneseStatusAlivePhysical appearanceGenderMaleHairBrownEye ColorVioletPersonal BackgroundRelation(s)Lelouch vi Britannia(Genetic Father)Suzaku Kururugi(Genetic Father)Elein(Sister)Elzwei(Sister)Eldrei(Sister)Knightmare(s)Lancelot LDMReal World InformationSeriesCode Geass: Genesic Re;CodeElzero(エルゼロ,Eruzero) orL-Zerois a character fromCode Geass: Genesic Re;Code. He is a clone created from the genes ofLelouch vi BritanniaandSuz...",
-    "role": "Alive",
-    "attributes": {
-      "Nickname": "El",
-      "Nationality": "Britannian / Japanese",
-      "Status": "Alive",
-      "Gender": "Male",
-      "Hair": "Brown",
-      "Eye": "Violet",
-      "Relatives": "Lelouch vi Britannia (Genetic Father) Suzaku Kururugi (Genetic Father) Elein (Sister) Elzwei (Sister) Eldrei (Sister"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Elzero"
-  },
-  {
-    "name": "Leonhardt Steiner",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/c/cd/Story_chara_00931.png",
-    "description": "Leonhardt SteinerBiographical InformationFull nameLeonhardt SteinerNickname(s)LeonNationalityBritannianAge18 (OZ), 19 (at O2)Borna.t.b.n/aStatusAlivePhysical appearanceGenderMaleHairAuburnEye ColorYellowHeightN/AWeightN/AZodiac signN/ABlood typeN/APersonal BackgroundTitle(s)Knight of the Glinda KnightsCommander of Airbone KnightsRank(s)KnightNobleOccupation(s)Military OfficerKnightmare PilotCommanderRelation(s)Marika Soresi(Wife)Allegiance(s)Holy Britannian EmpireBritannian MilitaryGlinda Kni...",
-    "role": "Knight of the Glinda Knights Commander of Airbone Knights",
-    "attributes": {
-      "Nickname": "Leon",
-      "Nationality": "Britannian",
-      "Born": "a.t.b. n/a",
-      "Status": "Alive",
-      "Gender": "Male",
-      "Hair": "Auburn",
-      "Eye": "Yellow",
-      "Title": "Knight of the Glinda Knights Commander of Airbone Knights",
-      "Rank": "Knight Noble",
-      "Occupation": "Military Officer Knightmare Pilot Commander",
-      "Relatives": "Marika Soresi (Wife",
-      "Allegiance": "Holy Britannian Empire Britannian Military Glinda Knights Airbone Knights",
-      "Knightmare": "Sutherland Glinda Bradford Bradford Brave",
-      "Other": "See Code Geass: Oz the Reflection",
-      "Creator": "Takahiro Kimura"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Leonhardt_Steiner"
-  },
-  {
-    "name": "R.R.",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/a/ac/HoraiPortraitZoom.png",
-    "description": "R.R.Biographical InformationAlias(es)Horai (蓬莱)RakuPhysical appearanceGenderFemaleHairBlueReal World InformationSeriesCode Geass: Genesic Re;CodeCrimson of the Blood PactR.R.is a minor character appearing inCode Geass: Genesic Re;Code. She appears in theCode Geass: Crimson of the Blood Pactstoryline, grantingRukithe power of Geass.",
-    "role": "Anime Character",
-    "attributes": {
-      "Alias": "Horai (蓬莱) Raku",
-      "Gender": "Female",
-      "Hair": "Blue",
-      "Series": "Code Geass: Genesic Re;Code Crimson of the Blood Pact"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/R.R."
-  },
-  {
-    "name": "Schneizel el Britannia",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/3/32/Schneizel_el_britania.jpg",
-    "description": "Schneizel el BritanniaBiographical InformationFull nameSchneizel el BritanniaNickname(s)White PrinceCold Blooded StrategistNationalityBritannianAge27 (Season 1)28 (Season 2)30 (Re;surrection)Borna.t.b.January 12th 1990(February 14th 1990 in past setting, April 1st 1988 in game)StatusAlivePhysical appearanceGenderMaleHairBlondeEye ColorLight PurpleHeight200 cm (6'7\")Zodiac signCapricornBlood typeABPersonal BackgroundTitle(s)2nd Prince of theBritannian Imperial FamilyPrime Minister/Chancellor o...",
-    "role": "2nd Prince of the Britannian Imperial Family Prime Minister/Chancellor of the Holy Britannian Empire (formerly) Chief of Staff of the U.F.N.(Re;surrection) Ruling Prince of the Principality of Brit...",
-    "attributes": {
-      "Nickname": "White Prince Cold Blooded Strategist",
-      "Nationality": "Britannian",
-      "Age": "27 (Season 1) 28 (Season 2) 30 (Re;surrection",
-      "Born": "a.t.b. January 12th 1990 (February 14th 1990 in past setting, April 1st 1988 in game",
-      "Status": "Alive",
-      "Gender": "Male",
-      "Hair": "Blonde",
-      "Zodiac": "Capricorn",
-      "Blood": "AB",
-      "Title": "2nd Prince of the Britannian Imperial Family Prime Minister/Chancellor of the Holy Britannian Empire (formerly) Chief of Staff of the U.F.N.(Re;surrection) Ruling Prince of the Principality of Brit...",
-      "Rank": "Prince",
-      "Occupation": "Royalty Politician Commander",
-      "Relatives": "see Britannian Imperial Family",
-      "Allegiance": "Holy Britannian Empire (formerly) Britannian Imperial Family (formerly) Code R Research Team (formerly) United Federation of Nations Black Knights Principality of Britannia",
-      "First": "The Stolen Mask",
-      "Last": "Code Geass: Lelouch of the Re;surrection",
-      "Voice": "Norihiro Inoue (Japanese) Koichi Yamadera (Lost Stories) Troy Baker (English) Francesco Bulckaen (Italian) Sebastian Christoph Jacob (German"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Schneizel_el_Britannia"
-  },
-  {
-    "name": "Gene Smilas",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/5/5d/Genesmilas.png",
-    "description": "During a car ride with Leila he shared his stance on the E.U.'s republic system of government, stating that it has caused \"irresponsibility and self-interest\" and that the E.U. would've been better off withNapoleon Bonaparteas its emperor. He states that he andLeila's fatherboth shared a similar ideal and were best friends before Leila's father was murdered. During the Ark Fleet attacks, General Smilas and the military watched in disgust as the EU council crumbled beneath the public unrest. T...",
-    "role": "General of the Europia United",
-    "attributes": {
-      "Full Name": "Gene Smilas",
-      "Nationality": "Europian",
-      "Born": "a.t.b. n/a",
-      "Status": "Deceased",
-      "Death": "a.t.b. December 2017",
-      "Gender": "Male",
-      "Hair": "Greyish Green",
-      "Eye": "Grey",
-      "Height": "183 cm (6'0\"",
-      "Title": "General of the Europia United",
-      "Rank": "General",
-      "Occupation": "Military Officer",
-      "Allegiance": "Europia United EU Military",
-      "Other": "See Code Geass: Akito the Exiled",
-      "First": "The Wyvern Arrives (episode",
-      "Last": "To Beloved Ones (episode",
-      "Creator": "CLAMP Takahiro Kimura",
-      "Voice": "Unshou Ishizuka (Japanese) Christopher Sabat (English"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Gene_Smilas"
-  },
-  {
-    "name": "Sapphire Kalas",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/f/f4/SapphireKaras-portrait.jpg",
-    "description": "Sapphire KalasBiographical InformationFull nameSapphire KarasNationalityBritannianAge28Borna.t.b.October 18StatusAlivePhysical appearanceGenderFemaleHairWhitePersonal BackgroundRank(s)BaronessOccupation(s)Head of Disel IndustriesAllegiance(s)Holy Britannian EmpireBlue Barons(formerly)United Federation of NationsIzayoiKnightmare(s)Gloucester Blue Barons CustomVincent Commander ModelQuinn Roses Model-B Sapphire customReal World InformationFirst AppearanceCode Geass: Lelouch of the Rebellion Los...",
-    "role": "Head of Disel Industries",
-    "attributes": {
-      "Nationality": "Britannian",
-      "Age": "28",
-      "Born": "a.t.b. October 18",
-      "Status": "Alive",
-      "Gender": "Female",
-      "Hair": "White",
-      "Rank": "Baroness",
-      "Allegiance": "Holy Britannian Empire Blue Barons (formerly) United Federation of Nations Izayoi",
-      "Knightmare": "Gloucester Blue Barons Custom Vincent Commander Model Quinn Roses Model-B Sapphire custom",
-      "First": "Code Geass: Lelouch of the Rebellion Lost Stories",
-      "Voice": "Eri Ōzeki"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Sapphire_Kalas"
-  },
-  {
-    "name": "Mariel Lubie",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/a/ab/Mariel_Labie.jpg",
-    "description": "Mariel LubieBiographical InformationNickname(s)ElleNationalityBritannianAge18StatusAlivePhysical appearanceGenderFemaleHairDark BrownPersonal BackgroundOccupation(s)ResearcherRelation(s)Lenard Lubie(father)Allegiance(s)Holy Britannian EmpireBritannian MilitaryASEECReal World InformationSeriesCode Geass: Suzaku of the CounterattackMariel Lubie(マリエル・ラビエMarieru Rabie) isLloyd Asplund's assistant in theSuzaku of the Counterattackmanga.",
-    "role": "Researcher",
-    "attributes": {
-      "Nickname": "Elle",
-      "Nationality": "Britannian",
-      "Age": "18",
-      "Status": "Alive",
-      "Gender": "Female",
-      "Hair": "Dark Brown",
-      "Occupation": "Researcher",
-      "Relatives": "Lenard Lubie (father",
-      "Allegiance": "Holy Britannian Empire Britannian Military ASEEC"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Mariel_Lubie"
-  },
-  {
-    "name": "Johanne Fabius",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/b/b9/Johanne.png",
-    "description": "Johanne and the other Knights of St. Michael first appear sometime after Shin Hyuga Shaing becomes the new grand master of the Knights of St. Michael and are present as his knighting ceremony in Caesar's Palace in Sankt Petersburg, Russia where he notices Ashley getting excited because he knows that he'll be seeing combat soon. Johanne and the other members of the Ashra Strike Force appear later on at a meeting with their field commnader Ashley in their St. Petersburg headquarters and are pre...",
+    "name": "Franz Vallo",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/7/74/Frantz_Vallo.jpeg",
+    "description": "Franz ValloBiographical InformationFull nameFranz ValloNationalityBritannianAgen/aBorna.t.b.n/aStatusAlivePhysical appearanceGenderMaleHairLight BrownEye ColorPale GreenHeightn/aWeightn/aBlood typen/aPersonal BackgroundTitle(s)Knight of St. MichaelRank(s)KnightOccupation(s)Knightmare PilotAllegiance(s)Holy Britannian EmpireBritannian MilitaryEuro BritanniaKnights of St. MichaelAshura Strike ForceKnightmare(s)CustomizedGloucesterOtherSeeCode Geass: Akito the ExiledReal World InformationFirst A...",
     "role": "Knight of St. Michael",
     "attributes": {
-      "Full Name": "Johanne Fabius",
       "Nationality": "Britannian",
-      "Born": "a.t.b. N/A",
-      "Status": "Deceased",
-      "Death": "a.t.b. June 2017",
+      "Born": "a.t.b. n/a",
+      "Status": "Alive",
       "Gender": "Male",
-      "Hair": "Blonde",
-      "Eye": "Light Purple",
-      "Title": "Knight of St. Michael",
+      "Eye": "Pale Green",
       "Rank": "Knight",
-      "Occupation": "Knightmare pilot Military Officer",
       "Allegiance": "Holy Britannian Empire Britannian Military Euro Britannia Knights of St. Michael Ashura Strike Force",
       "Knightmare": "Customized Gloucester",
       "Other": "See Code Geass: Akito the Exiled",
       "First": "The Wyvern Divided",
       "Creator": "CLAMP Takahiro Kimura",
-      "Voice": "Nobunaga Shimazaki (Japanese) Stephen Fu (English"
+      "Voice": "Yuuki Ono (Japanese) Alejandro Saab (English"
     },
-    "source_url": "https://codegeass.fandom.com/wiki/Johanne_Fabius"
+    "source_url": "https://codegeass.fandom.com/wiki/Franz_Vallo"
   },
   {
-    "name": "Leila Malcal",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/e/ef/Leilaimage.jpg",
-    "description": "Leila MalcalBiographical InformationFull nameLeila BreisgauNickname(s)Maid of OrleansAlias(es)Leila MalcalNationalityBritannian- EuropeanAge17Borna.t.b.November 7, 2000RY 212, Brumaire 17thStatusAlivePhysical appearanceGenderFemaleHairLight BlondeEye ColorLight PurpleHeight165 cm (5'5\")Zodiac signScorpioBlood typeO (Rh+)Personal BackgroundTitle(s)Commander of wZERO (Formerly)Adjutant (Formerly)Rank(s)AristocratLieutenant Colonel (Formerly)Major (Formerly)Occupation(s)Commander (Former)Adjutan...",
-    "role": "Commander of wZERO (Formerly) Adjutant (Formerly",
-    "attributes": {
-      "Nationality": "Britannian - European",
-      "Age": "17",
-      "Born": "a.t.b. November 7, 2000 RY 212, Brumaire 17th",
-      "Status": "Alive",
-      "Gender": "Female",
-      "Zodiac": "Scorpio",
-      "Blood": "O (Rh+",
-      "Title": "Commander of wZERO (Formerly) Adjutant (Formerly",
-      "Rank": "Aristocrat Lieutenant Colonel (Formerly) Major (Formerly",
-      "Occupation": "Commander (Former) Adjutant (Formerly) Military Officer (Former) Knightmare Pilot (Former",
-      "Relatives": "Stéphane Malcal (Adoptive Brother) Daniel Malcal (Adoptive Brother) Ioan Malcal (Adoptive Brother) Bradow von Breisgau (Father) Claudia Breisgau (Mother",
-      "Allegiance": "Europia United (Formerly) wZERO (Formerly",
-      "Knightmare": "Alexander Type-02 Leila Version",
-      "Other": "See Code Geass: Akito the Exiled",
-      "First": "The Wyvern Arrives (episode",
-      "Last": "To Beloved Ones (episode",
-      "Creator": "CLAMP Takahiro Kimura",
-      "Voice": "Maaya Sakamoto , Sumire Morohoshi (child) (Japanese) Jeannie Tirado (English) Emanuela Pacotto (Italian"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Leila_Malcal"
-  },
-  {
-    "name": "Shin Hyuga Shaing",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/d/d0/Pict490.jpg",
-    "description": "Shin Hyuga ShaingBiographical InformationFull nameShin Hyuga ShaingNationalityJapanese-Honorary BritannianAge24Borna.t.b.April 4, 1993StatusDeceasedDeatha.t.b.December 2017Physical appearanceGenderMaleHairLight IndigoEye ColorGreenHeight187 cm (6'2\")Weight68 kg (150 lbs)Zodiac signAriesBlood typeBPersonal BackgroundTitle(s)Grand Master of the Holy Order of MichaelRank(s)GeneralKnightOccupation(s)Grand MasterKnightKnightmare PilotMilitary OfficerRelation(s)Shin's Father (Father)Hyuga's Mother ...",
-    "role": "Grand Master of the Holy Order of Michael",
-    "attributes": {
-      "Nationality": "Japanese - Honorary Britannian",
-      "Age": "24",
-      "Born": "a.t.b. April 4, 1993",
-      "Status": "Deceased",
-      "Death": "a.t.b. December 2017",
-      "Gender": "Male",
-      "Eye": "Green",
-      "Zodiac": "Aries",
-      "Rank": "General Knight",
-      "Occupation": "Grand Master Knight Knightmare Pilot Military Officer",
-      "Relatives": "Shin's Father (Father) Hyuga's Mother (Mother) Akito Hyuga (Half-Brother) Alice Shaing (Adoptive Sister/fianceé) Maria Shaing (Adoptive Mother",
-      "Allegiance": "Holy Britannian Empire Britannian Military Euro Britannia Holy Order of Michael",
-      "Knightmare": "Vercingetorix",
-      "Other": "See Code Geass: Akito the Exiled",
-      "First": "The Wyvern Arrives",
-      "Last": "To Beloved Ones",
-      "Creator": "CLAMP Takahiro Kimura",
-      "Voice": "Masaya Matsukaze , Junko Minagawa (child) (Japanese) Alex Organ , Terri Doty (child) (English) Alessandro Zurla (Italian"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Shin_Hyuga_Shaing"
-  },
-  {
-    "name": "Joanna Kushner",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/c/c0/JoannaKushner-portrait.jpg",
-    "description": "Joanna KushnerBiographical InformationNationalityBritannianAge27Borna.t.b.March 14thStatusDeceasedPhysical appearanceGenderFemaleHairBlondeBlood typeBPersonal BackgroundOccupation(s)SecretaryAllegiance(s)Holy Britannian EmpireDisel IndustriesReal World InformationSeriesCode Geass: Lost StoriesVoice Actor(s)Shizuka IshigamiJoanna Kushner(ジョアンナ・クシュナー,Joan'na Kushunā) is a character appearing inCode Geass: Lelouch of the Rebellion Lost Stories. She serves asCarly Disel's secretary in Disel Indus...",
-    "role": "Secretary",
+    "name": "Raymond du Saint-Gilles",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/4/4b/Raymond.jpeg",
+    "description": "Raymond de Saint-GillesBiographical InformationFull nameRaymond de Saint-GillesNationalityBritannianAgen/aBorna.t.b.n/aStatusDeceasedDeatha.t.b.July 2017Physical appearanceGenderMaleHairBaldEye ColorBluePersonal BackgroundTitle(s)Grand Master of the Knights of St. UrielRank(s)GeneralOccupation(s)KnightGrand MasterAllegiance(s)Holy Britannian EmpireBritannian MilitaryEuro BritanniaHoly Order of UrielOtherSeeCode Geass: Akito the ExiledReal World InformationVoice Actor(s)Hikaru Miyata (Japanese...",
+    "role": "Grand Master of the Knights of St. Uriel",
     "attributes": {
       "Nationality": "Britannian",
-      "Age": "27",
-      "Born": "a.t.b. March 14th",
+      "Born": "a.t.b. n/a",
       "Status": "Deceased",
-      "Gender": "Female",
-      "Hair": "Blonde",
-      "Occupation": "Secretary",
-      "Allegiance": "Holy Britannian Empire Disel Industries"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Joanna_Kushner"
-  },
-  {
-    "name": "Madd",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/2/2d/Maddcolor.png",
-    "description": "He and Lloyd seem to have a begrudging relationship with each other as he seems to have known Lloyd personally in the past. He is arguably one of the people responsible for the creation of the first seventh generation Knightmare Frame called the GX-01 series, which are piloted by the Irregulars whom he personally leads. He made his first official appearance when he and his Irregulars are personally ordered by GovernorCorneliato try and save the Hostages during the incident at Lake Kawaguchi. ...",
-    "role": "Military Officer",
-    "attributes": {
-      "Full Name": "Madd (first name unknown",
-      "Death": "a.t.b. 2018",
+      "Death": "a.t.b. July 2017",
       "Gender": "Male",
-      "Rank": "Colonel",
-      "Occupation": "Military Officer",
-      "Allegiance": "Holy Britannian Empire Britannian Special Honorary Foreign Legion"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Madd"
-  },
-  {
-    "name": "Schnee Hexen",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/2/20/SchneeM.jpg",
-    "description": "Schnee HexenBiographical InformationNationalityBritannianAge16StatusAlivePhysical appearanceGenderMaleHairBlondeEye ColorBluePersonal BackgroundRank(s)Knight (former)Occupation(s)NobleAllegiance(s)Holy Britannian Empire(former)Konoe KnightsUnited Federation of NationsThe Black KnightsKnightmare(s)SutherlandSutherland Custom (Schnee Machine)Vincent SnipeReal World InformationSeriesCode Geass: Lelouch of the RebellionVoice Actor(s)Gen Sato (Lost Stories)Schnee Hexen(シュネー・ヘクセンShunē Hekusen) is a...",
-    "role": "Noble",
-    "attributes": {
-      "Nationality": "Britannian",
-      "Age": "16",
-      "Status": "Alive",
-      "Gender": "Male",
-      "Hair": "Blonde",
+      "Hair": "Bald",
       "Eye": "Blue",
-      "Occupation": "Noble",
-      "Allegiance": "Holy Britannian Empire (former) Konoe Knights United Federation of Nations The Black Knights",
-      "Knightmare": "Sutherland Sutherland Custom (Schnee Machine) Vincent Snipe"
+      "Rank": "General",
+      "Occupation": "Knight Grand Master",
+      "Allegiance": "Holy Britannian Empire Britannian Military Euro Britannia Holy Order of Uriel",
+      "Other": "See Code Geass: Akito the Exiled",
+      "Voice": "Hikaru Miyata (Japanese) Charlie Campbell (English"
     },
-    "source_url": "https://codegeass.fandom.com/wiki/Schnee_Hexen"
+    "source_url": "https://codegeass.fandom.com/wiki/Raymond_du_Saint-Gilles"
   },
   {
-    "name": "K.K.",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/b/b6/K.K.PortraitZoom.png",
-    "description": "K.K.Biographical InformationAgeUnknownBorna.t.b.UnknownStatusAlivePhysical appearanceGenderMalePersonal BackgroundKnightmare(s)Vincent WardReal World InformationSeriesCode Geass: Genesic Re;CodeK.K.is a character inCode Geass: Genesic Re;Code, serving as its main antagonists. He works alongsideZero.",
-    "role": "Alive",
-    "attributes": {
-      "Born": "a.t.b. Unknown",
-      "Status": "Alive",
-      "Gender": "Male"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/K.K."
-  },
-  {
-    "name": "Yukiya Naruse",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/0/04/Pict508.jpg",
-    "description": "Yukiya NaruseBiographical InformationFull nameYukiya NaruseNationalityJapaneseAge16Borna.t.b.November 17, 2001StatusAlivePhysical appearanceGenderMaleHairLight BrownEye ColorGreenHeight168 cm (5'6\")Weightn/aBlood typen/aPersonal BackgroundRank(s)Second Lieutenant (Former)Warrant Officer (Former)Occupation(s)Terrorist (Formerly)Military Officer (Former)Knightmare Pilot (Former)Relation(s)n/aAllegiance(s)A Group that Opposes the Mafia (Formerly)Europia United(Former)wZERO(Former)Knightmare(s)Al...",
-    "role": "Terrorist (Formerly) Military Officer (Former) Knightmare Pilot (Former",
+    "name": "Ayame Futaba",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/d/d9/Bscap0093.jpg",
+    "description": "Ayame FutabaBiographical InformationFull nameAyame FutabaNationalityJapaneseStatusAlivePhysical appearanceGenderFemaleHairPurpleEye ColorBrownPersonal BackgroundTitle(s)One of the Operators of theIkarugaOccupation(s)OperatorAllegiance(s)United States of JapanUnited Federation of NationsThe Black KnightsIzayoiOtherSeeThe Black KnightsReal World InformationFirst AppearanceOne Million MiraclesLast AppearanceRe;Creator(s)CLAMPVoice Actor(s)Fumiko Orikasa (Japanese)Peggy O'Neal (English)Beatrice M...",
+    "role": "One of the Operators of the Ikaruga",
     "attributes": {
       "Nationality": "Japanese",
-      "Age": "16",
-      "Born": "a.t.b. November 17, 2001",
+      "Status": "Alive",
+      "Gender": "Female",
+      "Hair": "Purple",
+      "Eye": "Brown",
+      "Title": "One of the Operators of the Ikaruga",
+      "Occupation": "Operator",
+      "Allegiance": "United States of Japan United Federation of Nations The Black Knights Izayoi",
+      "Other": "See The Black Knights",
+      "Last": "Re;",
+      "Creator": "CLAMP",
+      "Voice": "Fumiko Orikasa (Japanese) Peggy O'Neal (English) Beatrice Margiotti (Italian) Nadine Zaddam (German"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Ayame_Futaba"
+  },
+  {
+    "name": "Arnold Renck",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/b/b6/ArnoldFace.jpg",
+    "description": "Arnold Renck(アーノルド・レンクĀnorudo Renku) is a major character inCode Geass: Roze of the Recapture. He is the \"Schwarz Knight\" of Neo Brittanian Empire'sEinberg. Following nearly dying, he is later made a cyborg. He is later killed for good following a sword fight withAsh Phoenix.",
+    "role": "Knight",
+    "attributes": {
+      "Image": "Originally",
+      "Nickname": "Arnie (By Catherine",
+      "Nationality": "Britannian",
+      "Status": "Deceased",
+      "Gender": "Male",
+      "Hair": "Navy Blue (Originally) White",
+      "Eye": "Orange",
+      "Rank": "Knight",
+      "Allegiance": "Neo Britannian Empire Einberg (Schwartzritter",
+      "Knightmare": "Valpnir Lohengrin",
+      "Creator": "Takahiro Kimura Hidekazu Shimamura",
+      "Voice": "Sōma Saitō (Japanese) Griffin Puatu (English"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Arnold_Renck"
+  },
+  {
+    "name": "Zi Dien",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/3/33/Story_chara_00920.png",
+    "description": "Zi DienBiographical InformationAlias(es)Zedd The TigerNationalityChineseAge20 (OZ), 21 (at O2)Borna.t.b.n/aStatusAlivePhysical appearanceGenderMaleHairBrownEye ColorBrownPersonal BackgroundRank(s)NoneOccupation(s)TerroristKnightmare PilotAllegiance(s)Chinese Federation(former)Peace MarkKnightmare(s)CustomGlasgowGekka ShidenReal World InformationSeriesCode Geass: Oz the ReflectionCreator(s)Takahiro KimuraZi Dien(紫電Zī Dien) is a terrorist who possesses a connection with “Peace Mark”. He is a yo...",
+    "role": "Terrorist Knightmare Pilot",
+    "attributes": {
+      "Nationality": "Chinese",
+      "Born": "a.t.b. n/a",
       "Status": "Alive",
       "Gender": "Male",
-      "Eye": "Green",
-      "Rank": "Second Lieutenant (Former) Warrant Officer (Former",
-      "Occupation": "Terrorist (Formerly) Military Officer (Former) Knightmare Pilot (Former",
-      "Allegiance": "A Group that Opposes the Mafia (Formerly) Europia United (Former) wZERO (Former",
-      "Knightmare": "Alexander Type-02 Yukiya Version Alexander Valiant Yukiya Version Alexander Drone",
-      "Other": "See Code Geass: Akito the Exiled",
-      "First": "The Wyvern Arrives (episode",
-      "Last": "To Beloved Ones (episode",
-      "Creator": "CLAMP Takahiro Kimura",
-      "Voice": "Yoshitsugu Matsuoka (Japanese) Aaron Dismuke (English) Federico Zanandrea (Italian"
+      "Hair": "Brown",
+      "Eye": "Brown",
+      "Occupation": "Terrorist Knightmare Pilot",
+      "Allegiance": "Chinese Federation (former) Peace Mark",
+      "Knightmare": "Custom Glasgow Gekka Shiden"
     },
-    "source_url": "https://codegeass.fandom.com/wiki/Yukiya_Naruse"
+    "source_url": "https://codegeass.fandom.com/wiki/Zi_Dien"
   },
   {
-    "name": "Euliya",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/0/01/Euliya02.png",
-    "description": "Euliya and Orpheus met during their time at the Geass Order and helped him endure the hellish days of his time there. In addition, they also metToto,Clara, andRolo. At some point in time, the two planned a successful escape from the Geass Order and fled to an unmarked village in Hungary. There, she learned how to cook and sew from the women of the village and helped them in making traditionally crafted embroidery to help the village bring income. Though the two were poor, they were still happ...",
-    "role": "Deceased",
+    "name": "Suzaku Kururugi/Suzaku of the Counterattack",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/b/bd/Suzaku_%28Suzaku_of_the_Counterattack%29.jpg",
+    "description": "Suzaku KururugiBiographical InformationFull nameSuzaku KururugiAlias(es)LancelotNationalityJapanese-Honorary BritannianAge17Borna.t.b.July 10, 2000StatusAlivePhysical appearanceGenderMaleHairBrownEye ColorGreenHeight176 cm (5'9⅝\")Blood typeOPersonal BackgroundTitle(s)Personal Knight ofPrince Schneizel(formerly)Rank(s)Soldier (Promoted)Private (Promoted)Warrant Officer (Promoted)Knight of Honor(formerly)Occupation(s)StudentMilitary OfficerKnightRelation(s)Genbu Kururugi(Father)Allegiance(s)Hol...",
+    "role": "Personal Knight of Prince Schneizel (formerly",
     "attributes": {
-      "Status": "Deceased",
-      "Gender": "Female",
-      "Allegiance": "Geass Order (Former",
-      "Series": "Code Geass: Oz the Reflection"
-    },
-    "source_url": "https://codegeass.fandom.com/wiki/Euliya"
-  },
-  {
-    "name": "Catherine Sabathra",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/3/36/CatherineFace.jpg",
-    "description": "Catherine is a very stereotypically feminine individual. She talks in a playful, teasing manner, chooses pink as the color of many of her possessions including her own knightmare frame, and even takes selfies while in the cockpit of her knightmare.However, she is also very cruel and unforgiving, upholding the concept of strength; she is quick to judge others as \"weak,\" shows no qualms towards expressing her distaste for those she dislikes, and looks down upon the Japanese people with disdain....",
-    "role": "Weiss Queen",
-    "attributes": {
-      "Nickname": "White Queen",
-      "Nationality": "Britannian",
+      "Alias": "Lancelot",
+      "Nationality": "Japanese - Honorary Britannian",
+      "Age": "17",
+      "Born": "a.t.b. July 10, 2000",
       "Status": "Alive",
-      "Gender": "Female",
-      "Hair": "Pink",
-      "Title": "Weiss Queen",
-      "Rank": "Knight",
-      "Allegiance": "Neo Britannian Empire Einberg (Weissritter",
-      "Knightmare": "Queen Curaca",
-      "Series": "Code Geass: Roze of the Recapture",
-      "Creator": "Takahiro Kimura Hidekazu Shimamura",
-      "Voice": "Nao Tōyama (Japanese) Dani Chambers (English"
+      "Gender": "Male",
+      "Hair": "Brown",
+      "Eye": "Green",
+      "Title": "Personal Knight of Prince Schneizel (formerly",
+      "Rank": "Soldier (Promoted) Private (Promoted) Warrant Officer (Promoted) Knight of Honor (formerly",
+      "Occupation": "Student Military Officer Knight",
+      "Relatives": "Genbu Kururugi (Father",
+      "Allegiance": "Holy Britannian Empire Britannian Military Camelot Ashford Academy",
+      "Knightmare": "Lancelot"
     },
-    "source_url": "https://codegeass.fandom.com/wiki/Catherine_Sabathra"
+    "source_url": "https://codegeass.fandom.com/wiki/Suzaku_Kururugi/Suzaku_of_the_Counterattack"
   },
   {
-    "name": "Alan Necker",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/b/b7/Alan1.png",
-    "description": "Alan NeckerBiographical InformationNationalityBritannianStatusAlivePhysical appearanceGenderMaleHairTealEye ColorGrayPersonal BackgroundTitle(s)Knight of St. MichaelRank(s)KnightOccupation(s)Knightmare PilotAllegiance(s)Holy Britannian EmpireHoly Order of MichaelKnightmare(s)Gloucester SwordsmanReal World InformationSeriesCode Geass: Akito the ExiledCreator(s)CLAMPTakahiro KimuraVoice Actor(s)Genki Muro (Japanese)Alan Necker(アラン・ネッケルAran Nekkeru) is aKnights of St. Michaelthat serves in the A...",
+    "name": "René Laurent",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/8/82/Rene_Laurent.jpeg",
+    "description": "René LaurentBiographical InformationFull nameRené LaurentNationalityBritannianAgen/aBorna.t.b.n/aStatusAlivePhysical appearanceGenderMaleHairRedEye ColorPurpleHeightn/aWeightn/aBlood typen/aPersonal BackgroundTitle(s)Knight of St. MichaelRank(s)KnightOccupation(s)Knightmare PilotMilitary OfficerAllegiance(s)Holy Britannian EmpireBritannian MilitaryEuro BritanniaKnights of St. MichaelAshura Strike ForceKnightmare(s)CustomizedGloucesterOtherSeeCode Geass: Akito the ExiledReal World InformationF...",
     "role": "Knight of St. Michael",
     "attributes": {
       "Nationality": "Britannian",
+      "Born": "a.t.b. n/a",
       "Status": "Alive",
       "Gender": "Male",
-      "Hair": "Teal",
-      "Eye": "Gray",
+      "Hair": "Red",
+      "Eye": "Purple",
       "Rank": "Knight",
-      "Allegiance": "Holy Britannian Empire Holy Order of Michael",
-      "Creator": "CLAMP Takahiro Kimura"
+      "Occupation": "Knightmare Pilot Military Officer",
+      "Allegiance": "Holy Britannian Empire Britannian Military Euro Britannia Knights of St. Michael Ashura Strike Force",
+      "Knightmare": "Customized Gloucester",
+      "Other": "See Code Geass: Akito the Exiled",
+      "First": "The Wyvern Divided",
+      "Creator": "CLAMP Takahiro Kimura",
+      "Voice": "Ryota Ohsaka (Japanese) Nazeeh Tarsha (English"
     },
-    "source_url": "https://codegeass.fandom.com/wiki/Alan_Necker"
+    "source_url": "https://codegeass.fandom.com/wiki/Ren%C3%A9_Laurent"
+  },
+  {
+    "name": "Atsushi Sawazaki",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/0/0b/Atsushi_Sawasaki.png",
+    "description": "Prior to the start of the series, Sawazaki fled to theChinese Federationafter Japan surrendered toBritannia, forming a government-in-exile. After the civil unrest caused byZero, he announces the resurrection of Japan from theFukuoka Base, Kyushu. He along withGeneral Tsaoplan on using Kyushu as a starting point to take back Japan. However,Suzaku Kururugi'sLancelotand Zero'sGawainmanage to take the Base and capture the minister while he tries to flee away back to the Chinese Federation. He is ...",
+    "role": "Chief Cabinet Secretary of the Kururugi Administration (Former",
+    "attributes": {
+      "Nationality": "Japanese",
+      "Status": "Deceased",
+      "Gender": "Male",
+      "Hair": "Black",
+      "Eye": "Dark Brown",
+      "Title": "Chief Cabinet Secretary of the Kururugi Administration (Former",
+      "Rank": "Commander",
+      "Occupation": "Military Officer Politician",
+      "Allegiance": "Chinese Federation Japan",
+      "Series": "Code Geass: Lelouch of the Rebellion",
+      "Voice": "Minoru Inaba (Japanese) Dan Worren (English) Rainer Doering (German"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Atsushi_Sawazaki"
+  },
+  {
+    "name": "Cao",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/5/5d/Tsao_and_Sawasaki.png",
+    "description": "During the battle,Suzakuusing hisLancelotwas able to break through and attack the base. In response, Cao and Sawasaki send waves ofGun-Ruafter Suzaku in order to destroy him. Suzaku is barely able to hold off many waves before finally running out of energy and was about to be killed.Zeromanages to save Suzaku using theGawainand gives him a spare energy filler and both decide to go after Sawasaki shocking him and Cao. They manage to take down all of their forces and have them arrested. After t...",
+    "role": "General of Chinese Forces",
+    "attributes": {
+      "Full Name": "Cao",
+      "Nationality": "Chinese",
+      "Gender": "Male",
+      "Hair": "Black",
+      "Eye": "Black",
+      "Title": "General of Chinese Forces",
+      "Rank": "General",
+      "Occupation": "Military Officer Commander",
+      "Allegiance": "Chinese Federation Chinese Military Japan",
+      "Series": "Code Geass: Lelouch of the Rebellion",
+      "Voice": "Takashi Taguchi (Japanese) Tony Oliver (English) Gerald Paradies (German"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Cao"
   },
   {
     "name": "Alice Shaing",
@@ -893,56 +819,81 @@
     "source_url": "https://codegeass.fandom.com/wiki/Alice_Shaing"
   },
   {
-    "name": "Nunnally vi Britannia",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/b/b0/100th_Empress_Nunnally_vi_Britannia.jpg",
-    "description": "Nunnally vi BritanniaBiographical InformationFull nameNunnally vi BritanniaNickname(s)Nunna (by Shirley)Alias(es)Nunnally LamperougeNationalityBritannianAge14 (First Season)15 (R2)17 (Lelouch Of The Re;surrection)Borna.t.b.October 25, 2003StatusAlivePhysical appearanceGenderFemaleHairSandy BrownEye ColorVioletHeight160 cm (5'3\")Zodiac signScorpioBlood typeABPersonal BackgroundTitle(s)87th in Line of Succession to theBritannian(Formerly) ThroneViceroy ofArea 11(Formerly)Goodwill Ambassador of ...",
-    "role": "87th in Line of Succession to the Britannian (Formerly) Throne Viceroy of Area 11 (Formerly) Goodwill Ambassador of Japan (Nightmare of Nunnally",
+    "name": "Josui Kusakabe",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/6/67/Kusakabe.png",
+    "description": "Kusakabe make a brief first appearance along with the other members of the Japan Liberation Front. He asks if the JLF should attempt to rescueSuzaku Kururugiwho was falsely accused for the murder ofClovis La Britannia. However,Zeroappears and saves Kururugi shocking Kusakabe as well as the other members of the JLF. Kusakabe later appears during theJapanese Liberation Front Hotel Incidentas the one who planned the Hotel Jack Incident by himself without the authorization ofGeneral Kataseor the ...",
+    "role": "Lieutenant Colonel of the Japan Liberation Front",
     "attributes": {
-      "Nationality": "Britannian",
-      "Age": "14 (First Season) 15 (R2) 17 (Lelouch Of The Re;surrection",
-      "Born": "a.t.b. October 25, 2003",
-      "Status": "Alive",
-      "Gender": "Female",
-      "Eye": "Violet",
-      "Zodiac": "Scorpio",
-      "Blood": "AB",
-      "Title": "87th in Line of Succession to the Britannian (Formerly) Throne Viceroy of Area 11 (Formerly) Goodwill Ambassador of Japan (Nightmare of Nunnally",
-      "Rank": "Princess",
-      "Occupation": "Student (Formerly) Politician Royalty Honorary Adviser of the W.H.A. (Lelouch of the Resurrection",
-      "Relatives": "Charles zi Britannia (Father) Marianne vi Britannia (Mother) V.V. (Uncle) Lelouch vi Britannia (Brother) Schneizel el Britannia (Half Brother) Cornelia li Britannia (Half Sister) Euphemia li Britan...",
-      "Allegiance": "Ashford Academy Student Council Holy Britannian Empire Britannian Imperial Family World Humanitarian Agency",
-      "Knightmare": "Mark Alice ( Lost Stories",
-      "Other": "See Britannian Imperial Family",
-      "First": "The False Classmate",
-      "Last": "Code Geass: Lelouch of the Re;surrection",
-      "Voice": "Kaori Nazuka (Japanese) Rebecca Forstadt (English) Veronica Puccio (Italian) Julia Stoepel (German"
+      "Full Name": "Josui Kusakabe",
+      "Nationality": "Japanese",
+      "Age": "45",
+      "Born": "a.t.b. 1972",
+      "Status": "Deceased",
+      "Death": "a.t.b. August 22, 2017",
+      "Gender": "Male",
+      "Hair": "Brown",
+      "Eye": "Brown",
+      "Title": "Lieutenant Colonel of the Japan Liberation Front",
+      "Rank": "Lieutenant Colonel",
+      "Occupation": "Military Officer Terrorist",
+      "Other": "See Japan Liberation Front",
+      "First": "His Name is Zero",
+      "Last": "The Black Knights",
+      "Voice": "Masuo Amada (Japanese) Doug Stone (English) Gerald Paradies (German"
     },
-    "source_url": "https://codegeass.fandom.com/wiki/Nunnally_vi_Britannia"
+    "source_url": "https://codegeass.fandom.com/wiki/Josui_Kusakabe"
   },
   {
-    "name": "Euphemia li Britannia",
-    "image_url": "https://static.wikia.nocookie.net/codegeass/images/a/a6/Euphemia_li_Britannia.jpg",
-    "description": "Euphemia li BritanniaBiographical InformationNickname(s)EuphyPrincess MassacreNationalityBritannianAge16StatusDeceased (TV series)Alive (Lost Colors)Physical appearanceGenderFemaleHairPinkEye ColorBluish VioletHeight174 cm (5'9\")Zodiac signLibraBlood typeBPersonal BackgroundTitle(s)3rd Princess of the Holy Britannian EmpireSub-Viceroy ofArea 11Rank(s)PrincessOccupation(s)RoyaltyPoliticianRelation(s)Claire li Britannia(Ancestor)Charles zi Britannia(Father)Cornelia li Britannia(Older Sister)V.V...",
-    "role": "3rd Princess of the Holy Britannian Empire Sub-Viceroy of Area 11",
+    "name": "Kai Tzu",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/c/c6/KaiTzuPortraitZoom.png",
+    "description": "Kai TzuBiographical InformationNationalityChuStatusDeceasedPhysical appearanceGenderMaleHairBrownPersonal BackgroundOccupation(s)RebelReal World InformationSeriesCode Geass: Genesic Re;Code.Kai Tzu(海通) is a character fromCode Geass: Genesic Re;Code. He appears in theCode Geass: Crimson of the Blood Pactstoryline as part ofLiu Sou's group of rebels.",
+    "role": "Rebel",
     "attributes": {
-      "Nickname": "Euphy Princess Massacre",
-      "Nationality": "Britannian",
-      "Age": "16",
-      "Status": "Deceased (TV series) Alive ( Lost Colors",
-      "Gender": "Female",
-      "Hair": "Pink",
-      "Height": "174 cm (5'9\") [ 1",
-      "Zodiac": "Libra",
-      "Title": "3rd Princess of the Holy Britannian Empire Sub-Viceroy of Area 11",
-      "Rank": "Princess",
-      "Occupation": "Royalty Politician",
-      "Relatives": "Claire li Britannia (Ancestor) Charles zi Britannia (Father) Cornelia li Britannia (Older Sister) V.V. (Uncle) Lelouch vi Britannia (Half Brother) Nunnally vi Britannia (Half Sister) Clovis la Brit...",
-      "Allegiance": "Holy Britannian Empire Britannian Imperial Family Special Administrative Zone of Japan",
-      "Knightmare": "Portman ( I Order you, Suzaku Kururugi (episode) ) Gloucester ( At Least with Sorrow (episode) ) Siegfried Kai (Nintendo DS Game",
-      "Series": "Code Geass: Lelouch of the Rebellion",
-      "Creator": "CLAMP Takahiro Kimura",
-      "Voice": "Omi Minami (Japanese) Michelle Ruff (English) Letizia Scifoni (Italian) Jill Böttcher (German"
+      "Nationality": "Chu",
+      "Status": "Deceased",
+      "Gender": "Male",
+      "Hair": "Brown",
+      "Occupation": "Rebel",
+      "Series": "Code Geass: Genesic Re;Code ."
     },
-    "source_url": "https://codegeass.fandom.com/wiki/Euphemia_li_Britannia"
+    "source_url": "https://codegeass.fandom.com/wiki/Kai_Tzu"
+  },
+  {
+    "name": "Kento Sugiyama",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/9/96/Kento.png",
+    "description": "Sugiyama first appears alongside the other members of the resistance during the assault of Shinjuku Ghetto. He is one of the few who pilot theSutherlandsthatZeromanaged to obtain. Sugiyama, along with Kallen, Ohgi and Yoshida decide to meet the person coordinating the attack in Shinjuku Ghetto. All of them meet Zero for the first time being skeptical about why he wears a mask and questions on following him. However, after witnessing Zero, Kallen and Ohgi rescue Suzaku Kururugi from the Purist...",
+    "role": "Special Division Captain",
+    "attributes": {
+      "Full Name": "Kento Sugiyama",
+      "Nationality": "Japanese",
+      "Status": "Alive",
+      "Gender": "Male",
+      "Hair": "Teal",
+      "Eye": "Brown",
+      "Title": "Special Division Captain",
+      "Rank": "Captain",
+      "Occupation": "Terrorist Knightmare Pilot",
+      "Allegiance": "United States of Japan United Federation of Nations The Black Knights Special Division",
+      "Knightmare": "Sutherland Burai Akatsuki",
+      "Other": "See Black Knights , United States of Japan , United Federation of Nations",
+      "First": "The Day a New Demon was Born",
+      "Last": "Re;",
+      "Voice": "Noriaki Sugiyama (Japanese) Grant George (English) Simone Salis (Italian) Christoph Banken (German"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Kento_Sugiyama"
+  },
+  {
+    "name": "Shota Munemori",
+    "image_url": "https://static.wikia.nocookie.net/codegeass/images/5/54/Munemori-Face.jpg",
+    "description": "Shota MunemoriBiographical InformationNationalityJapaneseStatusAlivePhysical appearanceGenderMalePersonal BackgroundAllegiance(s)Seven Shining StarsKnightmare(s)Akatsuki-UpgradeSekkaReal World InformationVoice Actor(s)Taito Ban (Japanese)Aleks Le (English)Shota Munemori(宗森葵太Munemori Shōta) is a character appearing inCode Geass: Roze of the Recapture. He is a member of theSeven Shining Stars.",
+    "role": "Alive",
+    "attributes": {
+      "Nationality": "Japanese",
+      "Status": "Alive",
+      "Gender": "Male",
+      "Knightmare": "Akatsuki-Upgrade Sekka",
+      "Voice": "Taito Ban (Japanese) Aleks Le (English"
+    },
+    "source_url": "https://codegeass.fandom.com/wiki/Shota_Munemori"
   }
 ]

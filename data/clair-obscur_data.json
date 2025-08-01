@@ -1,73 +1,15 @@
 [
   {
-    "name": "Guillaume",
-    "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/f/f0/Guilluame.png",
-    "description": "At one point, Gustave tasked Guillaume, alongsideAlexandreandAdrien, to create a special mechanical arm for Gustave to wear, owing to him having lost his left arm in an accident. The three eagerly took on the task, successfully completing a special arm for their mentor.",
-    "role": "Expeditioner apprentice",
-    "attributes": {
-      "Hair Color": "Brown",
-      "Gender": "Male",
-      "Occupation": "Expeditioner apprentice",
-      "Affiliation": "Gustave (mentor"
-    },
-    "source_url": "https://clair-obscur.fandom.com/wiki/Guillaume"
-  },
-  {
-    "name": "Adrien",
-    "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/1/19/Coe33_Maelle_delivering_journal.jpg",
-    "description": "At one point, Gustave tasked Adrien, alongsideAlexandreandGuillaume, to create a special mechanical arm for Gustave to wear, owing to him having lost his left arm in an accident. The three eagerly took on the task, successfully completing a special arm for their mentor.",
-    "role": "Expeditioner apprentice",
-    "attributes": {
-      "Hair Color": "Brown",
-      "Gender": "Male",
-      "Occupation": "Expeditioner apprentice",
-      "Affiliation": "Gustave (mentor"
-    },
-    "source_url": "https://clair-obscur.fandom.com/wiki/Adrien"
-  },
-  {
-    "name": "Renoir Dessendre",
-    "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/e/e1/Renoir_Dessendre_Icon.png",
-    "description": "Renoir DessendreRealCanvasBasic InformationAliasesThe CuratorPhysical InformationHair colorGreyEye colorGreySpeciesHumanGenderMalePersonal InformationOccupationPainterAffiliation(s)Dessendre Family, PaintersFamilyPartner(s)Aline Dessendre(wife)Child(ren)Clea DessendreVerso DessendreAlicia DessendreAppearancesVoiced byAndy Serkis(English)Féodor Atkine(French)Appears inClair Obscur: Expedition 33Renoir Dessendre, also known asThe Curator, is the main antagonist inClair Obscur: Expedition 33and ...",
-    "role": "Painter",
-    "attributes": {
-      "Image": "Real",
-      "Hair Color": "Grey",
-      "Eye Color": "Grey",
-      "Species": "Human",
-      "Gender": "Male",
-      "Occupation": "Painter",
-      "Partner": "Aline Dessendre (wife",
-      "Children": "Clea Dessendre Verso Dessendre Alicia Dessendre",
-      "Voiced By": "Andy Serkis (English) Féodor Atkine (French"
-    },
-    "source_url": "https://clair-obscur.fandom.com/wiki/Renoir_Dessendre"
-  },
-  {
-    "name": "Esquie",
-    "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/4/42/Esquie.png",
-    "description": "Esquie was once known as the most powerful being in the world, but since theFracturethe people ofLumièregradually came to regard him as legendary.Painted Versoand Monoco remained in close contact with him, and the three presumably went on countless adventures over the years.",
+    "name": "Florian",
+    "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/9/96/Coe33_florian.png",
+    "description": "FlorianPhysical InformationHair colorBrownEye colorBrownGenderMaleFlorianis a character inClair Obscur: Expedition 33.",
     "role": "Game Character",
     "attributes": {
-      "Aliases": "Giant marshmallow",
-      "Gender": "Male",
-      "Affiliation": "Verso Dessendre (formerly) Expedition 33",
-      "Voiced By": "Maxence Cazorla"
-    },
-    "source_url": "https://clair-obscur.fandom.com/wiki/Esquie"
-  },
-  {
-    "name": "Richard",
-    "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/a/a8/Coe33_richard.png",
-    "description": "RichardBasic InformationStatusDeceased (gommage monolith year 33)BornMonolith year 66Physical InformationHair colorBrownEye colorBlueGenderMalePersonal InformationOccupationSewing teacherFamilyChild(ren)Jules(son)Richardis a character inClair Obscur: Expedition 33.",
-    "role": "Sewing teacher",
-    "attributes": {
       "Hair Color": "Brown",
-      "Eye Color": "Blue",
-      "Gender": "Male",
-      "Children": "Jules (son"
+      "Eye Color": "Brown",
+      "Gender": "Male"
     },
-    "source_url": "https://clair-obscur.fandom.com/wiki/Richard"
+    "source_url": "https://clair-obscur.fandom.com/wiki/Florian"
   },
   {
     "name": "Emma",
@@ -83,87 +25,6 @@
       "Relatives": "Gustave (brother"
     },
     "source_url": "https://clair-obscur.fandom.com/wiki/Emma"
-  },
-  {
-    "name": "Alexandre",
-    "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/1/19/Coe33_Maelle_delivering_journal.jpg",
-    "description": "At one point, Gustave tasked Alexandre, alongsideAdrienandGuillaume, to create a special mechanical arm for Gustave to wear, owing to him having lost his left arm in an accident. The three eagerly took on the task, successfully completing a special arm for their mentor.",
-    "role": "Expeditioner apprentice",
-    "attributes": {
-      "Hair Color": "Blond",
-      "Gender": "Male",
-      "Occupation": "Expeditioner apprentice",
-      "Affiliation": "Gustave (mentor"
-    },
-    "source_url": "https://clair-obscur.fandom.com/wiki/Alexandre"
-  },
-  {
-    "name": "Verso Dessendre",
-    "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/4/42/Coe33_realVerso.png",
-    "description": "Verso DessendreBasic InformationStatusDeceasedBorn22 February 1879Death33 December 1905Physical InformationHair colorBlackEye colorGreySpeciesHumanGenderMalePersonal InformationAffiliation(s)Dessendre FamilyFamilyParent(s)Aline Dessendre(mother)Renoir Dessendre(father)Relative(s)Clea Dessendre(sister)Alicia Dessendre(sister)AppearancesAppears inClair Obscur: Expedition 33Verso Dessendrewas a member of theDessendre FamilyinClair Obscur: Expedition 33.",
-    "role": "Deceased",
-    "attributes": {
-      "Status": "Deceased",
-      "Hair Color": "Black",
-      "Eye Color": "Grey",
-      "Species": "Human",
-      "Gender": "Male",
-      "Parents": "Aline Dessendre (mother) Renoir Dessendre (father",
-      "Relatives": "Clea Dessendre (sister) Alicia Dessendre (sister"
-    },
-    "source_url": "https://clair-obscur.fandom.com/wiki/Verso_Dessendre"
-  },
-  {
-    "name": "Danseuse Teacher",
-    "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/b/b3/Coe33_Danseuse.png",
-    "description": "When speaking to the Nevron for the first time, it will talk about the dance of life and death and inviteLuneto a special encounter where she must parry every hit in a row in order to counter and complete the challenge. This awards theDanseuseoutfit forLune.",
-    "role": "Game Character",
-    "attributes": {
-      "Location": "Frozen Hearts"
-    },
-    "source_url": "https://clair-obscur.fandom.com/wiki/Danseuse_Teacher"
-  },
-  {
-    "name": "Unfinished Jar",
-    "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/5/55/Coe33_jar.jpg",
-    "description": "Jar is also part of an optional side quest. When first found inAct I, he asks that you bring light to him. In this case, you need to find the resin in the next area and bring it back to him. You'll then need to light his lamp by free aiming and firing at it.",
-    "role": "Unfinished",
-    "attributes": {
-      "Status": "Unfinished",
-      "Species": "Jar Nevron",
-      "Appears In": "Clair Obscur: Expedition 33"
-    },
-    "source_url": "https://clair-obscur.fandom.com/wiki/Unfinished_Jar"
-  },
-  {
-    "name": "Clea Dessendre",
-    "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/e/e2/Coe33_Clea_Dessendre.png",
-    "description": "Clea DessendreBasic InformationAliasesThe MistressStatusAliveBornBefore 1879Physical InformationHair colorAuburnEye colorGrey blueSpeciesHumanGenderFemalePersonal InformationOccupationPaintressFamilyParent(s)Aline Dessendre(mother)Renoir Dessendre(father)Relative(s)Verso Dessendre(brother)Alicia Dessendre(sister)AppearancesVoiced byDevora Wilde(English)Amandine Barbier (French)Appears inClair Obscur: Expedition 33Clea Dessendre, also known asThe Mistress, is a member of theDessendre Familyand...",
-    "role": "Paintress",
-    "attributes": {
-      "Status": "Alive",
-      "Hair Color": "Auburn",
-      "Eye Color": "Grey blue",
-      "Species": "Human",
-      "Gender": "Female",
-      "Occupation": "Paintress",
-      "Parents": "Aline Dessendre (mother) Renoir Dessendre (father",
-      "Relatives": "Verso Dessendre (brother) Alicia Dessendre (sister",
-      "Voiced By": "Devora Wilde (English) Amandine Barbier (French"
-    },
-    "source_url": "https://clair-obscur.fandom.com/wiki/Clea_Dessendre"
-  },
-  {
-    "name": "Florian",
-    "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/9/96/Coe33_florian.png",
-    "description": "FlorianPhysical InformationHair colorBrownEye colorBrownGenderMaleFlorianis a character inClair Obscur: Expedition 33.",
-    "role": "Game Character",
-    "attributes": {
-      "Hair Color": "Brown",
-      "Eye Color": "Brown",
-      "Gender": "Male"
-    },
-    "source_url": "https://clair-obscur.fandom.com/wiki/Florian"
   },
   {
     "name": "Aline Dessendre",
@@ -203,6 +64,139 @@
     "source_url": "https://clair-obscur.fandom.com/wiki/Painted_Alicia"
   },
   {
+    "name": "Danseuse Teacher",
+    "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/b/b3/Coe33_Danseuse.png",
+    "description": "When speaking to the Nevron for the first time, it will talk about the dance of life and death and inviteLuneto a special encounter where she must parry every hit in a row in order to counter and complete the challenge. This awards theDanseuseoutfit forLune.",
+    "role": "Game Character",
+    "attributes": {
+      "Location": "Frozen Hearts"
+    },
+    "source_url": "https://clair-obscur.fandom.com/wiki/Danseuse_Teacher"
+  },
+  {
+    "name": "Renoir Dessendre",
+    "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/e/e1/Renoir_Dessendre_Icon.png",
+    "description": "Renoir DessendreRealCanvasBasic InformationAliasesThe CuratorPhysical InformationHair colorGreyEye colorGreySpeciesHumanGenderMalePersonal InformationOccupationPainterAffiliation(s)Dessendre Family, PaintersFamilyPartner(s)Aline Dessendre(wife)Child(ren)Clea DessendreVerso DessendreAlicia DessendreAppearancesVoiced byAndy Serkis(English)Féodor Atkine(French)Appears inClair Obscur: Expedition 33Renoir Dessendre, also known asThe Curator, is the main antagonist inClair Obscur: Expedition 33and ...",
+    "role": "Painter",
+    "attributes": {
+      "Image": "Real",
+      "Hair Color": "Grey",
+      "Eye Color": "Grey",
+      "Species": "Human",
+      "Gender": "Male",
+      "Occupation": "Painter",
+      "Partner": "Aline Dessendre (wife",
+      "Children": "Clea Dessendre Verso Dessendre Alicia Dessendre",
+      "Voiced By": "Andy Serkis (English) Féodor Atkine (French"
+    },
+    "source_url": "https://clair-obscur.fandom.com/wiki/Renoir_Dessendre"
+  },
+  {
+    "name": "Esquie",
+    "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/4/42/Esquie.png",
+    "description": "Esquie was once known as the most powerful being in the world, but since theFracturethe people ofLumièregradually came to regard him as legendary.Painted Versoand Monoco remained in close contact with him, and the three presumably went on countless adventures over the years.",
+    "role": "Game Character",
+    "attributes": {
+      "Aliases": "Giant marshmallow",
+      "Gender": "Male",
+      "Affiliation": "Verso Dessendre (formerly) Expedition 33",
+      "Voiced By": "Maxence Cazorla"
+    },
+    "source_url": "https://clair-obscur.fandom.com/wiki/Esquie"
+  },
+  {
+    "name": "Alexandre",
+    "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/1/19/Coe33_Maelle_delivering_journal.jpg",
+    "description": "At one point, Gustave tasked Alexandre, alongsideAdrienandGuillaume, to create a special mechanical arm for Gustave to wear, owing to him having lost his left arm in an accident. The three eagerly took on the task, successfully completing a special arm for their mentor.",
+    "role": "Expeditioner apprentice",
+    "attributes": {
+      "Hair Color": "Blond",
+      "Gender": "Male",
+      "Occupation": "Expeditioner apprentice",
+      "Affiliation": "Gustave (mentor"
+    },
+    "source_url": "https://clair-obscur.fandom.com/wiki/Alexandre"
+  },
+  {
+    "name": "Adrien",
+    "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/1/19/Coe33_Maelle_delivering_journal.jpg",
+    "description": "At one point, Gustave tasked Adrien, alongsideAlexandreandGuillaume, to create a special mechanical arm for Gustave to wear, owing to him having lost his left arm in an accident. The three eagerly took on the task, successfully completing a special arm for their mentor.",
+    "role": "Expeditioner apprentice",
+    "attributes": {
+      "Hair Color": "Brown",
+      "Gender": "Male",
+      "Occupation": "Expeditioner apprentice",
+      "Affiliation": "Gustave (mentor"
+    },
+    "source_url": "https://clair-obscur.fandom.com/wiki/Adrien"
+  },
+  {
+    "name": "Richard",
+    "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/a/a8/Coe33_richard.png",
+    "description": "RichardBasic InformationStatusDeceased (gommage monolith year 33)BornMonolith year 66Physical InformationHair colorBrownEye colorBlueGenderMalePersonal InformationOccupationSewing teacherFamilyChild(ren)Jules(son)Richardis a character inClair Obscur: Expedition 33.",
+    "role": "Sewing teacher",
+    "attributes": {
+      "Hair Color": "Brown",
+      "Eye Color": "Blue",
+      "Gender": "Male",
+      "Children": "Jules (son"
+    },
+    "source_url": "https://clair-obscur.fandom.com/wiki/Richard"
+  },
+  {
+    "name": "François",
+    "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/0/04/Coe33_Francois.png",
+    "description": "He resembles a large tortoise, with blue glowing mushrooms growing on his shell. He tends to like taking Esquie's rocks and antagonizing his neighbor.",
+    "role": "Game Character",
+    "attributes": {
+      "Gender": "Male"
+    },
+    "source_url": "https://clair-obscur.fandom.com/wiki/Fran%C3%A7ois"
+  },
+  {
+    "name": "Guillaume",
+    "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/f/f0/Guilluame.png",
+    "description": "At one point, Gustave tasked Guillaume, alongsideAlexandreandAdrien, to create a special mechanical arm for Gustave to wear, owing to him having lost his left arm in an accident. The three eagerly took on the task, successfully completing a special arm for their mentor.",
+    "role": "Expeditioner apprentice",
+    "attributes": {
+      "Hair Color": "Brown",
+      "Gender": "Male",
+      "Occupation": "Expeditioner apprentice",
+      "Affiliation": "Gustave (mentor"
+    },
+    "source_url": "https://clair-obscur.fandom.com/wiki/Guillaume"
+  },
+  {
+    "name": "Clea Dessendre",
+    "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/e/e2/Coe33_Clea_Dessendre.png",
+    "description": "Clea DessendreBasic InformationAliasesThe MistressStatusAliveBornBefore 1879Physical InformationHair colorAuburnEye colorGrey blueSpeciesHumanGenderFemalePersonal InformationOccupationPaintressFamilyParent(s)Aline Dessendre(mother)Renoir Dessendre(father)Relative(s)Verso Dessendre(brother)Alicia Dessendre(sister)AppearancesVoiced byDevora Wilde(English)Amandine Barbier (French)Appears inClair Obscur: Expedition 33Clea Dessendre, also known asThe Mistress, is a member of theDessendre Familyand...",
+    "role": "Paintress",
+    "attributes": {
+      "Status": "Alive",
+      "Hair Color": "Auburn",
+      "Eye Color": "Grey blue",
+      "Species": "Human",
+      "Gender": "Female",
+      "Occupation": "Paintress",
+      "Parents": "Aline Dessendre (mother) Renoir Dessendre (father",
+      "Relatives": "Verso Dessendre (brother) Alicia Dessendre (sister",
+      "Voiced By": "Devora Wilde (English) Amandine Barbier (French"
+    },
+    "source_url": "https://clair-obscur.fandom.com/wiki/Clea_Dessendre"
+  },
+  {
+    "name": "Blanche",
+    "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/e/e9/Coe33_blanche.jpg",
+    "description": "Blanche was created byCleabut, unlike othernevrons, she made Blanche to carry out another task: to kill off theUnfinished Nevronsas these unfinished ones were proof of Clea's failures. However, as Blanche traveled around to do so, they were saddened by the state the unfinished ones were in and took pity on them and refused to kill them.",
+    "role": "Game Character",
+    "attributes": {
+      "Species": "Noir",
+      "Affiliation": "Clea",
+      "Appears In": "Clair Obscur: Expedition 33"
+    },
+    "source_url": "https://clair-obscur.fandom.com/wiki/Blanche"
+  },
+  {
     "name": "Sophie",
     "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/2/2f/Coe33_sophie.png",
     "description": "Sophie was a widely admired figure inLumière. Prior to her Gommage, she datedGustave, a relationship many seemed to approve of, and both worked on the Aquafarm 3 project alongsideSciel. The two eventually broke up owing to their differences in whether or not to have children in a world without any real future, although they remained on friendly terms.",
@@ -219,16 +213,16 @@
     "source_url": "https://clair-obscur.fandom.com/wiki/Sophie"
   },
   {
-    "name": "Blanche",
-    "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/e/e9/Coe33_blanche.jpg",
-    "description": "Blanche was created byCleabut, unlike othernevrons, she made Blanche to carry out another task: to kill off theUnfinished Nevronsas these unfinished ones were proof of Clea's failures. However, as Blanche traveled around to do so, they were saddened by the state the unfinished ones were in and took pity on them and refused to kill them.",
-    "role": "Game Character",
+    "name": "Unfinished Jar",
+    "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/5/55/Coe33_jar.jpg",
+    "description": "Jar is also part of an optional side quest. When first found inAct I, he asks that you bring light to him. In this case, you need to find the resin in the next area and bring it back to him. You'll then need to light his lamp by free aiming and firing at it.",
+    "role": "Unfinished",
     "attributes": {
-      "Species": "Noir",
-      "Affiliation": "Clea",
+      "Status": "Unfinished",
+      "Species": "Jar Nevron",
       "Appears In": "Clair Obscur: Expedition 33"
     },
-    "source_url": "https://clair-obscur.fandom.com/wiki/Blanche"
+    "source_url": "https://clair-obscur.fandom.com/wiki/Unfinished_Jar"
   },
   {
     "name": "Marie",
@@ -244,13 +238,19 @@
     "source_url": "https://clair-obscur.fandom.com/wiki/Marie"
   },
   {
-    "name": "François",
-    "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/0/04/Coe33_Francois.png",
-    "description": "He resembles a large tortoise, with blue glowing mushrooms growing on his shell. He tends to like taking Esquie's rocks and antagonizing his neighbor.",
-    "role": "Game Character",
+    "name": "Verso Dessendre",
+    "image_url": "https://static.wikia.nocookie.net/clair-obscur/images/4/42/Coe33_realVerso.png",
+    "description": "Verso DessendreBasic InformationStatusDeceasedBorn22 February 1879Death33 December 1905Physical InformationHair colorBlackEye colorGreySpeciesHumanGenderMalePersonal InformationAffiliation(s)Dessendre FamilyFamilyParent(s)Aline Dessendre(mother)Renoir Dessendre(father)Relative(s)Clea Dessendre(sister)Alicia Dessendre(sister)AppearancesAppears inClair Obscur: Expedition 33Verso Dessendrewas a member of theDessendre FamilyinClair Obscur: Expedition 33.",
+    "role": "Deceased",
     "attributes": {
-      "Gender": "Male"
+      "Status": "Deceased",
+      "Hair Color": "Black",
+      "Eye Color": "Grey",
+      "Species": "Human",
+      "Gender": "Male",
+      "Parents": "Aline Dessendre (mother) Renoir Dessendre (father",
+      "Relatives": "Clea Dessendre (sister) Alicia Dessendre (sister"
     },
-    "source_url": "https://clair-obscur.fandom.com/wiki/Fran%C3%A7ois"
+    "source_url": "https://clair-obscur.fandom.com/wiki/Verso_Dessendre"
   }
 ]

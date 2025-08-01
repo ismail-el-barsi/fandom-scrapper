@@ -1,109 +1,5 @@
 [
   {
-    "name": "City Crest",
-    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/f/fb/City_Crest.png",
-    "description": "Opens the gate between theFungal Wastesand theCity of Tears. TheMantis Clawis required to gain access to this area of the Fungal Wastes.",
-    "role": "Game Character",
-    "attributes": {
-      "Description1": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
-      "Effects1": "Unlocks an entrance to the City of Tears",
-      "Type1": "Key",
-      "Source1": "Reward for defeating False Knight"
-    },
-    "source_url": "https://hollowknight.fandom.com/wiki/City_Crest"
-  },
-  {
-    "name": "Love Key",
-    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/e/ec/Love_Key.png",
-    "description": "Opens the door inside theTower of Lovewherethe Collectorcan be fought.",
-    "role": "Game Character",
-    "attributes": {
-      "Description1": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
-      "Effects1": "Unlocks door of Tower of Love",
-      "Type1": "Key",
-      "Source1": "Found in Queen's Gardens"
-    },
-    "source_url": "https://hollowknight.fandom.com/wiki/Love_Key"
-  },
-  {
-    "name": "Pale Ore",
-    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/e/eb/Pale_Ore.png",
-    "description": "Pale Oreis anIteminHollow Knight.",
-    "role": "Game Character",
-    "attributes": {
-      "Description1": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
-      "Effects1": "Give to Nailsmith to upgrade Nail",
-      "Type1": "Upgrade Material"
-    },
-    "source_url": "https://hollowknight.fandom.com/wiki/Pale_Ore"
-  },
-  {
-    "name": "Hallownest Seal",
-    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/3/38/Hallownest_Seal.png",
-    "description": "Hallownest Sealsare the official symbols of thePale Kingand theFive Great Knights. The seals can be found in various locations throughout the world. It also appears frequently as an aesthetic all over the kingdom ofHallownest. It is loosely formed around the design of aMonarchfly's wingsand is notably the design that the Pale King used to signify his architecture.",
-    "role": "Game Character",
-    "attributes": {
-      "Description1": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
-      "Effects1": "Can be sold to Relic Seeker Lemm",
-      "Type1": "Collectible",
-      "Sell1": "450"
-    },
-    "source_url": "https://hollowknight.fandom.com/wiki/Hallownest_Seal"
-  },
-  {
-    "name": "Elegant Key",
-    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/7/7f/Elegant_Key.png",
-    "description": "Opens the locked door that holds theShade SoulSpellinSoul Sanctum, in theCity of Tears. Inside is aSoul Warriorthat continuously spawnsFollies.",
-    "role": "Game Character",
-    "attributes": {
-      "Description1": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
-      "Effects1": "Unlocks room to Shade Soul",
-      "Type1": "Key",
-      "Source1": "Sold by Sly in Dirtmouth after given Shopkeeper's Key",
-      "Buy1": "800"
-    },
-    "source_url": "https://hollowknight.fandom.com/wiki/Elegant_Key"
-  },
-  {
-    "name": "Hunter's Journal",
-    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/a/a9/Hunters_journal.png",
-    "description": "Defeating a specified number of each enemy unlocks additional notes fromthe Hunterabout that enemy, as well as bits oflore, techniques for fighting said enemy, or even information about the Hunter himself. A few entries can only be obtained by inspecting a specific object or as a reward for completing a challenge.",
-    "role": "Game Character",
-    "attributes": {
-      "Description1": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
-      "Type1": "Quest Item",
-      "Source1": "Given by the Hunter in Greenpath"
-    },
-    "source_url": "https://hollowknight.fandom.com/wiki/Hunter%27s_Journal"
-  },
-  {
-    "name": "Tram Pass",
-    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/6/69/Tram_Pass.png",
-    "description": "Allowsthe Knightto ride theTram. If the Tram is inspected before acquiring the pass, the description reads \"A door with an open slot.\"",
-    "role": "Game Character",
-    "attributes": {
-      "Description1": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
-      "Effects1": "Allows use of Tram fast travel",
-      "Type1": "Key",
-      "Source1": "Found in the Failed Tramway"
-    },
-    "source_url": "https://hollowknight.fandom.com/wiki/Tram_Pass"
-  },
-  {
-    "name": "King's Brand",
-    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/8/8f/Kings_Brand_inventory.png",
-    "description": "Allows access to the door at the bottom of theAncient Basinleading tothe Abyss, which is required to unlock fourendings. Also adds new dialogue forBardoon,Eternal Emilitia,Mask Maker,Steel Soul Jinn,Midwife, and theWhite Lady.",
-    "role": "Game Character",
-    "attributes": {
-      "Description1": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
-      "Effects1": "Allows access to the Abyss Unlocks new interactions with certain NPCs",
-      "Type1": "Key",
-      "Description2": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
-      "Type2": "Key Allows access to the Abyss Unlocks new interactions with certain NPCs"
-    },
-    "source_url": "https://hollowknight.fandom.com/wiki/King%27s_Brand"
-  },
-  {
     "name": "Simple Key",
     "image_url": "https://static.wikia.nocookie.net/hollowknight/images/f/f3/Simple_Key.png",
     "description": "There are 4 locations that can be opened using Simple Keys",
@@ -116,40 +12,19 @@
     "source_url": "https://hollowknight.fandom.com/wiki/Simple_Key"
   },
   {
-    "name": "Map and Quill",
-    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/7/73/Scroll_Map_Feather.png",
-    "description": "TheMap and QuillareItemsinHollow Knight. The map charts the various rooms, passages, and chambers withinHallownest.",
+    "name": "Mask Shard",
+    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/6/69/Mask_Shard.png",
+    "description": "Mask Shards are parts of Ancient Masks. 4 Mask Shards are needed to complete an Ancient Mask, which increases the Knight's health by one.",
     "role": "Game Character",
     "attributes": {
       "Description1": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
-      "Effects1": "Allows map completion",
-      "Source1": "Quill sold by Iselda in Dirtmouth . Map sold by Iselda and Cornifer .",
-      "Buy1": "Map: Varies + Quill: 120",
+      "Effects1": "Increases maximum Masks",
+      "Type1": "Upgrade",
       "Description2": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
-      "Effects2": "Allows map completion",
-      "Source2": "Sold by Iselda in Dirtmouth and by Cornifer",
-      "Buy2": "Varies",
-      "Description3": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
-      "Effects3": "Allows map completion",
-      "Source3": "Sold by Iselda in Dirtmouth and by Cornifer",
-      "Buy3": "Varies",
-      "Description4": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
-      "Source4": "Sold by Iselda in Dirtmouth",
-      "Buy4": "120"
+      "Effects2": "Increases maximum Masks",
+      "Type2": "Upgrade"
     },
-    "source_url": "https://hollowknight.fandom.com/wiki/Map_and_Quill"
-  },
-  {
-    "name": "Collector's Map",
-    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/4/4c/Collectors_map_LB.png",
-    "description": "Marks the location of all 46Grubson any purchased Maps.",
-    "role": "Game Character",
-    "attributes": {
-      "Description1": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
-      "Effects1": "Reveals location of Grubs on the Map.",
-      "Source1": "The Collector"
-    },
-    "source_url": "https://hollowknight.fandom.com/wiki/Collector%27s_Map"
+    "source_url": "https://hollowknight.fandom.com/wiki/Mask_Shard"
   },
   {
     "name": "Salubra's Blessing",
@@ -167,19 +42,6 @@
     "source_url": "https://hollowknight.fandom.com/wiki/Salubra%27s_Blessing"
   },
   {
-    "name": "Shopkeeper's Key",
-    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/a/ab/Shopkeeper%27s_Key.png",
-    "description": "Presenting the key toSlyunlocks more of his wares.",
-    "role": "Game Character",
-    "attributes": {
-      "Description1": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
-      "Effects1": "Unlocks Sly's further stock",
-      "Type1": "Key",
-      "Source1": "Found in Crystal Peak"
-    },
-    "source_url": "https://hollowknight.fandom.com/wiki/Shopkeeper%27s_Key"
-  },
-  {
     "name": "Rancid Egg",
     "image_url": "https://static.wikia.nocookie.net/hollowknight/images/3/3f/Rancid_Egg.png",
     "description": "A collectable item recovered from the corpses ofBluggsacs. Either an already-dead Bluggsac has to be found or a living one has to be killed to make it drop a Rancid Egg. Once a Bluggsac has been killed, it remains dead, even when resting at aBench.",
@@ -195,49 +57,92 @@
     "source_url": "https://hollowknight.fandom.com/wiki/Rancid_Egg"
   },
   {
-    "name": "Delicate Flower",
-    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/7/7e/Delicate_Flower.png",
-    "description": "The flowers originate from outside ofHallownestfrom a place known as \"lands serene\".They were brought to the kingdom by thegreat knightZe'mer, who is now theGrey Mourner.The delicate flowers are rare, sacred objects which have a pure aura.They glow faintly with pale light.",
+    "name": "Elegant Key",
+    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/7/7f/Elegant_Key.png",
+    "description": "Opens the locked door that holds theShade SoulSpellinSoul Sanctum, in theCity of Tears. Inside is aSoul Warriorthat continuously spawnsFollies.",
     "role": "Game Character",
     "attributes": {
       "Description1": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
-      "Effects1": "Deliver to the grave of the Traitors' Child to receive Mask Shard Unlock an additional ending when given to the Godseeker",
+      "Effects1": "Unlocks room to Shade Soul",
+      "Type1": "Key",
+      "Source1": "Sold by Sly in Dirtmouth after given Shopkeeper's Key",
+      "Buy1": "800"
+    },
+    "source_url": "https://hollowknight.fandom.com/wiki/Elegant_Key"
+  },
+  {
+    "name": "Collector's Map",
+    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/4/4c/Collectors_map_LB.png",
+    "description": "Marks the location of all 46Grubson any purchased Maps.",
+    "role": "Game Character",
+    "attributes": {
+      "Description1": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
+      "Effects1": "Reveals location of Grubs on the Map.",
+      "Source1": "The Collector"
+    },
+    "source_url": "https://hollowknight.fandom.com/wiki/Collector%27s_Map"
+  },
+  {
+    "name": "Hunter's Journal",
+    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/a/a9/Hunters_journal.png",
+    "description": "Defeating a specified number of each enemy unlocks additional notes fromthe Hunterabout that enemy, as well as bits oflore, techniques for fighting said enemy, or even information about the Hunter himself. A few entries can only be obtained by inspecting a specific object or as a reward for completing a challenge.",
+    "role": "Game Character",
+    "attributes": {
+      "Description1": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
       "Type1": "Quest Item",
-      "Source1": "Given by Grey Mourner",
-      "Description2": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
-      "Effects2": "Remains in the inventory unless a new Delicate Flower is collected",
-      "Type2": "Quest Item",
-      "Source2": "Obtained upon taking damage, riding the Stagways or using the Dreamgate ."
+      "Source1": "Given by the Hunter in Greenpath"
     },
-    "source_url": "https://hollowknight.fandom.com/wiki/Delicate_Flower"
+    "source_url": "https://hollowknight.fandom.com/wiki/Hunter%27s_Journal"
   },
   {
-    "name": "Vessel Fragment",
-    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/2/29/Vessel_Fragment.png",
-    "description": "Vessel Fragments are parts ofSoul Vessels. 3 Vessel Fragments complete a Soul Vessel and increases the Knight's maximum SOUL by 33. When the main Soul meter has empty space, any SOUL stored in the Vessels will automatically fill up the main meter after a short delay.",
+    "name": "Godtuner",
+    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/c/cb/Beta_hk_promo.png",
+    "description": "InventoryPromptGodtunerUnlitLitZote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because names supposedly have power. Unfortunately, because it is made of shellwood, it cannot deal damage. While he claims to be the strongest warrior in the land, he is found trapped by weak enemies or claiming the glory of another bug's deeds. He regards the Knight as beneath...",
+    "role": "Game Character",
+    "attributes": {
+      "Release Date": "September, 2015 ( Kickstarter backers ) 3 February, 2017 (Humble Monthly) 21 September, 2020 (Public release",
+      "Version": "0.74b"
+    },
+    "source_url": "https://hollowknight.fandom.com/wiki/Godtuner"
+  },
+  {
+    "name": "Love Key",
+    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/e/ec/Love_Key.png",
+    "description": "Opens the door inside theTower of Lovewherethe Collectorcan be fought.",
     "role": "Game Character",
     "attributes": {
       "Description1": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
-      "Effects1": "Increases maximum SOUL",
-      "Type1": "Upgrade",
-      "Description2": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
-      "Effects2": "Increases maximum SOUL",
-      "Type2": "Upgrade"
+      "Effects1": "Unlocks door of Tower of Love",
+      "Type1": "Key",
+      "Source1": "Found in Queen's Gardens"
     },
-    "source_url": "https://hollowknight.fandom.com/wiki/Vessel_Fragment"
+    "source_url": "https://hollowknight.fandom.com/wiki/Love_Key"
   },
   {
-    "name": "King's Idol",
-    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/d/d2/King%27s_Idol.png",
-    "description": "King's Idolsare idols made of a mysterious white material that depict thePale King.They are found in various locations throughoutHallownest. Since the Pale King was rarely seen, worship was offered through these idols.Every idol is subtly different, andRelic Seeker Lemmsuspects that each of them was tailored to the owner.",
+    "name": "Shopkeeper's Key",
+    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/a/ab/Shopkeeper%27s_Key.png",
+    "description": "Presenting the key toSlyunlocks more of his wares.",
     "role": "Game Character",
     "attributes": {
       "Description1": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
-      "Effects1": "Can be sold to Relic Seeker Lemm",
-      "Type1": "Collectible",
-      "Sell1": "800"
+      "Effects1": "Unlocks Sly's further stock",
+      "Type1": "Key",
+      "Source1": "Found in Crystal Peak"
     },
-    "source_url": "https://hollowknight.fandom.com/wiki/King%27s_Idol"
+    "source_url": "https://hollowknight.fandom.com/wiki/Shopkeeper%27s_Key"
+  },
+  {
+    "name": "City Crest",
+    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/f/fb/City_Crest.png",
+    "description": "Opens the gate between theFungal Wastesand theCity of Tears. TheMantis Clawis required to gain access to this area of the Fungal Wastes.",
+    "role": "Game Character",
+    "attributes": {
+      "Description1": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
+      "Effects1": "Unlocks an entrance to the City of Tears",
+      "Type1": "Key",
+      "Source1": "Reward for defeating False Knight"
+    },
+    "source_url": "https://hollowknight.fandom.com/wiki/City_Crest"
   },
   {
     "name": "Arcane Egg",
@@ -266,6 +171,60 @@
     "source_url": "https://hollowknight.fandom.com/wiki/Lumafly_Lantern"
   },
   {
+    "name": "Vessel Fragment",
+    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/2/29/Vessel_Fragment.png",
+    "description": "Vessel Fragments are parts ofSoul Vessels. 3 Vessel Fragments complete a Soul Vessel and increases the Knight's maximum SOUL by 33. When the main Soul meter has empty space, any SOUL stored in the Vessels will automatically fill up the main meter after a short delay.",
+    "role": "Game Character",
+    "attributes": {
+      "Description1": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
+      "Effects1": "Increases maximum SOUL",
+      "Type1": "Upgrade",
+      "Description2": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
+      "Effects2": "Increases maximum SOUL",
+      "Type2": "Upgrade"
+    },
+    "source_url": "https://hollowknight.fandom.com/wiki/Vessel_Fragment"
+  },
+  {
+    "name": "King's Brand",
+    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/8/8f/Kings_Brand_inventory.png",
+    "description": "Allows access to the door at the bottom of theAncient Basinleading tothe Abyss, which is required to unlock fourendings. Also adds new dialogue forBardoon,Eternal Emilitia,Mask Maker,Steel Soul Jinn,Midwife, and theWhite Lady.",
+    "role": "Game Character",
+    "attributes": {
+      "Description1": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
+      "Effects1": "Allows access to the Abyss Unlocks new interactions with certain NPCs",
+      "Type1": "Key",
+      "Description2": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
+      "Type2": "Key Allows access to the Abyss Unlocks new interactions with certain NPCs"
+    },
+    "source_url": "https://hollowknight.fandom.com/wiki/King%27s_Brand"
+  },
+  {
+    "name": "Pale Ore",
+    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/e/eb/Pale_Ore.png",
+    "description": "Pale Oreis anIteminHollow Knight.",
+    "role": "Game Character",
+    "attributes": {
+      "Description1": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
+      "Effects1": "Give to Nailsmith to upgrade Nail",
+      "Type1": "Upgrade Material"
+    },
+    "source_url": "https://hollowknight.fandom.com/wiki/Pale_Ore"
+  },
+  {
+    "name": "Hallownest Seal",
+    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/3/38/Hallownest_Seal.png",
+    "description": "Hallownest Sealsare the official symbols of thePale Kingand theFive Great Knights. The seals can be found in various locations throughout the world. It also appears frequently as an aesthetic all over the kingdom ofHallownest. It is loosely formed around the design of aMonarchfly's wingsand is notably the design that the Pale King used to signify his architecture.",
+    "role": "Game Character",
+    "attributes": {
+      "Description1": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
+      "Effects1": "Can be sold to Relic Seeker Lemm",
+      "Type1": "Collectible",
+      "Sell1": "450"
+    },
+    "source_url": "https://hollowknight.fandom.com/wiki/Hallownest_Seal"
+  },
+  {
     "name": "Hunter's Mark",
     "image_url": "https://static.wikia.nocookie.net/hollowknight/images/c/ce/Hunters_Mark.png",
     "description": "Granted by listening tothe Hunterafter completing most of the entries in the Hunter's Journal. This requires defeating enough of each enemy to unlock the additional notes. For a full list of entries, seeHunter's Journal.",
@@ -277,15 +236,34 @@
     "source_url": "https://hollowknight.fandom.com/wiki/Hunter%27s_Mark"
   },
   {
-    "name": "Godtuner",
-    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/c/cb/Beta_hk_promo.png",
-    "description": "InventoryPromptGodtunerUnlitLitZote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because names supposedly have power. Unfortunately, because it is made of shellwood, it cannot deal damage. While he claims to be the strongest warrior in the land, he is found trapped by weak enemies or claiming the glory of another bug's deeds. He regards the Knight as beneath...",
+    "name": "King's Idol",
+    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/d/d2/King%27s_Idol.png",
+    "description": "King's Idolsare idols made of a mysterious white material that depict thePale King.They are found in various locations throughoutHallownest. Since the Pale King was rarely seen, worship was offered through these idols.Every idol is subtly different, andRelic Seeker Lemmsuspects that each of them was tailored to the owner.",
     "role": "Game Character",
     "attributes": {
-      "Release Date": "September, 2015 ( Kickstarter backers ) 3 February, 2017 (Humble Monthly) 21 September, 2020 (Public release",
-      "Version": "0.74b"
+      "Description1": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
+      "Effects1": "Can be sold to Relic Seeker Lemm",
+      "Type1": "Collectible",
+      "Sell1": "800"
     },
-    "source_url": "https://hollowknight.fandom.com/wiki/Godtuner"
+    "source_url": "https://hollowknight.fandom.com/wiki/King%27s_Idol"
+  },
+  {
+    "name": "Delicate Flower",
+    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/7/7e/Delicate_Flower.png",
+    "description": "The flowers originate from outside ofHallownestfrom a place known as \"lands serene\".They were brought to the kingdom by thegreat knightZe'mer, who is now theGrey Mourner.The delicate flowers are rare, sacred objects which have a pure aura.They glow faintly with pale light.",
+    "role": "Game Character",
+    "attributes": {
+      "Description1": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
+      "Effects1": "Deliver to the grave of the Traitors' Child to receive Mask Shard Unlock an additional ending when given to the Godseeker",
+      "Type1": "Quest Item",
+      "Source1": "Given by Grey Mourner",
+      "Description2": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
+      "Effects2": "Remains in the inventory unless a new Delicate Flower is collected",
+      "Type2": "Quest Item",
+      "Source2": "Obtained upon taking damage, riding the Stagways or using the Dreamgate ."
+    },
+    "source_url": "https://hollowknight.fandom.com/wiki/Delicate_Flower"
   },
   {
     "name": "Wanderer's Journal",
@@ -301,18 +279,40 @@
     "source_url": "https://hollowknight.fandom.com/wiki/Wanderer%27s_Journal"
   },
   {
-    "name": "Mask Shard",
-    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/6/69/Mask_Shard.png",
-    "description": "Mask Shards are parts of Ancient Masks. 4 Mask Shards are needed to complete an Ancient Mask, which increases the Knight's health by one.",
+    "name": "Tram Pass",
+    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/6/69/Tram_Pass.png",
+    "description": "Allowsthe Knightto ride theTram. If the Tram is inspected before acquiring the pass, the description reads \"A door with an open slot.\"",
     "role": "Game Character",
     "attributes": {
       "Description1": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
-      "Effects1": "Increases maximum Masks",
-      "Type1": "Upgrade",
-      "Description2": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
-      "Effects2": "Increases maximum Masks",
-      "Type2": "Upgrade"
+      "Effects1": "Allows use of Tram fast travel",
+      "Type1": "Key",
+      "Source1": "Found in the Failed Tramway"
     },
-    "source_url": "https://hollowknight.fandom.com/wiki/Mask_Shard"
+    "source_url": "https://hollowknight.fandom.com/wiki/Tram_Pass"
+  },
+  {
+    "name": "Map and Quill",
+    "image_url": "https://static.wikia.nocookie.net/hollowknight/images/7/73/Scroll_Map_Feather.png",
+    "description": "TheMap and QuillareItemsinHollow Knight. The map charts the various rooms, passages, and chambers withinHallownest.",
+    "role": "Game Character",
+    "attributes": {
+      "Description1": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
+      "Effects1": "Allows map completion",
+      "Source1": "Quill sold by Iselda in Dirtmouth . Map sold by Iselda and Cornifer .",
+      "Buy1": "Map: Varies + Quill: 120",
+      "Description2": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
+      "Effects2": "Allows map completion",
+      "Source2": "Sold by Iselda in Dirtmouth and by Cornifer",
+      "Buy2": "Varies",
+      "Description3": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
+      "Effects3": "Allows map completion",
+      "Source3": "Sold by Iselda in Dirtmouth and by Cornifer",
+      "Buy3": "Varies",
+      "Description4": "Zote is a traveller from outside Hallownest who came to the Kingdom to fulfill a promise. This is ultimately revealed to be a promise of glory for himself. He named his nail \"Life Ender\" because na...",
+      "Source4": "Sold by Iselda in Dirtmouth",
+      "Buy4": "120"
+    },
+    "source_url": "https://hollowknight.fandom.com/wiki/Map_and_Quill"
   }
 ]

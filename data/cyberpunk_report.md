@@ -1,6 +1,6 @@
 # Rapport de Scraping pour : cyberpunk
 - **Statut :** ✅ SUCCÈS - 29 fiches valides (minimum requis: 10)
-- **Temps total :** 33.85s
+- **Temps total :** 31.18s
 - **Catégories testées :** 1 (Catégorie principale)
 - **Catégorie utilisée :** Catégorie principale
 - **Liens trouvés :** 29

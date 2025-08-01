@@ -1,5 +1,57 @@
 [
   {
+    "name": "Human Spider",
+    "image_url": "https://static.wikia.nocookie.net/dune/images/2/22/Human_Spider.jpg",
+    "description": "The creature was kept onGiedi PrimebyBaronVladimir Harkonnen. It was eating food whenReverend MotherGaius Helen Mohiamarrived to meet with the Baron. She toldPiter de Vriesthat the creature must leave. Piter told her that she could speak without fear, for the creature did not understand their language. She ordered it to get out usingthe Voice, which compelled it to leave the room.",
+    "role": "Anime Character",
+    "attributes": {
+      "House": "House Harkonnen",
+      "Loyalty": "Baron Vladimir Harkonnen"
+    },
+    "source_url": "https://dune.fandom.com/wiki/Human_Spider"
+  },
+  {
+    "name": "Duncan Idaho",
+    "image_url": "https://static.wikia.nocookie.net/dune/images/f/f7/DuneDuncanTextlessPoster.jpeg",
+    "description": "Duncan IdahoPolitical InformationTitlesSwordsmasterTenure[?] -10191 AGGreat HouseHouse AtreidesAffiliation and RelationshipsLoyaltyHouse AtreidesBiographical InformationDied10191 AGMilitary InformationBattles/WarsSiege of ArrakeenPhysical CharacteristicsEyesGreenHairMedium BrownHeight6 ft 4 inches (193 cm)Behind the ScenesFirst appearancePortrayed byDune(2021)Jason MomoaDuncan Idahowas theswordsmasterin service ofDuke Letoofthe House Atreides, and the trainer of the Duke's son,Paulin combat. ...",
+    "role": "Swordsmaster",
+    "attributes": {
+      "Tenure": "?] - 10191 AG",
+      "Death": "10191 AG",
+      "Eyes": "Green"
+    },
+    "source_url": "https://dune.fandom.com/wiki/Duncan_Idaho/2021_film"
+  },
+  {
+    "name": "Gurney Halleck",
+    "image_url": "https://static.wikia.nocookie.net/dune/images/b/ba/DunePartIIGurneyTextlessPoster.jpeg",
+    "description": "Gurney HalleckPart TwoPart OnePolitical InformationTitlesWarmasterofHouse AtreidesGreat HouseHouse AtreidesAffiliation and RelationshipsLoyaltyHouse AtreidesMilitary InformationWeaponsKnifePhysical CharacteristicsEyesLight BrownHairDark BrownHeight5ft 9 ½ inches (178 cm)Behind the ScenesFirst appearanceLast appearancePortrayed byDune(2021)DunePart Two(2024)Josh BrolinGurney Halleckwas theWarmasterin service ofHouse Atreides. He trained theDukeLeto's sonPauland accompanied the Atreides toArrak...",
+    "role": "Warmaster of House Atreides",
+    "attributes": {
+      "Image": "Part Two",
+      "Title": "Warmaster of House Atreides",
+      "Weapons": "Knife",
+      "Hair": "Dark Brown"
+    },
+    "source_url": "https://dune.fandom.com/wiki/Gurney_Halleck/2021_film"
+  },
+  {
+    "name": "Jessica Atreides",
+    "image_url": "https://static.wikia.nocookie.net/dune/images/a/a0/DunePartIIJessicaTextlessPoster.jpeg",
+    "description": "Jessica of the AtreidesPart TwoPart OnePolitical InformationTitlesLadyReverend MotherPredecessorRamalloGreat HouseHouse AtreidesAffiliation and RelationshipsFamily membersVladmir Harkonnen(father)Paul Atreides(son)Alia Atreides(daughter)Feyd-Rautha Harkonnen(cousin)Rabban Harkonnen(cousin)RomancesLeto AtreidesBiographical InformationEducationBene GesseritMilitary InformationWeaponsCrysknifeBattles/WarsDesert WarPhysical CharacteristicsEyesAzureHairDark-auburnHeight5 ft 5 inches (165 cm)Behind...",
+    "role": "Lady Reverend Mother",
+    "attributes": {
+      "Image": "Part Two",
+      "Title": "Lady Reverend Mother",
+      "Predecessor": "Ramallo",
+      "Family": "Vladmir Harkonnen (father) Paul Atreides (son) Alia Atreides (daughter) Feyd-Rautha Harkonnen (cousin) Rabban Harkonnen (cousin",
+      "Weapons": "Crysknife",
+      "Wars": "Desert War",
+      "Eyes": "Azure"
+    },
+    "source_url": "https://dune.fandom.com/wiki/Jessica_Atreides/2021_film"
+  },
+  {
     "name": "Jamis",
     "image_url": "https://static.wikia.nocookie.net/dune/images/c/c5/Actually_Jamis.jpg",
     "description": "JamisAffiliation and RelationshipsLoyaltyFremenBiographical InformationDied10191 AGPlace of deathArrakisMilitary InformationWeaponsCrysknifeBattles/WarsAmtalduelwithPaul AtreidesPhysical CharacteristicsEyesBlue-within-blueHairBlackBehind the ScenesFirst appearanceLast appearancePortrayed byDune: Part Two(2024)Dune: Part Two(2024)Babs Olusanmokun",
@@ -31,66 +83,34 @@
     "source_url": "https://dune.fandom.com/wiki/Piter_de_Vries/2021_film"
   },
   {
-    "name": "Czigo",
-    "image_url": "https://static.wikia.nocookie.net/dune/images/3/3e/Czigo_2021.jpg",
-    "description": "CzigoPolitical InformationGreat HouseHouse HarkonnenAffiliation and RelationshipsLoyaltyHouse HarkonnenBiographical InformationDied10191 AGPlace of deathArrakisMilitary InformationBattles/WarsDesert WarSiege of ArrakeenPhysical CharacteristicsEyesGreyHairBaldHeight6 ft 2 inches (188 cm)Behind the ScenesFirst appearancePortrayed byDune(2021)Charlie RawesCzigo[d.10191 AG] was a soldier in the service of theHouse Harkonnen. Czigo andKinetwere tasked with disposing ofPaulandJessica Atreides, but ...",
+    "name": "Kinet",
+    "image_url": "https://static.wikia.nocookie.net/dune/images/c/c8/Kinet_2021.jpg",
+    "description": "KinetPolitical InformationGreat HouseHouse HarkonnenAffiliation and RelationshipsLoyaltyHouse HarkonnenBiographical InformationDied10191 AGPlace of deathArrakisMilitary InformationBattles/WarsDesert WarSiege of ArrakeenPhysical CharacteristicsEyesBrownHairBaldBehind the ScenesFirst appearancePortrayed byDune(2021)Stephen CollinsKinet[d.10191 AG] was a soldier in the service ofHouse Harkonnen. He was a deaf man, tasked with disposing ofPaulandJessica Atreidesbut was killed when Jessica usedthe...",
     "role": "Anime Character",
     "attributes": {
       "Death": "10191 AG",
       "Deathplace": "Arrakis",
       "Wars": "Desert War Siege of Arrakeen",
-      "Eyes": "Grey",
+      "Eyes": "Brown",
       "Hair": "Bald"
     },
-    "source_url": "https://dune.fandom.com/wiki/Czigo/2021_film"
+    "source_url": "https://dune.fandom.com/wiki/Kinet/2021_film"
   },
   {
-    "name": "Wellington Yueh",
-    "image_url": "https://static.wikia.nocookie.net/dune/images/4/40/DuneYuehTextlessPoster.jpeg",
-    "description": "Wellington YuehPolitical InformationTitlesSuk DoctorTenure[?] -10191 AGGreat HouseHouse AtreidesAffiliation and RelationshipsRomancesWanna†Biographical InformationEducationSuk DoctortrainingDied10191 AGMilitary InformationWeaponsDartPhysical CharacteristicsEyesBlackHairBlackHeight5 ft 9 ½ inches (178 cm)Behind the ScenesFirst appearancePortrayed byDune(2021 film)Chang ChenWellington Yuehwas theSuk DoctorofHouse Atreides. Yueh's wife Wanna was a captive of the Atreides' enemy, theHouse Harkonn...",
-    "role": "Suk Doctor",
+    "name": "Leto Atreides",
+    "image_url": "https://static.wikia.nocookie.net/dune/images/3/3a/DuneLetoTextlessPoster.jpeg",
+    "description": "Leto AtreidesPolitical InformationTitlesDukeofCaladanSteward ofArrakisGreat HouseHouse AtreidesAffiliation and RelationshipsFamily membersUnnamed father†Paul Atreides(son)Alia Atreides(daughter)RomancesJessica Atreides(concubine)Biographical InformationPlace of birthCaladanDied10191 AGPlace of deathArrakeen governor's palace,Arrakeen,ArrakisMilitary InformationCommandsAtreides MilitaryBattles/WarsSiege of ArrakeenPhysical CharacteristicsEyesBrownHairBlack & grayingHeight5 ft 9 inches (174 cm)...",
+    "role": "Duke of Caladan Steward of Arrakis",
     "attributes": {
-      "Title": "Suk Doctor",
-      "Tenure": "?] - 10191 AG",
-      "Romances": "Wanna †",
-      "Education": "Suk Doctor training",
+      "Title": "Duke of Caladan Steward of Arrakis",
+      "Family": "Unnamed father † Paul Atreides (son) Alia Atreides (daughter",
+      "Romances": "Jessica Atreides (concubine",
+      "Birthplace": "Caladan",
       "Death": "10191 AG",
-      "Weapons": "Dart",
-      "Eyes": "Black",
-      "Hair": "Black"
+      "Deathplace": "Arrakeen governor's palace , Arrakeen , Arrakis",
+      "Eyes": "Brown"
     },
-    "source_url": "https://dune.fandom.com/wiki/Wellington_Yueh/2021_film"
-  },
-  {
-    "name": "Lanville",
-    "image_url": "https://static.wikia.nocookie.net/dune/images/2/24/FYWkC_OXkAENprU.jpg",
-    "description": "LanvillePolitical InformationTitlesLieutenantTenure[?] -10191 AGGreat HouseHouse AtreidesBiographical InformationDied10191 AGPlace of deathGiedi PrimeMilitary InformationWeaponsSwordBattles/WarsDesert WarSiege of ArrakeenBehind the ScenesFirst appearanceLast appearancePortrayed byDune(2021)DunePart Two(2024)Roger YuanLieutenantLanville(d.10191 AG) was aHouse Atreidesmilitary officer who served as the Atreides Warmaster,Gurney Halleck's, second-in-command during the final years of theCorrino E...",
-    "role": "Lieutenant",
-    "attributes": {
-      "Title": "Lieutenant",
-      "Tenure": "?] - 10191 AG",
-      "Death": "10191 AG",
-      "Weapons": "Sword",
-      "Wars": "Desert War Siege of Arrakeen"
-    },
-    "source_url": "https://dune.fandom.com/wiki/Lanville"
-  },
-  {
-    "name": "Chani",
-    "image_url": "https://static.wikia.nocookie.net/dune/images/e/e7/DunePartIIChaniTextlessPoster.jpeg",
-    "description": "ChaniPart TwoPart OneAffiliation and RelationshipsLoyaltyFremenFedaykinFamily membersLeto Atreides II(son)Ghanima Atreides(daughter)RomancesPaul AtreidesBiographical InformationPlace of birthArrakisMilitary InformationWeaponsCrysknifeBranch/serviceFedaykinBattles/WarsDesert WarBattle of ArrakeenPhysical CharacteristicsEyesBlue-within-blueHairDark-brownHeight5 ft 10 inches (178 cm)Behind the ScenesFirst appearanceLast appearancePortrayed byDune(2021)DunePart Two(2024)Zendaya",
-    "role": "Anime Character",
-    "attributes": {
-      "Image": "Part Two",
-      "Loyalty": "Fremen Fedaykin",
-      "Family": "Leto Atreides II (son) Ghanima Atreides (daughter",
-      "Birthplace": "Arrakis",
-      "Weapons": "Crysknife",
-      "Branch": "Fedaykin",
-      "Wars": "Desert War Battle of Arrakeen",
-      "Hair": "Dark-brown"
-    },
-    "source_url": "https://dune.fandom.com/wiki/Chani_Kynes/2021_film"
+    "source_url": "https://dune.fandom.com/wiki/Leto_Atreides_I/2021_film"
   },
   {
     "name": "Liet-Kynes",
@@ -108,29 +128,19 @@
     "source_url": "https://dune.fandom.com/wiki/Liet-Kynes/2021_film"
   },
   {
-    "name": "Human Spider",
-    "image_url": "https://static.wikia.nocookie.net/dune/images/2/22/Human_Spider.jpg",
-    "description": "The creature was kept onGiedi PrimebyBaronVladimir Harkonnen. It was eating food whenReverend MotherGaius Helen Mohiamarrived to meet with the Baron. She toldPiter de Vriesthat the creature must leave. Piter told her that she could speak without fear, for the creature did not understand their language. She ordered it to get out usingthe Voice, which compelled it to leave the room.",
-    "role": "Anime Character",
-    "attributes": {
-      "House": "House Harkonnen",
-      "Loyalty": "Baron Vladimir Harkonnen"
-    },
-    "source_url": "https://dune.fandom.com/wiki/Human_Spider"
-  },
-  {
-    "name": "Tanat",
-    "image_url": "https://static.wikia.nocookie.net/dune/images/2/26/Tanat.jpg",
-    "description": "Tanat is stationed at an ecological testing station alongsideShamir. Upon her arrival at the station withPaul Atreides,LadyJessicaandDuncan Idaho, Dr.Liet Kynesorders him tostillsuitsfor them to wear.",
-    "role": "Anime Character",
+    "name": "Mapes",
+    "image_url": "https://static.wikia.nocookie.net/dune/images/a/aa/Mapes_2021.jpg",
+    "description": "MapesPolitical InformationTitlesHousekeeperAffiliation and RelationshipsLoyaltyFremenBiographical InformationDied10191 AGPlace of deathArrakeen,ArrakisMilitary InformationWeaponsCrysknifeBattles/WarsDesert WarSiege of ArrakeenPhysical CharacteristicsEyesBlue-within-blueHairBlackBehind the ScenesFirst appearanceLast appearancePortrayed byDune(2021)Dune(2021)Golda Rosheuvel",
+    "role": "Housekeeper",
     "attributes": {
       "Loyalty": "Fremen",
-      "Birthplace": "Arrakis",
-      "Eyes": "Blue-within-blue",
-      "Hair": "Black",
-      "Height": "5 feet 9 inches (175.26 cm"
+      "Death": "10191 AG",
+      "Deathplace": "Arrakeen , Arrakis",
+      "Weapons": "Crysknife",
+      "Wars": "Desert War Siege of Arrakeen",
+      "Hair": "Black"
     },
-    "source_url": "https://dune.fandom.com/wiki/Tanat"
+    "source_url": "https://dune.fandom.com/wiki/Mapes/2021_film"
   },
   {
     "name": "Vladimir Harkonnen",
@@ -151,107 +161,65 @@
     "source_url": "https://dune.fandom.com/wiki/Vladimir_Harkonnen/2021_film"
   },
   {
-    "name": "Duncan Idaho",
-    "image_url": "https://static.wikia.nocookie.net/dune/images/f/f7/DuneDuncanTextlessPoster.jpeg",
-    "description": "Duncan IdahoPolitical InformationTitlesSwordsmasterTenure[?] -10191 AGGreat HouseHouse AtreidesAffiliation and RelationshipsLoyaltyHouse AtreidesBiographical InformationDied10191 AGMilitary InformationBattles/WarsSiege of ArrakeenPhysical CharacteristicsEyesGreenHairMedium BrownHeight6 ft 4 inches (193 cm)Behind the ScenesFirst appearancePortrayed byDune(2021)Jason MomoaDuncan Idahowas theswordsmasterin service ofDuke Letoofthe House Atreides, and the trainer of the Duke's son,Paulin combat. ...",
-    "role": "Swordsmaster",
+    "name": "Wellington Yueh",
+    "image_url": "https://static.wikia.nocookie.net/dune/images/4/40/DuneYuehTextlessPoster.jpeg",
+    "description": "Wellington YuehPolitical InformationTitlesSuk DoctorTenure[?] -10191 AGGreat HouseHouse AtreidesAffiliation and RelationshipsRomancesWanna†Biographical InformationEducationSuk DoctortrainingDied10191 AGMilitary InformationWeaponsDartPhysical CharacteristicsEyesBlackHairBlackHeight5 ft 9 ½ inches (178 cm)Behind the ScenesFirst appearancePortrayed byDune(2021 film)Chang ChenWellington Yuehwas theSuk DoctorofHouse Atreides. Yueh's wife Wanna was a captive of the Atreides' enemy, theHouse Harkonn...",
+    "role": "Suk Doctor",
     "attributes": {
+      "Title": "Suk Doctor",
       "Tenure": "?] - 10191 AG",
+      "Romances": "Wanna †",
+      "Education": "Suk Doctor training",
       "Death": "10191 AG",
-      "Eyes": "Green"
-    },
-    "source_url": "https://dune.fandom.com/wiki/Duncan_Idaho/2021_film"
-  },
-  {
-    "name": "Jessica Atreides",
-    "image_url": "https://static.wikia.nocookie.net/dune/images/a/a0/DunePartIIJessicaTextlessPoster.jpeg",
-    "description": "Jessica of the AtreidesPart TwoPart OnePolitical InformationTitlesLadyReverend MotherPredecessorRamalloGreat HouseHouse AtreidesAffiliation and RelationshipsFamily membersVladmir Harkonnen(father)Paul Atreides(son)Alia Atreides(daughter)Feyd-Rautha Harkonnen(cousin)Rabban Harkonnen(cousin)RomancesLeto AtreidesBiographical InformationEducationBene GesseritMilitary InformationWeaponsCrysknifeBattles/WarsDesert WarPhysical CharacteristicsEyesAzureHairDark-auburnHeight5 ft 5 inches (165 cm)Behind...",
-    "role": "Lady Reverend Mother",
-    "attributes": {
-      "Image": "Part Two",
-      "Title": "Lady Reverend Mother",
-      "Predecessor": "Ramallo",
-      "Family": "Vladmir Harkonnen (father) Paul Atreides (son) Alia Atreides (daughter) Feyd-Rautha Harkonnen (cousin) Rabban Harkonnen (cousin",
-      "Weapons": "Crysknife",
-      "Wars": "Desert War",
-      "Eyes": "Azure"
-    },
-    "source_url": "https://dune.fandom.com/wiki/Jessica_Atreides/2021_film"
-  },
-  {
-    "name": "Leto Atreides",
-    "image_url": "https://static.wikia.nocookie.net/dune/images/3/3a/DuneLetoTextlessPoster.jpeg",
-    "description": "Leto AtreidesPolitical InformationTitlesDukeofCaladanSteward ofArrakisGreat HouseHouse AtreidesAffiliation and RelationshipsFamily membersUnnamed father†Paul Atreides(son)Alia Atreides(daughter)RomancesJessica Atreides(concubine)Biographical InformationPlace of birthCaladanDied10191 AGPlace of deathArrakeen governor's palace,Arrakeen,ArrakisMilitary InformationCommandsAtreides MilitaryBattles/WarsSiege of ArrakeenPhysical CharacteristicsEyesBrownHairBlack & grayingHeight5 ft 9 inches (174 cm)...",
-    "role": "Duke of Caladan Steward of Arrakis",
-    "attributes": {
-      "Title": "Duke of Caladan Steward of Arrakis",
-      "Family": "Unnamed father † Paul Atreides (son) Alia Atreides (daughter",
-      "Romances": "Jessica Atreides (concubine",
-      "Birthplace": "Caladan",
-      "Death": "10191 AG",
-      "Deathplace": "Arrakeen governor's palace , Arrakeen , Arrakis",
-      "Eyes": "Brown"
-    },
-    "source_url": "https://dune.fandom.com/wiki/Leto_Atreides_I/2021_film"
-  },
-  {
-    "name": "Stilgar",
-    "image_url": "https://static.wikia.nocookie.net/dune/images/b/b8/DuneIIStilgarTextlessPoster.jpeg",
-    "description": "StilgarPart TwoPart OnePolitical InformationTitlesNaibofSietch TabrAffiliation and RelationshipsLoyaltyFremenPaul AtreidesMilitary InformationWeaponsCrysknifeBattles/WarsDesert WarBattle of ArrakeenPhysical CharacteristicsEyesBlue-within-blueHairDarkHeight5 ft 11¼ inches (181 cm)Behind the ScenesFirst appearanceLast appearancePortrayed byDune(2021)DunePart Two(2024)Javier Bardem",
-    "role": "Naib of Sietch Tabr",
-    "attributes": {
-      "Image": "Part Two",
-      "Title": "Naib of Sietch Tabr",
-      "Loyalty": "Fremen Paul Atreides",
-      "Weapons": "Crysknife",
-      "Wars": "Desert War Battle of Arrakeen",
-      "Hair": "Dark"
-    },
-    "source_url": "https://dune.fandom.com/wiki/Stilgar/2021_film"
-  },
-  {
-    "name": "Herald of the Change",
-    "image_url": "https://static.wikia.nocookie.net/dune/images/2/2b/Herald_of_the_Change.jpg",
-    "description": "Political InformationGreat HouseHouse CorrinoAffiliation and RelationshipsLoyaltyCorrino EmpireHouse CorrinoPhysical CharacteristicsEyesBrownHairBlackHeight6' 4 inches (193 cm)Behind the ScenesFirst appearancePortrayed byDune<(2021)Benjamin Clementine",
-    "role": "Anime Character",
-    "attributes": {
-      "Loyalty": "Corrino Empire House Corrino",
-      "Eyes": "Brown",
+      "Weapons": "Dart",
+      "Eyes": "Black",
       "Hair": "Black"
     },
-    "source_url": "https://dune.fandom.com/wiki/Herald_of_the_Change"
+    "source_url": "https://dune.fandom.com/wiki/Wellington_Yueh/2021_film"
   },
   {
-    "name": "Rabban Harkonnen",
-    "image_url": "https://static.wikia.nocookie.net/dune/images/c/cf/DunePartIIRabbanTextlessPoster.jpeg",
-    "description": "Rabban HarkonnenPart TwoPart OneAliasesBeastPolitical InformationTitlesLordPlanetary GovernorGreat HouseHouse HarkonnenAffiliation and RelationshipsFamily membersEvgeny Harkonnen(ancestor)Vergyl Harkonnen(ancestor)Sonya Harkonnen(ancestor)Valya Harkonnen(ancestor)Tula Harkonnen(ancestor)Desmond Hart(ancestor)Harrow Harkonnen(ancestor)Unnamed motherVladmir Harkonnen(uncle)Jessica Atreides(cousin)Paul Atreides(first cousin-once removed)Alia Atreides(first cousin-once removed)Feyd-Rautha Harkonn...",
-    "role": "Lord Planetary Governor",
+    "name": "Chani",
+    "image_url": "https://static.wikia.nocookie.net/dune/images/e/e7/DunePartIIChaniTextlessPoster.jpeg",
+    "description": "ChaniPart TwoPart OneAffiliation and RelationshipsLoyaltyFremenFedaykinFamily membersLeto Atreides II(son)Ghanima Atreides(daughter)RomancesPaul AtreidesBiographical InformationPlace of birthArrakisMilitary InformationWeaponsCrysknifeBranch/serviceFedaykinBattles/WarsDesert WarBattle of ArrakeenPhysical CharacteristicsEyesBlue-within-blueHairDark-brownHeight5 ft 10 inches (178 cm)Behind the ScenesFirst appearanceLast appearancePortrayed byDune(2021)DunePart Two(2024)Zendaya",
+    "role": "Anime Character",
     "attributes": {
       "Image": "Part Two",
-      "Alias": "Beast",
-      "Title": "Lord Planetary Governor",
-      "Family": "Evgeny Harkonnen (ancestor) Vergyl Harkonnen (ancestor) Sonya Harkonnen (ancestor) Valya Harkonnen (ancestor) Tula Harkonnen (ancestor) Desmond Hart (ancestor) Harrow Harkonnen (ancestor) Unnamed m...",
+      "Loyalty": "Fremen Fedaykin",
+      "Family": "Leto Atreides II (son) Ghanima Atreides (daughter",
+      "Birthplace": "Arrakis",
+      "Weapons": "Crysknife",
+      "Branch": "Fedaykin",
+      "Wars": "Desert War Battle of Arrakeen",
+      "Hair": "Dark-brown"
+    },
+    "source_url": "https://dune.fandom.com/wiki/Chani_Kynes/2021_film"
+  },
+  {
+    "name": "Gaius Helen Mohiam",
+    "image_url": "https://static.wikia.nocookie.net/dune/images/7/73/MohiamTextless.jpeg",
+    "description": "Gaius Helen MohiamPolitical InformationTitlesReverend MotherTruthsayerGreat HouseHouse CorrinoAffiliation and RelationshipsLoyaltyBene GesseritHouse CorrinoBiographical InformationEducationBene Gesserit TrainingPhysical CharacteristicsEyesValeHairGrayHeight5 ft 6 inches (170 cm)Behind the ScenesFirst appearanceLast appearancePortrayed byDune(2021)DunePart Two(2024)Charlotte RamplingReverend MotherGaius Helen Mohiamwas aBene GesseritReverend Mother who came toCaladanto testPaul Atreidesbefore ...",
+    "role": "Reverend Mother Truthsayer",
+    "attributes": {
+      "Title": "Reverend Mother Truthsayer",
+      "Loyalty": "Bene Gesserit House Corrino",
+      "Eyes": "Vale",
+      "Hair": "Gray"
+    },
+    "source_url": "https://dune.fandom.com/wiki/Gaius_Helen_Mohiam/2021_film"
+  },
+  {
+    "name": "Czigo",
+    "image_url": "https://static.wikia.nocookie.net/dune/images/3/3e/Czigo_2021.jpg",
+    "description": "CzigoPolitical InformationGreat HouseHouse HarkonnenAffiliation and RelationshipsLoyaltyHouse HarkonnenBiographical InformationDied10191 AGPlace of deathArrakisMilitary InformationBattles/WarsDesert WarSiege of ArrakeenPhysical CharacteristicsEyesGreyHairBaldHeight6 ft 2 inches (188 cm)Behind the ScenesFirst appearancePortrayed byDune(2021)Charlie RawesCzigo[d.10191 AG] was a soldier in the service of theHouse Harkonnen. Czigo andKinetwere tasked with disposing ofPaulandJessica Atreides, but ...",
+    "role": "Anime Character",
+    "attributes": {
       "Death": "10191 AG",
-      "Deathplace": "Arrakeen , Arrakis",
-      "Weapons": "Sword",
-      "Eyes": "Teal",
-      "Hair": "Bald",
-      "Height": "6 ft 6 inches (198 cm"
+      "Deathplace": "Arrakis",
+      "Wars": "Desert War Siege of Arrakeen",
+      "Eyes": "Grey",
+      "Hair": "Bald"
     },
-    "source_url": "https://dune.fandom.com/wiki/Glossu_Rabban/2021_film"
-  },
-  {
-    "name": "Gurney Halleck",
-    "image_url": "https://static.wikia.nocookie.net/dune/images/b/ba/DunePartIIGurneyTextlessPoster.jpeg",
-    "description": "Gurney HalleckPart TwoPart OnePolitical InformationTitlesWarmasterofHouse AtreidesGreat HouseHouse AtreidesAffiliation and RelationshipsLoyaltyHouse AtreidesMilitary InformationWeaponsKnifePhysical CharacteristicsEyesLight BrownHairDark BrownHeight5ft 9 ½ inches (178 cm)Behind the ScenesFirst appearanceLast appearancePortrayed byDune(2021)DunePart Two(2024)Josh BrolinGurney Halleckwas theWarmasterin service ofHouse Atreides. He trained theDukeLeto's sonPauland accompanied the Atreides toArrak...",
-    "role": "Warmaster of House Atreides",
-    "attributes": {
-      "Image": "Part Two",
-      "Title": "Warmaster of House Atreides",
-      "Weapons": "Knife",
-      "Hair": "Dark Brown"
-    },
-    "source_url": "https://dune.fandom.com/wiki/Gurney_Halleck/2021_film"
+    "source_url": "https://dune.fandom.com/wiki/Czigo/2021_film"
   },
   {
     "name": "Paul Atreides",
@@ -277,6 +245,37 @@
       "Height": "5 ft 10 inches (178 cm"
     },
     "source_url": "https://dune.fandom.com/wiki/Paul_Atreides/2021_film"
+  },
+  {
+    "name": "Rabban Harkonnen",
+    "image_url": "https://static.wikia.nocookie.net/dune/images/c/cf/DunePartIIRabbanTextlessPoster.jpeg",
+    "description": "Rabban HarkonnenPart TwoPart OneAliasesBeastPolitical InformationTitlesLordPlanetary GovernorGreat HouseHouse HarkonnenAffiliation and RelationshipsFamily membersEvgeny Harkonnen(ancestor)Vergyl Harkonnen(ancestor)Sonya Harkonnen(ancestor)Valya Harkonnen(ancestor)Tula Harkonnen(ancestor)Desmond Hart(ancestor)Harrow Harkonnen(ancestor)Unnamed motherVladmir Harkonnen(uncle)Jessica Atreides(cousin)Paul Atreides(first cousin-once removed)Alia Atreides(first cousin-once removed)Feyd-Rautha Harkonn...",
+    "role": "Lord Planetary Governor",
+    "attributes": {
+      "Image": "Part Two",
+      "Alias": "Beast",
+      "Title": "Lord Planetary Governor",
+      "Family": "Evgeny Harkonnen (ancestor) Vergyl Harkonnen (ancestor) Sonya Harkonnen (ancestor) Valya Harkonnen (ancestor) Tula Harkonnen (ancestor) Desmond Hart (ancestor) Harrow Harkonnen (ancestor) Unnamed m...",
+      "Death": "10191 AG",
+      "Deathplace": "Arrakeen , Arrakis",
+      "Weapons": "Sword",
+      "Eyes": "Teal",
+      "Hair": "Bald",
+      "Height": "6 ft 6 inches (198 cm"
+    },
+    "source_url": "https://dune.fandom.com/wiki/Glossu_Rabban/2021_film"
+  },
+  {
+    "name": "Herald of the Change",
+    "image_url": "https://static.wikia.nocookie.net/dune/images/2/2b/Herald_of_the_Change.jpg",
+    "description": "Political InformationGreat HouseHouse CorrinoAffiliation and RelationshipsLoyaltyCorrino EmpireHouse CorrinoPhysical CharacteristicsEyesBrownHairBlackHeight6' 4 inches (193 cm)Behind the ScenesFirst appearancePortrayed byDune<(2021)Benjamin Clementine",
+    "role": "Anime Character",
+    "attributes": {
+      "Loyalty": "Corrino Empire House Corrino",
+      "Eyes": "Brown",
+      "Hair": "Black"
+    },
+    "source_url": "https://dune.fandom.com/wiki/Herald_of_the_Change"
   },
   {
     "name": "Thufir Hawat",
@@ -305,45 +304,46 @@
     "source_url": "https://dune.fandom.com/wiki/Shamir"
   },
   {
-    "name": "Kinet",
-    "image_url": "https://static.wikia.nocookie.net/dune/images/c/c8/Kinet_2021.jpg",
-    "description": "KinetPolitical InformationGreat HouseHouse HarkonnenAffiliation and RelationshipsLoyaltyHouse HarkonnenBiographical InformationDied10191 AGPlace of deathArrakisMilitary InformationBattles/WarsDesert WarSiege of ArrakeenPhysical CharacteristicsEyesBrownHairBaldBehind the ScenesFirst appearancePortrayed byDune(2021)Stephen CollinsKinet[d.10191 AG] was a soldier in the service ofHouse Harkonnen. He was a deaf man, tasked with disposing ofPaulandJessica Atreidesbut was killed when Jessica usedthe...",
+    "name": "Stilgar",
+    "image_url": "https://static.wikia.nocookie.net/dune/images/b/b8/DuneIIStilgarTextlessPoster.jpeg",
+    "description": "StilgarPart TwoPart OnePolitical InformationTitlesNaibofSietch TabrAffiliation and RelationshipsLoyaltyFremenPaul AtreidesMilitary InformationWeaponsCrysknifeBattles/WarsDesert WarBattle of ArrakeenPhysical CharacteristicsEyesBlue-within-blueHairDarkHeight5 ft 11¼ inches (181 cm)Behind the ScenesFirst appearanceLast appearancePortrayed byDune(2021)DunePart Two(2024)Javier Bardem",
+    "role": "Naib of Sietch Tabr",
+    "attributes": {
+      "Image": "Part Two",
+      "Title": "Naib of Sietch Tabr",
+      "Loyalty": "Fremen Paul Atreides",
+      "Weapons": "Crysknife",
+      "Wars": "Desert War Battle of Arrakeen",
+      "Hair": "Dark"
+    },
+    "source_url": "https://dune.fandom.com/wiki/Stilgar/2021_film"
+  },
+  {
+    "name": "Tanat",
+    "image_url": "https://static.wikia.nocookie.net/dune/images/2/26/Tanat.jpg",
+    "description": "Tanat is stationed at an ecological testing station alongsideShamir. Upon her arrival at the station withPaul Atreides,LadyJessicaandDuncan Idaho, Dr.Liet Kynesorders him tostillsuitsfor them to wear.",
     "role": "Anime Character",
     "attributes": {
-      "Death": "10191 AG",
-      "Deathplace": "Arrakis",
-      "Wars": "Desert War Siege of Arrakeen",
-      "Eyes": "Brown",
-      "Hair": "Bald"
-    },
-    "source_url": "https://dune.fandom.com/wiki/Kinet/2021_film"
-  },
-  {
-    "name": "Gaius Helen Mohiam",
-    "image_url": "https://static.wikia.nocookie.net/dune/images/7/73/MohiamTextless.jpeg",
-    "description": "Gaius Helen MohiamPolitical InformationTitlesReverend MotherTruthsayerGreat HouseHouse CorrinoAffiliation and RelationshipsLoyaltyBene GesseritHouse CorrinoBiographical InformationEducationBene Gesserit TrainingPhysical CharacteristicsEyesValeHairGrayHeight5 ft 6 inches (170 cm)Behind the ScenesFirst appearanceLast appearancePortrayed byDune(2021)DunePart Two(2024)Charlotte RamplingReverend MotherGaius Helen Mohiamwas aBene GesseritReverend Mother who came toCaladanto testPaul Atreidesbefore ...",
-    "role": "Reverend Mother Truthsayer",
-    "attributes": {
-      "Title": "Reverend Mother Truthsayer",
-      "Loyalty": "Bene Gesserit House Corrino",
-      "Eyes": "Vale",
-      "Hair": "Gray"
-    },
-    "source_url": "https://dune.fandom.com/wiki/Gaius_Helen_Mohiam/2021_film"
-  },
-  {
-    "name": "Mapes",
-    "image_url": "https://static.wikia.nocookie.net/dune/images/a/aa/Mapes_2021.jpg",
-    "description": "MapesPolitical InformationTitlesHousekeeperAffiliation and RelationshipsLoyaltyFremenBiographical InformationDied10191 AGPlace of deathArrakeen,ArrakisMilitary InformationWeaponsCrysknifeBattles/WarsDesert WarSiege of ArrakeenPhysical CharacteristicsEyesBlue-within-blueHairBlackBehind the ScenesFirst appearanceLast appearancePortrayed byDune(2021)Dune(2021)Golda Rosheuvel",
-    "role": "Housekeeper",
-    "attributes": {
       "Loyalty": "Fremen",
-      "Death": "10191 AG",
-      "Deathplace": "Arrakeen , Arrakis",
-      "Weapons": "Crysknife",
-      "Wars": "Desert War Siege of Arrakeen",
-      "Hair": "Black"
+      "Birthplace": "Arrakis",
+      "Eyes": "Blue-within-blue",
+      "Hair": "Black",
+      "Height": "5 feet 9 inches (175.26 cm"
     },
-    "source_url": "https://dune.fandom.com/wiki/Mapes/2021_film"
+    "source_url": "https://dune.fandom.com/wiki/Tanat"
+  },
+  {
+    "name": "Lanville",
+    "image_url": "https://static.wikia.nocookie.net/dune/images/2/24/FYWkC_OXkAENprU.jpg",
+    "description": "LanvillePolitical InformationTitlesLieutenantTenure[?] -10191 AGGreat HouseHouse AtreidesBiographical InformationDied10191 AGPlace of deathGiedi PrimeMilitary InformationWeaponsSwordBattles/WarsDesert WarSiege of ArrakeenBehind the ScenesFirst appearanceLast appearancePortrayed byDune(2021)DunePart Two(2024)Roger YuanLieutenantLanville(d.10191 AG) was aHouse Atreidesmilitary officer who served as the Atreides Warmaster,Gurney Halleck's, second-in-command during the final years of theCorrino E...",
+    "role": "Lieutenant",
+    "attributes": {
+      "Title": "Lieutenant",
+      "Tenure": "?] - 10191 AG",
+      "Death": "10191 AG",
+      "Weapons": "Sword",
+      "Wars": "Desert War Siege of Arrakeen"
+    },
+    "source_url": "https://dune.fandom.com/wiki/Lanville"
   }
 ]

@@ -1,6 +1,6 @@
 # Rapport de Scraping pour : kimetsu-no-yaiba
 - **Statut :** ✅ SUCCÈS - 18 fiches valides (minimum requis: 10)
-- **Temps total :** 25.78s
+- **Temps total :** 25.46s
 - **Catégories testées :** 1 (Catégorie principale)
 - **Catégorie utilisée :** Catégorie principale
 - **Liens trouvés :** 18

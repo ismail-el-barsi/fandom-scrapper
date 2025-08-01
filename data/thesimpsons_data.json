@@ -1,673 +1,680 @@
 [
   {
-    "name": "Annie (Ant)",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/0/01/Annie.png",
-    "description": "AfterBartaccidentally destroyed Lisa's ant farm Annie was the only surviving ant. Annie became weaker and could only carry thirty times her own weight when Bart and Lisa decided to let her out into the wild after Lisa suspected that she had only two or three days to go in life. Right after Bart and Lisa released to the nature, she was eaten bySanta's Little Helper.",
-    "role": "Deceased",
-    "attributes": {
-      "Species": "Ant",
-      "Gender": "Female ♀",
-      "Status": "Deceased",
-      "Color": "Black",
-      "Owner": "Lisa Simpson (formerly",
-      "Relatives": "Various other ants (possible siblings;deceaced",
-      "Appearance": "\" American History X-cellent \""
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Annie_(Ant)"
-  },
-  {
-    "name": "Santa's Little Helper's Brother",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/6/6b/Santa%27s_Little_Helper_with_his_brother.jpg",
-    "description": "Santa's Little Helper's BrotherAnimal InformationSpeciesDog (Greyhound)GenderMale ♂StatusAliveColorBrownOwnerUnnamedRelativesMother:She BiscuitSiblings:Santa's Little Helper,Unnamed SiblingsNieces and Nephews:Greyhound PuppiesBehind the ScenesFirst Appearance\"Bonfire of the Manatees\"Santa's Little Helper's Brotheris a brother ofSanta's Little Helper.",
-    "role": "Alive",
-    "attributes": {
-      "Gender": "Male ♂",
-      "Status": "Alive",
-      "Color": "Brown",
-      "Owner": "Unnamed",
-      "Relatives": "Mother : She Biscuit Siblings : Santa's Little Helper , Unnamed Siblings Nieces and Nephews : Greyhound Puppies",
-      "Appearance": "\" Bonfire of the Manatees \""
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Santa%27s_Little_Helper%27s_Brother"
-  },
-  {
-    "name": "Grocery Store Security Guard",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/b/b6/StoreGuard.jpg",
-    "description": "Grocery Store Security GuardCharacter InformationGenderMale ♂Age30s-40sHair ColorBlackOccupationGrocery Storesecurity guardBehind the ScenesFirst episode appearanceShopliftingPortrayed byDan Castellaneta",
-    "role": "Villain",
-    "attributes": {
-      "Sex": "Male ♂",
-      "Age": "30s-40s",
-      "Hair": "Black"
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Grocery_Store_Security_Guard"
-  },
-  {
-    "name": "Dr. Lionel Budgie",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/2/26/Lionel_Budgie.png",
-    "description": "WhenLisamanaged to save a raccoon by performing a CPR, she decided to work at Budgie's office as an intern, but she was so busy taking care of the animals that she forgot to take care ofNibbles, the class pet. He and Lisa tried to do surgery on the hamster, but it was too late and he passed away, making Lisa very sad.",
-    "role": "Alive",
-    "attributes": {
-      "Sex": "Male ♂",
-      "Status": "Alive",
-      "Hair": "Light gray",
-      "Job": "Veterinarian",
-      "Appearance": "\" Lisa the Veterinarian \"",
-      "Voiced By": "Michael York"
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Dr._Lionel_Budgie"
-  },
-  {
-    "name": "Mr. Burns' Vagrant Victim",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/b/b4/Vagrant_Victim.png",
-    "description": "He appears inCharles Montgomery Burns's flashback afterWaylon Smithers, Jr.left the sponge upon his head, causing him to drown. One of the flashbacks involves Mr. Burns firing at the man's feet, making him dance. This is a slow process as Mr. Burns must reload after a single shot.",
-    "role": "Anime Character",
-    "attributes": {
-      "Sex": "Male ♂",
-      "Hair": "Grey with moustache",
-      "Job": "Homeless",
-      "Appearance": "Burns' Heir"
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Mr._Burns%27_Vagrant_Victim"
-  },
-  {
-    "name": "Postage Stamp Fellow",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/9/9c/Postage_Stamp_Fellow.png",
-    "description": "WhenComic Book Guyfelt worried when having to helpBartandLisawho were scared and couldn’t find their parents. Comic book guy was afraid and ran away to his old house and met Postage Stamp Fellow at the door. Later,Margegoes to visit Comic Book Guy and learns his backstory. According to Comic Book Guy, Postage Stamp Fellow and the rest of his family collected things. Postage Stamp Fellow's obsession was stamps. They were so obsessed with these they barely knew each other. Comic book guy then s...",
-    "role": "Alive",
-    "attributes": {
-      "Sex": "Male ♂",
-      "Status": "Alive",
-      "Hair": "Gray",
-      "Job": "Stamp collector",
-      "Relatives": "Wife: Unnamed Son: Comic Book Guy Daughter-in-Law: Kumiko Albertson Adoptive Grandson: Prius Albertson Nephews: Comic Book Gay , Collectible Pants Dude and Graphic Novel Kid Other Relatives: Albert...",
-      "Appearance": "The Dad-Feelings Limited",
-      "Voiced By": "Dan Aykroyd"
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Postage_Stamp_Fellow"
-  },
-  {
-    "name": "Vicki Valentine",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/7/75/Vicki_Valentine_Tapped_Out.png",
-    "description": "Vicki Valentine was a child star in the late 1930s and early 1940s. She appeared in over forty movies, among themLittle Vicki for President,Little Vicki vs. Big Rhonda, andHell Hath no Little Vicki,a war-themed movie whose poster showed her as a gunner in a bomber plane. When she grew up, she generally preferred to be called \"just plain Vicki\" rather than \"Little Vicki\" or \"Little Miss Vicki,\" but apparently still reserved the right be called \"Little Vicki\" in a professional (i.e., dancing-re...",
+    "name": "Waverly Hills Girl 1",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/a/a9/Waverly_Hills_Girl_1.JPG",
+    "description": "Waverly Hills Girl 1Character InformationGenderFemale ♀StatusAliveHair ColorBrownOccupationStudent atWaverly Hills Elementary SchoolBehind the ScenesFirst episode appearance\"Mathlete's Feat\"",
     "role": "Alive",
     "attributes": {
       "Sex": "Female ♀",
       "Status": "Alive",
-      "Age": "60s or 70s",
       "Hair": "Brown",
-      "Job": "Dance Instructor Former child star",
-      "Relatives": "Ex-husband : Unnamed",
-      "Appearance": "\" Last Tap Dance in Springfield \"",
-      "Voiced By": "Tress MacNeille"
+      "Job": "Student at Waverly Hills Elementary School",
+      "Appearance": "\" Mathlete's Feat \""
     },
-    "source_url": "https://simpsons.fandom.com/wiki/Vicki_Valentine"
+    "source_url": "https://simpsons.fandom.com/wiki/Waverly_Hills_Girl_1"
   },
   {
-    "name": "Oil Driller",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/5/53/Oildrill.jpg",
-    "description": "Oil DrillerCharacter InformationGenderMale ♂Hair ColorBlackBaldingOccupationOil DrillerBehind the ScenesFirst episode appearance\"Who Shot Mr. Burns? (Part One)\"Theoil drillis the man who is hired to tap the expensive oil that is discovered underneathSpringfield Elementary School. However, his operation is cut short whenCharles Montgomery Burnsuses theBurns Slant Drilling Co.to take all of the oil first.",
+    "name": "Calliope Juniper",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/2/26/S22E11_Flaming_Moe_-_Calliope_Juniper.png",
+    "description": "Calliope JuniperCharacter InformationGenderFemale ♀StatusAliveAKAMs. JuniperHair ColorRed, purple and pink streaksOccupationMusic teacherRelationsDaughter:Melody JuniperEx-Husband:UnnamedEx-boyfriend:Seymour SkinnerBehind the ScenesFirst episode appearance\"Flaming Moe\"Portrayed byKristen Wiig",
+    "role": "Alive",
+    "attributes": {
+      "Sex": "Female ♀",
+      "Status": "Alive",
+      "Relatives": "Daughter : Melody Juniper Ex-Husband: Unnamed Ex-boyfriend: Seymour Skinner",
+      "Appearance": "\" Flaming Moe \""
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Calliope_Juniper"
+  },
+  {
+    "name": "Assia Djebar",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/0/04/Nobel_Prize_nominees.png",
+    "description": "Assia DjebarCharacter InformationGenderFemale ♀StatusAliveOccupationNovelistTranslatorFilmmakerBehind the ScenesFirst mentioned\"Elementary School Musical\"",
+    "role": "Alive",
+    "attributes": {
+      "Sex": "Female ♀",
+      "Status": "Alive",
+      "Job": "Novelist Translator Filmmaker",
+      "Mentioned": "\" Elementary School Musical \""
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Assia_Djebar"
+  },
+  {
+    "name": "Larry",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/6/6d/Larry_bus_driver.png",
+    "description": "LarryCharacter InformationGenderMale ♂Hair ColorBrownOccupationBus DriverBehind the ScenesFirst episode appearance\"Lost Our Lisa\"Portrayed byHank AzariaLarryis the driver ofBus Route 22A. He gives information, but doesn't want people to talk to him when he's driving.",
     "role": "Anime Character",
     "attributes": {
       "Sex": "Male ♂",
-      "Hair": "Black Balding",
-      "Appearance": "\" Who Shot Mr. Burns? (Part One) \""
+      "Hair": "Brown",
+      "Job": "Bus Driver",
+      "Appearance": "\" Lost Our Lisa \""
     },
-    "source_url": "https://simpsons.fandom.com/wiki/Oil_Driller"
+    "source_url": "https://simpsons.fandom.com/wiki/Larry_(driver)"
   },
   {
-    "name": "Axel Graycomb",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/5/52/094.jpg",
-    "description": "Axel GraycombCharacter InformationGenderMale ♂StatusDeceasedRelationsParents:Otto GraycombandLolly DuBoisGrandparents:Lance DuBoisandClarice StempleSiblings:Evelyn GraycombandAmos GraycombBrother-in-law:Wainwright Montgomery BurnsGreat-uncles:Gaylord StempleandZachariah StempleGreat-aunt:Minnie StempleMarital great-aunt:Trixie SimpsonUncle:Rooney DuBoisNephew:Clifford BurnsNiece:Doreena BurnsNiece-in-law:Daphne BurnsGreat-nephews:Charles Montgomery Burns,Cornelius Burns,Zeph BurnsandGeorge Bu...",
+    "name": "Dorine Prince",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/2/26/Dorine.jpg",
+    "description": "Dorine PrinceCharacter InformationGenderFemale ♀StatusNon-canonFictionalAgeUnknownAKADee-Dee (byReg)Hair ColorBrownRelationsHusband:RegChildren:Three unnamedchildrenParents-in-law:Gareth PrinceandGloria PrinceBrother-in-law:UnnamedGrandmother-in-law:UnnamedBehind the ScenesFirst episode appearanceLisa the Boy ScoutPortrayed byTress MacNeille",
+    "role": "Non-canon Fictional",
+    "attributes": {
+      "Sex": "Female ♀",
+      "Status": "Non-canon Fictional",
+      "Alias": "Dee-Dee (by Reg",
+      "Hair": "Brown",
+      "Relatives": "Husband: Reg Children: Three unnamed children Parents-in-law: Gareth Prince and Gloria Prince Brother-in-law: Unnamed Grandmother-in-law: Unnamed"
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Dorine_Prince"
+  },
+  {
+    "name": "Pharaoh's Officer",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/4/46/Oldwiggum.jpg",
+    "description": "Pharaoh's OfficerCharacter InformationGenderMale ♂StatusDeceasedHair ColorBlackBehind the ScenesFirst episode appearance\"Simpsons Bible Stories\"Portrayed byHank AzariaThePharaoh's Officercarries out the legal work and capturing involved with thePharaoh's slave labor. He appears as an ancient Egyptian version ofChief Wiggum.",
     "role": "Deceased",
     "attributes": {
       "Sex": "Male ♂",
       "Status": "Deceased",
-      "Relatives": "Parents: Otto Graycomb and Lolly DuBois Grandparents: Lance DuBois and Clarice Stemple Siblings: Evelyn Graycomb and Amos Graycomb Brother-in-law: Wainwright Montgomery Burns Great-uncles: Gaylord ...",
-      "Appearance": "The Simpsons Uncensored Family Album"
+      "Hair": "Black",
+      "Appearance": "\" Simpsons Bible Stories \""
     },
-    "source_url": "https://simpsons.fandom.com/wiki/Axel_Graycomb"
+    "source_url": "https://simpsons.fandom.com/wiki/Pharaoh%27s_Officer"
   },
   {
-    "name": "Terrence (Days of Future Future)",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/6/60/Terrence_%28Days_of_Future_Future%29.png",
-    "description": "Terrenceis azombieappearing inDays of Future Future. He is one of the zombies atFuture Lisa's zombie soup kitchen, were he criticizesFuture Milhousefor assuming Lisa was bitten by him due to it bring a zombie stereotype. While Milhouse tries to defend himself by defining a stereotype and explaining how Terrence is one of the \"good ones\". During his explanation, Milhouse is bitten by Terrence, turning him into a zombie.",
-    "role": "Deceased (undead",
+    "name": "Female Shopper",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/d/d7/Female_Shopper.png",
+    "description": "Female shopperis a minor character appearing inThe Last of the Red Hat Mamas. WhenHomeris trying to find a friend forMarge, he spotted the shopper at a grocery store. He begins whispering in the shoppers ear, much to her discomfort. She attempts to run away from Homer, but Homer runs towards her. As she is about to round a corner and lose Homer, she hits a pile of cans and is knocked unconscious.",
+    "role": "Alive",
     "attributes": {
-      "Sex": "Male ♂",
-      "Status": "Deceased (undead",
+      "Sex": "Female ♀",
+      "Status": "Alive",
       "Hair": "Brown"
     },
-    "source_url": "https://simpsons.fandom.com/wiki/Terrence_(Days_of_Future_Future)"
+    "source_url": "https://simpsons.fandom.com/wiki/Female_Shopper"
   },
   {
-    "name": "Mr. Powell",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/b/b7/Mr_Powell.jpeg",
-    "description": "Mr. PowellCharacter InformationGenderMale ♂StatusAliveHair ColorBrownRelationsWife:Mrs. PowellDaughter:Janey PowellBehind the ScenesFirst episode appearance“Itchy & Scratchy: The Movie”Mr. Powellis the father ofJaney Powell, one ofLisa Simpson's friends.",
+    "name": "Qui-Gon Jinn",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/3/34/Simp.jpg",
+    "description": "Qui-Gon JinnCharacter InformationGenderMale ♂StatusFictionalDeceasedOccupationJedi MasterBehind the ScenesFirst mentionedMr. Lisa's OpusQui-Gon Jinnis a fictional character fromStar Wars.",
+    "role": "Fictional Deceased",
+    "attributes": {
+      "Sex": "Male ♂",
+      "Status": "Fictional Deceased"
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Qui-Gon_Jinn"
+  },
+  {
+    "name": "Mr. T",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/3/36/Homerazzi_77.JPG",
+    "description": "He has made several appearances, mostly voiced byHank Azaria. He made one appearance as part ofKrusty'sbar mitzvah (despite not being Jewish in reality), when he voiced himself.He is a member of the Stonecutters World Council.He appeared on stage as part of a show inBranson, Missouri.In the 1980s, Apu ridiculed Homer for his \"song about Mr. T.\"",
     "role": "Alive",
     "attributes": {
       "Sex": "Male ♂",
       "Status": "Alive",
-      "Hair": "Brown",
-      "Relatives": "Wife : Mrs. Powell Daughter : Janey Powell",
-      "Appearance": "“ Itchy & Scratchy: The Movie ”"
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Mr._Powell"
-  },
-  {
-    "name": "Native American 2",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/8/85/Indian2.jpg",
-    "description": "Native American 2Character InformationGenderMale ♂StatusAliveHair ColorGrayOccupationActorBehind the ScenesFirst episode appearance\"The Homer They Fall\"Portrayed byHank AzariaNative American 2is a former member of the cast ofBonanza. He along withNative American 1are the only surviving members of the cast. The two men are guests at theSpringfield Mall, where Native American 2 jokes that they always tried to kill the protagonists of the series but that nature has done the job for them. This jo...",
-    "role": "Alive",
-    "attributes": {
-      "Sex": "Male ♂",
-      "Status": "Alive",
-      "Hair": "Gray",
-      "Job": "Actor",
-      "Appearance": "\" The Homer They Fall \""
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Native_American_2"
-  },
-  {
-    "name": "Headmaster Greystash",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/5/5c/S18E18_The_Haw-Hawed_Couple_-_Headmaster_Greystash.png",
-    "description": "Headmaster Greystashis a deceased headmaster in theAngelica Buttonseries byT. R. Francis. He makes his first and only appearance duringHomerreading the \"Angelica Button and The Dragon King's Trundle Bed\" book withLisain \"The Haw-Hawed Couple\".",
-    "role": "Fictional deceased",
-    "attributes": {
-      "Sex": "Male ♂",
-      "Status": "Fictional deceased",
-      "Hair": "Gray",
-      "Job": "Headmaster of Wizard school Wizard",
-      "Appearance": "\" The Haw-Hawed Couple \"",
-      "Voiced By": "Dan Castellaneta"
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Headmaster_Greystash"
-  },
-  {
-    "name": "Poetry instructor",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/a/a0/Instructor.png",
-    "description": "Poetry instructorCharacter InformationGenderMale ♂StatusAliveHair ColorWhiteOccupationPoetry teacher atRommelwood Military SchoolBehind the ScenesFirst episode appearance\"The Secret War of Lisa Simpson\"Portrayed byHank Azaria",
-    "role": "Alive",
-    "attributes": {
-      "Sex": "Male ♂",
-      "Status": "Alive",
-      "Hair": "White",
-      "Job": "Poetry teacher at Rommelwood Military School",
-      "Appearance": "\" The Secret War of Lisa Simpson \""
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Poetry_instructor"
-  },
-  {
-    "name": "Jittery Joe's Waiter",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/d/d1/Inyourbroom.jpg",
-    "description": "TheJittery Joe's Waiteris an employee atJittery Joe's Coffee Shop. He bringsMarge SimpsonandRuth Powerscoffee.Barney Gumbleasks him if he can throw up in the bathroom.",
-    "role": "Anime Character",
-    "attributes": {
-      "Sex": "Male ♂",
       "Hair": "Black",
-      "Job": "Waiter",
-      "Appearance": "\" Marge on the Lam \""
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Jittery_Joe%27s_Waiter"
-  },
-  {
-    "name": "Bearded Lady (Bart Carny)",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/7/77/Bearded.jpg",
-    "description": "Bearded LadyCharacter InformationGenderFemale ♀Hair ColorRed (head hair)Brown (beard)OccupationCarnival freakBehind the ScenesFirst episode appearance\"Bart Carny\"Thebearded ladyis among the entertainers atColonel Tex's Traveling Carnival. Prior to the her act, she was seen preparing by shaving her legs.",
-    "role": "Anime Character",
-    "attributes": {
-      "Sex": "Female ♀",
-      "Hair": "Red (head hair) Brown (beard",
-      "Appearance": "\" Bart Carny \""
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Bearded_Lady_(Bart_Carny)"
-  },
-  {
-    "name": "Eddie",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/c/c3/Eddie.png",
-    "description": "EddieCharacter InformationGenderMale ♂StatusAliveAge36AKAGreg (byWiggum)Hair ColorStringy and baldBrown (\"Lisa on Ice\")OccupationPolice officerRelationsEx-wife:UnnamedSon:Ralph Wiggum(non canon)Behind the ScenesFirst episode appearance\"There's No Disgrace Like Home\"Portrayed byHarry ShearerGreg Berg(\"Bart vs. Thanksgiving\"",
-    "role": "Alive",
-    "attributes": {
-      "Sex": "Male ♂",
-      "Status": "Alive",
-      "Age": "36",
-      "Alias": "Greg (by Wiggum",
-      "Hair": "Stringy and bald Brown (\" Lisa on Ice \"",
-      "Relatives": "Ex-wife: Unnamed Son: Ralph Wiggum (non canon",
-      "Appearance": "\" There's No Disgrace Like Home \"",
-      "Voiced By": "Harry Shearer Greg Berg (\" Bart vs. Thanksgiving \""
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Eddie"
-  },
-  {
-    "name": "Trucker 3",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/e/e5/Trucker_3.jpg",
-    "description": "After Homer decided to driveRed Barclay's truck toAtlanta, he andBarthad to drive 2200 miles in 10 hours. Homer took a bottle of pep pills to be up drive all night. However, because he also took a bottle of sleeping pills to \"balance it all out\", he soon fell asleep at the wheel. The truck then proceeded to drive itself.",
-    "role": "Villain",
-    "attributes": {
-      "Sex": "Male ♂",
-      "Hair": "Brown",
-      "Job": "Trucker",
-      "Appearance": "\" Maximum Homerdrive \"",
-      "Voiced By": "Hank Azaria"
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Trucker_3"
-  },
-  {
-    "name": "Ben MacDougal",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/4/4c/Ben-0.png",
-    "description": "Ben MacDougalis the uncle ofGroundskeeper Willie.Ben MacDougalCharacter InformationGenderMale ♂StatusUnknownHair ColorRedRelationsBrother:Mr. MacDougalSister-in-law:Mrs. MacDougalNephew:Groundskeeper WillieSon:Gravedigger BillyBehind the Scenes",
-    "role": "Anime Character",
-    "attributes": {
-      "Sex": "Male ♂",
-      "Hair": "Red",
-      "Relatives": "Brother: Mr. MacDougal Sister-in-law: Mrs. MacDougal Nephew: Groundskeeper Willie Son: Gravedigger Billy"
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Ben_MacDougal"
-  },
-  {
-    "name": "Franklin Jefferson Burns",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/c/cf/Franklin_Jefferson_Burns.png",
-    "description": "Franklin Jefferson BurnsCharacter InformationGenderMale ♂StatusDeceasedHair ColorBrownOccupationBoston Tea Party participantRelationsWife:Unidentified (Deceased)Son:Wainwright Montgomery Burns(Deceased)Daughter-in-Law:Evelyn Burns(Deceased)Grandchildren:Clifford Burns(Deceased) andDoreena BurnsGranddaughter-in-Law:Daphne BurnsGreat Grandchildren:Charles Montgomery Burns,George Burns(Deceased),Cornelia Hernandez(Possibly),\"Buddy\" Burns(Possibly),Cornelius Burns(Possibly),Sarah Drew Linscott,Ar...",
-    "role": "Deceased",
-    "attributes": {
-      "Sex": "Male ♂",
-      "Status": "Deceased",
-      "Hair": "Brown",
-      "Relatives": "Wife: Unidentified (Deceased) Son: Wainwright Montgomery Burns (Deceased) Daughter-in-Law: Evelyn Burns (Deceased) Grandchildren: Clifford Burns (Deceased) and Doreena Burns Granddaughter-in-Law: D...",
-      "Appearance": "\" The Trouble with Trillions \"",
-      "Mentioned": "\" Burns, Baby Burns \""
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Franklin_Jefferson_Burns"
-  },
-  {
-    "name": "Huffnpufflalaus",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/5/5c/Lenny%27s_imaginary_friend.png",
-    "description": "WhenStradivarius Cainmeets Homer as an imaginary friend to help him with his marriage, Huffenpuffilus sees Cain hiding behind a pool table when he entersMoe's Tavernwith Lenny. Huffenpuffilus/Huffnpufflalaus then asks him if he is still angry because he slept with his girlfriend. Later, at the end, Cain shoots Huffenpuffilus/Huffnpufflalaus, making him question the said favor.",
-    "role": "Fictional",
-    "attributes": {
-      "Sex": "Male ♂",
-      "Status": "Fictional",
-      "Hair": "Green",
-      "Relatives": "Owner: Lenny Leonard",
-      "Appearance": "\" The Spy Who Learned Me \""
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Huffnpufflalaus"
-  },
-  {
-    "name": "Injured kid",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/f/f9/Kastkid.jpeg",
-    "description": "Injured KidCharacter InformationGenderMale ♂Hair ColorGingerOccupationStudent (presumably)Behind the ScenesFirst episode appearance\"Kamp Krusty\"Theinjured kidwas an attendee ofKamp Krusty. He had an injured arm and went to theKamp Krusty Nursefor help, but she merely blew cigarette smoke in his face.",
-    "role": "Anime Character",
-    "attributes": {
-      "Sex": "Male ♂",
-      "Hair": "Ginger",
-      "Appearance": "\" Kamp Krusty \""
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Injured_kid"
-  },
-  {
-    "name": "Antarctic Researcher 1",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/d/df/Antarctic_1.png",
-    "description": "Antarctic Researcher 1Character InformationGenderMale ♂StatusAliveHair ColorPresumably gray, judging by the colour of his moustacheOccupationResearcherBehind the ScenesFirst episode appearanceBart vs. AustraliaPortrayed byHarry ShearerAntarctic Researcher 1is an unnamed researcher who appeared inBart Vs. Australia.",
-    "role": "Alive",
-    "attributes": {
-      "Sex": "Male ♂",
-      "Status": "Alive",
-      "Job": "Researcher"
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Antarctic_Researcher_1"
-  },
-  {
-    "name": "Woody Harrelson (character)",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/9/94/Woodyharle.jpg",
-    "description": "Woody HarrelsonCharacter InformationGenderMale ♂StatusAliveHair ColorDark BlondOccupationActorBehind the ScenesFirst episode appearance\"Homer to the Max\"Woody Harrelsonis an actor known for playingWoody Boydon the sitcomCheers. He attendedTrent Steele's party, and came to the event wearing pants made entirely out of hemp.",
-    "role": "Alive",
-    "attributes": {
-      "Sex": "Male ♂",
-      "Status": "Alive",
-      "Hair": "Dark Blond",
       "Job": "Actor",
-      "Appearance": "\" Homer to the Max \""
+      "Appearance": "\" Homer the Great \"",
+      "Mentioned": "\" Lisa the Beauty Queen \"",
+      "Voiced By": "Himself"
     },
-    "source_url": "https://simpsons.fandom.com/wiki/Woody_Harrelson_(character)"
+    "source_url": "https://simpsons.fandom.com/wiki/Mr._T"
   },
   {
-    "name": "Bob Hope (character)",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/8/83/Bob_Hope.png",
-    "description": "Armed with a golf club and the mayor's name, he entertained the troops atFort Springfieldwith the joke \"Hey, thisMayor Quimby, he's some golfer. His ball spends more time underwater thanGreg Louganis.\" Hope introducedLisa, the then-reigning Little Miss Springfield, to show the soldiers what they would be \"fighting for, if there was a war on.\" However, expectingMiss Springfield, the soldiers stormed the stage, forcing Lisa and Hope to flee on a helicopter. Hope asked to be set down at a boat s...",
-    "role": "Deceased",
+    "name": "Lyle Lanley",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/1/15/Lyle_Lanley_Tapped_Out.png",
+    "description": "The \"marks\" in Lanley's con scheme were towns with a lot of money. Lanley would visit a town and make a sales pitch for his monorails. After the town bought the monorail, Lanley would open a monorail conductor's training school, which was really a farce and provided very little in the way of real training. At the end of the school, Lanley would either select a random student or the least qualified in the class to be the conductor (his exact decision-making method isn't known, but implied to c...",
+    "role": "Possibly Deceased",
     "attributes": {
       "Sex": "Male ♂",
-      "Status": "Deceased",
-      "Hair": "Gray/White",
-      "Job": "Comedian / Actor",
-      "Appearance": "\" Lisa the Beauty Queen \"",
-      "Voiced By": "Himself Hank Azaria Dave Thomas"
+      "Status": "Possibly Deceased",
+      "Hair": "Blond",
+      "Job": "Con artist",
+      "Appearance": "\" Marge vs. the Monorail \"",
+      "Voiced By": "Phil Hartman † (1993 and 1998"
     },
-    "source_url": "https://simpsons.fandom.com/wiki/Bob_Hope_(character)"
+    "source_url": "https://simpsons.fandom.com/wiki/Lyle_Lanley"
   },
   {
-    "name": "Apu Nahasapeemapetilon Sr.",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/a/a0/ApuSr.jpg",
-    "description": "Apu Nahasapeemapetilon Sr.Character InformationGenderMale ♂StatusUnknownHair ColorBlackRelationsWife:Mrs. NahasapeemapetilonSons:Apu,SanjayandTikku Nahasapeemapetilon(deceased)Grandchildren:The Octuplets,PahusachetaandJamshed NahasapeemapetilonDaughters-in-law:Manjula Nahasapeemapetilonand UnnamedSanjay's wifeNephew:Kavi NahasapeemapetilonBehind the ScenesFirst episode appearanceMuch Apu About NothingPortrayed byHarry ShearerApu Nahasapeemapetilon Sr.was the father ofApu, Jr.,SanjayandTikku N...",
-    "role": "Anime Character",
+    "name": "Corporal Punishment",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/4/41/CorporalPunishment.png",
+    "description": "Corporal Punishmentis a character on theKrusty the ClownShow. Once a group of protesters started booing Krusty so he threatened to bring out Corporal Punishment, who then stomped onto the stage, but the protesters are not scared of him and continuing booing Krusty. He later appeared as back up on many other Krusty shows. When Krusty fakes his death, he was at his funeral. At the funeral, all of the sideshows, (exceptSideshow Bob) were there. Corporal Punishment is there too and he started to ...",
+    "role": "Alive",
     "attributes": {
       "Sex": "Male ♂",
-      "Hair": "Black",
-      "Relatives": "Wife: Mrs. Nahasapeemapetilon Sons: Apu , Sanjay and Tikku Nahasapeemapetilon (deceased) Grandchildren: The Octuplets , Pahusacheta and Jamshed Nahasapeemapetilon Daughters-in-law: Manjula Nahasape..."
+      "Status": "Alive",
+      "Hair": "Bald",
+      "Job": "Enforcer on Krusty 's show",
+      "Appearance": "\" Itchy & Scratchy & Marge \""
     },
-    "source_url": "https://simpsons.fandom.com/wiki/Apu_Nahasapeemapetilon_Sr."
+    "source_url": "https://simpsons.fandom.com/wiki/Corporal_Punishment"
   },
   {
-    "name": "The Chocobots' leader",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/d/db/The_Chocobots%27_leader.jpg",
-    "description": "The Chocobots' leaderHero InformationGender/SexmaleStatusUnknownAliasN/APowerFlyingBehind the ScenesFirst episode appearance\"Girly Edition\"Portrayed byHank Azaria",
+    "name": "BrainBaby",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/e/e9/Brainbaby.png",
+    "description": "BrainBabyHero InformationGender/SexUnknownStatusUnknownAliasMaggie SimpsonPowerGenius Level Intellect/TelepathyBehind the ScenesFirst episode appearanceBartman 3(The Final Collision",
     "role": "Hero",
     "attributes": {
-      "Sex": "male",
-      "Power": "Flying",
-      "Appearance": "\" Girly Edition \""
+      "Power": "Genius Level Intellect / Telepathy",
+      "Appearance": "Bartman 3 (The Final Collision"
     },
-    "source_url": "https://simpsons.fandom.com/wiki/The_Chocobots%27_leader"
+    "source_url": "https://simpsons.fandom.com/wiki/BrainBaby"
   },
   {
-    "name": "J. Jonah Jameson",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/d/d4/J._Jonah_Jameson",
-    "description": "John Jonah Jameson Jr.Character InformationGenderMale ♂StatusAliveAKAJ.J.JHair ColorGrayOccupationPoetry PublisherBehind the ScenesFirst episode appearance\"Moe'N'a Lisa\"Portrayed byJ. K. Simmons",
-    "role": "Alive",
-    "attributes": {
-      "Sex": "Male ♂",
-      "Status": "Alive",
-      "Alias": "J.J.J",
-      "Hair": "Gray",
-      "Appearance": "\" Moe'N'a Lisa \""
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/J._Jonah_Jameson"
-  },
-  {
-    "name": "Manjula's Mother",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/8/86/ManjulaMom.jpg",
-    "description": "Manjula's MotherCharacter InformationGenderFemale ♀Other statusesMost likely aliveStatusUnknownHair ColorBlackRelationsHusband:UnnamedDaughters:Manjula Nahasapeemapetilonandtwo unnamedGrandchildren:The Nahasapeemapetilon OctupletsBehind the ScenesPortrayed byTress MacNeilleManjula's MotherisManjula's mother.",
-    "role": "Most likely alive",
+    "name": "Joan Rivers",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/7/7f/Aboutwiggum.jpg",
+    "description": "In a flashback to 1986Clancy Wiggumischannel surfingafter getting kicked out ofThe Be Sharpsand see Joan Rivers begins her late night talk show about him doing a gag reflex as he makes her want to puke so an angry Wiggum threw his gun at the television screen, breaking it.",
+    "role": "Deceased",
     "attributes": {
       "Sex": "Female ♀",
-      "Hair": "Black",
-      "Relatives": "Husband: Unnamed Daughters: Manjula Nahasapeemapetilon and two unnamed Grandchildren: The Nahasapeemapetilon Octuplets"
+      "Status": "Deceased",
+      "Hair": "Blonde",
+      "Job": "Standup comic",
+      "Relatives": "Daughter: Melissa Rivers",
+      "Appearance": "\" Homer's Barbershop Quartet \"",
+      "Voiced By": "Tress MacNeille Dan Castellaneta"
     },
-    "source_url": "https://simpsons.fandom.com/wiki/Manjula%27s_Mother"
+    "source_url": "https://simpsons.fandom.com/wiki/Joan_Rivers_(character)"
   },
   {
-    "name": "Esther H. Lee",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/3/34/Simp.jpg",
-    "description": "Esther H. LeeCast InformationGenderFemale ♀Cast statusCurrent animation checkerFirst appearance\"Faith Off\"",
-    "role": "Current animation checker",
+    "name": "Cutout Foot",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/5/56/Giant_Foot.png",
+    "description": "The family sit on their couch but get crushed by the cutout foot from the opening ofMonty Python's Flying Circus.",
+    "role": "Anime Character",
     "attributes": {
-      "Gender": "Female ♀",
-      "First Appearance": "\" Faith Off \""
+      "Appearance": "Homer Goes to College"
     },
-    "source_url": "https://simpsons.fandom.com/wiki/Esther_H._Lee"
+    "source_url": "https://simpsons.fandom.com/wiki/Cutout_Foot"
   },
   {
-    "name": "Stogie",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/7/70/Stogie.png",
-    "description": "WhileMoeis at his club, he meets a professional pianist named Stogie on the outdoor patio of the club. Moe requests Stogie to play \"Moonglow\", and he agrees. As Stogie plays the song,Margereveals that \"Moonglow\" is her favorite song, and Moe says that she came intohis barseven years ago and she played it on his jukebox. Marge then asks Moe if she wants to dance to the song, and Moe agrees even though he says that he actually does it a lot behind the bar (hence the crazy-moving legs). As Stogi...",
-    "role": "Alive",
-    "attributes": {
-      "Sex": "Male ♂",
-      "Status": "Alive",
-      "Hair": "Gray",
-      "Job": "Pianist at Moho House",
-      "Appearance": "\" Moho House \"",
-      "Voiced By": "Kevin Michael Richardson"
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Stogie"
-  },
-  {
-    "name": "Consuela",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/8/81/Consuela1.png",
-    "description": "In the episodeThe Simpsons Guy, Family Guy characters were sitting next to The Simpsons characters for being rip offs of them. Consuela was sitting next toBumblebee Man, for stealing the concept of a Mexican from him.",
-    "role": "Alive",
+    "name": "Angelique Bouvier",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/8/82/Augh.jpg",
+    "description": "Angelique MarceauCharacter InformationGenderFemale ♀StatusDeceasedAge96 (deceased)RelationsHusband:Marcel BouvierChildren:Antoine Bouvier(Deceased),Jacques Bouvier(Deceased),Charlemagne Bouvier(Deceased),Etienne Bouvier(Deceased),Babette Bouvier(Deceased),Georgette Bouvier(Deceased),Erique Bouvier(Deceased),Alfred Bouvier(Deceased) andLance Bouvier(Deceased)Grandparents In Law:Victor Bouvier II(Deceased) andGabrielle Gateau(Deceased)Aunt/Uncle In Laws:Didi Bouvier(Deceased) andHonoré Bouvier(...",
+    "role": "Deceased",
     "attributes": {
       "Sex": "Female ♀",
-      "Status": "Alive",
-      "Hair": "Black",
-      "Job": "Maid"
+      "Status": "Deceased",
+      "Relatives": "Husband: Marcel Bouvier Children: Antoine Bouvier (Deceased), Jacques Bouvier (Deceased), Charlemagne Bouvier (Deceased), Etienne Bouvier (Deceased), Babette Bouvier (Deceased), Georgette Bouvier (...",
+      "Appearance": "The Simpsons Uncensored Family Album"
     },
-    "source_url": "https://simpsons.fandom.com/wiki/Consuela"
+    "source_url": "https://simpsons.fandom.com/wiki/Angelique_Bouvier"
   },
   {
-    "name": "Brown-haired girl",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/b/b3/Unknown_Fourth_Grade_Girl_3.JPG",
-    "description": "Brown-haired girlCharacter InformationGenderFemale ♀StatusAliveHair ColorBrownOccupationStudent atSpringfield Elementary SchoolBehind the ScenesFirst episode appearance\"Lisa's Rival\"Portrayed byNancy Cartwright",
-    "role": "Alive",
-    "attributes": {
-      "Sex": "Female ♀",
-      "Status": "Alive",
-      "Hair": "Brown",
-      "Job": "Student at Springfield Elementary School",
-      "Appearance": "\" Lisa's Rival \""
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Brown-haired_girl"
-  },
-  {
-    "name": "Gunter (Mom and Pop Art)",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/b/b6/468C64A0-ABC7-41BE-80AA-C837ED3DD589-5754-0000087E7B04CD4E.png",
-    "description": "GunterCharacter InformationGenderMale ♂Hair ColorRed (head hair)Brown (facial hair)OccupationArt ConnoisseurRelationsWife:Gunter's WifeBehind the ScenesFirst episode appearance\"Mom and Pop Art\"Gunteris a amongHomer Simpson's fans after he becomes a famous artist. He takes on a highly cultured, refined persona. He briefly visitsMoe's Tavernwith Homer, where he discusses the prevalence of luxury and meaningless sex in his life.",
+    "name": "Rodney L'eau",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/e/ea/P181_166_221.jpg",
+    "description": "Rodney L'eauCharacter InformationGenderMale ♂StatusUnknownRelationsParents:Maurice L'eauandCoquette BouvierSiblings:Theodore L'eau,Hi L'eauandTilda L'eauWife:Joyce MoutonChildren:Penelope L'eau,Tuesday L'eauandTony L'eauBehind the ScenesFirst episode appearanceThe Simpsons Uncensored Family Album",
     "role": "Anime Character",
     "attributes": {
       "Sex": "Male ♂",
-      "Hair": "Red (head hair) Brown (facial hair",
-      "Relatives": "Wife: Gunter's Wife",
-      "Appearance": "\" Mom and Pop Art \""
+      "Relatives": "Parents: Maurice L'eau and Coquette Bouvier Siblings: Theodore L'eau , Hi L'eau and Tilda L'eau Wife: Joyce Mouton Children: Penelope L'eau , Tuesday L'eau and Tony L'eau"
     },
-    "source_url": "https://simpsons.fandom.com/wiki/Gunter_(Mom_and_Pop_Art)"
+    "source_url": "https://simpsons.fandom.com/wiki/Rodney_L%27eau"
   },
   {
-    "name": "Clem Stillman",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/8/8c/1340.jpg",
-    "description": "Clem StillmanCharacter InformationGenderMale ♂StatusDeceasedRelationsParents:Omar StillmanEttiwanda TrownseSiblings:Clowta StillmanClancey StillmanOgilvie StillmanDewey StillmanBehind the ScenesFirst episode appearanceThe Simpsons Uncensored Family Album",
+    "name": "King Charles III",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/6/6c/Prince_Charles.png",
+    "description": "Along with his mother,Queen Elizabeth II, he used to watch scenes fromSpringfieldthrough the surveillance cameras planted around the town. The Queen said thatRalphreminded her of Charles since he says a known Ralph quote: \"My cat's breath smells like cat food.\" Prince Charles was on the cover ofMama's Boy's Life.He is also one of the many people on \"Ned's List of Laudable Lefties\".",
+    "role": "Alive",
+    "attributes": {
+      "Sex": "Male ♂",
+      "Status": "Alive",
+      "Alias": "Prince Charles (1949 to 2022) or The Prince of Wales (1969 to 2022",
+      "Hair": "Grey",
+      "Job": "King of the United Kingdom, British Overseas Territories and Commonwealth Realms",
+      "Relatives": "Mother: Queen Elizabeth II ✟ Son: Prince Harry",
+      "Appearance": "\" To Surveil With Love \"",
+      "Voiced By": "Eddie Izzard"
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/King_Charles_III"
+  },
+  {
+    "name": "Levi Charles",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/7/79/Levi_Charles.png",
+    "description": "Levi CharlesCharacter InformationGenderMale ♂StatusDeceasedRelationsParents:Nora CharlesandMaximus Decimus Charles IIISiblings:Charleston CharlesandRebecca CharlesChildren:Syd CharlesandJacques CharlesWife:Martina CarcettiGrandchildren:Jean-Claude CharlesandMonticello CharlesGreat-granddaughter:Daphne BurnsGreat-Great-grandson:Charles Montgomery BurnsBehind the ScenesFirst mentionedC. Montgomery Burns' Handbook of World DominationLevi Claude Charleswas the father ofSyd CharlesandJacques Charl...",
     "role": "Deceased",
     "attributes": {
       "Sex": "Male ♂",
       "Status": "Deceased",
-      "Relatives": "Parents: Omar Stillman Ettiwanda Trownse Siblings: Clowta Stillman Clancey Stillman Ogilvie Stillman Dewey Stillman"
+      "Relatives": "Parents: Nora Charles and Maximus Decimus Charles III Siblings: Charleston Charles and Rebecca Charles Children: Syd Charles and Jacques Charles Wife: Martina Carcetti Grandchildren: Jean-Claude Ch..."
     },
-    "source_url": "https://simpsons.fandom.com/wiki/Clem_Stillman"
+    "source_url": "https://simpsons.fandom.com/wiki/Levi_Charles"
   },
   {
-    "name": "Joey (And Maggie Makes Three)",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/5/5e/Joey.png",
-    "description": "Joeyis a sick young boy who works atBarney's Bowlarama.Homeris forced to stop working at the Bowlarama and starts to say good-bye to everyone. One of the people he says goodbye to is Joey, who is dressed like a shoe-shine boy. Homer says \"don't worry, Joey, we'll make it to California some day\" and Joey responds with \"sure we will, Mr. Homer, sure we will\" and coughs.",
+    "name": "Mrs. Teen",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/4/45/Profile_-_Mrs._Teen.png",
+    "description": "Mrs. TeenCharacter InformationGenderFemale ♀StatusAliveHair ColorBrownRelationsHusband:Mr. TeenSon:AndrewBehind the ScenesFirst episode appearance\"Full Heart, Empty Pool\"Portrayed byTress MacNeilleMrs. Teenis the mother of Andrew Teen aka theSqueaky-Voiced Teen. She makes her first and only appearance in \"Full Heart, Empty Pool\".",
+    "role": "Alive",
+    "attributes": {
+      "Sex": "Female ♀",
+      "Status": "Alive",
+      "Hair": "Brown",
+      "Relatives": "Husband : Mr. Teen Son : Andrew",
+      "Appearance": "\" Full Heart, Empty Pool \""
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Mrs._Teen"
+  },
+  {
+    "name": "Incest Spuckler",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/8/8b/Incest_Spuckler_2.PNG",
+    "description": "Incest SpucklerCharacter InformationGenderMale ♂StatusAliveHair ColorBrownOccupationHomeschooled studentFormer star ofThe Krusty the Clown ShowRelationsFather:Cletus SpucklerMother:Brandine SpucklerSiblings:Spuckler ChildrenBehind the ScenesFirst episode appearance\"Yokel Chords\"Portrayed byDan Castellaneta",
     "role": "Alive",
     "attributes": {
       "Sex": "Male ♂",
       "Status": "Alive",
       "Hair": "Brown",
-      "Job": "Shoe Shine boy",
-      "Appearance": "\" And Maggie Makes Three \"",
+      "Job": "Homeschooled student Former star of The Krusty the Clown Show",
+      "Relatives": "Father: Cletus Spuckler Mother: Brandine Spuckler Siblings: Spuckler Children",
+      "Appearance": "\" Yokel Chords \""
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Incest_Spuckler"
+  },
+  {
+    "name": "Fernando Vidal",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/c/cb/Fernando_Vidal.png",
+    "description": "Fernando Vidalwas a professional killer, known as \"the world's most devious assassin.\" After the death ofAsa PhelpsleftAbe SimpsonandCharles Montgomery Burnsthe sole surviving members of theFlying Hellfish, Burns hired Fernando Vidal to hasten Abe's demise. Vidal first attempted to poison Abe's dentures, but that failed, and later, he disguised himself asHomer Simpson(badly), with Burns dressed asMargeandSmithersdressed asBart, and tried to throw a knife at Abe. His final attempt, which he cl...",
+    "role": "Alive",
+    "attributes": {
+      "Sex": "Male ♂",
+      "Status": "Alive",
+      "Hair": "Black with white highlights",
+      "Job": "Hired killer",
+      "Appearance": "\" Raging Abe Simpson and His Grumbling Grandson in \"The Curse of the Flying Hellfish\" \"",
       "Voiced By": "Hank Azaria"
     },
-    "source_url": "https://simpsons.fandom.com/wiki/Joey_(And_Maggie_Makes_Three)"
+    "source_url": "https://simpsons.fandom.com/wiki/Fernando_Vidal"
   },
   {
-    "name": "Etienne Bouvier",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/9/98/72359425-6FA8-410F-BA81-860B3579A0B9.jpeg",
-    "description": "Description non trouvée.",
-    "role": "Deceased",
+    "name": "Mail Delivery Man",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/f/fd/Mailerguy.jpeg",
+    "description": "Mail Delivery ManCharacter InformationGenderMale ♂Hair ColorGray-brownOccupationMailman (possibly not professionally)Behind the ScenesFirst episode appearance\"Kamp Krusty\"Themail delivery manwas a seemingly old-fashioned man who traveled on horseback. When the children were trapped atKamp Krustywith no official way to send letters, he delivered a letter fromLisa Simpsonin exchange for alcohol.",
+    "role": "Anime Character",
     "attributes": {
       "Sex": "Male ♂",
-      "Status": "Deceased",
-      "Hair": "Brown",
-      "Relatives": "Parents: Marcel Bouvier and Angelique Marceau Siblings: Antoine Bouvier , Jacques Bouvier , Charlemagne Bouvier , Babette Bouvier , Georgette Bouvier , Erique Bouvier , Alfred Bouvier and Lance Bou...",
-      "Appearance": "The Simpsons Uncensored Family Album",
-      "Name Seen": "The Simpsons Uncensored Family Album"
+      "Hair": "Gray-brown",
+      "Appearance": "\" Kamp Krusty \""
     },
-    "source_url": "https://simpsons.fandom.com/wiki/Etienne_Bouvier"
+    "source_url": "https://simpsons.fandom.com/wiki/Mail_Delivery_Man"
   },
   {
-    "name": "Shirley Temple",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/f/f9/Shirley_Temple_%28The_Simpsons%29.png",
-    "description": "Shirley Temple was among the famous stars onbroad on the Tinseltown Starliner train toHollywood, Californiawho would stretch their legs at theSpringfield Union Stationstop whereGrampa Simpson, then working on the platform as a shoeshine boy, got to see them. (\"Thursdays with Abie\"",
-    "role": "Deceased",
-    "attributes": {
-      "Image Text": "Shirley Temple in \" Treehouse of Horror III \"",
-      "Sex": "Female ♀",
-      "Status": "Deceased",
-      "Age": "85",
-      "Hair": "Blonde",
-      "Job": "Actress",
-      "Appearance": "\" Treehouse of Horror III \"",
-      "Voiced By": "Russi Taylor"
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Shirley_Temple"
-  },
-  {
-    "name": "Alfred E. Neuman",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/f/fa/Neuman_Simpsons.jpg",
-    "description": "Alfred E. NeumanCharacter InformationGenderMale ♂StatusAliveHair ColorRedOccupationMascot for MAD MagazineBehind the ScenesFirst episode appearance\"Marge in Chains\"Portrayed byDan Castellaneta",
+    "name": "Mickey \"No Loose Ends\"",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/1/19/Sher.PNG",
+    "description": "Inside the car, Mickey No-Loose-Ends callsFat Tony, told him that he had obtained the sapphires Larry had been smuggling. As Mickey No-Loose-Ends wants to do with, Fat Tony told him to let them go because he doesn't have anything else to do, but he'll decide to kill all of them. As they struggled inside the front trunk, Homer found a flare gun and fired it at him but missed. Due to flare, causing his car to roll downhill until it teered on the edge of a cliff. When barflies hopping out of the...",
     "role": "Alive",
     "attributes": {
       "Sex": "Male ♂",
       "Status": "Alive",
-      "Hair": "Red",
-      "Appearance": "\" Marge in Chains \""
+      "Hair": "Gray",
+      "Job": "Mafioso",
+      "Appearance": "Cremains of the Day",
+      "Voiced By": "Hank Azaria"
     },
-    "source_url": "https://simpsons.fandom.com/wiki/Alfred_E._Neuman"
+    "source_url": "https://simpsons.fandom.com/wiki/Mickey_%22No_Loose_Ends%22"
   },
   {
-    "name": "Mrs. Pennyfeather",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/b/b9/Mrs._Pennyfeather.png",
-    "description": "Mrs. Pennyfeatheris one of the nannies who applied to take care ofBart,LisaandMaggieafterMargestarted to lose her hair. Thinking she was a man in drag, à laMrs. Doubtfire, Homer scares her away by trying to pull off her \"wig\" and chases her around their yard.",
+    "name": "Jerry",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/e/ef/Jerry_%28Lisa_Goes_Gaga%29.png",
+    "description": "JerryCharacter InformationGenderMale ♂StatusAliveFull NameJerry (last name unknown)OccupationDancerBehind the ScenesFirst episode appearance\"Lisa Goes Gaga\"Portrayed byN/AJerryis a dancer forLady Gagaand currently board onLady Gaga Express. He makes his first and only appearance in \"Lisa Goes Gaga\".",
     "role": "Alive",
     "attributes": {
+      "Sex": "Male ♂",
+      "Status": "Alive",
+      "Job": "Dancer",
+      "Appearance": "\" Lisa Goes Gaga \""
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Jerry_(Lisa_Goes_Gaga)"
+  },
+  {
+    "name": "Doug",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/6/6d/DougNerd.png",
+    "description": "Homer got Doug and his roommatesBenjaminandGaryto play a prank onSpringfield A&M, a rival school. They kidnapped A&M's mascot, a pig namedSir Oinks-A-Lot, and brought him back to Springfield University. Homer then got the pig drunk by splitting a case of malt liquor with him, and the pig passed out.Dean Petersonheard the noise from the pig falling over and caught the nerds red-handed with the drunken pig. Due to the influence of Sir Oinks-A-Lot'spowerful friends, Peterson was forced to expel ...",
+    "role": "Alive",
+    "attributes": {
+      "Sex": "Male ♂",
+      "Status": "Alive",
+      "Age": "20",
+      "Hair": "Brown",
+      "Job": "College Student",
+      "Appearance": "\" Homer Goes to College \"",
+      "Voiced By": "Hank Azaria"
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Doug_(nerd)"
+  },
+  {
+    "name": "Volcano Parent",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/a/a1/Volcanoparent.jpeg",
+    "description": "Thevolcano parentis the father of theVolcano Kid. He refused to let his child touch the science project, a fake volcano, which he supposedly created.",
+    "role": "Anime Character",
+    "attributes": {
+      "Sex": "Male ♂",
+      "Hair": "Gray",
+      "Relatives": "Volcano Kid (son",
+      "Appearance": "\" Duffless \""
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Volcano_Parent"
+  },
+  {
+    "name": "Danish Vendor",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/2/23/Danisher.jpg",
+    "description": "Danish VendorCharacter InformationGenderMale ♂StatusAliveHair ColorBlondOccupationVendorBehind the ScenesFirst episode appearance\"Bart Gets Famous\"TheDanish Vendoris an adolescent who gives out danishes at theChannel 6studio. He refuses to give a danish toKrusty the Clown, claiming to be out despite clearly having a few more. This angers Krusty greatly.",
+    "role": "Alive",
+    "attributes": {
+      "Sex": "Male ♂",
+      "Status": "Alive",
+      "Hair": "Blond",
+      "Job": "Vendor",
+      "Appearance": "\" Bart Gets Famous \""
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Danish_Vendor"
+  },
+  {
+    "name": "Alvarine Bisque",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/0/0d/S06E11_Fear_of_Flying_-_Alvarine_Bisque_%26_Marge.png",
+    "description": "Alvarine BisqueCharacter InformationGenderFemale ♀StatusDeceasedAKAGrandma GurneyHair ColorGrayOccupationRetiredRelationsHusband:Ferdinand Gurney(Deceased)Daughters:Jacqueline BouvierandGladys Gurney(Deceased)Son-in-Law:Clancy Bouvier(Deceased)Grandchildren:Selma Bouvier,Patty BouvierandMarge SimpsonGrandson-in-Law:Homer SimpsonGreat-Grandchildren:Bart Simpson,Lisa Simpson,Maggie Simpson, andLing BouvierSee Other Family Members:Bisque FamilyandGurney FamilyBehind the ScenesFirst episode appea...",
+    "role": "Deceased",
+    "attributes": {
       "Sex": "Female ♀",
+      "Status": "Deceased",
+      "Hair": "Gray",
+      "Job": "Retired",
+      "Relatives": "Husband: Ferdinand Gurney (Deceased) Daughters: Jacqueline Bouvier and Gladys Gurney (Deceased) Son-in-Law: Clancy Bouvier (Deceased) Grandchildren: Selma Bouvier , Patty Bouvier and Marge Simpson ...",
+      "Appearance": "The Simpsons Uncensored Family Album",
+      "Voiced By": "Julie Kavner"
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Alvarine_Bisque"
+  },
+  {
+    "name": "Julius Hibbert's father",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/d/de/DrHibbert%27s_dad.png",
+    "description": "When theSpringfield Retirement Castleis shut down due to violations, Julius goes to pick up his father. He keeps calling his son Julius a dummy. Julius tells his father not to bring along his ripple, an alcoholic drink. His father tells him that without the ripple Julius wouldn't have been born and that ripple is Julius' real father. Julius chuckles at this then gets sad.",
+    "role": "Alive",
+    "attributes": {
+      "Sex": "Male ♂",
       "Status": "Alive",
       "Hair": "Grey",
-      "Job": "Nanny",
-      "Relatives": "Husband: Mr. Pennyfeather",
-      "Voiced By": "Maggie Roswell"
+      "Job": "Retired",
+      "Relatives": "Sons: Dr. Julius Hibbert , his twin and Bleeding Gums Murphy † Daughter-in-law: Bernice Hibbert Grandsons: JJ Hibbert Dr. Hibbert's Second Son Dr. Hibbert's Third Son Monk Murphy Bleeding Gums Murp...",
+      "Appearance": "The Winter of His Content",
+      "Voiced By": "Kevin Michael Richardson"
     },
-    "source_url": "https://simpsons.fandom.com/wiki/Mrs._Pennyfeather"
+    "source_url": "https://simpsons.fandom.com/wiki/Julius_Hibbert%27s_father"
   },
   {
-    "name": "Ms. Finch",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/9/90/Ms._Finch.jpg",
-    "description": "She is seen whenHomeris looking for a husband forSelma, greeting Homer enthusiastically, although Homer ruled her out against being a potential mate for Selma, for obvious reasons. Later, she is seen laughing at Homer, along with other employees, during one of his comedy routines while slacking off.",
+    "name": "Colette Merlot",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/f/f2/P185_166_221.jpg",
+    "description": "Colette MerlotCharacter InformationGenderFemale ♀StatusDeceasedRelationsParents:André MerlotandMargot CitroënHusband:Lance BouvierChildren:Vance Bouvier,Daria Bouvier,Flannery BouvierandEdmund BouvierBehind the ScenesFirst episode appearanceThe Simpsons Uncensored Family AlbumColette Bouvier(néeMerlot) was the daughter ofAndré MerlotandMargot Citroën. She was married toLance Bouvierand had 4 childrenVance Bouvier,Daria Bouvier,Flannery BouvierandEdmund Bouvier.",
+    "role": "Deceased",
+    "attributes": {
+      "Sex": "Female ♀",
+      "Status": "Deceased",
+      "Relatives": "Parents: André Merlot and Margot Citroën Husband: Lance Bouvier Children: Vance Bouvier , Daria Bouvier , Flannery Bouvier and Edmund Bouvier"
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Colette_Merlot"
+  },
+  {
+    "name": "Dr. Bartley",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/6/6a/Dr._Bartley_trasnparent.png",
+    "description": "In 1890 London, women are being killed with swords in a series of unsolved murders. Eliza and her assistant Dr. Bartley trace the swords used back to industrialistC. Ebenezer Burns. They find him in an opium den, where he claims he lost all his opium. The next suspect in mind isHomer. The police arrest Homer and are about to hang him when Eliza finds the real murderer:Inspector Wiggum, whose eel pie-covered hand prints were all over a sword used to kill one particularwoman.",
+    "role": "Non-canon",
+    "attributes": {
+      "Sex": "Male ♂",
+      "Status": "Non-canon",
+      "Hair": "Blonde",
+      "Job": "Assistant",
+      "Relatives": "Sister: Eliza Simpson",
+      "Appearance": "\" Treehouse of Horror XV \"",
+      "Voiced By": "Nancy Cartwright"
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Dr._Bartley"
+  },
+  {
+    "name": "Killhammad Aieee",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/1/14/Killhammad_Aieee.jpg",
+    "description": "Killhammad Aieee stood several feet tall, walked on two legs, and had huge machine guns for arms. It was completely non-humanlike in appearance: Its body and head were combined into one main piece shaped approximately like aTruncated cubecut in half horizontally, to which the arms and legs were attached. The robot could also morph some parts of its body to serve non-combat purposes, such as making a chaise lounge.",
+    "role": "Anime Character",
+    "attributes": {
+      "Use": "Battling robot",
+      "Inventor": "Professor Frink Professor Frink's son",
+      "Appearance": "\" I, (Annoyed Grunt)-Bot \""
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Killhammad_Aieee"
+  },
+  {
+    "name": "Long-haired girl",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/0/0a/Bart%27s_Classmate_-_04.PNG",
+    "description": "The long-haired girl is often seen in the background in Bart's class and aroundSpringfield Elementary. Her hair is usually colored brown, but due to her status as a background character, it is also occasionally in other colors. She has never spoken.",
     "role": "Alive",
     "attributes": {
       "Sex": "Female ♀",
       "Status": "Alive",
-      "Hair": "Orange",
-      "Job": "Employee at the Springfield Nuclear Power Plant",
+      "Hair": "Brown",
+      "Job": "Student",
+      "Appearance": "Homer's Odyssey",
+      "Voiced By": "Jo Ann Harris"
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Long-haired_girl"
+  },
+  {
+    "name": "Popcorn Mascot",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/4/4d/Popcorn_Mascot_Transparent.png",
+    "description": "It first appears whileCharles Montgomery Burnsmakes his appeal for an heir. When he finishes and says the feature presentation will begin, whispers tell him to do a dance/song for the lobby. While doing so, the mascots join him.",
+    "role": "Anime Character",
+    "attributes": {
+      "Job": "Mascot for Aztec Theater",
+      "Appearance": "\" Burns' Heir \""
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Popcorn_Mascot"
+  },
+  {
+    "name": "Stephen Hawking",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/4/4f/StephenHawkingTSTO.png",
+    "description": "He arrived inSpringfieldhoping to see the perfect utopia created by the local MENSA group who had taken control but was dismayed to see it was more of a \"fruitopia\". When the townspeople began destroying a gazebo, he flew in to rescueLisa, who was trapped within. As well as a propeller, he also has toothbrush and extending boxing glove (which he uses onSkinner) attachments. He later shares a beer withHomeratMoe's Tavernand plans to steal his \"theory of a donut shaped universe\", before using h...",
+    "role": "Alive",
+    "attributes": {
+      "Sex": "Male ♂",
+      "Status": "Alive",
+      "Hair": "Brown",
+      "Job": "Theoretical physicist",
+      "Appearance": "\" They Saved Lisa's Brain \"",
+      "Voiced By": "Himself"
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Stephen_Hawking_(character)"
+  },
+  {
+    "name": "Sonic the Hedgehog",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/2/2f/Classic%26ModernSonic.webp",
+    "description": "Sonic the Hedgehogis the protagonist of the eponymous video game series, and has served asSega's company mascot since the release of his first game in 1991. Sonic's sidekick and best friend is named Miles \"Tails\" Prower, who is a two tailed fox. His first rival is Knuckles the Echidna. He has a troublesome self-proclaimed girlfriend named Amy Rose, who is trying to have a date with him despite his lack of interest. His nemesis is called Dr. Ivo Robotnik, who now goes by the name Dr. Eggman (o...",
+    "role": "Fictional",
+    "attributes": {
+      "Species": "Hedgehog",
+      "Gender": "Male ♂",
+      "Status": "Fictional",
+      "Alias": "The Blue Blur",
+      "Color": "Blue",
+      "Appearance": "\" Marge Be Not Proud \"",
+      "Voiced By": "Roger Craig Smith"
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Sonic_the_Hedgehog"
+  },
+  {
+    "name": "El Puerco's first girlfriend",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/3/32/El_Puerco%27s_first_girlfriend.png",
+    "description": "El Puerco was playing the guitar outsideLe Petite Appétitwhen his girlfriend came to him and wanted to break up with him. However, El Puerco took her hand and she decided to stay with him, until she noticedanother girlholding his second hand.",
+    "role": "Alive",
+    "attributes": {
+      "Sex": "Female ♀",
+      "Status": "Alive",
+      "Hair": "Dark brown",
+      "Appearance": "\" The Daughter Also Rises \""
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/El_Puerco%27s_first_girlfriend"
+  },
+  {
+    "name": "Blanche Auditioner 3",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/e/ec/Blanche3.jpeg",
+    "description": "Blanche Auditioner 3Character InformationGenderFemale ♀Hair ColorGrayBehind the ScenesFirst episode appearance\"A Streetcar Named Marge\"Blanche Audiotioner 3is a woman who auditioned for the role of Blanche in the musicalOh, Streetcar!Llewellyn Sinclairrejected her after only a few notes of singing.",
+    "role": "Anime Character",
+    "attributes": {
+      "Sex": "Female ♀",
+      "Hair": "Gray",
+      "Appearance": "\" A Streetcar Named Marge \""
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Blanche_Auditioner_3"
+  },
+  {
+    "name": "Tooth Chipper Operator",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/f/f1/Tattoocarny.jpg",
+    "description": "Tooth Chipper OperatorCharacter InformationGenderMale ♂Hair ColorBlackOccupationRoller coaster operatorBehind the ScenesFirst episode appearance\"Bart Carny\"TheTooth Chipper Operatoris the man in charge of the Tooth Chipper, a roller coaster atColonel Tex's Traveling Carnival.Marge Simpsonexpressed reservations about his seedy appearance, butHomerdefended him by claiming that carnies are part of a grand American tradition.",
+    "role": "Anime Character",
+    "attributes": {
+      "Sex": "Male ♂",
+      "Hair": "Black",
+      "Appearance": "\" Bart Carny \""
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Tooth_Chipper_Operator"
+  },
+  {
+    "name": "Blazing Guy Actor",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/d/d1/Blazing_Guy_actor.png",
+    "description": "WhenBart SimpsonandMilhouse Van Houtenwere checking outJack Lassen's profile onFacelOOk, they see a video about the Blazing Guy event. Here, the actors tells the viewers about this annual event.",
+    "role": "Alive",
+    "attributes": {
+      "Sex": "Male ♂",
+      "Status": "Alive",
+      "Hair": "Blond",
+      "Job": "Actor",
+      "Appearance": "\" Blazed and Confused \"",
+      "Voiced By": "Hank Azaria"
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Blazing_Guy_Actor"
+  },
+  {
+    "name": "Mother Superior",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/1/18/250px-Mother_Superior.png",
+    "description": "AfterHomerleavesMaggieon the doorstep of the church, she takes Maggie in and raises her in the Church.Lisagoes in the church undercover to find Maggie and ends up solving a lot of clues to find out what the gem is. She is told by the Mother Superior that the gem is Maggie, not her, as Lisa thought it was her.Margethen takes Maggie from the Church. According to another Nun, she is very annoying because she always plays quarterback in football.",
+    "role": "Alive",
+    "attributes": {
+      "Sex": "Female ♀",
+      "Status": "Alive",
+      "Job": "Leader of The Order of St. Teresa",
+      "Appearance": "Gone Maggie Gone",
+      "Voiced By": "Tress MacNeille"
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Mother_Superior"
+  },
+  {
+    "name": "Pedro Chespirito",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/0/04/Profile_-_BumbleeBee_Man.png",
+    "description": "Pedro ChespiritoCurrentZombieYoungSuitCharacter InformationGenderMale ♂StatusAliveAge40AKAChespiritoHair ColorBrownOccupationActor/TV PersonalitySpringfield City CouncilmanRelationsEx-wife:Señora Bumblebee ManParents:Unnamed(deceased)Girlfriend:UnnamedBehind the ScenesFirst episode appearance\"Itchy & Scratchy: The Movie\"Portrayed byHank Azaria(1992-2020)Eric Lopez(2020-Present",
+    "role": "Alive",
+    "attributes": {
+      "Image": "Current",
+      "Sex": "Male ♂",
+      "Status": "Alive",
+      "Age": "40",
+      "Alias": "Chespirito",
+      "Hair": "Brown",
+      "Job": "Actor/TV Personality Springfield City Councilman",
+      "Relatives": "Ex-wife: Señora Bumblebee Man Parents: Unnamed (deceased) Girlfriend: Unnamed",
+      "Appearance": "\" Itchy & Scratchy: The Movie \"",
+      "Voiced By": "Hank Azaria (1992-2020) Eric Lopez (2020-Present"
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Pedro_Chespirito"
+  },
+  {
+    "name": "Space Mutant Male Victim",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/0/0d/Spaceman.jpg",
+    "description": "Male VictimCharacter InformationGenderMale ♂Other statusesDeceased(in the movie)StatusAliveHair ColorBrownRelationsGirlfriend:Female VictimBehind the ScenesFirst episode appearance\"Principal Charming\"Portrayed byHank Azaria",
+    "role": "Deceased (in the movie",
+    "attributes": {
+      "Sex": "Male ♂",
+      "Other Statuses": "Deceased (in the movie",
+      "Status": "Alive",
+      "Hair": "Brown",
+      "Relatives": "Girlfriend: Female Victim",
       "Appearance": "\" Principal Charming \""
     },
-    "source_url": "https://simpsons.fandom.com/wiki/Ms._Finch"
+    "source_url": "https://simpsons.fandom.com/wiki/Space_Mutant_Male_Victim"
   },
   {
-    "name": "Bowl-O-Rama Clerk",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/b/b7/BowlaramaClerk.png",
-    "description": "Bowl-O-Rama ClerkCharacter InformationGenderMale ♂StatusAliveAge20sHair ColorBrownOccupationClerk atBarney's BowlaramaBehind the ScenesFirst episode appearance\"Life on the Fast Lane\"Portrayed byDan Castellaneta",
+    "name": "Courtney",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/d/d8/Profile_-_Courtney.png",
+    "description": "CourtneyCharacter InformationGenderFemale ♀StatusAliveHair ColorBlondeOccupationMotherRelationsSon:HudsonBehind the ScenesFirst episode appearance\"Playdate with Destiny\"Portrayed byTress MacNeille",
+    "role": "Alive",
+    "attributes": {
+      "Sex": "Female ♀",
+      "Status": "Alive",
+      "Hair": "Blonde",
+      "Job": "Mother",
+      "Relatives": "Son : Hudson",
+      "Appearance": "\" Playdate with Destiny \""
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Courtney"
+  },
+  {
+    "name": "Evil House",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/4/4b/Baddreamhouse.jpg",
+    "description": "When the Simpsons move into the house,LisaandMargeare scared that there is an evil presence lurking. Homer says there's nothing to worry about despite there being a vortex in the kitchen, Bart being strangled by the cables of electrical appliances, the house threatening the family to leave, and being thrown up to the ceiling. But when everyone tries to sleep easily, the house brainwashes everyone to kill themselves. And When they stop what they're doing, thanks to Marge not being brainwashed,...",
+    "role": "Villain",
+    "attributes": {
+      "Use": "Residential",
+      "Owner": "The Simpsons (formerly",
+      "First Appearance": "\" Treehouse of Horror \""
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Evil_House"
+  },
+  {
+    "name": "Claire DeLune",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/5/51/P220_168_225.jpg",
+    "description": "Claire DeLuneCharacter InformationGenderFemale ♀StatusDeceasedRelationsHusband:Jean-Paul LaValleDaughters:Lili LaValle,Georges LaValle,Coco LaValleandDiana LaValleSister-in-Law:Simone LaValleBehind the ScenesFirst episode appearanceThe Simpsons Uncensored Family Album",
+    "role": "Deceased",
+    "attributes": {
+      "Sex": "Female ♀",
+      "Status": "Deceased",
+      "Relatives": "Husband: Jean-Paul LaValle Daughters: Lili LaValle , Georges LaValle , Coco LaValle and Diana LaValle Sister-in-Law: Simone LaValle"
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Claire_DeLune"
+  },
+  {
+    "name": "Hellroads faculty",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/1/10/Hellroads_faculty.png",
+    "description": "Bart (as Beelzebart) was skinned for not having a \"Hell pass\". Soon after, when Bart wanted to become a fulltime student of the school, Homer and Marge were spoken to by the men. On the graduation ceremony day, the men read out a prepared speech, stating that Webster defines success before pointing out chained-up Noah Webster in the crowd. After Webster asked why he was there, the reply \"You changed the \"R-E\" to \"E-R\" in \"theater,\" I hate that!\" was given. Then the two then announce Beezlebar...",
+    "role": "Non-canon",
+    "attributes": {
+      "Sex": "Male ♂",
+      "Status": "Non-canon",
+      "Alias": "Hell Principals",
+      "Hair": "both Gray",
+      "Appearance": "\" Treehouse of Horror XXV \"",
+      "Voiced By": "Harry Shearer and Hank Azaria"
+    },
+    "source_url": "https://simpsons.fandom.com/wiki/Hellroads_faculty"
+  },
+  {
+    "name": "Akira",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/5/56/Akira.png",
+    "description": "As a young boy in Japan, Akira was a minor child-star on television. He spent four years playing the part of \"Whitey\" on \"Let Trouble-Makey Beaver Do Himself.\" a Japanese sitcom inspired by a 1950's American TV show. As he grew older, acting jobs became scarce, so Akira enrolled in a cooking school. Upon graduation, he came to America and opened a restaurant in Springfield called \"The Happy Sumo.\" In addition to the culinary arts, Akira practices the martial arts, teaching karate at the Sprin...",
     "role": "Alive",
     "attributes": {
       "Sex": "Male ♂",
       "Status": "Alive",
-      "Age": "20s",
-      "Hair": "Brown",
-      "Job": "Clerk at Barney's Bowlarama",
-      "Appearance": "\" Life on the Fast Lane \""
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Bowl-O-Rama_Clerk"
-  },
-  {
-    "name": "Honoré DuBrock",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/b/b4/P192_152_203.jpg",
-    "description": "Honoré DuBrockCharacter InformationGenderMale ♂StatusUnknownRelationsWife:Lolita BouvierDaughter:Diva DuBrockBehind the ScenesFirst episode appearanceThe Simpsons Uncensored Family Album",
-    "role": "Anime Character",
-    "attributes": {
-      "Sex": "Male ♂",
-      "Relatives": "Wife: Lolita Bouvier Daughter: Diva DuBrock"
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Honor%C3%A9_DuBrock"
-  },
-  {
-    "name": "Professor Pigskin",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/6/6e/Professor_Pigskin.png",
-    "description": "Professor Pigskinis a football winner predictor used by Homer to gamble on different games.Lisais skeptical about it saying that it probably sends out half predicting one team, half predicting the other. They keep doing that until the people who only got the right predictions pay for a subscription. She was eventually proven right in their trustworthiness, or lack thereof, afterHomerpaid for a subscription, and was told to bet for the Raiders, who not only were doing terribly, but the entire ...",
-    "role": "Anime Character",
-    "attributes": {
-      "Species": "Pig",
-      "Gender": "Male ♂",
-      "Color": "Pink",
-      "Appearance": "\" Bonfire of the Manatees \""
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Professor_Pigskin"
-  },
-  {
-    "name": "Swedish Boxer",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/0/01/Swedeboxer.jpeg",
-    "description": "TheSwedish BoxerrepresentedSwedenin men's boxing at the 1984 Summers Olympics inLos Angeles. He was knocked out in the finals by the much strongerDrederick Tatumof theUnited States of America.",
-    "role": "Anime Character",
-    "attributes": {
-      "Sex": "Male ♂",
-      "Hair": "Blond",
-      "Job": "Olympic boxer",
-      "Appearance": "\" Lisa's First Word \""
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Swedish_Boxer"
-  },
-  {
-    "name": "Dr. S",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/a/ac/Dr._S.jpg",
-    "description": "Dr.SCharacter InformationGenderMale ♂StatusAliveHair ColorPurpleOccupationSpirograph scientistConspiracy theoristBehind the ScenesFirst episode appearance\"Radioactive Man\"Portrayed byDan CastellanetaDr. Sis a mysterious scientist living in the Springfield Spirograph factory. He specializes in Spirographs and studies them, and seems to think that there is a direct correlation between the decline of Spirograph and the rise in gang activity.",
-    "role": "Alive",
-    "attributes": {
-      "Sex": "Male ♂",
-      "Status": "Alive",
-      "Hair": "Purple",
-      "Job": "Spirograph scientist Conspiracy theorist",
-      "Appearance": "\" Radioactive Man \""
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Dr._S"
-  },
-  {
-    "name": "Itchy & Scratchy Land Guard 1",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/f/f3/1guard.jpg",
-    "description": "Itchy & Scratchy Land GuardCharacter InformationGenderMale ♂Hair ColorBlondOccupationSecurity GuardBehind the ScenesFirst episode appearance\"Itchy & Scratchy Land\"Itchy & Scratchy Land Guard 1is a security guard at theItchy & Scratchy Land Theme Park. He along withItchy & Scratchy Land Guard 2escortsMarge SimpsontoBartandHomerafter they have been imprisoned by the theme park.",
-    "role": "Anime Character",
-    "attributes": {
-      "Sex": "Male ♂",
-      "Hair": "Blond",
-      "Appearance": "\" Itchy & Scratchy Land \""
-    },
-    "source_url": "https://simpsons.fandom.com/wiki/Itchy_%26_Scratchy_Land_Guard_1"
-  },
-  {
-    "name": "Mr. Bergstrom",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/0/0f/Mr._Bergstrom_Tapped_Out.png",
-    "description": "Mr. Bergstrom took over forMs. Hooverafter she believed she had Lyme Disease andLisaimmediately took to him because he was the kind of male role model she needed in her life, but he had to leaveSpringfieldafter Ms. Hoover returned. A distraught Lisa ran to stop him, and Mr. Bergstrom gave her a note saying \"You areLisa Simpson\" before moving to Capitol City, where he said he got a job near the government housing projects. His final words to Lisa were \"It will be okay Lisa, just read the note!\".",
-    "role": "Alive",
-    "attributes": {
-      "Sex": "Male ♂",
-      "Status": "Alive",
-      "Alias": "Mr. \"Nerdstrom\" Mr. \"Boogerstrom\" \"The Singing Dork\"",
+      "Age": "32",
+      "Japanese": "あきら",
+      "Romanji": "Akira",
       "Hair": "Black",
-      "Job": "Substitute Teacher",
-      "Appearance": "\" Lisa's Substitute \"",
-      "Voiced By": "Dustin Hoffman (Credited as Sam Etic"
+      "Job": "Waiter/Chef at The Happy Sumo Karate teacher at Springfield Martial Arts Academy",
+      "Appearance": "\" One Fish, Two Fish, Blowfish, Blue Fish \"",
+      "Voiced By": "Hank Azaria George Takei (\" One Fish, Two Fish, Blowfish, Blue Fish \""
     },
-    "source_url": "https://simpsons.fandom.com/wiki/Mr._Bergstrom"
+    "source_url": "https://simpsons.fandom.com/wiki/Akira"
   },
   {
-    "name": "Warburton Parker",
-    "image_url": "https://static.wikia.nocookie.net/simpsons/images/e/eb/Warburton_Parker.png",
-    "description": "Warbuton ParkerCharacter InformationGenderMale ♂StatusAliveHair ColorDirty blondOccupationBranding expertBehind the ScenesFirst episode appearance\"The Winter of Our Monetized Content\"Portrayed byJohn MulaneyWarburton Parkeris a branding expert specializing in social media hired byHomerandBartand another time byMr. Burns.",
-    "role": "Alive",
+    "name": "Mafia victim",
+    "image_url": "https://static.wikia.nocookie.net/simpsons/images/d/de/Mafia_victim.png",
+    "description": "Mafia victimis a non-speaking character appearing as a corpse inThe Simpsons Movie. When dumping in the lake is outlawed,Fat Tony,Legs, andLouieare seen attempting to hide his body in the lake. WhenChief Wiggumstates that dumping in the lake is outlawed. Fat Tony, referring to the corpse as \"yard trimmings\" states that he will dispose of it elsewhere. When Lou comments that he thinks Fat Tony has a corpse, Wiggum states he thought that until Tony referred to it as \"yard trimmings\".",
+    "role": "Deceased",
     "attributes": {
       "Sex": "Male ♂",
-      "Status": "Alive",
-      "Appearance": "\" The Winter of Our Monetized Content \""
+      "Status": "Deceased",
+      "Alias": "Yard trimmings (by Fat Tony"
     },
-    "source_url": "https://simpsons.fandom.com/wiki/Warburton_Parker"
+    "source_url": "https://simpsons.fandom.com/wiki/Mafia_victim"
   }
 ]

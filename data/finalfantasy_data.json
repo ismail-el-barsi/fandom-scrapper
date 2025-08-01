@@ -1,0 +1,511 @@
+[
+  {
+    "name": "Seiryu (Final Fantasy XIV)",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/b/b5/FFXIV_Seiryuu.png",
+    "description": "Once the three other lords have been defeated, Seiryu is called upon to the temple where theWarrior of Lightcan calm the final lords aramitama. Having chosen his battleground Seiryu reveals to them that he will succumb to his aramitama to defeat Koryu once and for all. Becoming blinded by his ordeals, the two fight with the Warrior of Light becoming victorious. Having realized his mistake the two travel to the temple to restore the wards. Before Koryu breaks free, the Four Lords transform int...",
+    "role": "Game Character",
+    "attributes": {
+      "Affiliation": "Four Lords",
+      "Race": "Auspice",
+      "Gender": "Male",
+      "Type": "Boss",
+      "Designer": "Hiroyuki Nagamine [ 1"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Seiryu_(Final_Fantasy_XIV)"
+  },
+  {
+    "name": "Pulmia",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/c/ca/FFXIV_1x_Pulmia.png",
+    "description": "Since the adventurer joins the Culinarians' Guild, Pulmia andPrudentiaare his instructors. Although Pulmia and Prudentia are rivals at Bismarck, Pulmia ends up receiving more orders than Prudentia. Pulmia is engaged to Lienart, who once had a relationship with Adela, the former bride of Prudentia.",
+    "role": "Chef",
+    "attributes": {
+      "Home": "Limsa Lominsa",
+      "Affiliation": "The Bismarck",
+      "Occupation": "Chef",
+      "Race": "Hyur",
+      "Gender": "Female",
+      "Type": "Non-player character",
+      "Job": "Culinarian"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Pulmia"
+  },
+  {
+    "name": "Ninimo",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/9/9e/Ninimo_from_Final_Fantasy_XIV.png",
+    "description": "Nanapasi reveals his creation to Ninimo, only to receive a less than enthusiastic reaction. Mustering the courage to speak her mind, Ninimo reveals that her true intention in proposing the construction of the doll cart was to spend more time with her father, a message that finally gets through to the overwrought Nanapasi. Moved by his daughter's pure and gentle heart, Nanapasi apologizes for his obtuseness and vows that he will strive to be the father she always wanted him to be.",
+    "role": "Game Character",
+    "attributes": {
+      "Home": "Ul'dah",
+      "Race": "Dunesfolk Lalafell",
+      "Gender": "Female",
+      "Type": "Non-player character"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Ninimo"
+  },
+  {
+    "name": "Charlemend de Durendaire",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/8/8d/Charlemend_from_Final_Fantasy_XIV.png",
+    "description": "Count Charlemend de Durendaireis a non-playable character first introduced during subsequentFinal Fantasy XIV: Shadowbringersgame patches, but can be met as soon as the player finishes theHeavenswardexpansion and begins theIshgardian Restoration. He is the current Count ofHouse Durendaireand father ofCarvallain de Gorgagne. Believing his son died at sea, he has begun raising his youngest nephew to serve as the future head of the Durendaire family. He is the uncle toJannequinard de Durendaire.",
+    "role": "Count Hospital assistance",
+    "attributes": {
+      "Home": "Ishgard",
+      "Age": "59",
+      "Affiliation": "House Durendaire Ishgardian Restoration",
+      "Occupation": "Count Hospital assistance",
+      "Race": "Elezen",
+      "Gender": "Male",
+      "Hair": "Red",
+      "Eye": "White",
+      "Type": "Non-player character"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Charlemend_de_Durendaire"
+  },
+  {
+    "name": "Vedrfolnir",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/e/e9/Vedrfolnir_from_Final_Fantasy_XIV.png",
+    "description": "Vedrfolniris a wyvern inFinal Fantasy XIV. He is one of the children ofHraesvelgr. He was introduced to theHeavenswardexpansion as a World FATE boss, later in patch 3.3 Revenge of the Horde he made a minor appearance in Main Scenario Quest. Vedrfolnir receives a larger appearance duringDragoonquestline in theStormbloodexpansion.",
+    "role": "Game Character",
+    "attributes": {
+      "Home": "The Churning Mists",
+      "Affiliation": "Hraesvelgr 's brood",
+      "Race": "Dragon",
+      "Gender": "Male",
+      "Type": "Non-player character"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Vedrfolnir"
+  },
+  {
+    "name": "Tepeke",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/a/ab/Tepeke_from_Final_Fantasy_XIV.png",
+    "description": "When a merchant visited the village asking about the Perch of the Apex and its history, Tepeke proud that her father had been appointed its guardian, told him everything in an attempt to impress the merchant without even considering what he could do with the information. The merchant attacked Tepeke's father, and the treasure was stolen. With her father unconscious, Tepeke felt guilty and decided to recover the relic herself.",
+    "role": "Game Character",
+    "attributes": {
+      "Home": "Tural",
+      "Race": "Hhetsarro",
+      "Gender": "Female",
+      "Type": "Non-player character",
+      "Job": "Gladiator",
+      "Abilities": "Turali Tincture, Canopy Carve, Pare, Hollow Blade, Barkscore, Meadowreap, Wild Ivy, Shield Lob, Provoke",
+      "Weapon": "Dissector",
+      "Armor": "Blade's Harness of Fending"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Tepeke"
+  },
+  {
+    "name": "Brithael Spade",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/9/98/FFXIV_Brithael_Spade.png",
+    "description": "Brithael is the primary quest-giver for the Blacksmith class quests, and initially has theWarrior of Lightcraft simple items like bronze ingots and hammers untilH'naanzaof the Armorers' Guild orders him to increase exports toGridania. He works closely with a trader namedFaezahr, and does not agree to negotiate until he sees examples of their merchandise. The Warrior of Light crafts a sword and impresses the trader, who agrees to work with the guild. After making multiple contracts with the re...",
+    "role": "Guildmaster",
+    "attributes": {
+      "Age": "30 [ 1",
+      "Affiliation": "Blacksmiths' Guild",
+      "Occupation": "Guildmaster",
+      "Race": "Midlander Hyur",
+      "Gender": "Male",
+      "Hair": "Black",
+      "Eye": "Teal",
+      "Type": "Non-player character",
+      "Job": "Blacksmith",
+      "Weapon": "Doman Steel Cross-Pein Hammer",
+      "Armor": "Blacksmith's Gear"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Brithael_Spade"
+  },
+  {
+    "name": "Wunthyll",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/8/88/Wunthyll_from_FFXIV_2015.png",
+    "description": "In order to attract more people to the Adventurers' Guild, it was decided to hold the event in Costa del Sol. Once MasterGegerujuhad given them permission to use his beaches, the Adventurers' Guild began preparations. Needing help,HaermagaaskedWarrior of Lightto help the chaperones in Costa del Sol. When speaking with chaperoneP'obyano, she explained that she is dealing with unruly pirates, dirty beaches, curious beasts, and hungry customers.",
+    "role": "Pirate (formerly) Chaperone",
+    "attributes": {
+      "Affiliation": "Adventurers' Guild Moonfire Faire",
+      "Occupation": "Pirate (formerly) Chaperone",
+      "Race": "Sea Wolf Roegadyn",
+      "Gender": "Male",
+      "Type": "Non-player character"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Wunthyll"
+  },
+  {
+    "name": "Nybeth Obdilord",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/0/0d/Nybeth.png",
+    "description": "Nybeth Obdilord was a powerful necromancer and lich in another world, obsessed with overcoming death and resurrecting the dead. Traveling tothe Sourcethrough unknown means, he set up base in the Palace of the Dead within theBlack Shroud, where he continued his dark experiments on raising the dead. After numerous failures, he choseEddaas his next test subject, believing that her strong soul would be ideal for his work. Although he was successful in partially resurrecting her, he was unsatisfie...",
+    "role": "Game Character",
+    "attributes": {
+      "Race": "Hyur (Lich",
+      "Gender": "Male",
+      "Hair": "White",
+      "Eye": "White",
+      "Type": "Boss",
+      "Original Appearance": "As a character in Tactics Ogre: Let Us Cling Together"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Nybeth_Obdilord"
+  },
+  {
+    "name": "Cocoboha",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/a/a9/Cocoboha_from_Final_Fantasy_XIV.png",
+    "description": "The day after theBattle of Carteneau, Cocoboha and his brothers formed a posse with SultanaNanamo Ul Namoto restore order toUl'dahin the immediate aftermath. After the previous guildmaster,Mumuepo, was arrested on charges of embezzlement, the thaumaturge brothers became joint Guildmaster of the Thaumaturges' Guild.",
+    "role": "Thaumaturges' Guildmaster",
+    "attributes": {
+      "Home": "Ul'dah",
+      "Affiliation": "Order of Nald'thal",
+      "Occupation": "Thaumaturges' Guildmaster",
+      "Race": "Dunesfolk Lalafell",
+      "Gender": "Male",
+      "Eye": "Red",
+      "Type": "Non-player character",
+      "Weapon": "Gridanian Staff"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Cocoboha"
+  },
+  {
+    "name": "Artoirel de Fortemps",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/b/b0/Artoirel_de_Fortemps_from_Final_Fantasy_XIV.png",
+    "description": "Artoirel is the elder of the Count's sons, and along with Emmanellain, the Warrior of Light is asked to assist them with their duties. Artoirel aids in the rebuilding of Falcon's Nest and is initially dismissive of the foreigners granted asylum by his father. He soon changes his mind when the Warrior of Light assists in dealing withYsayle'sheretics in theCoerthas Western Highlands.",
+    "role": "Count",
+    "attributes": {
+      "Home": "Ishgard",
+      "Age": "30",
+      "Affiliation": "House Fortemps",
+      "Occupation": "Count",
+      "Race": "Elezen",
+      "Gender": "Male",
+      "Hair": "Dark blue",
+      "Eye": "Blue",
+      "Type": "Non-player character",
+      "Job": "Gladiator",
+      "Abilities": "Last Vigil, Feral Charge, Noble Blade, Wrath of Halone, Prowess",
+      "Weapon": "Brass Viking Sword",
+      "Japanese Voice Actor": "Tsuguo Mogami",
+      "English Voice Actor": "Harry Hadden-Paton"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Artoirel_de_Fortemps"
+  },
+  {
+    "name": "Minfilia Warde",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/9/99/Minfilia_NPC_Render.png",
+    "description": "Minfilia Warde[mɪnˈfɪl.i.ə ˈwɔːrd]is a prominentnon-player characterinFinal Fantasy XIV. She was once the leader of thePath of the Twelve, an organization of people touched by theEcho, and guided walkers of the Path how to use it to bring about peace. She first appeared inUl'dah's main storylineas Ascilia, daughter ofWarburton.Minfilia somewhat abruptly exited the story as theSeventh Umbral Eraplotline began to take precedence to set upA Realm Reborn.",
+    "role": "Acting Antecedent of the Path of the Twelve Antecedent of the Scions of the Seventh Dawn",
+    "attributes": {
+      "Age": "27",
+      "Affiliation": "Path of the Twelve Scions of the Seventh Dawn",
+      "Occupation": "Acting Antecedent of the Path of the Twelve Antecedent of the Scions of the Seventh Dawn",
+      "Race": "Highlander Hyur",
+      "Gender": "Female",
+      "Hair": "Blonde",
+      "Job": "Miner",
+      "Japanese Voice Actor": "Miyuki Sawashiro ( A Realm Reborn , Heavensward ) Yuna Kamakura ( Shadowbringers",
+      "English Voice Actor": "Amy Bolton ( A Realm Reborn ) Zoë Tapper ( Heavensward onwards"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Minfilia_Warde"
+  },
+  {
+    "name": "Nald'thal",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/2/24/Nald_render_from_FFXIV.png",
+    "description": "At the beginning of time, there was no death.OschoninvitedHaloneon one of his journeys. During the travels Halone's ambition slowly transformed into a lust for battle. While on the road, she challenged every creature She met, honing Her skills and methodically devising new techniques for killing. WhenNophica, mother of life, learned of Halone's wanton destruction of Her creations, she was angered beyond words and swore revenge. Oschon, feeling responsible for this rift, devised a plan to calm...",
+    "role": "Game Character",
+    "attributes": {
+      "Image": "Nald",
+      "Home": "Heaven of Fire",
+      "Affiliation": "The Twelve",
+      "Gender": "Male",
+      "Type": "Boss",
+      "Designer": "Tetsu Tsukamoto [ 1",
+      "Japanese Voice Actor": "Riki Kitazawa [ 2",
+      "English Voice Actor": "Jay Saighal"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Nald%27thal"
+  },
+  {
+    "name": "Jandelaine",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/6/63/FFXIV_Jandelaine.png",
+    "description": "The Aesthetician services tweak cosmetic features for a fee of 2,000gil, including access to some exclusive hairstyles not available atcharacter creation. These functions include adjusting hairstyle and color, eyebrows,tattoosand tattoo color, facial features (e.g. scars), face paint, and lip color. More complex adjustments (such as face type or eyes) require the use of a Fantasia potion. Jandelaine's services cannot be used inthe First.",
+    "role": "Aesthetician",
+    "attributes": {
+      "Home": "Ishgard",
+      "Race": "Elezen",
+      "Gender": "Male",
+      "Hair": "Peach and lilac",
+      "Eye": "Pink",
+      "Type": "Non-player character"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Jandelaine"
+  },
+  {
+    "name": "Quimperain Evertrue",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/0/02/FFXIV_Quimperain.png",
+    "description": "Quimperain is tasked byJannequinardto assist him,Leveva Byrde, and the Warrior of Light during theAstrologianjob quests. Though he willingly carries out his master's orders, he initially confides his skepticism of Sharlayan astrology. This stance gradually changes as he sees first-hand how effective the art is in combat as used by Leveva and the Warrior of Light (though he admits he wouldn't trust Jannquinard's lackluster effort).",
+    "role": "Durendaire manservant",
+    "attributes": {
+      "Home": "Ishgard",
+      "Affiliation": "House Durendaire",
+      "Occupation": "Durendaire manservant",
+      "Race": "Elezen",
+      "Gender": "Male",
+      "Hair": "Blue",
+      "Eye": "Blue",
+      "Type": "Non-player character",
+      "Job": "Gladiator",
+      "Abilities": "Spirits Without, Flash",
+      "Weapon": "Dzemael Winglet",
+      "Armor": "Vigil's set"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Quimperain_Evertrue"
+  },
+  {
+    "name": "Fourchenault Leveilleur",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/2/20/Fourchenault_from_Final_Fantasy_XIV_render.png",
+    "description": "Fourchenault has carried a deep respect of Sharlayan's founding father,Nyunkrepf Nyunkrepfsyn, throughout his forty years. He eschews war as the pursuit of barbarians alone and seeks advancement through wisdom and reason. As such, he oft disagreed with his father, particularly when the latter established theCircle of Knowingto safeguardEorzea's future. Nonetheless, Fourchenault respected people's right to make their own decisions, and did not attempt to bar the way when his sire and children ...",
+    "role": "Old Sharlayan Forum member",
+    "attributes": {
+      "Home": "Sharlayan",
+      "Age": "40",
+      "Affiliation": "Old Sharlayan The Forum",
+      "Occupation": "Old Sharlayan Forum member",
+      "Race": "Elezen",
+      "Gender": "Male",
+      "Hair": "White",
+      "Eye": "Blue",
+      "Type": "Non-player character",
+      "Job": "Sage",
+      "Abilities": "Dosis III, Metadosis III, Diagnosis, Prognosis, Metaprognosis, Dyskrasia II, Epimeleia, Phraktos",
+      "Weapon": "Hagneia",
+      "Japanese Voice Actor": "Kenyu Horiuchi",
+      "English Voice Actor": "Anthony Howell"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Fourchenault_Leveilleur"
+  },
+  {
+    "name": "J'olhmyn Abah",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/0/00/J%27olhmyn_from_Final_Fantasy_XIV.png",
+    "description": "Born in the town ofAla Ghirialongside others of the J tribe, J'olhmyn grew up with the local inns and merchants catering to the occupation force, and was no stranger to the casual cruelties of imperial soldiers. Such experiences fostered a desire to join those fighting their oppressors, and on her eighteenth nameday, she broke ties with her mother and fled her home and enlist herself with the Ala Mhigan Resistance.",
+    "role": "Game Character",
+    "attributes": {
+      "Home": "The Peaks",
+      "Age": "23 [ 1",
+      "Race": "Seeker of the Sun Miqo'te",
+      "Gender": "Female",
+      "Type": "Non-player character",
+      "Job": "Lancer",
+      "Weapon": "Cobalt Trident",
+      "Armor": "Filibuster's Gambison of Scouting"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/J%27olhmyn_Abah"
+  },
+  {
+    "name": "Regula Hydrus",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/7/78/Regula.png",
+    "description": "TheWarrior of LightandAlphinaud Leveilleurarrive in theSea of Cloudsin pursuit of ArchbishopThordan VII. Seeking the key to Azys Lla in the possession of the primalBismarck, Regula confronts the pair alongside Emperor Varis Zos Galvus. They are forced to withdraw whenLuciacomes to their aid in a suit ofMagitek Armor.",
+    "role": "Legatus",
+    "attributes": {
+      "Age": "44",
+      "Affiliation": "Garlean Empire VIth Imperial Legion",
+      "Occupation": "Legatus",
+      "Race": "Garlean",
+      "Gender": "Male",
+      "Type": "Non-player character",
+      "Weapon": "The Bastard",
+      "Japanese Voice Actor": "Jurota Kosugi",
+      "English Voice Actor": "Stephen Campbell Moore"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Regula_Hydrus"
+  },
+  {
+    "name": "Vellguine de Bourbagne",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/1/1a/FFXIV_HW_Ser_Vellguine.png",
+    "description": "Known as the Unbreakable Stone Spear for his stern and solemn disposition, Ser Vellguine was the second hand to the former Very Reverened Archimandrite Ser Vaindreau de Rouchemande,and was expected to become the next archimandrite following his death. Believing himself to be better suited to his current position, he declined thearchbishop's offer and recommended Ser Zephirin assume the role.",
+    "role": "Game Character",
+    "attributes": {
+      "Age": "38 [ 1",
+      "Affiliation": "Heavens' Ward",
+      "Race": "Elezen",
+      "Gender": "Male",
+      "Hair": "Grey",
+      "Eye": "Grey",
+      "Type": "Non-player character",
+      "Job": "Lancer",
+      "Weapon": "The Destroyer's Stead (Spear"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Vellguine_de_Bourbagne"
+  },
+  {
+    "name": "Solkwyb Saelsmyndsyn",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/f/f8/Solkwyb_from_Final_Fantasy_XIV.png",
+    "description": "She later assists the Adventurer in aiding the guards of Costa del Sol with a turtle problem. During the skirmish, a warrior namedCurious Gorgeappeared and fended off a large turtle. Solkwyb recognizes his techniques as being of lost arts of the Warrior, and encourages the adventurer to take up his offer of training.",
+    "role": "Game Character",
+    "attributes": {
+      "Home": "Limsa Lominsa",
+      "Affiliation": "Marauders' Guild",
+      "Race": "Roegadyn",
+      "Gender": "Female",
+      "Type": "Non-player character",
+      "Job": "Conjurer"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Solkwyb_Saelsmyndsyn"
+  },
+  {
+    "name": "13th Order Fugleman Zo Ga",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/f/f6/FFXIV_ARR_Zo_Ga.png",
+    "description": "Zo Ga exiled the 789th Order because of her incompetence at work and refused any attempt at their later efforts. Zo Ga also forcesBi Bito create an oven prototype that he could use to punish opposing him. Following an attempted attack on Camp Overlook, Zo Ga discovers Bi Bi's involvement with the 789th Order and arrests her.Gi Guand theWarrior of Lightinvade the mines and blow up all the ovens, when Zo Ga ambushes the duo he ends up defeated by Gi Gu.",
+    "role": "Fugleman",
+    "attributes": {
+      "Home": "U'Ghamaro Mines",
+      "Affiliation": "13th Order",
+      "Occupation": "Fugleman",
+      "Race": "Kobold",
+      "Gender": "Male",
+      "Type": "Non-player character"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/13th_Order_Fugleman_Zo_Ga"
+  },
+  {
+    "name": "Myste (Final Fantasy XIV)",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/4/49/Myste_ffxiv_render.png",
+    "description": "Mysteis non-player character inFinal Fantasy XIV. He is a mysterious elezen boy that appears during theDark Knightquestline.",
+    "role": "Game Character",
+    "attributes": {
+      "Home": "Ishgard",
+      "Race": "Elezen",
+      "Gender": "Male",
+      "Hair": "White",
+      "Armor": "Landking's Coat"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Myste_(Final_Fantasy_XIV)"
+  },
+  {
+    "name": "Hugue",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/2/20/Hugue_from_Final_Fantasy_XIV.png",
+    "description": "Coming from a poor refugee family, Hugue lived alone with his mother. One day, when his mother's birthday was approaching, Hugue decided he would do something to make her happy. He stole a ring to give to her as a present. He regretted it almost immediately, but it was too late. Hugue was soon arrested and dismissed from his job as a laborer. With no money and no job that would accept a thief, Hugue fell into despair. When he had already given up,Godbert Manderville, the owner of the gold rin...",
+    "role": "Attendant",
+    "attributes": {
+      "Affiliation": "Manderville Gold Saucer",
+      "Occupation": "Attendant",
+      "Race": "Midlander Hyur",
+      "Gender": "Male",
+      "Type": "Non-player character",
+      "Armor": "Best Man's Jacket"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Hugue"
+  },
+  {
+    "name": "Sadu Dotharl",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/7/71/Sadu_from_Final_Fantasy_XIV.png",
+    "description": "Sadu joined the Ilsabard Contingent as one of the leaders ofXaela tribesalongsideCirina MolandMagnai Oronir(the latter much to her chagrin). She escorted the supply convoy alongside them and theScions of the Seventh Dawnand cast the ultimate spell to wipe out theTelophoroiattacking them. Later, she worked with Cirina and Magnai throughout the campaign, with Cirina having to keep the two rivals in check. At the closing stage, she joined with them,Lyse HextandPipin Tarupinto assault theTower of...",
+    "role": "Khatun",
+    "attributes": {
+      "Home": "Azim Steppe",
+      "Affiliation": "Dotharl Tribe",
+      "Occupation": "Khatun",
+      "Race": "Au Ra",
+      "Gender": "Female",
+      "Hair": "Platinum blond",
+      "Eye": "Light blue",
+      "Type": "Non-player character",
+      "Job": "Thaumaturge",
+      "Abilities": "Stellar Chuluu summon",
+      "Weapon": "Scintillant Staff",
+      "Armor": "Bloodhempen casting set",
+      "Japanese Voice Actor": "Rie Tanaka",
+      "English Voice Actor": "Beatriz Romilly"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Sadu_Dotharl"
+  },
+  {
+    "name": "Jullus Norbanus",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/f/ff/Jullus_pyr_Norbanus_from_FFXIV.png",
+    "description": "When the Great Company ofEorzeasent the Ilsabard contingent to assist remaining Garleans, Jullus, in desperation, tried to sneak into their base camp and steal supplies, but he was caught and restrained byMagnai OronirandCirina Mol.Lucia Juniusquestioned him, and he was disgusted seeing that born Garleans were consorting with Eorzeans, declaring them traitors to their homeland. Lucia did not fall into arguments, and claimed the contingent would be willing to share their supplies with his peop...",
+    "role": "Game Character",
+    "attributes": {
+      "Home": "Garlemald",
+      "Affiliation": "Ist Imperial Legion",
+      "Race": "Garlean",
+      "Gender": "Male",
+      "Type": "Non-player character",
+      "Japanese Voice Actor": "Ryota Suzuki",
+      "English Voice Actor": "Nigel Pilkington"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Jullus_Norbanus"
+  },
+  {
+    "name": "Ywain Deepwell",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/8/8b/FFXIV_Ywain.png",
+    "description": "I am Ywain, the master of the Lancers' Guild. My charge is to oversee the training of those who seek to master the polearm. I served as a Wood Wailer until circumstances forced me to hang up my spear. It was then that I took up my post here, upon the recommendation of my former Captain. That was shortly after the Calamity. I must confess that I was none too pleased to leave the front lines at first, but with time I came to appreciate my new role, and now I would not exchange it for any other....",
+    "role": "Guildmaster",
+    "attributes": {
+      "Age": "36 [ 1",
+      "Occupation": "Guildmaster",
+      "Race": "Midlander Hyur",
+      "Gender": "Male",
+      "Hair": "Blonde",
+      "Eye": "Brown",
+      "Type": "Non-player character",
+      "Job": "Lancer",
+      "Weapon": "Hart Guisarme"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Ywain_Deepwell"
+  },
+  {
+    "name": "Dauid",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/f/fa/Dauid_from_Final_Fantasy_XIV.png",
+    "description": "Dauid founded Angrbotha Apparel and Accoutrements and began competing with the renowned Fen-Yll Fineries by counterfeiting their products. Dauid would tell his customers that they were Gradanian leatherworkers making them believe that they were buying products from Fen-Yll Fineries. Eventually the counterfeit products began to cause a series of problems for the Leatherworkers' Guild.",
+    "role": "Founder and proprietor",
+    "attributes": {
+      "Home": "Gridania",
+      "Occupation": "Founder and proprietor",
+      "Race": "Midlander Hyur",
+      "Gender": "Male",
+      "Hair": "Brown",
+      "Type": "Non-player character"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Dauid"
+  },
+  {
+    "name": "Nyipine",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/4/4c/Nyipine_from_Final_Fantasy_XIV.png",
+    "description": "When theHeartstingwas stolen from his village by thePassage of the Unbound, Nyipine andLoashkana, the village elder's daughter, traveled toTuliyollalto recover the treasure. They were ambushed by the thieves and Nyipine had her foot severely injured by a mammet. Loashkana insisted that Nyipine remain inTuralto recover while she continued the mission alone. On recommendation ofBr'uk Evu, Nyipine asked theWarrior of Lightassist Loashkana, who had gone toLimsa Lominsaafter hearing incidents of b...",
+    "role": "Game Character",
+    "attributes": {
+      "Home": "Xak Tural",
+      "Race": "Tonawawta",
+      "Gender": "Male",
+      "Type": "Non-player character",
+      "Job": "Lancer",
+      "Weapon": "Zormor Spear",
+      "Armor": "Iridescent Acton of Scouting"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Nyipine"
+  },
+  {
+    "name": "Qih Aliapoh",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/c/c4/FFXIV_Qih_Aliapoh.png",
+    "description": "Qih is a young Miqo'te woman with blonde hair and amber eyes. She has dark skin and facial tattoos on the sides of her face. She wears a yellow Studium uniform, along with a Shiba dog earring.",
+    "role": "Game Character",
+    "attributes": {
+      "Home": "Old Sharlayan",
+      "Age": "26",
+      "Affiliation": "Studium",
+      "Race": "Miqo'te",
+      "Gender": "Female",
+      "Hair": "Blonde",
+      "Eye": "Amber",
+      "Type": "Non-player character"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Qih_Aliapoh"
+  },
+  {
+    "name": "Warrior of Light (Final Fantasy XIV)",
+    "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/f/fb/XIV_Cover.jpg",
+    "description": "The player character is an adventurer inEorzeaduring theSeventh Umbral Erawho joins one of the threeGrand Companiesand becomes a key member of theScions of the Seventh Dawn. The Warrior of Light can be one of the eight major races of Eorzea:Hyur,Miqo'te,Roegadyn,Lalafell,Elezen,Au Ra,Viera, orHrothgar. In the CG cutscenes and most of the game's trailers, a young male Midlander Hyur represents the Warrior of Light, appearing as anArcherin the opening of the original game, as aWarriorin the \"En...",
+    "role": "Adventurer",
+    "attributes": {
+      "Occupation": "Adventurer",
+      "Race": "Hyur",
+      "Gender": "Male",
+      "Hair": "Brown",
+      "Eye": "Blue",
+      "Type": "Non-player character",
+      "Job": "Gladiator Archer Warrior Dragoon Monk Samurai Dark Knight Paladin Viper",
+      "Designer": "Akihiko Yoshida"
+    },
+    "source_url": "https://finalfantasy.fandom.com/wiki/Warrior_of_Light_(Final_Fantasy_XIV)"
+  }
+]

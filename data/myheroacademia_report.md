@@ -1,6 +1,6 @@
 # Rapport de Scraping pour : myheroacademia
 - **Statut :** ✅ SUCCÈS - 50 fiches valides (minimum requis: 10)
-- **Temps total :** 104.99s
+- **Temps total :** 110.72s
 - **Catégories testées :** 1 (Catégorie principale)
 - **Catégorie utilisée :** Catégorie principale
 - **Liens trouvés :** 107
@@ -20,7 +20,7 @@
 - 📝 Avec description valide : 50/50 (100.0%)
 - 🏷️ Avec rôle spécifique : 50/50 (100.0%)
 - 🔖 Avec attributs : 50/50 (100.0%)
-- 📈 Nombre moyen d'attributs : 13.0
+- 📈 Nombre moyen d'attributs : 13.7
 
 **Système de nettoyage :** ✅ Améliorations activées
 - Détection de valeurs tronquées

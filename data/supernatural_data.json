@@ -1,5 +1,59 @@
 [
   {
+    "name": "Julie (Supernatural: Origins)",
+    "image_url": "https://static.wikia.nocookie.net/supernatural/images/5/5e/Julie_%28Supernatural_Origins%29.png",
+    "description": "Julie eventually became the best friend of Mary prior to the latter's death and was saddened when upon hearing the news that her friend had died. She was visited on Thursday, November 10, 1983 where John had his sons sleep over. That night, the two talked about what had really happened with Julie believing John's story that he saw Mary die on the ceiling was due to falling asleep watching the television.",
+    "role": "Deceased (unknown cause of death",
+    "attributes": {
+      "Comic Book": "Supernatural: Origins",
+      "Category": "Human (formerly",
+      "Appearance": "Supernatural: Origins Issue #1",
+      "Status": "Deceased (unknown cause of death"
+    },
+    "source_url": "https://supernatural.fandom.com/wiki/Julie_(Supernatural:_Origins)"
+  },
+  {
+    "name": "Queen Elizabeth",
+    "image_url": "https://static.wikia.nocookie.net/supernatural/images/5/53/Queen_Elizabeth.png",
+    "description": "Queen Elizabeth II, born asElizabeth Alexandra Mary(21 April 1926 – 8 September 2022) was the Queen of the United Kingdom from February 6, 1952 until her death on September 8, 2022.",
+    "role": "Queen of England",
+    "attributes": {
+      "Category": "Lizard People",
+      "Status": "Deceased",
+      "Title/Alias": "Queen of England",
+      "Occupation": "Queen of England (formerly",
+      "Affiliation": "Lizard people Royal Family"
+    },
+    "source_url": "https://supernatural.fandom.com/wiki/Queen_Elizabeth"
+  },
+  {
+    "name": "Anne Marie",
+    "image_url": "https://static.wikia.nocookie.net/supernatural/images/3/34/Anne_Marie.png",
+    "description": "At some point in time, she began dating Rick. One night during Oktoberfest 2008, the two of them would go to a secluded to make out with Rick attempting to become sexual with her though Anne Marie refused to let him go further with Rick insisting he had to as if he didn't then things would go badly for him with Anne Marie refusing to believe that Rick would gain medical problems if he did not fully make out with her.",
+    "role": "Baby (by Rick Deacon",
+    "attributes": {
+      "Category": "Human",
+      "Status": "Alive",
+      "Title/Alias": "Baby (by Rick Deacon",
+      "Affiliation": "Rick Deacon (boyfriend) † Sam Winchester Dean Winchester",
+      "Actor": "Carmen Lavigne"
+    },
+    "source_url": "https://supernatural.fandom.com/wiki/Anne_Marie"
+  },
+  {
+    "name": "Jacob Campbell (Supernatural: Origins)",
+    "image_url": "https://static.wikia.nocookie.net/supernatural/images/8/82/Jacob_SPN_Origins.png",
+    "description": "Jacob CampbellSpeciesHumanStatusDeceased(killed by aHellhoundcontrolled byHunter)Title/AliasUncle Jacob(by Sam and Dean Winchester)AffiliationFletcher GableFamilySamuel Campbell(father)Deanna Campbell(mother)Mary Winchester(sister)John Winchester(brother-in-law)Sam Winchester(nephew)Dean Winchester(nephew",
+    "role": "Uncle Jacob (by Sam and Dean Winchester",
+    "attributes": {
+      "Category": "Human",
+      "Status": "Deceased (killed by a Hellhound controlled by Hunter",
+      "Title/Alias": "Uncle Jacob (by Sam and Dean Winchester",
+      "Family": "Samuel Campbell (father) Deanna Campbell (mother) Mary Winchester (sister) John Winchester (brother-in-law) Sam Winchester (nephew) Dean Winchester (nephew"
+    },
+    "source_url": "https://supernatural.fandom.com/wiki/Jacob_Campbell_(Supernatural:_Origins)"
+  },
+  {
     "name": "Pastor Jim (Supernatural: Origins)",
     "image_url": "https://static.wikia.nocookie.net/supernatural/images/d/d1/Pastor_Jim.png",
     "description": "Prior to November of 1983, Jim became a pastor but became aware of the existence of the supernatural. He was described by Hunter to being who they needed before warning the Winchester to be polite.",
@@ -13,17 +67,17 @@
     "source_url": "https://supernatural.fandom.com/wiki/Pastor_Jim_(Supernatural:_Origins)"
   },
   {
-    "name": "Pam (Supernatural: Rising Son)",
-    "image_url": "https://static.wikia.nocookie.net/supernatural/images/6/60/Possessed_Pam.png",
-    "description": "When Lilith ordered her allies to capture Sam by any means necessary, she had a demon possess the body of one of John's friends, a woman by the name of Pamela who was known to the Winchesters as Pam. When John dropped his sons of at Pam's house in an effort to ensure the safety of his youngest son, Sam and Dean were unaware that the woman was possessed.",
-    "role": "Deceased (killed by a demon then exorcised by John Winchester",
+    "name": "Ichi",
+    "image_url": "https://static.wikia.nocookie.net/supernatural/images/1/14/Ichi.png",
+    "description": "Ichiwas an Americanhunterand frequent visitor of theHarvelle's Roadhouseduring the 1980s. He was killed by ashapeshifterin the form of aheelerin an attempt to helpJohn WinchesterandHunterfind ahellhoundso that John could understand what killed his wife,Mary Winchester.",
+    "role": "Deceased (killed by a Shapeshifter",
     "attributes": {
-      "Comic Book": "Supernatural: Rising Son",
-      "Category": "Human (formerly) Vessel",
-      "Appearance": "Supernatural: Rising Son Issue 5",
-      "Status": "Deceased (killed by a demon then exorcised by John Winchester"
+      "Comic Book": "Supernatural: Origins",
+      "Category": "Human",
+      "Appearance": "Supernatural: Origins #3",
+      "Status": "Deceased (killed by a Shapeshifter"
     },
-    "source_url": "https://supernatural.fandom.com/wiki/Pam_(Supernatural:_Rising_Son)"
+    "source_url": "https://supernatural.fandom.com/wiki/Ichi"
   },
   {
     "name": "Pizza Delivery Guy",
@@ -53,84 +107,17 @@
     "source_url": "https://supernatural.fandom.com/wiki/Chuck_(Supernatural:_Origins)"
   },
   {
-    "name": "Julie (Supernatural: Origins)",
-    "image_url": "https://static.wikia.nocookie.net/supernatural/images/5/5e/Julie_%28Supernatural_Origins%29.png",
-    "description": "Julie eventually became the best friend of Mary prior to the latter's death and was saddened when upon hearing the news that her friend had died. She was visited on Thursday, November 10, 1983 where John had his sons sleep over. That night, the two talked about what had really happened with Julie believing John's story that he saw Mary die on the ceiling was due to falling asleep watching the television.",
-    "role": "Deceased (unknown cause of death",
+    "name": "Pam (Supernatural: Rising Son)",
+    "image_url": "https://static.wikia.nocookie.net/supernatural/images/6/60/Possessed_Pam.png",
+    "description": "When Lilith ordered her allies to capture Sam by any means necessary, she had a demon possess the body of one of John's friends, a woman by the name of Pamela who was known to the Winchesters as Pam. When John dropped his sons of at Pam's house in an effort to ensure the safety of his youngest son, Sam and Dean were unaware that the woman was possessed.",
+    "role": "Deceased (killed by a demon then exorcised by John Winchester",
     "attributes": {
-      "Comic Book": "Supernatural: Origins",
-      "Category": "Human (formerly",
-      "Appearance": "Supernatural: Origins Issue #1",
-      "Status": "Deceased (unknown cause of death"
+      "Comic Book": "Supernatural: Rising Son",
+      "Category": "Human (formerly) Vessel",
+      "Appearance": "Supernatural: Rising Son Issue 5",
+      "Status": "Deceased (killed by a demon then exorcised by John Winchester"
     },
-    "source_url": "https://supernatural.fandom.com/wiki/Julie_(Supernatural:_Origins)"
-  },
-  {
-    "name": "Ichi",
-    "image_url": "https://static.wikia.nocookie.net/supernatural/images/1/14/Ichi.png",
-    "description": "Ichiwas an Americanhunterand frequent visitor of theHarvelle's Roadhouseduring the 1980s. He was killed by ashapeshifterin the form of aheelerin an attempt to helpJohn WinchesterandHunterfind ahellhoundso that John could understand what killed his wife,Mary Winchester.",
-    "role": "Deceased (killed by a Shapeshifter",
-    "attributes": {
-      "Comic Book": "Supernatural: Origins",
-      "Category": "Human",
-      "Appearance": "Supernatural: Origins #3",
-      "Status": "Deceased (killed by a Shapeshifter"
-    },
-    "source_url": "https://supernatural.fandom.com/wiki/Ichi"
-  },
-  {
-    "name": "Jacob Campbell (Supernatural: Origins)",
-    "image_url": "https://static.wikia.nocookie.net/supernatural/images/8/82/Jacob_SPN_Origins.png",
-    "description": "Jacob CampbellSpeciesHumanStatusDeceased(killed by aHellhoundcontrolled byHunter)Title/AliasUncle Jacob(by Sam and Dean Winchester)AffiliationFletcher GableFamilySamuel Campbell(father)Deanna Campbell(mother)Mary Winchester(sister)John Winchester(brother-in-law)Sam Winchester(nephew)Dean Winchester(nephew",
-    "role": "Uncle Jacob (by Sam and Dean Winchester",
-    "attributes": {
-      "Category": "Human",
-      "Status": "Deceased (killed by a Hellhound controlled by Hunter",
-      "Title/Alias": "Uncle Jacob (by Sam and Dean Winchester",
-      "Family": "Samuel Campbell (father) Deanna Campbell (mother) Mary Winchester (sister) John Winchester (brother-in-law) Sam Winchester (nephew) Dean Winchester (nephew"
-    },
-    "source_url": "https://supernatural.fandom.com/wiki/Jacob_Campbell_(Supernatural:_Origins)"
-  },
-  {
-    "name": "Anne Marie",
-    "image_url": "https://static.wikia.nocookie.net/supernatural/images/3/34/Anne_Marie.png",
-    "description": "At some point in time, she began dating Rick. One night during Oktoberfest 2008, the two of them would go to a secluded to make out with Rick attempting to become sexual with her though Anne Marie refused to let him go further with Rick insisting he had to as if he didn't then things would go badly for him with Anne Marie refusing to believe that Rick would gain medical problems if he did not fully make out with her.",
-    "role": "Baby (by Rick Deacon",
-    "attributes": {
-      "Category": "Human",
-      "Status": "Alive",
-      "Title/Alias": "Baby (by Rick Deacon",
-      "Affiliation": "Rick Deacon (boyfriend) † Sam Winchester Dean Winchester",
-      "Actor": "Carmen Lavigne"
-    },
-    "source_url": "https://supernatural.fandom.com/wiki/Anne_Marie"
-  },
-  {
-    "name": "Hunter (Supernatural: Origins)",
-    "image_url": "https://static.wikia.nocookie.net/supernatural/images/1/12/Hunter_%28Origins%29.png",
-    "description": "Before his death, Hunter was a respected man in his community though his death was not known even to other hunters such asIchiorWilliamandEllen Harvelledespite being a frequent visitor of theHarvelle's Roadhouse.",
-    "role": "Deceased (killed by John Winchester",
-    "attributes": {
-      "Comic Book": "Supernatural: Origins",
-      "Category": "Human (formerly) Demon ( vessel",
-      "Appearance": "Supernatural: Origins #2",
-      "Status": "Deceased (killed by John Winchester"
-    },
-    "source_url": "https://supernatural.fandom.com/wiki/Hunter_(Supernatural:_Origins)"
-  },
-  {
-    "name": "Queen Elizabeth",
-    "image_url": "https://static.wikia.nocookie.net/supernatural/images/5/53/Queen_Elizabeth.png",
-    "description": "Queen Elizabeth II, born asElizabeth Alexandra Mary(21 April 1926 – 8 September 2022) was the Queen of the United Kingdom from February 6, 1952 until her death on September 8, 2022.",
-    "role": "Queen of England",
-    "attributes": {
-      "Category": "Lizard People",
-      "Status": "Deceased",
-      "Title/Alias": "Queen of England",
-      "Occupation": "Queen of England (formerly",
-      "Affiliation": "Lizard people Royal Family"
-    },
-    "source_url": "https://supernatural.fandom.com/wiki/Queen_Elizabeth"
+    "source_url": "https://supernatural.fandom.com/wiki/Pam_(Supernatural:_Rising_Son)"
   },
   {
     "name": "Fergus MacLeod",
@@ -144,5 +131,18 @@
       "Family": "Rowena MacLeod (mother) Unnamed father Gavin MacLeod (son"
     },
     "source_url": "https://supernatural.fandom.com/wiki/Fergus_MacLeod"
+  },
+  {
+    "name": "Hunter (Supernatural: Origins)",
+    "image_url": "https://static.wikia.nocookie.net/supernatural/images/1/12/Hunter_%28Origins%29.png",
+    "description": "Before his death, Hunter was a respected man in his community though his death was not known even to other hunters such asIchiorWilliamandEllen Harvelledespite being a frequent visitor of theHarvelle's Roadhouse.",
+    "role": "Deceased (killed by John Winchester",
+    "attributes": {
+      "Comic Book": "Supernatural: Origins",
+      "Category": "Human (formerly) Demon ( vessel",
+      "Appearance": "Supernatural: Origins #2",
+      "Status": "Deceased (killed by John Winchester"
+    },
+    "source_url": "https://supernatural.fandom.com/wiki/Hunter_(Supernatural:_Origins)"
   }
 ]

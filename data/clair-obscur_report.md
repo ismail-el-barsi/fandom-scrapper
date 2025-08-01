@@ -1,6 +1,6 @@
 # Rapport de Scraping pour : clair-obscur
 - **Statut :** ✅ SUCCÈS - 18 fiches valides (minimum requis: 10)
-- **Temps total :** 26.72s
+- **Temps total :** 24.10s
 - **Catégories testées :** 1 (Catégorie principale)
 - **Catégorie utilisée :** Catégorie principale
 - **Liens trouvés :** 33
@@ -29,33 +29,33 @@
 - Validation de qualité renforcée
 
 ## Fiches échouées
-- URL: https://clair-obscur.fandom.com/wiki/Tiffanie
-  - Raison: Image principale invalide pour Tiffanie
-- URL: https://clair-obscur.fandom.com/wiki/Cyril
-  - Raison: Image principale invalide pour Cyril
-- URL: https://clair-obscur.fandom.com/wiki/Amandine
-  - Raison: Image principale invalide pour Amandine
-- URL: https://clair-obscur.fandom.com/wiki/Nicolas
-  - Raison: Image principale invalide pour Nicolas
-- URL: https://clair-obscur.fandom.com/wiki/Colette
-  - Raison: Image principale invalide pour Colette
-- URL: https://clair-obscur.fandom.com/wiki/Eloise
-  - Raison: Image principale invalide pour Eloise
-- URL: https://clair-obscur.fandom.com/wiki/Lucie
-  - Raison: Image principale invalide pour Lucie
 - URL: https://clair-obscur.fandom.com/wiki/Oph%C3%A9lie
   - Raison: Image principale invalide pour Ophélie
-- URL: https://clair-obscur.fandom.com/wiki/Victor
-  - Raison: Image principale invalide pour Victor
-- URL: https://clair-obscur.fandom.com/wiki/Jules
-  - Raison: Image principale invalide pour Jules
-- URL: https://clair-obscur.fandom.com/wiki/Henri
-  - Raison: Image principale invalide pour Henri
-- URL: https://clair-obscur.fandom.com/wiki/Reacher
-  - Raison: Image principale invalide pour Reacher
 - URL: https://clair-obscur.fandom.com/wiki/Characters
   - Raison: Infobox non trouvée
-- URL: https://clair-obscur.fandom.com/wiki/Maxime
-  - Raison: Image principale invalide pour Maxime
+- URL: https://clair-obscur.fandom.com/wiki/Nicolas
+  - Raison: Image principale invalide pour Nicolas
 - URL: https://clair-obscur.fandom.com/wiki/Estelle
   - Raison: Image principale invalide pour Estelle
+- URL: https://clair-obscur.fandom.com/wiki/Amandine
+  - Raison: Image principale invalide pour Amandine
+- URL: https://clair-obscur.fandom.com/wiki/Victor
+  - Raison: Image principale invalide pour Victor
+- URL: https://clair-obscur.fandom.com/wiki/Reacher
+  - Raison: Image principale invalide pour Reacher
+- URL: https://clair-obscur.fandom.com/wiki/Maxime
+  - Raison: Image principale invalide pour Maxime
+- URL: https://clair-obscur.fandom.com/wiki/Henri
+  - Raison: Image principale invalide pour Henri
+- URL: https://clair-obscur.fandom.com/wiki/Jules
+  - Raison: Image principale invalide pour Jules
+- URL: https://clair-obscur.fandom.com/wiki/Tiffanie
+  - Raison: Image principale invalide pour Tiffanie
+- URL: https://clair-obscur.fandom.com/wiki/Eloise
+  - Raison: Image principale invalide pour Eloise
+- URL: https://clair-obscur.fandom.com/wiki/Colette
+  - Raison: Image principale invalide pour Colette
+- URL: https://clair-obscur.fandom.com/wiki/Cyril
+  - Raison: Image principale invalide pour Cyril
+- URL: https://clair-obscur.fandom.com/wiki/Lucie
+  - Raison: Image principale invalide pour Lucie

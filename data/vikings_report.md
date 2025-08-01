@@ -1,6 +1,6 @@
 # Rapport de Scraping pour : vikings
 - **Statut :** ✅ SUCCÈS - 49 fiches valides (minimum requis: 10)
-- **Temps total :** 58.99s
+- **Temps total :** 53.67s
 - **Catégories testées :** 1 (Catégorie principale)
 - **Catégorie utilisée :** Catégorie principale
 - **Liens trouvés :** 334
@@ -20,7 +20,7 @@
 - 📝 Avec description valide : 49/49 (100.0%)
 - 🏷️ Avec rôle spécifique : 49/49 (100.0%)
 - 🔖 Avec attributs : 49/49 (100.0%)
-- 📈 Nombre moyen d'attributs : 11.1
+- 📈 Nombre moyen d'attributs : 12.6
 
 **Système de nettoyage :** ✅ Améliorations activées
 - Détection de valeurs tronquées
@@ -29,5 +29,5 @@
 - Validation de qualité renforcée
 
 ## Fiches échouées
-- URL: https://vikings.fandom.com/wiki/Aethelflaed
-  - Raison: Image principale invalide pour Aethelflaed
+- URL: https://vikings.fandom.com/wiki/Edward
+  - Raison: Image principale invalide pour Edward

@@ -1,26 +1,26 @@
 # Rapport de Scraping pour : stardewvalley
-- **Statut :** ✅ SUCCÈS - 32 fiches valides (minimum requis: 10)
-- **Temps total :** 99.57s
+- **Statut :** ✅ SUCCÈS - 30 fiches valides (minimum requis: 10)
+- **Temps total :** 90.38s
 - **Catégories testées :** 1 (Catégorie principale)
 - **Catégorie utilisée :** Catégorie principale
 - **Liens trouvés :** 629
 - **Liens scrapés :** 50
-- **Fiches OK :** 32
-- **Fiches KO :** 18
+- **Fiches OK :** 30
+- **Fiches KO :** 20
 - **Fiches rejetées (qualité) :** 0
-- **Taux de succès :** 64.0%
+- **Taux de succès :** 60.0%
 
 ## 📊 Statistiques de qualité des données
 
 **Qualité générale :**
 - 🎯 Score de qualité moyen : 8.5/10
-- ⭐ Fiches haute qualité (≥7/10) : 30/32 (93.8%)
+- ⭐ Fiches haute qualité (≥7/10) : 29/30 (96.7%)
 
 **Complétude des données :**
-- 📝 Avec description valide : 29/32 (90.6%)
-- 🏷️ Avec rôle spécifique : 32/32 (100.0%)
-- 🔖 Avec attributs : 31/32 (96.9%)
-- 📈 Nombre moyen d'attributs : 3.6
+- 📝 Avec description valide : 28/30 (93.3%)
+- 🏷️ Avec rôle spécifique : 30/30 (100.0%)
+- 🔖 Avec attributs : 29/30 (96.7%)
+- 📈 Nombre moyen d'attributs : 3.7
 
 **Système de nettoyage :** ✅ Améliorations activées
 - Détection de valeurs tronquées
@@ -29,39 +29,43 @@
 - Validation de qualité renforcée
 
 ## Fiches échouées
-- URL: https://stardewvalley.fandom.com/wiki/Resources
+- URL: https://stardewvalley.fandom.com/wiki/Tapper
   - Raison: Infobox non trouvée
-- URL: https://stardewvalley.fandom.com/wiki/Apricot
+- URL: https://stardewvalley.fandom.com/wiki/Iridium_Bar
   - Raison: Infobox non trouvée
-- URL: https://stardewvalley.fandom.com/wiki/Void_Ghost_Pendant
+- URL: https://stardewvalley.fandom.com/wiki/Vegetables
   - Raison: Infobox non trouvée
-- URL: https://stardewvalley.fandom.com/wiki/Wriggling_Worm
+- URL: https://stardewvalley.fandom.com/wiki/Pants
   - Raison: Infobox non trouvée
-- URL: https://stardewvalley.fandom.com/wiki/Hyper_Speed-Gro
+- URL: https://stardewvalley.fandom.com/wiki/Community_Room_Scroll
   - Raison: Infobox non trouvée
-- URL: https://stardewvalley.fandom.com/wiki/Garden_Pot
+- URL: https://stardewvalley.fandom.com/wiki/Artifacts
   - Raison: Infobox non trouvée
-- URL: https://stardewvalley.fandom.com/wiki/Crafting
+- URL: https://stardewvalley.fandom.com/wiki/Ring_of_Yoba
   - Raison: Infobox non trouvée
-- URL: https://stardewvalley.fandom.com/wiki/Juice
+- URL: https://stardewvalley.fandom.com/wiki/Statue_of_Endless_Fortune
   - Raison: Infobox non trouvée
-- URL: https://stardewvalley.fandom.com/wiki/Clothing
+- URL: https://stardewvalley.fandom.com/wiki/Marble_Brazier
   - Raison: Infobox non trouvée
-- URL: https://stardewvalley.fandom.com/wiki/Seed_Maker
+- URL: https://stardewvalley.fandom.com/wiki/Seeds
   - Raison: Infobox non trouvée
-- URL: https://stardewvalley.fandom.com/wiki/Qi_Seasoning
+- URL: https://stardewvalley.fandom.com/wiki/Mini-Obelisk
   - Raison: Infobox non trouvée
-- URL: https://stardewvalley.fandom.com/wiki/Dehydrator
+- URL: https://stardewvalley.fandom.com/wiki/Error_Item
   - Raison: Infobox non trouvée
-- URL: https://stardewvalley.fandom.com/wiki/Arctic_Shard
+- URL: https://stardewvalley.fandom.com/wiki/Fishing_Bait
   - Raison: Infobox non trouvée
-- URL: https://stardewvalley.fandom.com/wiki/Chicken_Statue_(furniture)
+- URL: https://stardewvalley.fandom.com/wiki/Trap_Bobber
   - Raison: Infobox non trouvée
-- URL: https://stardewvalley.fandom.com/wiki/Wild_Seeds
+- URL: https://stardewvalley.fandom.com/wiki/Speed-Gro
   - Raison: Infobox non trouvée
-- URL: https://stardewvalley.fandom.com/wiki/Flute_Block
+- URL: https://stardewvalley.fandom.com/wiki/Barbed_Hook
   - Raison: Infobox non trouvée
-- URL: https://stardewvalley.fandom.com/wiki/Broken_Trident
+- URL: https://stardewvalley.fandom.com/wiki/Crystalarium
   - Raison: Infobox non trouvée
-- URL: https://stardewvalley.fandom.com/wiki/Special_Charm
+- URL: https://stardewvalley.fandom.com/wiki/Minerals
+  - Raison: Infobox non trouvée
+- URL: https://stardewvalley.fandom.com/wiki/Cowboy_Boots
+  - Raison: Infobox non trouvée
+- URL: https://stardewvalley.fandom.com/wiki/Winter_Seeds
   - Raison: Infobox non trouvée

@@ -1,93 +1,24 @@
 [
   {
-    "name": "Momo",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/6/66/Momo-78.png",
-    "description": "Momo is a young man who appears to be in his late teens or early twenties. He has brown hair in the shape of a bowl cut, as well as large, round glasses. He also wears a suit and tie. While being dismissed byYato, he is seen wearing a down jacket over the suit and carrying a black shoulder bag.",
-    "role": "Alive",
-    "attributes": {
-      "Rōmaji": "Momo",
-      "Alt. Name": "百器 Hyakki (vessel name by Yato",
-      "Race": "Shinki",
-      "Gender": "Male",
-      "Status": "Alive",
-      "Manga Debut": "Chapter 78"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Momo"
-  },
-  {
-    "name": "Tomoko",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/2/2e/Tomoko-14.png",
-    "description": "TomokoMangaAnimeNameKanjiともこRomajiTomokoProfileRaceHumanGenderFemaleEye ColorRed-brownHair ColorBlackStatusStatusUnknownDebutMangaChapter 14AnimeAragoto Episode 2PortrayalJapanese VoiceKaede HondoEnglish VoiceTrina NishimuraTomoko(ともこ,Tomoko?)is a past friend and love interest ofSuzuha.",
-    "role": "Anime Character",
+    "name": "The Stray",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/7/75/The_Stray-7.png",
+    "description": "The StrayMangaAnimeNameKanji野良RomajiNoraAlso Known As螭Mizuchi(byFather)緋Hiiro(byYato)零姫Furuhime(byRabō)筒弥Tsutsumi(byEbisu)疫Eyami(byTakemikazuchi)ProfileRaceShinkiGenderFemaleEye ColorDark purpleHair ColorBlackStatusStatusAliveOccupationFather's shinki (former)Yato, Ebisu, and Takemikazuchi's shinki (former)Rabō's shinki (former; anime only)RelationshipsRelativesFatherYato(brother)DebutMangaChapter 7AnimeEpisode 1(mentioned)Episode 3PortrayalJapanese VoiceRie KugimiyaEnglish VoiceLauren Landa",
+    "role": "Father's shinki (former) Yato, Ebisu, and Takemikazuchi's shinki (former) Rabō's shinki (former; anime only",
     "attributes": {
       "Image": "Manga Anime",
-      "Kanji": "ともこ",
-      "Rōmaji": "Tomoko",
-      "Race": "Human",
-      "Gender": "Female",
-      "Eye": "Red-brown",
-      "Hair": "Black",
-      "Manga Debut": "Chapter 14"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Tomoko"
-  },
-  {
-    "name": "Keiichi",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/9/9a/E01_-_Milord_Home.png",
-    "description": "KeiichiNameKanji圭一RomajiKeiichiProfileRaceHumanGenderMaleAgeUnknownHair ColorBrownStatusStatusAliveOccupationN/ADebutMangaChapter 2AnimeEpisode 1PortrayalJapanese VoiceMisaki KunoEnglish VoiceMorgan BerryKeiichi(圭一,Keiichi?)is the owner ofMilordand the one who prays forYatoto bring it safely home.",
-    "role": "Alive",
-    "attributes": {
-      "Kanji": "圭一",
-      "Rōmaji": "Keiichi",
-      "Race": "Human",
-      "Gender": "Male",
-      "Hair": "Brown",
-      "Status": "Alive",
-      "Manga Debut": "Chapter 2",
-      "Anime Debut": "Episode 1"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Keiichi"
-  },
-  {
-    "name": "Ōkuninushi",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/7/75/Ookinushi_a7.png",
-    "description": "Ōkuninushi has the appearance of a middle-aged man with white hair and a tan complexion. He has short, spiky blonde hair and a goatee, as well as a distinct tuft of chest hair that is usually visible through his clothing. Since he is always wearing a pair of aviator sunglasses, his eyes are completely obscured, though they have been shown once and appear very sharp.",
-    "role": "God of Wealth",
-    "attributes": {
-      "Kanji": "大 国 主",
-      "Rōmaji": "Ōkuninushi",
-      "Alt. Name": "大黒天 Daikokuten 土蜘蛛オオナムチ Tsuchigumo Ōnamuchi イズモ Izumo ヤクモ Yakumo",
-      "Race": "God",
-      "Gender": "Male",
-      "Hair": "Blonde",
-      "Status": "Alive",
-      "Occupation": "God of Wealth",
-      "Manga Debut": "Chapter 28",
-      "Anime Debut": "Aragoto Episode 7",
-      "Japanese Voice": "Shunsuke Sakuya",
-      "English Voice": "Bryan Massey"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/%C5%8Ckuninushi"
-  },
-  {
-    "name": "Tsuguha",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/4/42/Tsuguha-19.png",
-    "description": "TsuguhaNameKanji紹巴RomajiTsuguhaAlso Known As福原夕依Fukuhara Yui(human name)ProfileRaceShinkiGenderFemaleHair ColorBrownStatusStatusDeceasedOccupationBishamonten's shinkiDebutMangaChapter 6(as a vessel)Chapter 13(as a human)AnimeEpisode 6(as a vessel)Episode 8(as a human)PortrayalJapanese VoiceAri OzawaEnglish VoiceMonica Rial",
-    "role": "Bishamonten 's shinki",
-    "attributes": {
-      "Kanji": "紹巴",
-      "Rōmaji": "Tsuguha",
-      "Alt. Name": "福原夕依 Fukuhara Yui (human name",
+      "Kanji": "野良",
+      "Rōmaji": "Nora",
+      "Alt. Name": "螭 Mizuchi (by Father ) 緋 Hiiro (by Yato ) 零姫 Furuhime (by Rabō ) 筒弥 Tsutsumi (by Ebisu ) 疫 Eyami (by Takemikazuchi ) [ 2",
       "Race": "Shinki",
       "Gender": "Female",
-      "Hair": "Brown",
-      "Status": "Deceased",
-      "Occupation": "Bishamonten 's shinki",
-      "Manga Debut": "Chapter 6 (as a vessel) Chapter 13 (as a human",
-      "Anime Debut": "Episode 6 (as a vessel) Episode 8 (as a human",
-      "Japanese Voice": "Ari Ozawa"
+      "Hair": "Black",
+      "Status": "Alive",
+      "Occupation": "Father's shinki (former) Yato, Ebisu, and Takemikazuchi's shinki (former) Rabō's shinki (former; anime only",
+      "Relative(S": "Father Yato (brother",
+      "Manga Debut": "Chapter 7",
+      "Anime Debut": "Episode 1 (mentioned) Episode 3"
     },
-    "source_url": "https://noragami.fandom.com/wiki/Tsuguha"
+    "source_url": "https://noragami.fandom.com/wiki/The_Stray"
   },
   {
     "name": "Bishamonten",
@@ -109,48 +40,23 @@
     "source_url": "https://noragami.fandom.com/wiki/Bishamonten"
   },
   {
-    "name": "Mayu",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/5/52/Mayu_%28Manga%29-12.png",
-    "description": "Mayu is honest and blunt, unafraid to complain when she dislikes a person or her current circumstances.She has a strong sense of duty and high standards for behavior as ashinki,as well as compassion and sympathy forhumansand fellow shinki who are in tough situations.She also demonstrates strong loyalty, to the point that she would risk her own safety, shown by how she partakes inYukine'sAblutionbecause the situation involved her former master.Despite her loyalty, she does not stay with a god ...",
-    "role": "Tenjin 's shinki Yato's shinki (former",
+    "name": "Kazuha",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/b/bc/Kazuha.png",
+    "description": "KazuhaNameKanji数巴RomajiKazuhaAlso Known As数器Sūki(vessel name)ProfileRaceShinkiGenderMaleHair ColorBlondeStatusStatusAliveOccupationBishamonten's shinkiDebutMangaChapter 7AnimeEpisode 7PortrayalJapanese VoiceSatomi AkesakaEnglish VoiceColleen ClinkenbeardKazuha(数巴,Kazuha?)is one ofBishamonten's main battleshinkiand the younger twin brother ofKaruha.",
+    "role": "Bishamonten 's shinki",
     "attributes": {
-      "Image": "Manga Anime",
-      "Kanji": "真喩",
-      "Alt. Name": "伴音 Tomone (by Yato ) 伴器 Hanki (former vessel name by Yato) 真 Makoto (by Tenjin",
+      "Kanji": "数巴",
+      "Rōmaji": "Kazuha",
+      "Alt. Name": "数器 Sūki (vessel name",
       "Race": "Shinki",
-      "Gender": "Female",
-      "Hair": "Black",
+      "Gender": "Male",
+      "Hair": "Blonde",
       "Status": "Alive",
-      "Occupation": "Tenjin 's shinki Yato's shinki (former",
-      "Relative(S": "Unnamed husband Kiyoko Onodera (daughter) Harumi (granddaughter",
-      "Manga Debut": "Chapter 1",
-      "Anime Debut": "Episode 1",
-      "Japanese Voice": "Asami Imai",
-      "English Voice": "Leah Clark"
+      "Occupation": "Bishamonten 's shinki",
+      "Manga Debut": "Chapter 7",
+      "Anime Debut": "Episode 7"
     },
-    "source_url": "https://noragami.fandom.com/wiki/Mayu"
-  },
-  {
-    "name": "Kinuha",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/e/e6/Kinuha_%28Anime%29.png",
-    "description": "While not much is known of her personality, she seems to be a calm, mature person. Shown whenKugahatook his clothes off to show he had no blight, all the other girls screamed and averted their eyes, but Kinuha looked calm and just kept staring. Like the rest of Bishamonten's shinki, she is loyal to her master. She can be somewhat curt as shown when her master and fellow shinki went toKofukuto see where vents would open, Kinuha mentioned how it was most likely that Kofuku's bad luck caused the...",
-    "role": "Bishamon's shinki",
-    "attributes": {
-      "Kanji": "紝巴",
-      "Rōmaji": "Kinuha",
-      "Alt. Name": "紝器 Jinki (vessel name by Bishamon ) お紝 Okinu (by Kuraha and Akiha",
-      "Race": "Shinki",
-      "Gender": "Female",
-      "Eye": "Brown",
-      "Hair": "Brown",
-      "Status": "Alive",
-      "Occupation": "Bishamon's shinki",
-      "Manga Debut": "Chapter 6 (as a vessel) Chapter 13 (as a human",
-      "Anime Debut": "Episode 6 (as a vessel) Episode 8 (as a human",
-      "Japanese Voice": "Kanami Satô",
-      "English Voice": "Mallorie Rodak"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Kinuha"
+    "source_url": "https://noragami.fandom.com/wiki/Kazuha"
   },
   {
     "name": "Kagutsuchi",
@@ -168,201 +74,6 @@
       "Manga Debut": "Chapter 63"
     },
     "source_url": "https://noragami.fandom.com/wiki/Kagutsuchi"
-  },
-  {
-    "name": "Yato",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/d/d3/Yato_%28Anime%29.png",
-    "description": "YatoNameKanji夜トRomajiYatoAlso Known As夜卜Yaboku(byFatherandThe Stray)夜トくんYato-kun(byTenjin)夜トちゃんYato-chan(byKofuku)天斬命Amagiri no Mikoto(byHeaven)ジャージJersey(byYukineandHiyori)Drippy (byYukineandHiyori)ProfileRaceGodGenderMaleAge~1,050Height173cm (5'8\")[citation needed]Hair ColorBlackStatusStatusAliveOccupationDelivery GodGod of Calamity (formerly)God of Fortune (aspiring)RelationshipsRelativesFather(father)The Stray(adopted sister)DebutMangaChapter 1AnimeEpisode 1PortrayalJapanese VoiceHiroshi ...",
-    "role": "Delivery God God of Calamity (formerly) God of Fortune (aspiring",
-    "attributes": {
-      "Kanji": "夜 ト",
-      "Rōmaji": "Yato",
-      "Alt. Name": "夜 卜 Yaboku (by Father and The Stray ) 夜 トくん Yato-kun (by Tenjin ) 夜 トちゃん Yato-chan (by Kofuku ) 天 斬 命 Amagiri no Mikoto (by Heaven ) ジャージ Jersey (by Yukine and Hiyori ) Drippy (by Yukine and Hiyori",
-      "Race": "God",
-      "Gender": "Male",
-      "Age": "~1,050",
-      "Height": "173cm (5'8\") [citation needed",
-      "Hair": "Black",
-      "Status": "Alive",
-      "Occupation": "Delivery God God of Calamity (formerly) God of Fortune (aspiring",
-      "Relative(S": "Father (father) The Stray (adopted sister",
-      "Manga Debut": "Chapter 1",
-      "Anime Debut": "Episode 1",
-      "Japanese Voice": "Hiroshi Kamiya",
-      "English Voice": "Jason Liebrecht"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Yato"
-  },
-  {
-    "name": "Naomichi Tajima",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/c/c0/Naomichi_Tajima_87-2.png",
-    "description": "Naomichi TajimaNameKanji田嶋直道RomajiTajima NaomichiProfileRaceHumanGenderMaleHair ColorBlondeStatusStatusUnknownRelationshipsRelativesHaruki Tajima(son)Yuka Miyaike(daughter)Unnamed wifeDebutMangaChapter 70AnimeEpisode 2",
-    "role": "Anime Character",
-    "attributes": {
-      "Kanji": "田嶋直道",
-      "Race": "Human",
-      "Gender": "Male",
-      "Hair": "Blonde",
-      "Relative(S": "Haruki Tajima (son) Yuka Miyaike (daughter) Unnamed wife",
-      "Manga Debut": "Chapter 70",
-      "Anime Debut": "Episode 2"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Naomichi_Tajima"
-  },
-  {
-    "name": "Shinatsuhiko",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/e/e6/Shinatsuhiko-63.png",
-    "description": "Shinatsuhiko is loyal toHeaven. He seems to have strong leadership skills and experience in combat, commanding numerous other gods in Heaven's subjugation forces and organizing tactics againstBishamon. He becomes frustrated when others do not act to proper standards, such as disturbing theNear Shore. However, he is slightly childish in that he is a sore loser and wants to avoid responsibilities he may see as troublesome or especially strenuous, such as talking downTakemikazuchiduring a battle.",
-    "role": "God of Wind",
-    "attributes": {
-      "Kanji": "シナツヒコ",
-      "Race": "God",
-      "Gender": "Male",
-      "Status": "Alive (reincarnated",
-      "Occupation": "God of Wind",
-      "Manga Debut": "Chapter 63"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Shinatsuhiko"
-  },
-  {
-    "name": "Inaba",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/c/c2/Inaba_anime.png",
-    "description": "InabaProfileRaceRabbitStatusOccupationPetDebutMangaChapter 29InabaisŌkuninushi’s pet bunny. He refers to Inaba as Inaba-chan.",
-    "role": "Pet",
-    "attributes": {
-      "Race": "Rabbit",
-      "Occupation": "Pet",
-      "Manga Debut": "Chapter 29"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Inaba"
-  },
-  {
-    "name": "Shiiho",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/5/52/Shiiho-76.png",
-    "description": "Shiiho has the appearance of a preteen boy. He has black hair and dark eyes. He wears a white kimono top with black stripes on the sleeves over a blackgakuran. He also wears a pair of boots that reach his lower shins.",
-    "role": "Alive",
-    "attributes": {
-      "Kanji": "椎布",
-      "Rōmaji": "Shīho",
-      "Alt. Name": "椎ちゃん Shī-chan (by Arahabaki ) 蝗禍 Kouka (by Heaven ) 椎軍 Shīgun (by Heaven",
-      "Race": "Shinki",
-      "Gender": "Male",
-      "Hair": "Black",
-      "Status": "Alive",
-      "Manga Debut": "Chapter 34 (as a vessel) Chapter 76 (as a human"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Shiiho"
-  },
-  {
-    "name": "Ayu",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/4/4a/Ayu-s1e3.png",
-    "description": "AyuNameKanji歩喩RomajiAyuAlso Known As歩器Hoki(vessel name byTenjin)ProfileRaceShinkiGenderFemaleAgeUnknownEye ColorBlueHair ColorAuburnStatusStatusAliveOccupationTenjin's shinkiDebutMangaChapter 4AnimeEpisode 3PortrayalJapanese VoiceM·A·OEnglish VoiceApphia YuAyu(歩喩,Ayu?)is one ofTenjin's current shinki. She's part of a group of four female shinki who present themselves as \"The Tenjin Sisters\" (now consisting of only three members).",
-    "role": "Tenjin 's shinki",
-    "attributes": {
-      "Kanji": "歩喩",
-      "Rōmaji": "Ayu",
-      "Alt. Name": "歩器 Hoki (vessel name by Tenjin",
-      "Race": "Shinki",
-      "Gender": "Female",
-      "Eye": "Blue",
-      "Hair": "Auburn",
-      "Status": "Alive",
-      "Occupation": "Tenjin 's shinki",
-      "Manga Debut": "Chapter 4",
-      "Anime Debut": "Episode 3",
-      "Japanese Voice": "M·A·O",
-      "English Voice": "Apphia Yu"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Ayu"
-  },
-  {
-    "name": "Sekiun",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/4/4c/Sekiun.png",
-    "description": "Sekiun is one of twelve Un clanshinkiwho servedTakemikazuchi's previous incarnation. The night thatKiunwas named, Takemikazuchi wasblightedand attacked by his shinki-turned-ayakashi. Takemikazuchi called for Kanki, but Sekiun refused to be summoned. Sekiun said that Takemikazuchi had caused his downfall himself, by always flying into rage at even the smallest infarction by his shinki. He asked how many had been killed by him, and was resolute that none of his remaining shinki would serve him ...",
-    "role": "Takemikazuchi ’s shinki",
-    "attributes": {
-      "Kanji": "関云",
-      "Rōmaji": "Sekiun",
-      "Alt. Name": "関器 Kanki (vessel name",
-      "Race": "Shinki",
-      "Gender": "Male",
-      "Age": "1,200+",
-      "Status": "Alive",
-      "Occupation": "Takemikazuchi ’s shinki",
-      "Manga Debut": "Chapter 66"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Sekiun"
-  },
-  {
-    "name": "Arahabaki",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/3/37/Arahabaki-71.png",
-    "description": "He was the former master ofNana, the blessed vessel who was sealed after his master joined a rebellion againstHeaven.Once reincarnated, the Heavenly Guard took control of his guidepost and chose his shinki.",
-    "role": "Emishi god",
-    "attributes": {
-      "Kanji": "アラハバキ",
-      "Rōmaji": "Arahabaki",
-      "Alt. Name": "バッキー Bucky (by Yato",
-      "Race": "God",
-      "Gender": "Male",
-      "Hair": "Gray",
-      "Status": "Alive",
-      "Occupation": "Emishi god",
-      "Manga Debut": "Chapter 34 (mentioned) Chapter 59 (shown"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Arahabaki"
-  },
-  {
-    "name": "Sakuya-bime",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/a/a1/Sakuya-bime-63.png",
-    "description": "Sakuya-bime is loyal toHeaven. She is caring for others, but reluctant to carry out responsibilities she may view was strenuous or unfavorable, such as talking downTakemikazuchiduring a battle. (She is also somewhat frivolous as she suggested playing rock-paper-scissors to decide who goes.) She does not show nervousness or discomfort on the battlefield herself, and thus may be decently accustomed to combat.",
-    "role": "Goddess of Sakura Blossoms",
-    "attributes": {
-      "Kanji": "サクヤビメ",
-      "Rōmaji": "Sakuyabime",
-      "Race": "God",
-      "Gender": "Female",
-      "Status": "Alive",
-      "Occupation": "Goddess of Sakura Blossoms",
-      "Manga Debut": "Chapter 63"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Sakuya-bime"
-  },
-  {
-    "name": "Iwami",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/5/52/Iwami_Aragoto_e7.png",
-    "description": "He is an elderly man with long gray hair kept in a ponytail and long prevalent bangs in the front of his face. He wears a professional jacket with a white collared shirt and blue tie underneath. He wears plain black pants. As of recent, his attire has been changed to a long black kimono with a white kimono underneath.",
-    "role": "Ebisu 's lead shinki (former",
-    "attributes": {
-      "Kanji": "巌弥",
-      "Race": "Shinki",
-      "Gender": "Male",
-      "Hair": "Gray",
-      "Status": "Alive",
-      "Occupation": "Ebisu 's lead shinki (former",
-      "Manga Debut": "Chapter 25",
-      "Anime Debut": "Aragoto Episode 7",
-      "Japanese Voice": "Takehiro Hasu",
-      "English Voice": "Doug Jackson"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Iwami"
-  },
-  {
-    "name": "Amaterasu",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/c/c7/Amaterasu-37.png",
-    "description": "AmaterasuNameKanji天照RomajiAmaterasuAlso Known As宮様Miya-sama, Her Excellency (byHeaven)ProfileRaceGodGenderFemaleStatusStatusAliveOccupationSun GoddessRuler of the HeavensRelationshipsRelativesIzanami(stepmother/aunt)Shinatsuhiko(elder brother)Ebisu(elder half-brother)Kagutsuchi(elder half-brother)Takemikazuchi(half-nephew)Sakuya-bime(half-niece/granddaughter-in-law)DebutMangaChapter 36",
-    "role": "Sun Goddess Ruler of the Heavens",
-    "attributes": {
-      "Kanji": "天照",
-      "Rōmaji": "Amaterasu",
-      "Alt. Name": "宮様 Miya-sama , Her Excellency (by Heaven",
-      "Race": "God",
-      "Gender": "Female",
-      "Status": "Alive",
-      "Occupation": "Sun Goddess Ruler of the Heavens",
-      "Relative(S": "Izanami (stepmother/aunt) Shinatsuhiko (elder brother) Ebisu (elder half-brother) Kagutsuchi (elder half-brother) Takemikazuchi (half-nephew) Sakuya-bime (half-niece/granddaughter-in-law",
-      "Manga Debut": "Chapter 36"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Amaterasu"
   },
   {
     "name": "Suzuha",
@@ -387,61 +98,64 @@
     "source_url": "https://noragami.fandom.com/wiki/Suzuha"
   },
   {
-    "name": "Ōshi",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/1/14/Oshi-30.png",
-    "description": "She is an arrogant shinki willing to do whatever it takes to follow heaven's orders. Despite calling the Gods Lord (-sama in Japanese). She called Ebisu stupid for attempting to control the ayakashi along with containing the Seven Gods claiming to protect their innocence. In reality, she didn't want them to interfere and help Ebisu, showing she may secretly look down on the Gods. This is made much more apparent when Okuninushi challenges her and she says a God without a shinki is useless. Kaz...",
-    "role": "Heavenly Guard's shinki and triumvir",
-    "attributes": {
-      "Image": "Manga Anime",
-      "Kanji": "奥司",
-      "Rōmaji": "Ōshi",
-      "Race": "Shinki",
-      "Gender": "Female",
-      "Eye": "Blue-gray",
-      "Hair": "Black",
-      "Status": "Alive",
-      "Occupation": "Heavenly Guard's shinki and triumvir",
-      "Manga Debut": "Chapter 30",
-      "Anime Debut": "Aragoto Episode 10",
-      "Japanese Voice": "Misako Tomioka",
-      "English Voice": "Clarine Harp"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/%C5%8Cshi"
-  },
-  {
-    "name": "Ruha",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/e/ee/Ruha_%28Anime%29.png",
-    "description": "RuhaNameKanji瑠巴RomajiRuhaProfileRaceShinkiGenderFemaleHair ColorGrayStatusStatusAliveOccupationBishamonten's shinkiDebutMangaChapter 8(vessel form)Chapter 20(human form)AnimeAragoto Episode 6PortrayalJapanese VoiceKaoru KatakaiEnglish VoiceAlex MooreRuha(瑠巴,Ruha?)is one ofBishamonten's shinki.",
+    "name": "Karuha",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/f/f8/Gaiki.png",
+    "description": "KaruhaNameKanji刈巴Also Known As刈器Gaiki(vessel name)ProfileRaceShinkiGenderFemaleHair ColorBlondeStatusStatusAliveOccupationBishamonten's shinkiDebutMangaChapter 7AnimeEpisode 7PortrayalJapanese VoiceSatomi AkesakaEnglish VoiceColleen ClinkenbeardKaruha(刈巴,Karuha?)is one ofBishamonten's main battleshinkiand the older twin sister ofKazuha.",
     "role": "Bishamonten 's shinki",
     "attributes": {
-      "Kanji": "瑠巴",
-      "Rōmaji": "Ruha",
+      "Kanji": "刈巴",
+      "Alt. Name": "刈器 Gaiki (vessel name",
       "Race": "Shinki",
       "Gender": "Female",
-      "Hair": "Gray",
+      "Hair": "Blonde",
       "Status": "Alive",
       "Occupation": "Bishamonten 's shinki",
-      "Manga Debut": "Chapter 8 (vessel form) Chapter 20 (human form",
-      "English Voice": "Alex Moore"
+      "Manga Debut": "Chapter 7",
+      "Anime Debut": "Episode 7"
     },
-    "source_url": "https://noragami.fandom.com/wiki/Ruha"
+    "source_url": "https://noragami.fandom.com/wiki/Karuha"
   },
   {
-    "name": "Miyu",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/0/0e/Miyu.jpg",
-    "description": "MiyuNameKanji実喩ProfileRaceShinkiGenderFemaleAgeUnknownEye ColorLight BlueHair ColorLight BrownStatusStatusUnknownOccupationTenjin's shinki (former)DebutMangaChapter 4AnimeEpisode 3PortrayalJapanese VoiceYuki TakaoEnglish VoiceFelecia AngelleMiyu(実喩,Miyu?)is one ofTenjin's former shinki. She was part of a group of four female shinki who present themselves as \"The Tenjin Sisters\".",
-    "role": "Tenjin 's shinki (former",
+    "name": "Satō",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/1/15/Satou_97-2.png",
+    "description": "Satou is a man of advanced age, with bushy eyebrows, a bald head, a beard, and several moles on his face. He is seen wearing a kimono and ahaori(羽織) coat with a black collar.",
+    "role": "Grave-keeper of the Mask-Maker",
     "attributes": {
-      "Kanji": "実喩",
-      "Race": "Shinki",
-      "Gender": "Female",
-      "Eye": "Light Blue",
-      "Occupation": "Tenjin 's shinki (former",
-      "Manga Debut": "Chapter 4",
-      "Anime Debut": "Episode 3",
-      "Japanese Voice": "Yuki Takao"
+      "Kanji": "佐藤",
+      "Rōmaji": "Satō",
+      "Alt. Name": "73代目墓守 Nanajyuusan-daime hakamori , 73rd Grave-keeper (by himself",
+      "Race": "Human",
+      "Gender": "Male",
+      "Status": "Alive",
+      "Occupation": "Grave-keeper of the Mask-Maker",
+      "Affiliation": "Tamatsuki",
+      "Relative(S": "Unnamed wife Unnamed children",
+      "Manga Debut": "Chapter 97"
     },
-    "source_url": "https://noragami.fandom.com/wiki/Miyu"
+    "source_url": "https://noragami.fandom.com/wiki/Sat%C5%8D"
+  },
+  {
+    "name": "Kazuma",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/6/6d/Kazuma_%28Manga%29-56.png",
+    "description": "Physically, Kazuma appears no older than 19 years old.He has short cut brown hair and green eyes, and is 174 cm tall.[citation needed]He wears a pair of thick-rimmed glasses and is normally seen dressed in the common uniform forBishamonten's battle shinki. This consists of a black suit with red detailing and a purple tie. Prior to theMa-clan's extinction, he wears a green kimono with his hair tied back into a low bun.",
+    "role": "Bishamonten 's guidepost Yato 's shinki",
+    "attributes": {
+      "Image": "Manga Anime",
+      "Kanji": "兆麻",
+      "Rōmaji": "Kazuma",
+      "Alt. Name": "平野清次 Hirano Kiyotsugu (real name) 兆器 Chōki (vessel name by Bishamon) 暦音 Kazune (by Yato) 暦器 Rekki (vessel name by Yato) [ 2",
+      "Race": "Shinki",
+      "Gender": "Male",
+      "Age": "~219 [ 1",
+      "Hair": "Brown",
+      "Status": "Alive",
+      "Occupation": "Bishamonten 's guidepost Yato 's shinki",
+      "Manga Debut": "Chapter 7",
+      "Anime Debut": "Episode 5 (voice only) Episode 6 (physical",
+      "Japanese Voice": "Jun Fukuyama",
+      "English Voice": "Eric Vale"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/Kazuma"
   },
   {
     "name": "Father",
@@ -468,138 +182,37 @@
     "source_url": "https://noragami.fandom.com/wiki/Father"
   },
   {
-    "name": "Kugaha",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/6/61/Kugaha_%28Manga%29-15.png",
-    "description": "KugahaMangaAnimeNameKanji陸巴RomajiKugahaAlso Known As陸器Rokki(former vessel name byBishamonten)斯Saku(byTenjin)役Edachi(byFather)ProfileRaceShinkiGenderMaleAgeUnknownHair ColorGrayStatusStatusDeceasedOccupationBishamonten's shinki (former)Father's shinki (former)Tenjin's shinki (former)DebutMangaChapter 12AnimeAragoto Episode 1PortrayalJapanese VoiceTakanori HoshinoEnglish VoicePhil Parsons",
-    "role": "Bishamonten's shinki (former) Father's shinki (former) Tenjin's shinki (former",
+    "name": "Seki",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/5/51/Seki.png",
+    "description": "SekiProfileGenderMaleDebutMangaChapter 31AnimeAragoto Episode 9PortrayalJapanese VoiceKōhei AmasakiEnglish VoiceAnthony Bowling",
+    "role": "Anime Character",
+    "attributes": {
+      "Gender": "Male",
+      "Manga Debut": "Chapter 31"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/Seki"
+  },
+  {
+    "name": "Izanami",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/c/c4/Izanami-37.png",
+    "description": "Izanami's true form is a body in a state of very severe decomposition, so much that she is practically a living skeleton. It is unclear whether the long, dark hair is truly a part of her body that hasn't decomposed as badly or rather just a remnant of her fake illusion under which she had appeared to Yato. In all of her forms, Izanami is seen wearing a long dyed kimono with flower motifs over a plain white kimono.",
+    "role": "Ruler of Yomi",
     "attributes": {
       "Image": "Manga Anime",
-      "Kanji": "陸巴",
-      "Rōmaji": "Kugaha",
-      "Alt. Name": "陸器 Rokki (former vessel name by Bishamonten ) 斯 Saku (by Tenjin ) 役 Edachi (by Father",
-      "Race": "Shinki",
-      "Gender": "Male",
-      "Hair": "Gray",
-      "Status": "Deceased",
-      "Occupation": "Bishamonten's shinki (former) Father's shinki (former) Tenjin's shinki (former",
-      "Manga Debut": "Chapter 12"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Kugaha"
-  },
-  {
-    "name": "Kuraha",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/d/d6/Kuraha_%28Anime%29.png",
-    "description": "Kuraha is seen to be a calm man, but becomes vicious when it comes to protecting his master Bishamonten. He's very loyal to her and can be described as a serious shinki as well. He seems to be second in command behindKazumaas shown when Kazuma was exiled and Bishamonten was going out of control fightingYato, Kuraha was the one who began to give out orders, telling his fellow battle shinkiKinuhaandAkihato lead the nonbattle shinki away to safety and tried to control the situation. He also trie...",
-    "role": "Bishamonten's shinki",
-    "attributes": {
-      "Kanji": "囷巴",
-      "Rōmaji": "Kuraha",
-      "Alt. Name": "囷器 Kinki (by Bishamonten",
-      "Race": "Shinki",
-      "Gender": "Male",
-      "Hair": "Gray",
-      "Status": "Alive",
-      "Occupation": "Bishamonten's shinki",
-      "Manga Debut": "Chapter 6 (as a vessel) Chapter 13 (as a human",
-      "Anime Debut": "Episode 6 (as a vessel) Episode 8 (as a human",
-      "Japanese Voice": "Kazuhiko Inoue",
-      "English Voice": "Greg Dulcie"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Kuraha"
-  },
-  {
-    "name": "Kazuha",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/b/bc/Kazuha.png",
-    "description": "KazuhaNameKanji数巴RomajiKazuhaAlso Known As数器Sūki(vessel name)ProfileRaceShinkiGenderMaleHair ColorBlondeStatusStatusAliveOccupationBishamonten's shinkiDebutMangaChapter 7AnimeEpisode 7PortrayalJapanese VoiceSatomi AkesakaEnglish VoiceColleen ClinkenbeardKazuha(数巴,Kazuha?)is one ofBishamonten's main battleshinkiand the younger twin brother ofKaruha.",
-    "role": "Bishamonten 's shinki",
-    "attributes": {
-      "Kanji": "数巴",
-      "Rōmaji": "Kazuha",
-      "Alt. Name": "数器 Sūki (vessel name",
-      "Race": "Shinki",
-      "Gender": "Male",
-      "Hair": "Blonde",
-      "Status": "Alive",
-      "Occupation": "Bishamonten 's shinki",
-      "Manga Debut": "Chapter 7",
-      "Anime Debut": "Episode 7"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Kazuha"
-  },
-  {
-    "name": "Fumiha",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/3/35/Fumiha-15.png",
-    "description": "FumihaMangaAnimeNameKanji文巴RomajiFumihaProfileRaceShinkiGenderFemaleEye ColorBrownHair ColorBlackStatusStatusAliveOccupationBishamonten's shinkiDebutMangaChapter 15AnimeAragoto Episode 3PortrayalJapanese VoiceYu SerizawaFumiha(文巴,Fumiha?)is one ofBishamonten's shinki.",
-    "role": "Bishamonten 's shinki",
-    "attributes": {
-      "Image": "Manga Anime",
-      "Kanji": "文巴",
-      "Rōmaji": "Fumiha",
-      "Race": "Shinki",
+      "Kanji": "イザナミ",
+      "Rōmaji": "Izanami",
+      "Alt. Name": "母上 Haha-ue , Mother (by Ebisu",
+      "Race": "God",
       "Gender": "Female",
-      "Eye": "Brown",
-      "Hair": "Black",
+      "Hair": "Dark brown",
       "Status": "Alive",
-      "Occupation": "Bishamonten 's shinki",
-      "Manga Debut": "Chapter 15"
+      "Occupation": "Ruler of Yomi",
+      "Manga Debut": "Chapter 31",
+      "Anime Debut": "Aragoto Episode 9",
+      "Japanese Voice": "Hibiku Yamamura",
+      "English Voice": "Rachel Robinson"
     },
-    "source_url": "https://noragami.fandom.com/wiki/Fumiha"
-  },
-  {
-    "name": "Sayuri Iki",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/e/e0/Sayuri.png",
-    "description": "Sayuri IkiProfileRaceHumanGenderFemaleHair ColorBrownStatusStatusAliveRelationshipsRelativesTakamasa Iki(Husband)Masaomi Iki(Son)Hiyori Iki(Daughter)DebutMangaChapter 2AnimeEpisode 1PortrayalJapanese VoiceMiki ItōEnglish VoiceJessica Cavanagh",
-    "role": "Alive",
-    "attributes": {
-      "Race": "Human",
-      "Gender": "Female",
-      "Hair": "Brown",
-      "Status": "Alive",
-      "Relative(S": "Takamasa Iki (Husband) Masaomi Iki (Son) Hiyori Iki (Daughter",
-      "Manga Debut": "Chapter 2",
-      "Anime Debut": "Episode 1",
-      "Japanese Voice": "Miki Itō"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Sayuri_Iki"
-  },
-  {
-    "name": "Mitama",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/5/52/Mitama_71.png",
-    "description": "Mitama has lightly colored hair that is parted in the middle and cut into a straight bob. She has one dark eye and one pale eye, like the other two Treasures. She is wearing the attire of a female Shinto priest, including anukaate(額当) headpiece and anuwagi(表着) garment.",
-    "role": "Amaterasu 's sacred treasure",
-    "attributes": {
-      "Kanji": "みたま",
-      "Rōmaji": "Mitama",
-      "Race": "Sacred Treasure",
-      "Gender": "Female",
-      "Status": "Alive",
-      "Occupation": "Amaterasu 's sacred treasure",
-      "Manga Debut": "Chapter 62"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Mitama"
-  },
-  {
-    "name": "Kazuma",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/6/6d/Kazuma_%28Manga%29-56.png",
-    "description": "Physically, Kazuma appears no older than 19 years old.He has short cut brown hair and green eyes, and is 174 cm tall.[citation needed]He wears a pair of thick-rimmed glasses and is normally seen dressed in the common uniform forBishamonten's battle shinki. This consists of a black suit with red detailing and a purple tie. Prior to theMa-clan's extinction, he wears a green kimono with his hair tied back into a low bun.",
-    "role": "Bishamonten 's guidepost Yato 's shinki",
-    "attributes": {
-      "Image": "Manga Anime",
-      "Kanji": "兆麻",
-      "Rōmaji": "Kazuma",
-      "Alt. Name": "平野清次 Hirano Kiyotsugu (real name) 兆器 Chōki (vessel name by Bishamon) 暦音 Kazune (by Yato) 暦器 Rekki (vessel name by Yato) [ 2",
-      "Race": "Shinki",
-      "Gender": "Male",
-      "Age": "~219 [ 1",
-      "Hair": "Brown",
-      "Status": "Alive",
-      "Occupation": "Bishamonten 's guidepost Yato 's shinki",
-      "Manga Debut": "Chapter 7",
-      "Anime Debut": "Episode 5 (voice only) Episode 6 (physical",
-      "Japanese Voice": "Jun Fukuyama",
-      "English Voice": "Eric Vale"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Kazuma"
+    "source_url": "https://noragami.fandom.com/wiki/Izanami"
   },
   {
     "name": "Kunimi",
@@ -622,22 +235,22 @@
     "source_url": "https://noragami.fandom.com/wiki/Kunimi"
   },
   {
-    "name": "Utami",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/8/8f/Utami_s2e7.png",
-    "description": "UtamiNameKanji唱弥RomajiUtamiProfileRaceShinkiGenderMaleEye ColorBlackHair ColorDark brownStatusStatusDeceasedOccupationEbisu's shinkiDebutMangaChapter 30AnimeAragoto Episode 7PortrayalJapanese VoiceTaishi MurataEnglish VoiceAaron RobertsUtami(唱弥,Utami?)is one ofEbisu's shinki who he brings with him intoYomi.",
-    "role": "Ebisu 's shinki",
+    "name": "Kiun",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/1/14/Kiun-57.png",
+    "description": "KiunNameKanji黄云Also Known As黄器Ōki(vessel name byTakemikazuchi)雷刃Raijin, The Thunder Blade (byHeaven)ProfileRaceShinkiGenderMaleAge1200+Hair ColorPlatinum blondeStatusStatusAliveOccupationTakemikazuchi's guidepostDebutMangaChapter 35(vessel form)Chapter 56(human form)AnimeAragoto Episode 12(vessel form",
+    "role": "Takemikazuchi 's guidepost",
     "attributes": {
-      "Kanji": "唱弥",
-      "Rōmaji": "Utami",
+      "Kanji": "黄 云",
+      "Alt. Name": "黄 器 Ōki (vessel name by Takemikazuchi ) 雷 刃 Raijin , The Thunder Blade (by Heaven ) [ 1",
       "Race": "Shinki",
       "Gender": "Male",
-      "Eye": "Black",
-      "Hair": "Dark brown",
-      "Status": "Deceased",
-      "Occupation": "Ebisu 's shinki",
-      "Manga Debut": "Chapter 30"
+      "Age": "1200+",
+      "Status": "Alive",
+      "Occupation": "Takemikazuchi 's guidepost",
+      "Manga Debut": "Chapter 35 (vessel form) Chapter 56 (human form",
+      "Anime Debut": "Aragoto Episode 12 (vessel form"
     },
-    "source_url": "https://noragami.fandom.com/wiki/Utami"
+    "source_url": "https://noragami.fandom.com/wiki/Kiun"
   },
   {
     "name": "Daikoku",
@@ -659,117 +272,494 @@
     "source_url": "https://noragami.fandom.com/wiki/Daikoku"
   },
   {
-    "name": "Kofuku",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/d/d0/Kofuku_%28Manga%29-6.png",
-    "description": "KofukuMangaAnimeNameKanji小福RomajiKofukuAlso Known Asエビス小福Ebisu Kofuku(trade name)貧乏神Binbougami(byHeaven)ProfileRaceGodGenderFemaleHair ColorPinkStatusStatusAliveOccupationGoddess of PovertyDebutMangaChapter 6AnimeEpisode 4PortrayalJapanese VoiceAki ToyosakiEnglish VoiceAlexis Tipton",
-    "role": "Goddess of Poverty",
+    "name": "Katsuzane Abe",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/3/38/Abe.png",
+    "description": "Katsuzane AbeNameKanji阿部勝真RomajiAbe KatsuzaneProfileRaceHumanGenderMaleEye ColorBlackHair ColorBlackStatusStatusAliveDebutMangaChapter 30AnimeAragoto Episode 9PortrayalJapanese VoiceToshiki MasudaEnglish VoiceNewton Pittman",
+    "role": "Alive",
     "attributes": {
-      "Image": "Manga Anime",
-      "Kanji": "小福",
-      "Rōmaji": "Kofuku",
-      "Alt. Name": "エビス小福 Ebisu Kofuku (trade name) 貧乏神 Binbougami (by Heaven",
-      "Race": "God",
-      "Gender": "Female",
-      "Hair": "Pink",
-      "Status": "Alive",
-      "Manga Debut": "Chapter 6",
-      "Anime Debut": "Episode 4"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Kofuku"
-  },
-  {
-    "name": "Akira Yamashita",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/b/ba/Yama.png",
-    "description": "Akira YamashitaNameKanji山下晶RomajiYamashita AkiraAlso Known AsYama-chan (by Hiyori)ProfileRaceHumanGenderFemaleAge16Hair ColorLight brownStatusStatusAliveOccupationHigh schoolstudentDebutMangaChapter 2AnimeEpisode 1PortrayalJapanese VoiceMinami TakahashiEnglish VoiceMorgan Mabry (Season 1)Dawn M. Bennett(Season 2)Akira Yamashita(山下晶,Yamashita Akira?), also known asYama-chan, is one ofHiyori Iki's friends from school.",
-    "role": "High school student",
-    "attributes": {
-      "Kanji": "山下晶",
-      "Race": "Human",
-      "Gender": "Female",
-      "Age": "16",
-      "Status": "Alive",
-      "Occupation": "High school student",
-      "Manga Debut": "Chapter 2",
-      "Anime Debut": "Episode 1",
-      "English Voice": "Morgan Mabry (Season 1) Dawn M. Bennett (Season 2"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Akira_Yamashita"
-  },
-  {
-    "name": "Yomotsu-shikome",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/e/eb/Yomotsu-shikome.png",
-    "description": "Yomotsu-shikome(黄泉醜女,Yomotsu shikome?, lit. \"ugly women of the Underworld\")areIzanami's attendants inYomiwho carry out her bidding. Although they are never explicitly titled in the series, they appear in the original Izanami & Izanagi mythand are named in the translation notes.",
-    "role": "Anime Character",
-    "attributes": {
-      "Kanji": "黄泉醜女",
-      "Manga Debut": "Chapter 31",
-      "Anime Debut": "Aragoto Episode 9"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Yomotsu-shikome"
-  },
-  {
-    "name": "Takamasa Iki",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/4/4d/Takamasa_Iki.png",
-    "description": "Takamasa IkiProfileRaceHumanGenderMaleHair ColorDark brownStatusStatusAliveOccupationHead of the Iki family hospitalRelationshipsRelativesSayuri Iki(Wife)Hiyori Iki(Daughter)Masaomi Iki(Son)PortrayalJapanese VoiceHiroshi YanakaEnglish VoiceCole Brown",
-    "role": "Head of the Iki family hospital",
-    "attributes": {
+      "Kanji": "阿部勝真",
       "Race": "Human",
       "Gender": "Male",
-      "Hair": "Dark brown",
+      "Eye": "Black",
+      "Hair": "Black",
       "Status": "Alive",
-      "Relative(S": "Sayuri Iki (Wife) Hiyori Iki (Daughter) Masaomi Iki (Son",
-      "English Voice": "Cole Brown"
+      "Manga Debut": "Chapter 30"
     },
-    "source_url": "https://noragami.fandom.com/wiki/Takamasa_Iki"
+    "source_url": "https://noragami.fandom.com/wiki/Katsuzane_Abe"
   },
   {
-    "name": "Seki",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/5/51/Seki.png",
-    "description": "SekiProfileGenderMaleDebutMangaChapter 31AnimeAragoto Episode 9PortrayalJapanese VoiceKōhei AmasakiEnglish VoiceAnthony Bowling",
-    "role": "Anime Character",
+    "name": "Yukine",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/4/40/Yukine_%28Manga%29-12.png",
+    "description": "YukineMangaAnimeYukineHagusaNameKanji雪音RomajiYukineAlso Known As雪器Sekki(vessel name)ユッキーYukki(byKofuku)莠Hagusa(byFather)莠器Yūki(vessel name byFather)ハルHaru(human nickname)田嶋春樹Tajima Haruki(full human name)ProfileRaceShinkiGenderMaleAge14BirthdayNovember 29 (as a shinki)Height147.4cmHair ColorBlondeBlack (as Yūki)StatusStatusAliveOccupationYato's guidepostFather's shinkiRelationshipsRelativesNaomichi Tajima(father)Yuka Miyaike(sister)Unnamed motherDebutMangaChapter 3AnimeEpisode 2PortrayalJapan...",
+    "role": "Yato 's guidepost Father 's shinki",
     "attributes": {
+      "Image": "Manga Anime Yukine Hagusa",
+      "Kanji": "雪 音",
+      "Rōmaji": "Yukine",
+      "Alt. Name": "雪器 Sekki (vessel name) ユッキー Yukki (by Kofuku ) 莠 Hagusa (by Father ) 莠器 Yūki (vessel name by Father ) ハル Haru (human nickname) 田嶋春樹 Tajima Haruki (full human name) [ 2",
+      "Race": "Shinki",
       "Gender": "Male",
-      "Manga Debut": "Chapter 31"
+      "Age": "14 [ 3",
+      "Birthday": "November 29 (as a shinki) [ 4",
+      "Height": "147.4cm",
+      "Hair": "Blonde Black (as Yūki",
+      "Status": "Alive",
+      "Occupation": "Yato 's guidepost Father 's shinki",
+      "Relative(S": "Naomichi Tajima (father) Yuka Miyaike (sister) Unnamed mother",
+      "Manga Debut": "Chapter 3",
+      "Anime Debut": "Episode 2",
+      "Japanese Voice": "Yūki Kaji",
+      "English Voice": "Micah Solusod"
     },
-    "source_url": "https://noragami.fandom.com/wiki/Seki"
+    "source_url": "https://noragami.fandom.com/wiki/Yukine"
   },
   {
-    "name": "Tsuyu",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/2/26/Tsuyu_%28Manga%29-47.png",
-    "description": "TsuyuMangaAnimeNameKanji梅雨RomajiTsuyuProfileRaceTree spiritGenderFemaleAge1,000+Hair ColorDark brownStatusStatusAliveOccupationTenjin's GuidepostDebutMangaChapter 4AnimeEpisode 3PortrayalJapanese VoiceSaori HayamiEnglish VoiceJamie MarchiTsuyu(梅雨,Tsuyu?)is the spirit of a plum tree who has stayed withTenjinfor over 1,000 years due to her lasting love and dedication. Although she is Tenjin's guidepost, she is not ashinkiand was never ahuman.",
-    "role": "Tenjin 's Guidepost",
+    "name": "Yugiha",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/2/22/Yugiha_Character_Design.png",
+    "description": "YugihaYugiha.pngNameKanji靫巴RomajiYugihaAlso Known As靫器Saiki(vessel name byBishamonten)ProfileRaceShinkiHair ColorDark blueStatusStatusAliveOccupationBishamonten's shinkiDebutMangaChapter 7AnimeEpisode 7PortrayalJapanese VoiceMariko HigashiuchiEnglish VoiceRicco FajardoYugiha(靫巴,Yugiha?)is one ofBishamonten's shinki.",
+    "role": "Bishamonten 's shinki",
     "attributes": {
-      "Image": "Manga Anime",
-      "Kanji": "梅雨",
-      "Rōmaji": "Tsuyu",
-      "Gender": "Female",
-      "Age": "1,000+",
-      "Hair": "Dark brown",
+      "Image": "Yugiha.png",
+      "Kanji": "靫巴",
+      "Rōmaji": "Yugiha",
+      "Alt. Name": "靫器 Saiki (vessel name by Bishamonten",
+      "Race": "Shinki",
+      "Hair": "Dark blue",
       "Status": "Alive",
-      "Occupation": "Tenjin 's Guidepost",
+      "Occupation": "Bishamonten 's shinki",
+      "Manga Debut": "Chapter 7",
+      "Anime Debut": "Episode 7"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/Yugiha"
+  },
+  {
+    "name": "Momo",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/6/66/Momo-78.png",
+    "description": "Momo is a young man who appears to be in his late teens or early twenties. He has brown hair in the shape of a bowl cut, as well as large, round glasses. He also wears a suit and tie. While being dismissed byYato, he is seen wearing a down jacket over the suit and carrying a black shoulder bag.",
+    "role": "Alive",
+    "attributes": {
+      "Rōmaji": "Momo",
+      "Alt. Name": "百器 Hyakki (vessel name by Yato",
+      "Race": "Shinki",
+      "Gender": "Male",
+      "Status": "Alive",
+      "Manga Debut": "Chapter 78"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/Momo"
+  },
+  {
+    "name": "Ruha",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/e/ee/Ruha_%28Anime%29.png",
+    "description": "RuhaNameKanji瑠巴RomajiRuhaProfileRaceShinkiGenderFemaleHair ColorGrayStatusStatusAliveOccupationBishamonten's shinkiDebutMangaChapter 8(vessel form)Chapter 20(human form)AnimeAragoto Episode 6PortrayalJapanese VoiceKaoru KatakaiEnglish VoiceAlex MooreRuha(瑠巴,Ruha?)is one ofBishamonten's shinki.",
+    "role": "Bishamonten 's shinki",
+    "attributes": {
+      "Kanji": "瑠巴",
+      "Rōmaji": "Ruha",
+      "Race": "Shinki",
+      "Gender": "Female",
+      "Hair": "Gray",
+      "Status": "Alive",
+      "Occupation": "Bishamonten 's shinki",
+      "Manga Debut": "Chapter 8 (vessel form) Chapter 20 (human form",
+      "English Voice": "Alex Moore"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/Ruha"
+  },
+  {
+    "name": "Nayu",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/0/0b/Nayu.jpg",
+    "description": "NayuNameKanji南喩RomajiNayuAlso Known As南器Naki(vessel name byTenjin)ProfileRaceShinkiGenderFemaleEye ColorPinkHair ColorBlackStatusStatusAliveOccupationTenjin's shinkiDebutMangaChapter 4AnimeEpisode 3PortrayalJapanese VoiceHimika AkaneyaEnglish VoiceKara EdwardsNayu(南喩,Nayu?)is one ofTenjin's current shinki. She's part of a group of four female shinki who present themselves as \"The Tenjin Sisters\".",
+    "role": "Tenjin 's shinki",
+    "attributes": {
+      "Kanji": "南喩",
+      "Rōmaji": "Nayu",
+      "Alt. Name": "南器 Naki (vessel name by Tenjin",
+      "Race": "Shinki",
+      "Gender": "Female",
+      "Eye": "Pink",
+      "Hair": "Black",
+      "Status": "Alive",
+      "Occupation": "Tenjin 's shinki",
       "Manga Debut": "Chapter 4",
       "Anime Debut": "Episode 3"
     },
-    "source_url": "https://noragami.fandom.com/wiki/Tsuyu"
+    "source_url": "https://noragami.fandom.com/wiki/Nayu"
   },
   {
-    "name": "Masaomi Iki",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/0/07/Iki_Masaomi.png",
-    "description": "Masaomi IkiNameKanji壱岐正臣RomajiIki MasaomiAlso Known As瀬良魁夷Sera Kai'i(artist alias)ProfileRaceHumanGenderMaleAge28StatusStatusAliveOccupationPersonal doctorArt directorDesignerRelationshipsRelativesHiyori Iki(younger sister)Takamasa Iki(father)Sayuri Iki(mother)Grandmother IkiGrandfather IkiDebutMangaChapter 51(flashback)Chapter 52(present)AnimeAragoto Episode 5(mentioned",
-    "role": "Personal doctor Art director Designer",
+    "name": "Tsuguha",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/4/42/Tsuguha-19.png",
+    "description": "TsuguhaNameKanji紹巴RomajiTsuguhaAlso Known As福原夕依Fukuhara Yui(human name)ProfileRaceShinkiGenderFemaleHair ColorBrownStatusStatusDeceasedOccupationBishamonten's shinkiDebutMangaChapter 6(as a vessel)Chapter 13(as a human)AnimeEpisode 6(as a vessel)Episode 8(as a human)PortrayalJapanese VoiceAri OzawaEnglish VoiceMonica Rial",
+    "role": "Bishamonten 's shinki",
     "attributes": {
-      "Kanji": "壱岐正臣",
-      "Alt. Name": "瀬 良 魁 夷 Sera Kai'i (artist alias",
+      "Kanji": "紹巴",
+      "Rōmaji": "Tsuguha",
+      "Alt. Name": "福原夕依 Fukuhara Yui (human name",
+      "Race": "Shinki",
+      "Gender": "Female",
+      "Hair": "Brown",
+      "Status": "Deceased",
+      "Occupation": "Bishamonten 's shinki",
+      "Manga Debut": "Chapter 6 (as a vessel) Chapter 13 (as a human",
+      "Anime Debut": "Episode 6 (as a vessel) Episode 8 (as a human",
+      "Japanese Voice": "Ari Ozawa"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/Tsuguha"
+  },
+  {
+    "name": "Aimi Tabata",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/d/dd/Ami.png",
+    "description": "Aimi TabataNameKanji田端愛美RomajiTabata AimiAlso Known AsAmi-chan (byHiyori)ProfileRaceHumanGenderFemaleAge16Eye ColorLight brownHair ColorDark brownStatusStatusAliveOccupationHigh School StudentDebutMangaChapter 2AnimeEpisode 1PortrayalJapanese VoiceYuko TakayamaEnglish VoiceShelby Lindley(Season 1)Caitlin Glass(Season 2)Aimi Tabata(田端愛美,Tabata Aimi?), also referred to asAmi-chan, is one ofHiyori Iki'sfriends from school.",
+    "role": "High School Student",
+    "attributes": {
+      "Kanji": "田 端 愛 美",
+      "Alt. Name": "Ami-chan (by Hiyori",
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": "16",
+      "Hair": "Dark brown",
+      "Status": "Alive",
+      "Manga Debut": "Chapter 2",
+      "Anime Debut": "Episode 1",
+      "English Voice": "Shelby Lindley (Season 1) Caitlin Glass (Season 2"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/Aimi_Tabata"
+  },
+  {
+    "name": "Stationmaster Tama",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/a/a1/Stationmaster_Tama.png",
+    "description": "In real life, Tama is a stray cat who was adopted and hired as the stationmaster and operating officer of Kishi Station on the Kishigawa Line in Wakayama prefecture, Japan. She became well-adored by the station's customers and gained fame in Japanese media and pop culture. After her death in June 2015 (five months prior to her appearance in the manga), she was enshrined and deified.",
+    "role": "Goddess of Fortune Stationmaster Operating officer",
+    "attributes": {
+      "Kanji": "駅長たま",
+      "Rōmaji": "Ekichō Tama",
+      "Race": "God ; Cat",
+      "Gender": "Female",
+      "Age": "16",
+      "Eye": "Yellow",
+      "Hair": "Multi-colored",
+      "Status": "Alive (deified",
+      "Occupation": "Goddess of Fortune Stationmaster Operating officer",
+      "Manga Debut": "Chapter 58"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/Stationmaster_Tama"
+  },
+  {
+    "name": "Kaya",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/0/0b/Kaya_infobox-103.png",
+    "description": "Kaya was a young-looking woman described as having pockmarks on her face.She had bangs that reached to her eyes, side bangs that cropped around her chin, and a long ponytail tied at the base of her skull. She wore a tatteredkosode小袖and ashibiradatsumono褶だつもの wrapping skirt, typical attire of commoner women at the time.",
+    "role": "Deceased",
+    "attributes": {
+      "Kanji": "カヤ",
+      "Rōmaji": "Kaya",
+      "Race": "Human",
+      "Gender": "Female",
+      "Status": "Deceased",
+      "Manga Debut": "Chapter 32 (mentioned) Chapter 37 (as Izanami) Chapter 60"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/Kaya"
+  },
+  {
+    "name": "Ōkuninushi",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/7/75/Ookinushi_a7.png",
+    "description": "Ōkuninushi has the appearance of a middle-aged man with white hair and a tan complexion. He has short, spiky blonde hair and a goatee, as well as a distinct tuft of chest hair that is usually visible through his clothing. Since he is always wearing a pair of aviator sunglasses, his eyes are completely obscured, though they have been shown once and appear very sharp.",
+    "role": "God of Wealth",
+    "attributes": {
+      "Kanji": "大 国 主",
+      "Rōmaji": "Ōkuninushi",
+      "Alt. Name": "大黒天 Daikokuten 土蜘蛛オオナムチ Tsuchigumo Ōnamuchi イズモ Izumo ヤクモ Yakumo",
+      "Race": "God",
+      "Gender": "Male",
+      "Hair": "Blonde",
+      "Status": "Alive",
+      "Occupation": "God of Wealth",
+      "Manga Debut": "Chapter 28",
+      "Anime Debut": "Aragoto Episode 7",
+      "Japanese Voice": "Shunsuke Sakuya",
+      "English Voice": "Bryan Massey"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/%C5%8Ckuninushi"
+  },
+  {
+    "name": "Akiha",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/a/ac/Akiha.png",
+    "description": "He is a strong but shy man. He stands strong with his ideas but can easily fall under pressure. In OVA 2 he tries not to drink at the picnic, but soon later he becomes drunk. DespiteYatoandYukinebeing enemies, he showed reverence at Yukine's ability to turn into a blessed regalia. He says that they were impressive, indicating he gives credit where it is due. He also seems to be a good leader since he tried to help lead the other shinki to safety when ayakashi were attacking them, showing conc...",
+    "role": "Bishamonten 's shinki & lead doctor",
+    "attributes": {
+      "Kanji": "秋巴",
+      "Rōmaji": "Akiha",
+      "Alt. Name": "秋器 Shūki (by Bishamonten",
+      "Race": "Shinki",
+      "Gender": "Male",
+      "Hair": "Brown",
+      "Status": "Alive",
+      "Occupation": "Bishamonten 's shinki & lead doctor",
+      "Manga Debut": "Chapter 13",
+      "Anime Debut": "Episode 8",
+      "Japanese Voice": "Shinya Takahashi",
+      "English Voice": "Seth Magill"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/Akiha"
+  },
+  {
+    "name": "Sakuya-bime",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/a/a1/Sakuya-bime-63.png",
+    "description": "Sakuya-bime is loyal toHeaven. She is caring for others, but reluctant to carry out responsibilities she may view was strenuous or unfavorable, such as talking downTakemikazuchiduring a battle. (She is also somewhat frivolous as she suggested playing rock-paper-scissors to decide who goes.) She does not show nervousness or discomfort on the battlefield herself, and thus may be decently accustomed to combat.",
+    "role": "Goddess of Sakura Blossoms",
+    "attributes": {
+      "Kanji": "サクヤビメ",
+      "Rōmaji": "Sakuyabime",
+      "Race": "God",
+      "Gender": "Female",
+      "Status": "Alive",
+      "Occupation": "Goddess of Sakura Blossoms",
+      "Manga Debut": "Chapter 63"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/Sakuya-bime"
+  },
+  {
+    "name": "Benzaiten",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/a/a1/Benzaiten-93.png",
+    "description": "Benzaiten is a woman who seems to be in her early twenties. She has yellow-brown eyes and maroon-colored hair, which is worn in a high bun with a black, flower-shaped cloth holding it in place. She is also seen wearing ball-shaped earrings and two pieces of jewelry in her hair, and has a tattoo of a music note underneath her left collarbone. In the anime, she is seen wearing a low-cut, floor-length black dress. (In the manga, the skirt of the dress is white instead of black.) Over this, she w...",
+    "role": "Goddess of Fortune Goddess of knowledge, art, beauty",
+    "attributes": {
+      "Image": "Manga Anime",
+      "Kanji": "弁財天",
+      "Race": "God",
+      "Gender": "Female",
+      "Eye": "Yellow-amber",
+      "Hair": "Maroon",
+      "Status": "Alive",
+      "Occupation": "Goddess of Fortune Goddess of knowledge, art, beauty",
+      "Manga Debut": "Chapter 29",
+      "Anime Debut": "Aragoto Episode 7",
+      "Japanese Voice": "Chihiro Ishiguro",
+      "English Voice": "Skyler McIntosh"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/Benzaiten"
+  },
+  {
+    "name": "Mutsumi",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/0/0e/Mutsumi_%28Manga%29-1.png",
+    "description": "In the anime, Mutsumi is said to often skip classes due to sickness, disregards the proper uniform rule, and for some reason the teachers always forgive her. This causes her classmates to hate and bully her; saying that she is acting like she’s special when she's not, that she's annoying, and that she should just kill herself. In the manga, aside from the aforementioned personality she is also somehow childish, refers to herself as a third person, and doesn't get why people around her dislike...",
+    "role": "Student",
+    "attributes": {
+      "Image": "Manga Anime",
+      "Kanji": "睦実",
+      "Rōmaji": "Mutsumi",
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": "14-15",
+      "Hair": "Brown",
+      "Status": "Alive",
+      "Occupation": "Student",
+      "Manga Debut": "Chapter 1",
+      "Anime Debut": "Episode 1",
+      "Japanese Voice": "Mikako Komatsu",
+      "English Voice": "Mikaela Krantz"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/Mutsumi"
+  },
+  {
+    "name": "Yatagarasu",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/6/65/Yatagarasu-63.png",
+    "description": "Yatagarasu(ヤタガラス,Yatagarasu?)is the three-legged crow god. He is one of the gods summoned byHeavento subjugateBishamonandthe Crafter.",
+    "role": "Alive (reincarnated",
+    "attributes": {
+      "Kanji": "ヤタガラス",
+      "Rōmaji": "Yatagarasu",
+      "Race": "God",
+      "Gender": "Male",
+      "Status": "Alive (reincarnated",
+      "Manga Debut": "Chapter 63"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/Yatagarasu"
+  },
+  {
+    "name": "Manabu Hagiwara",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/2/28/Manabu_Hagiwara-14.png",
+    "description": "Manabu HagiwaraMangaAnimeNameKanji萩原学RomajiHagiwara ManabuAlso Known As荻原学Ogiwara Manabu(anime only)ProfileRaceHumanGenderMaleAge13-14Hair ColorDark brownStatusStatusAliveOccupationMiddle schoolstudentDebutMangaChapter 10AnimeEpisode 8PortrayalJapanese VoiceAyumu MuraseEnglish VoiceAustin TindleManabu Hagiwara(萩原学,Hagiwara Manabu?), known asManabu Ogiwara(荻原学,Ogiwara Manabu?)in the anime, is one ofYato's clients as well asHiyori's underclassman atShiratori Academy.",
+    "role": "Middle school student",
+    "attributes": {
+      "Image": "Manga Anime",
+      "Kanji": "萩原学",
+      "Alt. Name": "荻原学 Ogiwara Manabu (anime only",
       "Race": "Human",
       "Gender": "Male",
-      "Age": "28",
+      "Age": "13-14",
+      "Hair": "Dark brown",
       "Status": "Alive",
-      "Occupation": "Personal doctor Art director Designer",
-      "Relative(S": "Hiyori Iki (younger sister) Takamasa Iki (father) Sayuri Iki (mother) Grandmother Iki Grandfather Iki",
-      "Manga Debut": "Chapter 51 (flashback) Chapter 52 (present",
-      "Anime Debut": "Aragoto Episode 5 (mentioned"
+      "Occupation": "Middle school student",
+      "Manga Debut": "Chapter 10",
+      "Anime Debut": "Episode 8"
     },
-    "source_url": "https://noragami.fandom.com/wiki/Masaomi_Iki"
+    "source_url": "https://noragami.fandom.com/wiki/Manabu_Hagiwara"
+  },
+  {
+    "name": "Kugaha",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/6/61/Kugaha_%28Manga%29-15.png",
+    "description": "KugahaMangaAnimeNameKanji陸巴RomajiKugahaAlso Known As陸器Rokki(former vessel name byBishamonten)斯Saku(byTenjin)役Edachi(byFather)ProfileRaceShinkiGenderMaleAgeUnknownHair ColorGrayStatusStatusDeceasedOccupationBishamonten's shinki (former)Father's shinki (former)Tenjin's shinki (former)DebutMangaChapter 12AnimeAragoto Episode 1PortrayalJapanese VoiceTakanori HoshinoEnglish VoicePhil Parsons",
+    "role": "Bishamonten's shinki (former) Father's shinki (former) Tenjin's shinki (former",
+    "attributes": {
+      "Image": "Manga Anime",
+      "Kanji": "陸巴",
+      "Rōmaji": "Kugaha",
+      "Alt. Name": "陸器 Rokki (former vessel name by Bishamonten ) 斯 Saku (by Tenjin ) 役 Edachi (by Father",
+      "Race": "Shinki",
+      "Gender": "Male",
+      "Hair": "Gray",
+      "Status": "Deceased",
+      "Occupation": "Bishamonten's shinki (former) Father's shinki (former) Tenjin's shinki (former",
+      "Manga Debut": "Chapter 12"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/Kugaha"
+  },
+  {
+    "name": "Ōshi",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/1/14/Oshi-30.png",
+    "description": "She is an arrogant shinki willing to do whatever it takes to follow heaven's orders. Despite calling the Gods Lord (-sama in Japanese). She called Ebisu stupid for attempting to control the ayakashi along with containing the Seven Gods claiming to protect their innocence. In reality, she didn't want them to interfere and help Ebisu, showing she may secretly look down on the Gods. This is made much more apparent when Okuninushi challenges her and she says a God without a shinki is useless. Kaz...",
+    "role": "Heavenly Guard's shinki and triumvir",
+    "attributes": {
+      "Image": "Manga Anime",
+      "Kanji": "奥司",
+      "Rōmaji": "Ōshi",
+      "Race": "Shinki",
+      "Gender": "Female",
+      "Eye": "Blue-gray",
+      "Hair": "Black",
+      "Status": "Alive",
+      "Occupation": "Heavenly Guard's shinki and triumvir",
+      "Manga Debut": "Chapter 30",
+      "Anime Debut": "Aragoto Episode 10",
+      "Japanese Voice": "Misako Tomioka",
+      "English Voice": "Clarine Harp"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/%C5%8Cshi"
+  },
+  {
+    "name": "Takemikazuchi",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/e/e0/Takemikazuchi-57.png",
+    "description": "TakemikazuchiMangaAnimeNameKanjiタケミカヅチAlso Known AsタケTake(byYato,Shinatsuhiko,Kagutsuchi,Ōkuninushi)ヅッチーZoochie(byKofuku)ProfileRaceGodGenderMaleAge1200+Hair ColorBlackStatusStatusAliveOccupationGod of thunderRelationshipsRelativesKagutsuchi(father)Izanami(grandmother)Ebisu(uncle)Amaterasu(aunt)DebutMangaChapter 29AnimeAragoto Episode 9PortrayalJapanese VoiceShinya HamazoeEnglish VoiceJ. Michael Tatum",
+    "role": "God of thunder",
+    "attributes": {
+      "Image": "Manga Anime",
+      "Kanji": "タケミカヅチ",
+      "Alt. Name": "タケ Take (by Yato , Shinatsuhiko , Kagutsuchi , Ōkuninushi ) ヅッチー Zoochie (by Kofuku",
+      "Race": "God",
+      "Gender": "Male",
+      "Age": "1200+",
+      "Hair": "Black",
+      "Status": "Alive",
+      "Relative(S": "Kagutsuchi (father) Izanami (grandmother) Ebisu (uncle) Amaterasu (aunt",
+      "Manga Debut": "Chapter 29"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/Takemikazuchi"
+  },
+  {
+    "name": "Grandmother Iki",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/3/35/Grandmother_Iki-54.png",
+    "description": "Grandmother IkiNameAlso Known Asおばあ様Obaa-sama(byHiyoriandMasaomi)ProfileRaceHumanGenderFemaleAgeUnknownStatusStatusDeceasedRelationshipsRelativesSayuri Iki(daughter)Takamasa Iki(son-in-law)Masaomi Iki(grandson)Hiyori Iki(granddaughter)Unnamed husbandDebutMangaChapter 54",
+    "role": "Deceased",
+    "attributes": {
+      "Alt. Name": "おばあ様 Obaa-sama (by Hiyori and Masaomi",
+      "Race": "Human",
+      "Gender": "Female",
+      "Status": "Deceased",
+      "Relative(S": "Sayuri Iki (daughter) Takamasa Iki (son-in-law) Masaomi Iki (grandson) Hiyori Iki (granddaughter) Unnamed husband",
+      "Manga Debut": "Chapter 54"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/Grandmother_Iki"
+  },
+  {
+    "name": "Ayu",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/4/4a/Ayu-s1e3.png",
+    "description": "AyuNameKanji歩喩RomajiAyuAlso Known As歩器Hoki(vessel name byTenjin)ProfileRaceShinkiGenderFemaleAgeUnknownEye ColorBlueHair ColorAuburnStatusStatusAliveOccupationTenjin's shinkiDebutMangaChapter 4AnimeEpisode 3PortrayalJapanese VoiceM·A·OEnglish VoiceApphia YuAyu(歩喩,Ayu?)is one ofTenjin's current shinki. She's part of a group of four female shinki who present themselves as \"The Tenjin Sisters\" (now consisting of only three members).",
+    "role": "Tenjin 's shinki",
+    "attributes": {
+      "Kanji": "歩喩",
+      "Rōmaji": "Ayu",
+      "Alt. Name": "歩器 Hoki (vessel name by Tenjin",
+      "Race": "Shinki",
+      "Gender": "Female",
+      "Eye": "Blue",
+      "Hair": "Auburn",
+      "Status": "Alive",
+      "Occupation": "Tenjin 's shinki",
+      "Manga Debut": "Chapter 4",
+      "Anime Debut": "Episode 3",
+      "Japanese Voice": "M·A·O",
+      "English Voice": "Apphia Yu"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/Ayu"
+  },
+  {
+    "name": "Mikagami",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/5/5a/Mikagami-70.png",
+    "description": "Mikagami is a woman of average height. She has long, dark hair with straight-cut bangs. She has one dark and one pale eye, like the two other Treasures. Mikagami appears to wear achihaya(襅) - an overcoat worn by shrine maidens during ceremonies - and amaetenkan(前天冠) headdress.",
+    "role": "Amaterasu 's sacred treasure",
+    "attributes": {
+      "Kanji": "みかがみ",
+      "Rōmaji": "Mikagami",
+      "Race": "Sacred Treasure",
+      "Gender": "Female",
+      "Status": "Alive",
+      "Occupation": "Amaterasu 's sacred treasure",
+      "Manga Debut": "Chapter 62"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/Mikagami"
+  },
+  {
+    "name": "Tatsumi",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/7/73/Tatsumi_s2e7.png",
+    "description": "TatsumiNameKanji截弥RomajiTatsumiProfileRaceShinkiGenderMaleEye ColorBlackHair ColorBlackStatusStatusDeceasedOccupationEbisu's shinkiDebutMangaChapter 30AnimeAragoto Episode 7PortrayalJapanese VoiceYoshitaka YamayaEnglish VoiceAaron DismukeTatsumi(截弥,Tatsumi?)is one ofEbisu's shinki who he brings intoYomi.",
+    "role": "Ebisu 's shinki",
+    "attributes": {
+      "Kanji": "截弥",
+      "Rōmaji": "Tatsumi",
+      "Race": "Shinki",
+      "Gender": "Male",
+      "Eye": "Black",
+      "Hair": "Black",
+      "Status": "Deceased",
+      "Occupation": "Ebisu 's shinki",
+      "Manga Debut": "Chapter 30"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/Tatsumi"
+  },
+  {
+    "name": "Olive House Lady",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/8/84/Olive_House_Lady-s2e13.png",
+    "description": "Olive House LadyNameKanji洋食屋のおばさんRomajiYoushokuya no obasanProfileRaceHumanGenderFemaleHair ColorDark brownStatusOccupationWaitressDebutMangaChapter 32(as Izanami)Chapter 38AnimeAragoto Episode 9(as Izanami)Aragoto Episode 13PortrayalJapanese VoiceAsami ImaiEnglish VoiceBritt MyerTheOlive House Lady(洋食屋のおばさん,Youshokuya no obasan?, lit. \"woman from the western food restaurant\")is a server at theOlive House, a restaurant that the previousEbisufrequented.",
+    "role": "Waitress",
+    "attributes": {
+      "Kanji": "洋食屋のおばさん",
+      "Race": "Human",
+      "Gender": "Female",
+      "Hair": "Dark brown",
+      "Occupation": "Waitress",
+      "Manga Debut": "Chapter 32 (as Izanami) Chapter 38",
+      "Anime Debut": "Aragoto Episode 9 (as Izanami) Aragoto Episode 13",
+      "Japanese Voice": "Asami Imai",
+      "English Voice": "Britt Myer"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/Olive_House_Lady"
+  },
+  {
+    "name": "Saiun",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/1/1f/Saiun-63.png",
+    "description": "Saiun is a young man appearing to be in his mid to late twenties. Like all of Takemikazuchi's shinki, he wears Shinto priest robes, and his hair is mostly loose with some locks pulled back into a ponytail at the back of his head. His official coloring as a human is unrevealed, but based on shading his hair appears to be brunette or black.",
+    "role": "Takemikazuchi’s shinki",
+    "attributes": {
+      "Kanji": "犀云",
+      "Rōmaji": "Saiun",
+      "Alt. Name": "犀器 Saiki (vessel name by Takemikazuchi",
+      "Race": "Shinki",
+      "Gender": "Male",
+      "Status": "Alive",
+      "Occupation": "Takemikazuchi’s shinki",
+      "Manga Debut": "Chapter 35 (as a vessel) Chapter 61 (as a human",
+      "Anime Debut": "Aragoto Episode 12 (as a vessel"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/Saiun"
   },
   {
     "name": "Sakura",
@@ -789,86 +779,109 @@
     "source_url": "https://noragami.fandom.com/wiki/Sakura"
   },
   {
-    "name": "Yatagarasu",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/6/65/Yatagarasu-63.png",
-    "description": "Yatagarasu(ヤタガラス,Yatagarasu?)is the three-legged crow god. He is one of the gods summoned byHeavento subjugateBishamonandthe Crafter.",
-    "role": "Alive (reincarnated",
-    "attributes": {
-      "Kanji": "ヤタガラス",
-      "Rōmaji": "Yatagarasu",
-      "Race": "God",
-      "Gender": "Male",
-      "Status": "Alive (reincarnated",
-      "Manga Debut": "Chapter 63"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Yatagarasu"
-  },
-  {
-    "name": "Katsuzane Abe",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/3/38/Abe.png",
-    "description": "Katsuzane AbeNameKanji阿部勝真RomajiAbe KatsuzaneProfileRaceHumanGenderMaleEye ColorBlackHair ColorBlackStatusStatusAliveDebutMangaChapter 30AnimeAragoto Episode 9PortrayalJapanese VoiceToshiki MasudaEnglish VoiceNewton Pittman",
+    "name": "Kiyoko Onodera",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/8/87/Kiyoko_Onodera-43.png",
+    "description": "Kiyoko is a short, elderly woman. She has presumably gray hair cut into a short bob. She is often depicted with her eyes closed, but her eyes are darkly colored and she uses dark, thick rimmed reading glasses. She is seen wearing slippers, a flower-patterned dress, and a dark-colored cap. She also wears the metal chain from her father's pocket watch as a bracelet. On the same arm, she has a burn scar imprinted by the chain, running from her palm to the back of her wrist.",
     "role": "Alive",
     "attributes": {
-      "Kanji": "阿部勝真",
-      "Race": "Human",
-      "Gender": "Male",
-      "Eye": "Black",
-      "Hair": "Black",
-      "Status": "Alive",
-      "Manga Debut": "Chapter 30"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Katsuzane_Abe"
-  },
-  {
-    "name": "Grandmother Iki",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/3/35/Grandmother_Iki-54.png",
-    "description": "Grandmother IkiNameAlso Known Asおばあ様Obaa-sama(byHiyoriandMasaomi)ProfileRaceHumanGenderFemaleAgeUnknownStatusStatusDeceasedRelationshipsRelativesSayuri Iki(daughter)Takamasa Iki(son-in-law)Masaomi Iki(grandson)Hiyori Iki(granddaughter)Unnamed husbandDebutMangaChapter 54",
-    "role": "Deceased",
-    "attributes": {
-      "Alt. Name": "おばあ様 Obaa-sama (by Hiyori and Masaomi",
+      "Kanji": "小野寺キヨコ",
+      "Rōmaji": "Onodera Kiyoko",
       "Race": "Human",
       "Gender": "Female",
-      "Status": "Deceased",
-      "Relative(S": "Sayuri Iki (daughter) Takamasa Iki (son-in-law) Masaomi Iki (grandson) Hiyori Iki (granddaughter) Unnamed husband",
-      "Manga Debut": "Chapter 54"
-    },
-    "source_url": "https://noragami.fandom.com/wiki/Grandmother_Iki"
-  },
-  {
-    "name": "Aiha",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/b/bc/Aiha_%28Anime%29.png",
-    "description": "Aiha is shown to be jealous ofTsuguha, feeling that Tsuguha had usurped her place as Bishamon's foremostShin'i(神衣 lit. a god's clothes). BecauseBishamontenstopped being close to her shinki and mainly interacted with her battle shinki, Aiha felt worthless as her role as Bishamon's clothing was usurped. She was spiteful and had a short temper. She also gave into temptation, asking Kuguha for advice and being easily manipulated by him into hiding her blight and helping him with his scheme to ove...",
-    "role": "Bishamonten 's shinki",
-    "attributes": {
-      "Kanji": "藍巴",
-      "Rōmaji": "Aiha",
-      "Race": "Shinki",
-      "Gender": "Female",
-      "Hair": "Blonde (manga) Light pink (anime",
       "Status": "Alive",
-      "Occupation": "Bishamonten 's shinki",
-      "Manga Debut": "Chapter 12",
-      "Anime Debut": "Aragoto Episode 1",
-      "Japanese Voice": "Hisako Tōjō",
-      "English Voice": "Michelle Rojas"
+      "Relative(S": "Mayu (mother) Harumi (daughter-in-law) Unnamed child",
+      "Manga Debut": "Chapter 43"
     },
-    "source_url": "https://noragami.fandom.com/wiki/Aiha"
+    "source_url": "https://noragami.fandom.com/wiki/Kiyoko_Onodera"
   },
   {
-    "name": "Fukurokuju",
-    "image_url": "https://static.wikia.nocookie.net/noragami/images/d/d0/Fukurokuju-29.png",
-    "description": "FukurokujuNameKanji福禄寿RomajiFukurokujuProfileRaceGodGenderMaleEye ColorBlackHair ColorGrayStatusStatusAliveOccupationGod of Happiness, Wealth and LongevityDebutMangaChapter 29AnimeAragoto Episode 7PortrayalJapanese VoiceKazumasa NakamuraEnglish VoiceKyle Hebert",
-    "role": "God of Happiness, Wealth and Longevity",
+    "name": "Jurojin",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/1/1d/Jurojin-29.png",
+    "description": "JurojinMangaAnimeNameKanji寿老人ProfileRaceGodGenderMaleStatusStatusAliveOccupationGod of Long LifeDebutMangaChapter 29PortrayalJapanese VoiceShunichi MakiEnglish VoiceGreg Silva",
+    "role": "God of Long Life",
     "attributes": {
-      "Kanji": "福禄寿",
-      "Rōmaji": "Fukurokuju",
+      "Image": "Manga Anime",
+      "Kanji": "寿老人",
       "Race": "God",
       "Gender": "Male",
-      "Eye": "Black",
-      "Hair": "Gray",
+      "Status": "Alive",
+      "Manga Debut": "Chapter 29",
+      "English Voice": "Greg Silva"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/Jurojin"
+  },
+  {
+    "name": "Hotei",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/e/e8/Hotei-29.png",
+    "description": "HoteiMangaAnimeNameKanji布袋RomajiHoteiAlso Known AsBudai (Chinese)ProfileRaceGodGenderMaleEye ColorBrownHair ColorBlondeStatusStatusAliveOccupationGod of Abundance and Good HealthDebutMangaChapter 29AnimeAragoto Episode 7PortrayalJapanese VoiceShinya TakahashiEnglish VoiceDave TroskoHotei(布袋,Hotei?)is one of theSeven Gods of Fortune. He is officially the god of abundance and good health.",
+    "role": "God of Abundance and Good Health",
+    "attributes": {
+      "Image": "Manga Anime",
+      "Kanji": "布袋",
+      "Rōmaji": "Hotei",
+      "Race": "God",
+      "Gender": "Male",
+      "Eye": "Brown",
+      "Hair": "Blonde",
       "Status": "Alive",
       "Manga Debut": "Chapter 29"
     },
-    "source_url": "https://noragami.fandom.com/wiki/Fukurokuju"
+    "source_url": "https://noragami.fandom.com/wiki/Hotei"
+  },
+  {
+    "name": "Moyu",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/6/6c/Moyu-s1e3.png",
+    "description": "MoyuNameKanji望喩ProfileRaceShinkiGenderFemaleAgeUnknownEye ColorPale YellowHair ColorDark BrownStatusStatusAliveOccupationTenjin's shinkiDebutMangaChapter 4AnimeEpisode 3PortrayalJapanese VoiceShiori IzawaEnglish VoiceTia BallardMoyu(望喩,Moyu?)is one of Tenjin's currentshinki. She's part of a group of female shinki who present themselves as \"The Tenjin Sisters\".",
+    "role": "Tenjin 's shinki",
+    "attributes": {
+      "Kanji": "望喩",
+      "Race": "Shinki",
+      "Gender": "Female",
+      "Hair": "Dark Brown",
+      "Status": "Alive",
+      "Occupation": "Tenjin 's shinki",
+      "Manga Debut": "Chapter 4",
+      "Anime Debut": "Episode 3"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/Moyu"
+  },
+  {
+    "name": "Kinuha",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/e/e6/Kinuha_%28Anime%29.png",
+    "description": "While not much is known of her personality, she seems to be a calm, mature person. Shown whenKugahatook his clothes off to show he had no blight, all the other girls screamed and averted their eyes, but Kinuha looked calm and just kept staring. Like the rest of Bishamonten's shinki, she is loyal to her master. She can be somewhat curt as shown when her master and fellow shinki went toKofukuto see where vents would open, Kinuha mentioned how it was most likely that Kofuku's bad luck caused the...",
+    "role": "Bishamon's shinki",
+    "attributes": {
+      "Kanji": "紝巴",
+      "Rōmaji": "Kinuha",
+      "Alt. Name": "紝器 Jinki (vessel name by Bishamon ) お紝 Okinu (by Kuraha and Akiha",
+      "Race": "Shinki",
+      "Gender": "Female",
+      "Eye": "Brown",
+      "Hair": "Brown",
+      "Status": "Alive",
+      "Occupation": "Bishamon's shinki",
+      "Manga Debut": "Chapter 6 (as a vessel) Chapter 13 (as a human",
+      "Anime Debut": "Episode 6 (as a vessel) Episode 8 (as a human",
+      "Japanese Voice": "Kanami Satô",
+      "English Voice": "Mallorie Rodak"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/Kinuha"
+  },
+  {
+    "name": "Shiiho",
+    "image_url": "https://static.wikia.nocookie.net/noragami/images/5/52/Shiiho-76.png",
+    "description": "Shiiho has the appearance of a preteen boy. He has black hair and dark eyes. He wears a white kimono top with black stripes on the sleeves over a blackgakuran. He also wears a pair of boots that reach his lower shins.",
+    "role": "Alive",
+    "attributes": {
+      "Kanji": "椎布",
+      "Rōmaji": "Shīho",
+      "Alt. Name": "椎ちゃん Shī-chan (by Arahabaki ) 蝗禍 Kouka (by Heaven ) 椎軍 Shīgun (by Heaven",
+      "Race": "Shinki",
+      "Gender": "Male",
+      "Hair": "Black",
+      "Status": "Alive",
+      "Manga Debut": "Chapter 34 (as a vessel) Chapter 76 (as a human"
+    },
+    "source_url": "https://noragami.fandom.com/wiki/Shiiho"
   }
 ]

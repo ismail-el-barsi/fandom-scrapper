@@ -1,6 +1,6 @@
 # Rapport de Scraping pour : the-wheel-of-time
 - **Statut :** ✅ SUCCÈS - 27 fiches valides (minimum requis: 10)
-- **Temps total :** 63.36s
+- **Temps total :** 53.23s
 - **Catégories testées :** 1 (Catégorie principale)
 - **Catégorie utilisée :** Catégorie principale
 - **Liens trouvés :** 27

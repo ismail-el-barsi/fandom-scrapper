@@ -1,6 +1,6 @@
 # Rapport de Scraping pour : mario
 - **Statut :** ✅ SUCCÈS - 38 fiches valides (minimum requis: 10)
-- **Temps total :** 135.44s
+- **Temps total :** 113.87s
 - **Catégories testées :** 1 (Catégorie principale)
 - **Catégorie utilisée :** Catégorie principale
 - **Liens trouvés :** 39

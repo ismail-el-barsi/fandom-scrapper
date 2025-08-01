@@ -1,58 +1,60 @@
 [
   {
-    "name": "Inspector Bradstreet",
-    "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/4/48/Sillouetteman.jpg",
-    "description": "Inspector Bradstreet makes a single appearance in the1960s BBC series' episodeThe Man with the Twisted Lip, played by Victor Brooks.",
-    "role": "Anime Character",
-    "attributes": {
-      "Nation": "British",
-      "Affiliation": "Scotland Yard",
-      "Job": "Police Inspector",
-      "Appearances": "\" The Adventure of the Blue Carbuncle \" \" The Man with the Twisted Lip \" \" The Adventure of the Engineer's Thumb \""
-    },
-    "source_url": "https://bakerstreet.fandom.com/wiki/Inspector_Bradstreet"
-  },
-  {
-    "name": "Baker Street Irregulars",
-    "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/c/cd/Baker_Street_Irregulars.gif",
-    "description": "The Baker Street Irregularsis a gang of young street children whomSherlock Holmesoften employs to aid his cases. They first appeared inConan Doyle's first novel,A Study in Scarlet. They also appear inThe Sign of the Four, one of the chapters from the novel is titled \"The Baker Street Irregulars\".",
-    "role": "Anime Character",
-    "attributes": {
-      "Nation": "British",
-      "Job": "Holmes' agents",
-      "Appearances": "A Study in Scarlet The Sign of the Four"
-    },
-    "source_url": "https://bakerstreet.fandom.com/wiki/Baker_Street_Irregulars"
-  },
-  {
-    "name": "Mary Watson",
-    "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/2/28/Mary_Morstan_Sidney_Paget.jpg",
-    "description": "Mary's father,Arthur Morstan, was an officer of anIndianregiment. Her mother died when she was young, and Captain Morstan sent Mary back to Britain to be educated. As she had no family in the country, Mary was placed in a boarding school in Edinburgh, where she remained until she was seventeen.",
-    "role": "Housewife",
-    "attributes": {
-      "Sex": "Female",
-      "Born": "1871 British India",
-      "Died": "Between 1891-1894",
-      "Nation": "British",
-      "Spouse": "John Watson (husband",
-      "Position": "Housewife",
-      "Appearances": "The Sign of the Four \" The Boscombe Valley Mystery \" \" The Man with the Twisted Lip \" \" The Sign of Three \" Mentioned in other stories"
-    },
-    "source_url": "https://bakerstreet.fandom.com/wiki/Mary_Watson"
-  },
-  {
-    "name": "Inspector Lestrade",
-    "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/f/f9/Inspector_Lestrade_paget.jpg",
-    "description": "Inspector G. Lestradeis aScotland Yarddetective appearing in several of theSherlock Holmesstories bySir Arthur Conan Doyle. Doyle used the name of an acquaintance from his days at the University of Edinburgh, a Saint Lucian whom Doyle disliked, although it has also been suggested that the name is an anagram of \"Dearest L\", a reference to Conan Doyle's first wife, Louisa. In \"The Adventure of the Cardboard Box\", Lestrade's first initial is revealed to be G, which may be a reference to the Pref...",
+    "name": "Mycroft Holmes",
+    "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/9/90/Mycroftpaget.png",
+    "description": "Mycroft Holmes possessed greater powers of deductive reasoning compared to his brother, Sherlock Holmes. Sherlock even stated that Mycroft possessed in a larger degree a faculty of observation and peculiar facility for deduction than himself. He was unwilling, however, to put physical effort behind these powers. It was implied that he lacked practicality and completely dispassionate. Mycroft occupied an unspecified role in the British government. His brother stated that Mycroft audited books ...",
     "role": "TV Character",
     "attributes": {
       "Sex": "Male",
+      "Born": "1847",
       "Nation": "British",
-      "Job": "Police Inspector",
-      "Appearances": "Canon Stories",
-      "Actor": "Various"
+      "Siblings": "Sherlock Holmes (Younger Brother",
+      "Family": "Dr. Vernet (Distant Relative",
+      "Job": "Government Worker (occasionally the British Government",
+      "Appearances": "\" The Adventure of the Greek Interpreter \" \" The Final Problem \" \" The Adventure of the Bruce-Partington Plans \""
     },
-    "source_url": "https://bakerstreet.fandom.com/wiki/Inspector_Lestrade"
+    "source_url": "https://bakerstreet.fandom.com/wiki/Mycroft_Holmes"
+  },
+  {
+    "name": "Alec MacDonald",
+    "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/c/cf/Alec_MacDonald.jpg",
+    "description": "Inspector Alec MacDonaldis a young, though relatively senior officer working forScotland Yard. He consultedSherlock Holmesabout the murder ofJohn DouglasatBirlstone House. Although initially skeptical that the case was connected with ProfessorJames Moriarty, after Holmes showed that Moriarty owned an immensely valuable painting byJean-Baptiste Greuze, one which he could not possibly afford on his professor's salary, MacDonald was very eager to listen to Holmes' opinions on the matter.",
+    "role": "TV Character",
+    "attributes": {
+      "Sex": "Male",
+      "Born": "Aberdeen, Scotland",
+      "Nation": "Scottish",
+      "Job": "Police Inspector",
+      "Appearances": "The Valley of Fear"
+    },
+    "source_url": "https://bakerstreet.fandom.com/wiki/Alec_MacDonald"
+  },
+  {
+    "name": "Sebastian Moran",
+    "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/2/22/Colonel_Sebastian_Moran.jpg",
+    "description": "Sebastian Moran was born in London in 1840, the son of Sir Augustus Moran, CB, sometime Minister to Persia. After being educated at Eton College and the University of Oxford, he went on to a distinguished military career. Formerly of the 1st Bangalore Pioneers (Madras), he served in the Jowaki Expedition of 1877-1878 and in theSecond Anglo-Afghan War, seeing action at the Battle of Char Asiab, 6 October 1879 (for which he was \"mentioned in despatches\"); the Battle of Sherpur, 23 December 1879...",
+    "role": "Villain",
+    "attributes": {
+      "Sex": "Male",
+      "Born": "1840",
+      "Nation": "British",
+      "Job": "Colonel (formerly) Thug (formerly) Hitman",
+      "Appearances": "\" The Adventure of the Empty House \" \" His Last Bow \" (mentioned"
+    },
+    "source_url": "https://bakerstreet.fandom.com/wiki/Sebastian_Moran"
+  },
+  {
+    "name": "Violet Hunter",
+    "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/7/7b/Copp-06.jpg",
+    "description": "Violet Hunter visits Holmes, asking whether she should accept a job as governess; a job with very strange conditions. She is enticed by the phenomenal salary which, as originally offered, is £100 a year, later increased to £120 when Miss Hunter balks at having to cut her long hair short (her previous position paid £48 a year). This is only one of many peculiar provisos to which she must agree. The employer,Jephro Rucastle, seems pleasant enough, yet Miss Hunter obviously has her suspicions.",
+    "role": "TV Character",
+    "attributes": {
+      "Sex": "Female",
+      "Nation": "British",
+      "Job": "Governess",
+      "Appearances": "\" The Adventure of the Copper Beeches \""
+    },
+    "source_url": "https://bakerstreet.fandom.com/wiki/Violet_Hunter"
   },
   {
     "name": "Fritz von Waldbaum",
@@ -65,6 +67,18 @@
       "Appearances": "\" The Adventure of the Naval Treaty \""
     },
     "source_url": "https://bakerstreet.fandom.com/wiki/Fritz_von_Waldbaum"
+  },
+  {
+    "name": "Stanley Hopkins",
+    "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/a/aa/Gold-01.jpg",
+    "description": "Inspector Stanley Hopkinsis aScotland Yarddetective who works withSherlock Holmeson several occasions. He is a student and follower of the methods of Holmes, and unlike a number of his colleagues fully and willingly acknowledges Holmes' vital contributions to his own arrests.",
+    "role": "Anime Character",
+    "attributes": {
+      "Nation": "British",
+      "Job": "Police Inspector",
+      "Appearances": "\" The Adventure of the Abbey Grange \" \" The Adventure of the Golden Pince-Nez \" \" The Adventure of Black Peter \""
+    },
+    "source_url": "https://bakerstreet.fandom.com/wiki/Stanley_Hopkins"
   },
   {
     "name": "Charles I of England",
@@ -85,32 +99,18 @@
     "source_url": "https://bakerstreet.fandom.com/wiki/Charles_I_of_England"
   },
   {
-    "name": "Wiggins",
-    "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/4/48/Sillouetteman.jpg",
-    "description": "He also leads theBaker Street Irregulars, the unofficial cadre of street children that help Holmes on some of the more baffling cases, acting as his eyes, ears and information gathering service.",
-    "role": "Anime Character",
+    "name": "Inspector Lestrade",
+    "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/f/f9/Inspector_Lestrade_paget.jpg",
+    "description": "Inspector G. Lestradeis aScotland Yarddetective appearing in several of theSherlock Holmesstories bySir Arthur Conan Doyle. Doyle used the name of an acquaintance from his days at the University of Edinburgh, a Saint Lucian whom Doyle disliked, although it has also been suggested that the name is an anagram of \"Dearest L\", a reference to Conan Doyle's first wife, Louisa. In \"The Adventure of the Cardboard Box\", Lestrade's first initial is revealed to be G, which may be a reference to the Pref...",
+    "role": "TV Character",
     "attributes": {
       "Sex": "Male",
       "Nation": "British",
-      "Appearances": "A Study in Scarlet The Sign of the Four‎"
+      "Job": "Police Inspector",
+      "Appearances": "Canon Stories",
+      "Actor": "Various"
     },
-    "source_url": "https://bakerstreet.fandom.com/wiki/Wiggins"
-  },
-  {
-    "name": "Irene Adler",
-    "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/8/8c/Adler_says_goodnight.jpg",
-    "description": "Irene Adler was born in New Jersey Or Chelsea, London in 1858. She pursued a career in opera as a contralto or soprano, performing at La Scala in Milan, and for a term as prima donna at the Imperial Opera ofWarsaw, indicating that she was an extraordinary singer. Adler retired in her late twenties and moved toLondon.",
-    "role": "Hero",
-    "attributes": {
-      "Sex": "Female",
-      "Born": "1858 New Jersey, United States of America /Chelsea, London , United Kingdom",
-      "Nation": "British (most likely English) / American",
-      "Spouse": "Godfrey Norton (Husband",
-      "Job": "Opera Singer",
-      "Appearances": "\" A Scandal in Bohemia \" \" A Scandal in Belgravia \" \" The Sign of Three \" Mentioned in many other stories",
-      "Actor": "Various actresses"
-    },
-    "source_url": "https://bakerstreet.fandom.com/wiki/Irene_Adler"
+    "source_url": "https://bakerstreet.fandom.com/wiki/Inspector_Lestrade"
   },
   {
     "name": "Queen Victoria",
@@ -127,34 +127,6 @@
       "Appearances": "\" The Adventure of the Musgrave Ritual \" \" The Adventure of the Bruce-Partington Plans \" \" The Adventure of the Dancing Men \""
     },
     "source_url": "https://bakerstreet.fandom.com/wiki/Queen_Victoria"
-  },
-  {
-    "name": "John Watson",
-    "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/e/ea/Paget-watson.png",
-    "description": "In the debutHolmesstoryA Study in Scarlet, Watson, as the narrator, describes meeting Holmes, their subsequent sharing of rooms at221B Baker Street, his attempts to discover the profession of his taciturn companion, Holmes's eventual taking of Watson into his confidence, and the events surrounding their first case together. Watson describes Holmes and his methods in too romantic and sentimental a manner for Holmes' taste. In time, they become close friends. InThe Sign of Four, John Watson met...",
-    "role": "Anime Character",
-    "attributes": {
-      "Sex": "Male",
-      "Nation": "British",
-      "Spouse": "Mary Watson (wife; deceased",
-      "Job": "Doctor Physician",
-      "Appearances": "All , except \" The Blanched Soldier \" and \" The Lion's Mane \"",
-      "Actor": "Various"
-    },
-    "source_url": "https://bakerstreet.fandom.com/wiki/John_Watson"
-  },
-  {
-    "name": "Violet Hunter",
-    "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/7/7b/Copp-06.jpg",
-    "description": "Violet Hunter visits Holmes, asking whether she should accept a job as governess; a job with very strange conditions. She is enticed by the phenomenal salary which, as originally offered, is £100 a year, later increased to £120 when Miss Hunter balks at having to cut her long hair short (her previous position paid £48 a year). This is only one of many peculiar provisos to which she must agree. The employer,Jephro Rucastle, seems pleasant enough, yet Miss Hunter obviously has her suspicions.",
-    "role": "TV Character",
-    "attributes": {
-      "Sex": "Female",
-      "Nation": "British",
-      "Job": "Governess",
-      "Appearances": "\" The Adventure of the Copper Beeches \""
-    },
-    "source_url": "https://bakerstreet.fandom.com/wiki/Violet_Hunter"
   },
   {
     "name": "Sherlock Holmes",
@@ -175,44 +147,6 @@
     "source_url": "https://bakerstreet.fandom.com/wiki/Sherlock_Holmes"
   },
   {
-    "name": "Sebastian Moran",
-    "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/2/22/Colonel_Sebastian_Moran.jpg",
-    "description": "Sebastian Moran was born in London in 1840, the son of Sir Augustus Moran, CB, sometime Minister to Persia. After being educated at Eton College and the University of Oxford, he went on to a distinguished military career. Formerly of the 1st Bangalore Pioneers (Madras), he served in the Jowaki Expedition of 1877-1878 and in theSecond Anglo-Afghan War, seeing action at the Battle of Char Asiab, 6 October 1879 (for which he was \"mentioned in despatches\"); the Battle of Sherpur, 23 December 1879...",
-    "role": "Villain",
-    "attributes": {
-      "Sex": "Male",
-      "Born": "1840",
-      "Nation": "British",
-      "Job": "Colonel (formerly) Thug (formerly) Hitman",
-      "Appearances": "\" The Adventure of the Empty House \" \" His Last Bow \" (mentioned"
-    },
-    "source_url": "https://bakerstreet.fandom.com/wiki/Sebastian_Moran"
-  },
-  {
-    "name": "Stanley Hopkins",
-    "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/a/aa/Gold-01.jpg",
-    "description": "Inspector Stanley Hopkinsis aScotland Yarddetective who works withSherlock Holmeson several occasions. He is a student and follower of the methods of Holmes, and unlike a number of his colleagues fully and willingly acknowledges Holmes' vital contributions to his own arrests.",
-    "role": "Anime Character",
-    "attributes": {
-      "Nation": "British",
-      "Job": "Police Inspector",
-      "Appearances": "\" The Adventure of the Abbey Grange \" \" The Adventure of the Golden Pince-Nez \" \" The Adventure of Black Peter \""
-    },
-    "source_url": "https://bakerstreet.fandom.com/wiki/Stanley_Hopkins"
-  },
-  {
-    "name": "Tobias Gregson",
-    "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/4/48/Sillouetteman.jpg",
-    "description": "Inspector Tobias Gregsonis an inspector who works forScotland Yard. In 1881, he andInspector Lestradewere assigned to investigate the murder ofEnoch Drebber.",
-    "role": "Anime Character",
-    "attributes": {
-      "Nation": "British",
-      "Job": "Police Inspector",
-      "Appearances": "A Study in Scarlet \" The Adventure of the Greek Interpreter \" \" The Adventure of Wisteria Lodge \" \" The Adventure of the Red Circle \""
-    },
-    "source_url": "https://bakerstreet.fandom.com/wiki/Tobias_Gregson"
-  },
-  {
     "name": "Mrs Hudson",
     "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/8/86/Silhouette-female.png",
     "description": "Mrs HudsonVital statisticsSex:FemaleNationality:BritishFamily:Husband (possibly deceased)Occupation:LandladyBehind the scenesAppearances:Canon stories",
@@ -223,22 +157,6 @@
       "Job": "Landlady"
     },
     "source_url": "https://bakerstreet.fandom.com/wiki/Mrs_Hudson"
-  },
-  {
-    "name": "Mycroft Holmes",
-    "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/9/90/Mycroftpaget.png",
-    "description": "Mycroft Holmes possessed greater powers of deductive reasoning compared to his brother, Sherlock Holmes. Sherlock even stated that Mycroft possessed in a larger degree a faculty of observation and peculiar facility for deduction than himself. He was unwilling, however, to put physical effort behind these powers. It was implied that he lacked practicality and completely dispassionate. Mycroft occupied an unspecified role in the British government. His brother stated that Mycroft audited books ...",
-    "role": "TV Character",
-    "attributes": {
-      "Sex": "Male",
-      "Born": "1847",
-      "Nation": "British",
-      "Siblings": "Sherlock Holmes (Younger Brother",
-      "Family": "Dr. Vernet (Distant Relative",
-      "Job": "Government Worker (occasionally the British Government",
-      "Appearances": "\" The Adventure of the Greek Interpreter \" \" The Final Problem \" \" The Adventure of the Bruce-Partington Plans \""
-    },
-    "source_url": "https://bakerstreet.fandom.com/wiki/Mycroft_Holmes"
   },
   {
     "name": "Jabez Wilson",
@@ -253,17 +171,99 @@
     "source_url": "https://bakerstreet.fandom.com/wiki/Jabez_Wilson"
   },
   {
-    "name": "Alec MacDonald",
-    "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/c/cf/Alec_MacDonald.jpg",
-    "description": "Inspector Alec MacDonaldis a young, though relatively senior officer working forScotland Yard. He consultedSherlock Holmesabout the murder ofJohn DouglasatBirlstone House. Although initially skeptical that the case was connected with ProfessorJames Moriarty, after Holmes showed that Moriarty owned an immensely valuable painting byJean-Baptiste Greuze, one which he could not possibly afford on his professor's salary, MacDonald was very eager to listen to Holmes' opinions on the matter.",
-    "role": "TV Character",
+    "name": "Tobias Gregson",
+    "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/4/48/Sillouetteman.jpg",
+    "description": "Inspector Tobias Gregsonis an inspector who works forScotland Yard. In 1881, he andInspector Lestradewere assigned to investigate the murder ofEnoch Drebber.",
+    "role": "Anime Character",
+    "attributes": {
+      "Nation": "British",
+      "Job": "Police Inspector",
+      "Appearances": "A Study in Scarlet \" The Adventure of the Greek Interpreter \" \" The Adventure of Wisteria Lodge \" \" The Adventure of the Red Circle \""
+    },
+    "source_url": "https://bakerstreet.fandom.com/wiki/Tobias_Gregson"
+  },
+  {
+    "name": "Irene Adler",
+    "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/8/8c/Adler_says_goodnight.jpg",
+    "description": "Irene Adler was born in New Jersey Or Chelsea, London in 1858. She pursued a career in opera as a contralto or soprano, performing at La Scala in Milan, and for a term as prima donna at the Imperial Opera ofWarsaw, indicating that she was an extraordinary singer. Adler retired in her late twenties and moved toLondon.",
+    "role": "Hero",
+    "attributes": {
+      "Sex": "Female",
+      "Born": "1858 New Jersey, United States of America /Chelsea, London , United Kingdom",
+      "Nation": "British (most likely English) / American",
+      "Spouse": "Godfrey Norton (Husband",
+      "Job": "Opera Singer",
+      "Appearances": "\" A Scandal in Bohemia \" \" A Scandal in Belgravia \" \" The Sign of Three \" Mentioned in many other stories",
+      "Actor": "Various actresses"
+    },
+    "source_url": "https://bakerstreet.fandom.com/wiki/Irene_Adler"
+  },
+  {
+    "name": "Inspector Bradstreet",
+    "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/4/48/Sillouetteman.jpg",
+    "description": "Inspector Bradstreet makes a single appearance in the1960s BBC series' episodeThe Man with the Twisted Lip, played by Victor Brooks.",
+    "role": "Anime Character",
+    "attributes": {
+      "Nation": "British",
+      "Affiliation": "Scotland Yard",
+      "Job": "Police Inspector",
+      "Appearances": "\" The Adventure of the Blue Carbuncle \" \" The Man with the Twisted Lip \" \" The Adventure of the Engineer's Thumb \""
+    },
+    "source_url": "https://bakerstreet.fandom.com/wiki/Inspector_Bradstreet"
+  },
+  {
+    "name": "Wiggins",
+    "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/4/48/Sillouetteman.jpg",
+    "description": "He also leads theBaker Street Irregulars, the unofficial cadre of street children that help Holmes on some of the more baffling cases, acting as his eyes, ears and information gathering service.",
+    "role": "Anime Character",
     "attributes": {
       "Sex": "Male",
-      "Born": "Aberdeen, Scotland",
-      "Nation": "Scottish",
-      "Job": "Police Inspector",
-      "Appearances": "The Valley of Fear"
+      "Nation": "British",
+      "Appearances": "A Study in Scarlet The Sign of the Four‎"
     },
-    "source_url": "https://bakerstreet.fandom.com/wiki/Alec_MacDonald"
+    "source_url": "https://bakerstreet.fandom.com/wiki/Wiggins"
+  },
+  {
+    "name": "John Watson",
+    "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/e/ea/Paget-watson.png",
+    "description": "In the debutHolmesstoryA Study in Scarlet, Watson, as the narrator, describes meeting Holmes, their subsequent sharing of rooms at221B Baker Street, his attempts to discover the profession of his taciturn companion, Holmes's eventual taking of Watson into his confidence, and the events surrounding their first case together. Watson describes Holmes and his methods in too romantic and sentimental a manner for Holmes' taste. In time, they become close friends. InThe Sign of Four, John Watson met...",
+    "role": "Anime Character",
+    "attributes": {
+      "Sex": "Male",
+      "Nation": "British",
+      "Spouse": "Mary Watson (wife; deceased",
+      "Job": "Doctor Physician",
+      "Appearances": "All , except \" The Blanched Soldier \" and \" The Lion's Mane \"",
+      "Actor": "Various"
+    },
+    "source_url": "https://bakerstreet.fandom.com/wiki/John_Watson"
+  },
+  {
+    "name": "Mary Watson",
+    "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/2/28/Mary_Morstan_Sidney_Paget.jpg",
+    "description": "Mary's father,Arthur Morstan, was an officer of anIndianregiment. Her mother died when she was young, and Captain Morstan sent Mary back to Britain to be educated. As she had no family in the country, Mary was placed in a boarding school in Edinburgh, where she remained until she was seventeen.",
+    "role": "Housewife",
+    "attributes": {
+      "Sex": "Female",
+      "Born": "1871 British India",
+      "Died": "Between 1891-1894",
+      "Nation": "British",
+      "Spouse": "John Watson (husband",
+      "Position": "Housewife",
+      "Appearances": "The Sign of the Four \" The Boscombe Valley Mystery \" \" The Man with the Twisted Lip \" \" The Sign of Three \" Mentioned in other stories"
+    },
+    "source_url": "https://bakerstreet.fandom.com/wiki/Mary_Watson"
+  },
+  {
+    "name": "Baker Street Irregulars",
+    "image_url": "https://static.wikia.nocookie.net/bakerstreet/images/c/cd/Baker_Street_Irregulars.gif",
+    "description": "The Baker Street Irregularsis a gang of young street children whomSherlock Holmesoften employs to aid his cases. They first appeared inConan Doyle's first novel,A Study in Scarlet. They also appear inThe Sign of the Four, one of the chapters from the novel is titled \"The Baker Street Irregulars\".",
+    "role": "Anime Character",
+    "attributes": {
+      "Nation": "British",
+      "Job": "Holmes' agents",
+      "Appearances": "A Study in Scarlet The Sign of the Four"
+    },
+    "source_url": "https://bakerstreet.fandom.com/wiki/Baker_Street_Irregulars"
   }
 ]

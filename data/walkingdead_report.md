@@ -1,6 +1,6 @@
 # Rapport de Scraping pour : walkingdead
 - **Statut :** ✅ SUCCÈS - 50 fiches valides (minimum requis: 10)
-- **Temps total :** 40.09s
+- **Temps total :** 38.27s
 - **Catégories testées :** 1 (Catégorie principale)
 - **Catégorie utilisée :** Catégorie principale
 - **Liens trouvés :** 63
@@ -20,7 +20,7 @@
 - 📝 Avec description valide : 50/50 (100.0%)
 - 🏷️ Avec rôle spécifique : 50/50 (100.0%)
 - 🔖 Avec attributs : 50/50 (100.0%)
-- 📈 Nombre moyen d'attributs : 5.1
+- 📈 Nombre moyen d'attributs : 5.2
 
 **Système de nettoyage :** ✅ Améliorations activées
 - Détection de valeurs tronquées

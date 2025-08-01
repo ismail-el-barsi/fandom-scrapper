@@ -1,5 +1,11 @@
 # 🌟 Scraper Universel Fandom
 
+## 🎬 Démo Vidéo
+
+<video src="Recording 2025-08-01 153606.mp4" controls width="600">
+Votre navigateur ne supporte pas la balise vidéo.
+</video>
+
 Application complète de scraping automatique pour les wikis **Fandom.com**, capable de s'adapter intelligemment aux différentes structures HTML et d'extraire des données de qualité depuis n'importe quel wiki Fandom.
 
 **Composants** :
@@ -90,15 +96,31 @@ python test_runner.py
 # Génère JSON et rapports dans /data/
 ```
 
-## 📊 Résultats
+## 📊 Résultats Obtenus
 
-- **52 fandoms testés** avec succès (~90% de réussite)
-- **Extraction moyenne** : 15-30 fiches par fandom  
-- **Images valides** : >95% des fiches
-- **Domaines couverts** : Jeux vidéo, séries/films, animés/mangas
+### 🎯 Performance Globale
+- **Temps d'exécution** : 379.84 secondes (6 min 20s)
+- **52 fandoms testés** avec 100% de succès
+- **1,972 fiches extraites** au total
+- **0 échec** de scraping
+- **33,563 liens découverts** 
+- **Moyenne** : 37.9 fiches par fandom
+
+### 📈 Qualité des Données
+- **100% des données** sont de qualité suffisante
+- **Images valides** : Toutes les fiches incluent une image
+- **Extraction moyenne** : 37.9 fiches par fandom (min: 10, max: 50)
+- **Domaines couverts** : Jeux vidéo, séries/films, animés/mangas, littérature
+
+### 🏆 Top Performers
+- **Red Dead** : 50 fiches (100% succès)
+- **Marvel Cinematic Universe** : 50 fiches (6,851 liens)
+- **Breaking Bad** : 50 fiches (100% succès)
+- **The Simpsons** : 49 fiches (5,486 liens)
+- **Disney** : 48 fiches (9,894 liens)
 
 **Défis résolus** :
 - Structures HTML variables → Détection automatique
-- Catégories multiples → Système de fallback
-- Données contaminées → Pipeline de nettoyage
-- Images manquantes → Validation stricte
+- Catégories multiples → Système de fallback intelligent
+- Données contaminées → Pipeline de nettoyage avancé
+- Images manquantes → Validation stricte avec fallback

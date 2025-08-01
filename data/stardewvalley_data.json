@@ -1,38 +1,133 @@
 [
   {
-    "name": "Jamborite",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/4/4b/Jamborite.png",
-    "description": "Jamboriteis amineraland aStardew Museumcollection item. Jamborite can be duplicated in theCrystalarium, taking approximately 3 days 11.5 hours to craft.",
+    "name": "Fire Opal",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/6/60/Fire_Opal.png",
+    "description": "Fire Opalis amineraland aStardew Museumcollection item. Fire Opal can be duplicated in theCrystalarium, taking approximately 3 days 11.5 hours to craft.",
     "role": "Game Character",
     "attributes": {
-      "Sellvalue": "150g 195g ( Gemologist",
+      "Sellvalue": "350g 455g ( Gemologist",
+      "Source": "Magma Geode (3.85%) Omni Geode (1.13%"
+    },
+    "source_url": "https://stardewvalley.fandom.com/wiki/Fire_Opal"
+  },
+  {
+    "name": "Sashimi",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/4/41/Sashimi.png",
+    "description": "Sashimirequires 1 rawFish(any). The recipe for it is given to the player in a letter by Linus when friendship reaches 3 hearts.Pierrewill ask for it in a quest.",
+    "role": "Game Character",
+    "attributes": {
+      "Description": "Raw fish sliced into thin pieces.",
+      "Source": "Cooking",
+      "Energy": "75",
+      "Health": "33",
+      "Sellprice": "75g"
+    },
+    "source_url": "https://stardewvalley.fandom.com/wiki/Sashimi"
+  },
+  {
+    "name": "Fish Stew",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/6/6f/Fish_Stew.png",
+    "description": "Fish Stewis acookeddish that can be made in the kitchen.",
+    "role": "Game Character",
+    "attributes": {
+      "Description": "It's smells a lot like the sea. Tastes better, though.",
+      "Source": "Cooking",
+      "Energy": "225",
+      "Health": "101",
+      "Sellprice": "175g"
+    },
+    "source_url": "https://stardewvalley.fandom.com/wiki/Fish_Stew"
+  },
+  {
+    "name": "Cave Carrot",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/3/34/Cave_Carrot.png",
+    "description": "It can found inside barrels, crates, and tillable soil inThe Minesand theSkull Cavern. It is used in somecookingrecipes and may be requested in basic villagerquests.",
+    "role": "Game Character",
+    "attributes": {
+      "Description": "A snack found in caves. It helps miners to work longer.",
+      "Type": "Forage",
+      "Source": "Tilling Soil Barrels & Crates",
+      "Location": "The Mines",
+      "Season": "Year-round",
+      "Energy": "30",
+      "Health": "13",
+      "Sellprice": "25g",
+      "Sellpricesilver": "31g",
+      "Sellpricegold": "37g"
+    },
+    "source_url": "https://stardewvalley.fandom.com/wiki/Cave_Carrot"
+  },
+  {
+    "name": "Baryte",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/a/aa/Baryte.png",
+    "description": "Baryteis amineraland aStardew Museumcollection item. Baryte can be duplicated in theCrystalarium, taking approximately 3 days 11.5 hours to craft.",
+    "role": "Game Character",
+    "attributes": {
+      "Sellvalue": "50g 65g ( Gemologist",
+      "Source": "Magma Geode (3.85%) Omni Geode (1.13%"
+    },
+    "source_url": "https://stardewvalley.fandom.com/wiki/Baryte"
+  },
+  {
+    "name": "Golden Egg",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/9/97/Golden_Egg.png",
+    "description": "Goldeneggsare unlocked in the game after the player has reachedPerfectionand can be purchased at eitherMarnie's Ranchfor100,000g or atQi's Walnut Roomfor100. There's a 1% chance to get one through a rare random night event where a golden witch places one in acoop. Alternatively, there is a 0.12% chance it could be found inside treasure boxes fromfishing.",
+    "role": "Game Character",
+    "attributes": {
+      "Sellvalue": "500g",
+      "Location": "Marnie's Ranch Qi's Walnut Room",
+      "Energy": "25 11",
+      "Source": "Golden Chicken",
+      "Buyprice": "100,000g 100"
+    },
+    "source_url": "https://stardewvalley.fandom.com/wiki/Golden_Egg"
+  },
+  {
+    "name": "Lightning Rod",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/6/62/Lightning_Rod.png",
+    "description": "CraftingCollects energy from lightning storms and turns it into battery packs.Crafting(Foraginglvl 6)SeasonSpring,Summer,FallThe Lightning Rod creates aBattery Pack24 hours after getting hit by lightning during a storm. It must be on the farm to create aBattery Packand has no preventative use (i.e. does not preventcropsfrom being struck by lightning during storms).",
+    "role": "Game Character",
+    "attributes": {
+      "Source": "Crafting ( Foraging lvl 6",
+      "Season": "Spring , Summer , Fall"
+    },
+    "source_url": "https://stardewvalley.fandom.com/wiki/Lightning_Rod"
+  },
+  {
+    "name": "Limestone",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/4/4e/Limestone.png",
+    "description": "Limestoneis amineraland aStardew Museumcollection item. Limestone can be duplicated in theCrystalarium, taking approximately 3 days 11.5 hours to craft.",
+    "role": "Game Character",
+    "attributes": {
+      "Sellvalue": "15g 19g ( Gemologist",
       "Source": "Geode (3.13%) Omni Geode (1.13%"
     },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Jamborite"
+    "source_url": "https://stardewvalley.fandom.com/wiki/Limestone"
   },
   {
-    "name": "Bone Flute",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/f/fc/Bone_Flute.png",
-    "description": "This artifact may be donated to the Museum's collection, contributing to the total count of donations. If at least two other items are donated, donating this artifact will reward aFlute Block.",
+    "name": "Way Of The Wind pt. 2",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/c/c7/Way_Of_The_Wind_pt._2.png",
+    "description": "Way Of The Wind pt. 2is a powerbookthat provides a permanent +0.25 increase toMovement Speed. Additional readings give +20 experience to allSkills.",
     "role": "Game Character",
     "attributes": {
-      "Sellvalue": "100g 300g ( Treasure Guide",
-      "Containers": "Artifact Trove (3.6%) Fish Chest (0.7-0.8%) Gold Chest (0.5%",
-      "Artspots": "Cindersap Forest (0.7%) The Mountain (0.7%) Pelican Town (0.4%"
+      "Read": "Move Speed (+0.25",
+      "Read2": "All Skills exp (+20",
+      "Sellvalue": "10,000g",
+      "Buyprice": "35,000g",
+      "Source": "Bookseller"
     },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Bone_Flute"
+    "source_url": "https://stardewvalley.fandom.com/wiki/Way_Of_The_Wind_pt._2"
   },
   {
-    "name": "Bullhead",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/d/db/Bullhead.png",
-    "description": "The Bullhead is a fish that can be caught in the mountain lake.",
+    "name": "Ghost Crystal",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/d/d0/Ghost_Crystal.png",
+    "description": "Ghost Crystalis amineraland aStardew Museumcollection item. Ghost Crystal can be duplicated in theCrystalarium, taking approximately 3 days 11.5 hours to craft.",
     "role": "Game Character",
     "attributes": {
-      "Fish Type": "Fish",
-      "Season": "All",
-      "Location": "Mountain fish"
+      "Sellvalue": "200g 260g ( Gemologist",
+      "Source": "Frozen Geode (3.33%) Omni Geode (1.13%"
     },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Bullhead"
+    "source_url": "https://stardewvalley.fandom.com/wiki/Ghost_Crystal"
   },
   {
     "name": "Seafoam Pudding",
@@ -49,278 +144,162 @@
     "source_url": "https://stardewvalley.fandom.com/wiki/Seafoam_Pudding"
   },
   {
-    "name": "Spaghetti",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/0/08/Spaghetti.png",
-    "description": "SpaghettiAn old favorite.CookingHealingEnergy75Health33s120g",
+    "name": "Mutant Carp",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/c/cb/Mutant_Carp.png",
+    "description": "TheMutant Carpis a fish that can be caught in The Sewers during all seasons. It is one of the five Legendary Fish, so it can only be caught once per save file, or once per player in Multiplayer.",
     "role": "Game Character",
     "attributes": {
-      "Source": "Cooking",
-      "Energy": "75",
-      "Health": "33",
-      "Sellprice": "120g"
+      "Source": "The strange waters of the sewer turned this carp into a monstrosity.",
+      "Season": "All",
+      "Location": "Sewers"
     },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Spaghetti"
+    "source_url": "https://stardewvalley.fandom.com/wiki/Mutant_Carp"
   },
   {
-    "name": "Frozen Tear",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/e/ec/Frozen_Tear.png",
-    "description": "Frozen Tearis aforagedmineraland aStardew Museumcollection item. Frozen Tear can be duplicated in theCrystalarium, taking approximately 18.5 hours to craft.",
+    "name": "Golden Coconut",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/c/ca/Golden_Coconut.png",
+    "description": "Description non trouvée.",
     "role": "Game Character",
     "attributes": {
-      "Sellvalue": "75g 97g ( Gemologist",
-      "Source": "Frozen Geode (3.33%) Omni Geode (1.13%) Fish Chest (3.7%) Gold Chest (2.3%) Panning (4.9%",
-      "Monsters": "Dust Sprite (2%"
+      "Location": "Ginger Island",
+      "Source": "Artifact Spot Island Trader",
+      "Buyprice": "Coconut (10"
     },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Frozen_Tear"
+    "source_url": "https://stardewvalley.fandom.com/wiki/Golden_Coconut"
   },
   {
-    "name": "Dwarf Scroll IV",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/8/85/Dwarf_Scroll_IV.png",
-    "description": "This artifact may be donated to the Museum's collection, contributing to the total count of donations. Donating all four Dwarf Scrolls (Scroll I,Scroll II,Scroll III, and Scroll IV) rewards theDwarvish Translation Guide, unlocking the ability to speak to theDwarffound at both The Mines and theVolcano DungeononGinger Island.",
+    "name": "Milk",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/9/92/Milk.png",
+    "description": "MilkA jug of cow's milk.InformationTypeAnimal ProductSourceCowHealingEnergy+38Health+17s125gMilkis ananimal produceitem that is obtained by milking aCowwith aMilk Pailor automatically collected by anAuto-Grabberthat is placed in aBarn.",
     "role": "Game Character",
     "attributes": {
-      "Sellvalue": "1g 3g ( Treasure Guide",
-      "Monsters": "All monsters (0.1%) excluding: Skeleton Serpent Wilderness Golem Carbon Ghost Iridium Bat Iridium Crab Haunted Skull"
+      "Source": "Cow",
+      "Energy": "+38",
+      "Health": "+17",
+      "Sellprice": "125g"
     },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Dwarf_Scroll_IV"
+    "source_url": "https://stardewvalley.fandom.com/wiki/Milk"
   },
   {
-    "name": "Plum Pudding",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/a/a0/Plum_Pudding.png",
-    "description": "Plum PuddingA traditional holiday treat.CookingHealingEnergy175Health78s260g",
+    "name": "Periwinkle",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/1/1d/Periwinkle.png",
+    "description": "ThePeriwinkleis a fish that can be caught using a Crab Pot in any freshwater body of water. It can also randomly be found at the Traveling Cart for 100-1,000g. Like all fish caught from the crab pot, it cannot be eaten unless it is used in a Cooking recipe.",
+    "role": "Game Character",
+    "attributes": {
+      "Fish Type": "Fish"
+    },
+    "source_url": "https://stardewvalley.fandom.com/wiki/Periwinkle"
+  },
+  {
+    "name": "Wild Horseradish",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/9/90/Wild_Horseradish.png",
+    "description": "Wild Horseradishis aforageditem found duringSpring.",
+    "role": "Game Character",
+    "attributes": {
+      "Sellvalue": "50g",
+      "Location": "Stardew Valley",
+      "Season": "Spring",
+      "Energy": "13 5",
+      "Source": "Foraging Spring seeds"
+    },
+    "source_url": "https://stardewvalley.fandom.com/wiki/Wild_Horseradish"
+  },
+  {
+    "name": "Eggplant Parmesan",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/7/73/Eggplant_Parmesan.png",
+    "description": "Eggplant ParmesanTangy, cheesy, and wonderful.CookingHealingEnergy175Health78s200g",
     "role": "Game Character",
     "attributes": {
       "Source": "Cooking",
       "Energy": "175",
       "Health": "78",
-      "Sellprice": "260g"
+      "Sellprice": "200g"
     },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Plum_Pudding"
+    "source_url": "https://stardewvalley.fandom.com/wiki/Eggplant_Parmesan"
   },
   {
-    "name": "Glass Shards",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/b/b9/Glass_Shards.png",
-    "description": "This artifact may be donated to the Museum's collection, contributing to the total count of donations.",
-    "role": "Game Character",
-    "attributes": {
-      "Sellvalue": "20g 60g ( Treasure Guide",
-      "Containers": "Artifact Trove (3.6%) Fish Chest (0.7-0.8%) Gold Chest (0.5%"
-    },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Glass_Shards"
-  },
-  {
-    "name": "Pan",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/7/71/Copper_Pan.png",
-    "description": "The copper pan is unlocked after completing theFish Tankbundle. The Pan is a gift fromWilly, who had an extra one in his bag. When pannable items wash to the shore, a small splashing sound plays. When the player pans the glistening spot in the water, they receive an ore.",
-    "role": "Game Character",
-    "attributes": {
-      "Description": "Use to gather ore from streams.",
-      "Source": "Community Center bundle",
-      "Navbar": "v • d • e"
-    },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Pan"
-  },
-  {
-    "name": "Keg",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/7/7c/Keg.png",
-    "description": "Kegs are available to craft once the player has reached level 8 in theFarmingskill. Mostfruitsorvegetablescan be placed in a Keg to ferment, producingWine,Juice, and otherDrinks.",
-    "role": "Game Character",
-    "attributes": {
-      "Description": "Put a fruit or vegetable in here. Eventually it will turn into a beverage.",
-      "Type": "Artisan Equipment",
-      "Source": "Crafting",
-      "Ingredients": "Wood (30) Copper Bar (1) Iron Bar (1) Oak Resin (1"
-    },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Keg"
-  },
-  {
-    "name": "Cheese Cauliflower",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/6/6e/Cheese_Cauliflower.png",
-    "description": "Cheese Caulifloweris acooked dishthat can be made in the kitchen of your home. The recipe can be obtained fromPamafter you reach the level of friendship with her at 3 hearts.",
-    "role": "Game Character",
-    "attributes": {
-      "Description": "It smells great!",
-      "Source": "Cooking",
-      "Energy": "138",
-      "Health": "55",
-      "Sellprice": "300g"
-    },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Cheese_Cauliflower"
-  },
-  {
-    "name": "Iron Ore",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/8/87/Iron_Ore.png",
-    "description": "Iron Ore can be bought fromClintthe blacksmith for 150Gs. It can also be found past the level 40 mark in the mines. It is gathered in the same way asCopper Ore, although less commonly found.",
+    "name": "Shears",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/d/d1/Shears.png",
+    "description": "ShearsUse this to collect wool from sheep.Marnie's RanchThe Shears are a tool purchased fromMarnie's Ranchfor 1,000g, and can be used to collect wool fromsheep.",
     "role": "Game Character",
     "attributes": {},
-    "source_url": "https://stardewvalley.fandom.com/wiki/Iron_Ore"
+    "source_url": "https://stardewvalley.fandom.com/wiki/Shears"
   },
   {
-    "name": "Wooden Blade",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/0/06/Wooden_Blade.png",
-    "description": "Wooden Blades can be purchased from theAdventurer's Guildfor 250 gold.",
+    "name": "Snake Skull",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/2/25/Snake_Skull.png",
+    "description": "Description non trouvée.",
     "role": "Game Character",
     "attributes": {
-      "Description": "Not bad for a piece of carved wood.",
-      "Type": "Sword",
-      "Sellprice": "100g"
+      "Sellvalue": "100g",
+      "Location": "Ginger Island Dig Site Ginger Island West",
+      "Source": "Fishing Artifact Spot"
     },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Wooden_Blade"
+    "source_url": "https://stardewvalley.fandom.com/wiki/Snake_Skull"
   },
   {
-    "name": "Book Of Mysteries",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/0/01/Book_Of_Mysteries.png",
-    "description": "Book Of Mysteries is acquired fromMystery Boxes(1% chance) andGolden Mystery Boxes(2% chance, onceForaging Masteryis complete) after the player has opened a total of at least 10 boxes. Then on, the chance to receive the book from a mystery box increases by 0.04% until obtained. After the book is acquired and read, the chance is reduced and remains at 0.49% forMystery Boxesand 0.96% forGolden Mystery Boxes.",
+    "name": "Piña Colada",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/1/12/Pi%C3%B1a_Colada.png",
+    "description": "ThePiña Coladais a drink that can be purchased fromGus' bar for 600g when he visits theBeach Resort. It cannot be cooked, crafted, or obtained in any other way.",
     "role": "Game Character",
     "attributes": {
-      "Read": "33.3% increased chance to find Mystery Boxes and Golden Mystery Boxes .",
-      "Read2": "All Skills exp (+20",
-      "Sellvalue": "3,000g",
-      "Trading": "Mystery Box (7",
-      "Source": "Mystery Box (1%) Gold Mystery Box (2%"
-    },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Book_Of_Mysteries"
-  },
-  {
-    "name": "Algae Soup",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/5/53/Algae_Soup.png",
-    "description": "Abigail,Alex,Caroline,Clint,Demetrius,Dwarf,Elliott,Emily,Evelyn,George,Gus,Haley,Harvey,Jas,Jodi,Leah,Lewis,Linus,Marnie,Maru,Pam,Pierre,Robin,Sam,Sandy,Sebastian,Shane,Vincent,Wizard",
-    "role": "Game Character",
-    "attributes": {
-      "Description": "It's a little slimy.",
-      "Source": "Cooking",
+      "Source": "Gus at Beach Resort's bar for 600g",
       "Energy": "75",
       "Health": "33",
-      "Sellprice": "100g"
+      "Sellprice": "300g"
     },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Algae_Soup"
+    "source_url": "https://stardewvalley.fandom.com/wiki/Pi%C3%B1a_Colada"
   },
   {
-    "name": "Ocean Stone",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/f/f1/Ocean_Stone.png",
-    "description": "Ocean Stoneis amineraland aStardew Museumcollection item. Ocean Stone can be duplicated in theCrystalarium, taking approximately 3 days 11.5 hours to craft.",
+    "name": "Price Catalogue",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/d/d5/Price_Catalogue.png",
+    "description": "Price Catalogueis a powerbookthat provides the ability to see the sell value of all sellable items when viewing the item's information window. The displayed sell value is adjusted according to the number items in the item stack, as well as any increases from other powers andskills. Additional readings do not give any bonuses.",
     "role": "Game Character",
     "attributes": {
-      "Sellvalue": "220g 286g ( Gemologist",
-      "Source": "Frozen Geode (3.33%) Omni Geode (1.13%"
+      "Read": "Sell values are displayed in item information.",
+      "Sellvalue": "1,000g",
+      "Buyprice": "3,000g",
+      "Source": "Bookseller"
     },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Ocean_Stone"
+    "source_url": "https://stardewvalley.fandom.com/wiki/Price_Catalogue"
   },
   {
-    "name": "Prehistoric Handaxe",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/0/07/Prehistoric_Handaxe.png",
+    "name": "Strange Doll (Yellow)",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/8/87/Strange_Doll_%28Yellow%29.png",
     "description": "This artifact may be donated to the Museum's collection, contributing to the total count of donations.",
     "role": "Game Character",
     "attributes": {
-      "Sellvalue": "50g 150g ( Treasure Guide",
-      "Containers": "Artifact Trove (3.6%",
-      "Artspots": "Bus Stop (4%) Cindersap Forest (3%) The Mountain (3%"
+      "Sellvalue": "1000g 3000g ( Treasure Guide",
+      "Location": "Secret Note #18",
+      "Containers": "Fish Chest (0.12%) Gold Chest (0.12%",
+      "Artspots": "The Farm (0.8%) Bus Stop (0.7%) Pelican Town (0.7%) The Beach (0.6%) Cindersap Forest (0.6%) The Mountain (0.6%",
+      "Tilling": "The Mines (0.03%) Skull Cavern (0.03%"
     },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Prehistoric_Handaxe"
+    "source_url": "https://stardewvalley.fandom.com/wiki/Strange_Doll_(Yellow)"
   },
   {
-    "name": "Preserves Jar",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/1/1e/Preserves_Jar.png",
-    "description": "Turns vegetables into pickles and fruit into jam.Craftingat Level 4FarmingSeasonYear-roundCraftingIngredientsWood(50)Stone(40)Coal(8)ThePreserves Jarproduces jellies and pickles. The resulting products are no longer able to be eaten by the player, but can be shipped at a much higher price. MostVegetablesandFruitcan be preserved. The quality of the good you preserve does not have an influence. The preserve will be the same price and this price is always higher than the gold star () price of th...",
+    "name": "Mudstone",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/5/52/Mudstone.png",
+    "description": "Mudstoneis amineraland aStardew Museumcollection item. Mudstone can be duplicated in theCrystalarium, taking approximately 3 days 11.5 hours to craft.",
     "role": "Game Character",
     "attributes": {
-      "Source": "Crafting at Level 4 Farming",
-      "Season": "Year-round",
-      "Ingredients": "Wood (50) Stone (40) Coal (8"
+      "Sellvalue": "25g 32g ( Gemologist",
+      "Source": "Geode (3.13%) Omni Geode (1.13%"
     },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Preserves_Jar"
+    "source_url": "https://stardewvalley.fandom.com/wiki/Mudstone"
   },
   {
-    "name": "Rice Shoot",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/8/84/Rice_Shoot.png",
-    "description": "Rice Shoot is a kind of seed. It can be obtained by fishing.",
-    "role": "Game Character",
-    "attributes": {
-      "Crop": "Rice",
-      "Growth Time": "8 days (less if close to water",
-      "Season": "Spring",
-      "Sell": "20g",
-      "Description": "Plant these in the spring. Takes 8 days to mature. Grows faster if planted near a body of water. Harvest with the Scythe.",
-      "Navbar": "v • d • e"
-    },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Rice_Shoot"
-  },
-  {
-    "name": "Rusty Spur",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/c/cd/Rusty_Spur.png",
-    "description": "This artifact may be donated to the Museum's collection, contributing to the total count of donations.",
-    "role": "Game Character",
-    "attributes": {
-      "Sellvalue": "25g 75g ( Treasure Guide",
-      "Containers": "Artifact Trove (3.6%) Fish Chest (0.7-0.8%) Gold Chest (0.5%",
-      "Artspots": "The Farm (10%",
-      "Tilling": "The Mines Skull Cavern"
-    },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Rusty_Spur"
-  },
-  {
-    "name": "Carp Surprise",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/c/cc/Carp_Surprise.png",
-    "description": "Carp SurpriseIt's bland and oily.CookingHealingEnergy90Health40s150g",
+    "name": "Goat Cheese",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/c/c8/Goat_Cheese.png",
+    "description": "Goat CheeseIt's subtle and refreshing.CookingHealingEnergy125Health56s400gGoat Cheese is anArtisan Good. It is made by placingGoat Milkinside aCheese Pressand waiting for 3.2 hours in-game. After the time has been waited, the Cheese Press will have an icon of the Goat Cheese on top of it and can be obtained using the action button around it.",
     "role": "Game Character",
     "attributes": {
       "Source": "Cooking",
-      "Energy": "90",
-      "Health": "40",
-      "Sellprice": "150g"
+      "Energy": "125",
+      "Health": "56",
+      "Sellprice": "400g"
     },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Carp_Surprise"
-  },
-  {
-    "name": "Granite",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/4/4a/Granite.png",
-    "description": "Graniteis amineraland aStardew Museumcollection item. Granite can be duplicated in theCrystalarium, taking approximately 3 days 11.5 hours to craft.",
-    "role": "Game Character",
-    "attributes": {
-      "Sellvalue": "75g 97g ( Gemologist",
-      "Source": "Geode (3.13%) Omni Geode (1.13%"
-    },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Granite"
-  },
-  {
-    "name": "Grape",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/c/c2/Grape.png",
-    "description": "Grapesare both acropand a typeforagethat can be grown fromGrape StarterinFall. They mature after 10 days and keep producing thefruitevery 4th day. They can also beforagedduringSummer.",
-    "role": "Game Character",
-    "attributes": {
-      "Growth": "10 Days (Keeps producing every 3 days",
-      "Energy": "No Star: +38, Silver: +53, Gold: +45",
-      "Health": "No Star: +15, Silver: +21, Gold: +27",
-      "Crop Pierre Sell": "No Star: 80g, Silver: 100g, Gold: 120g"
-    },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Grape"
-  },
-  {
-    "name": "Mayonnaise",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/4/4e/Mayonnaise.png",
-    "description": "Normal and large eggs (white and brown), andGolden Eggs, don't transfer their item quality when crafted into mayonnaise. Instead, normal eggs always create basic quality, large eggs always create gold quality, and golden eggs always create 3 gold quality mayonnaise.",
-    "role": "Game Character",
-    "attributes": {
-      "Sellvalue": "190g",
-      "Energy": "50 22",
-      "Craftstation": "Mayonnaise Machine",
-      "Material": "Egg (1) or Large Egg (1",
-      "Crafttime": "3 hours"
-    },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Mayonnaise"
-  },
-  {
-    "name": "Powdermelon",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/a/aa/Powdermelon.png",
-    "description": "Powdermelonis one of 3cropsthat can grow inWinter, the other two beingWinter Seeds(producesCrocus,Crystal Fruit,Snow Yam, andWinter Root) andFiberfromFiber Seeds.Powdermelon Seedscan be obtained the same way asSnow YamsandWinter Rootby using the hoe onartifact spots.",
-    "role": "Game Character",
-    "attributes": {
-      "Type": "Fruit",
-      "Season": "Winter",
-      "Energy": "28 63 39 88 50 113 72 163",
-      "Sellvalue": "60g 75g 90g 120g"
-    },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Powdermelon"
+    "source_url": "https://stardewvalley.fandom.com/wiki/Goat_Cheese"
   },
   {
     "name": "Prehistoric Tibia",
@@ -336,68 +315,67 @@
     "source_url": "https://stardewvalley.fandom.com/wiki/Prehistoric_Tibia"
   },
   {
-    "name": "Monster Compendium",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/1/15/Monster_Compendium.png",
-    "description": "Monster Compendium has a 0.01% chance to drop from slainMonsters, with a 0.015% increase per monster slain until acquired, and cannot be dropped until at least 10 monsters have been slain. After being received, the chance is reduced and stays at 0.05%.",
+    "name": "Dwarvish Helm",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/8/8b/Dwarvish_Helm.png",
+    "description": "This artifact may be donated to the Museum's collection, contributing to the total count of donations.",
     "role": "Game Character",
     "attributes": {
-      "Read": "3% chance for Monster drops to be doubled.",
-      "Read2": "Combat exp (+100",
-      "Sellvalue": "2,000g",
-      "Buyprice": "20,000g",
-      "Trading": "Slime Egg-Press (1) Slime Incubator (1",
-      "Source": "Bookseller (9%) Monsters (0.01%"
+      "Sellvalue": "100g 300g ( Treasure Guide",
+      "Containers": "Artifact Trove (3.6%) Geode (3%) Omni Geode (1%",
+      "Tilling": "The Mines (0.1%"
     },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Monster_Compendium"
+    "source_url": "https://stardewvalley.fandom.com/wiki/Dwarvish_Helm"
   },
   {
-    "name": "Mummified Frog",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/e/e9/Mummified_Frog.png",
-    "description": "Description non trouvée.",
-    "role": "Game Character",
-    "attributes": {
-      "Sellvalue": "100g",
-      "Location": "Dig Site The Mines - ( Shrine of Challenge active",
-      "Source": "Jungle Weeds Mining"
-    },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Mummified_Frog"
-  },
-  {
-    "name": "Super Meal",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/d/d2/Super_Meal.png",
-    "description": "Super Mealis a cooked dish made in the kitchen.",
-    "role": "Game Character",
-    "attributes": {
-      "Description": "It's a really energizing meal.",
-      "Source": "Cooking",
-      "Energy": "160",
-      "Health": "72",
-      "Sellprice": "220g"
-    },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Super_Meal"
-  },
-  {
-    "name": "Lucky Lunch",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/5/5d/Lucky_Lunch.png",
-    "description": "Lucky LunchA special little meal.CookingHealingEnergy100Health45s250g",
+    "name": "Maki Roll",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/b/b6/Maki_Roll.png",
+    "description": "Maki RollFish and rice wrapped in seaweed.CookingHealingEnergy100Health45s220gMaki Rollis a cooked dish that can be made at the kitchen of an upgraded farmhouse. The maki roll can be made with any fish.",
     "role": "Game Character",
     "attributes": {
       "Source": "Cooking",
       "Energy": "100",
       "Health": "45",
-      "Sellprice": "250g"
+      "Sellprice": "220g"
     },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Lucky_Lunch"
+    "source_url": "https://stardewvalley.fandom.com/wiki/Maki_Roll"
   },
   {
-    "name": "Crayfish",
-    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/5/53/Crayfish.png",
-    "description": "ACrayfishcan be caught fromCrab Potsin the river.",
+    "name": "Cranberries",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/d/dd/Cranberry.png",
+    "description": "Cranberriesare acropgrown inFallfromCranberry Seeds. They mature after 7 days and keep producing thefruitevery 5th day.",
     "role": "Game Character",
     "attributes": {
-      "Fish Type": "Fish",
-      "Location": "River"
+      "Description": "These tart red berries are a traditional winter food.",
+      "Season": "Fall",
+      "Energy": "Normal: +38, Silver: +53, Gold: +68",
+      "Health": "Normal: +15, Silver: +21, Gold: +27",
+      "Crop Pierre Sell": "Normal: 130g, Silver: 162g, Gold: 195g"
     },
-    "source_url": "https://stardewvalley.fandom.com/wiki/Crayfish"
+    "source_url": "https://stardewvalley.fandom.com/wiki/Cranberries"
+  },
+  {
+    "name": "Far Away Stone",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/0/0d/Far_Away_Stone.png",
+    "description": "Far Away Stoneis a secret item used to getMeowmere. It can be obtained by holding anAncient Dolland right-clicking on the lava of floor 100 inThe Mines. It can then be taken to the Terraria pylon pedestal in the basement of theWizard's Towerto get the sword.",
+    "role": "Game Character",
+    "attributes": {
+      "Sellvalue": "500g",
+      "Source": "The Mines Volcano Caldera"
+    },
+    "source_url": "https://stardewvalley.fandom.com/wiki/Far_Away_Stone"
+  },
+  {
+    "name": "Strange Bun",
+    "image_url": "https://static.wikia.nocookie.net/stardewvalley/images/5/5e/Strange_Bun.png",
+    "description": "Strange Bunis acooked dishthat can be made in the kitchen of thefarmhouse. The recipe can be obtained fromShanein the mail after reaching 7 hearts with him.",
+    "role": "Game Character",
+    "attributes": {
+      "Description": "What's inside?",
+      "Source": "Cooking",
+      "Energy": "100",
+      "Health": "40",
+      "Sellprice": "225g"
+    },
+    "source_url": "https://stardewvalley.fandom.com/wiki/Strange_Bun"
   }
 ]

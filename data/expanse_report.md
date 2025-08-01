@@ -1,6 +1,6 @@
 # Rapport de Scraping pour : expanse
 - **Statut :** ✅ SUCCÈS - 42 fiches valides (minimum requis: 10)
-- **Temps total :** 72.79s
+- **Temps total :** 66.37s
 - **Catégories testées :** 1 (Catégorie principale)
 - **Catégorie utilisée :** Catégorie principale
 - **Liens trouvés :** 43

@@ -1,6 +1,6 @@
 # Rapport de Scraping pour : adventuretime
 - **Statut :** ✅ SUCCÈS - 20 fiches valides (minimum requis: 10)
-- **Temps total :** 79.43s
+- **Temps total :** 79.42s
 - **Catégories testées :** 2 (Catégorie principale, Characters)
 - **Catégorie utilisée :** Characters
 - **Liens trouvés :** 8
@@ -20,7 +20,7 @@
 - 📝 Avec description valide : 20/20 (100.0%)
 - 🏷️ Avec rôle spécifique : 20/20 (100.0%)
 - 🔖 Avec attributs : 20/20 (100.0%)
-- 📈 Nombre moyen d'attributs : 4.6
+- 📈 Nombre moyen d'attributs : 5.1
 
 **Système de nettoyage :** ✅ Améliorations activées
 - Détection de valeurs tronquées

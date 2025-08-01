@@ -1,207 +1,205 @@
 [
   {
-    "name": "Roberto",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/a/ac/Roberto.webp",
-    "description": "Roberto(b. 3001) is a recurring character inFuturama. He is a mentally unstablerobotwho enjoys stabbing people and objects, as well as robbing banks. He is regarded as being mentally unstable and has been seen in theHal Institute for Criminally Insane Robotsmultiple times, threatening both patients and doctors with knives, as well as escaping at least once. His insanity had been cured momentarily inBender's Game, but suffered a concussion and returned to his previous madness seconds later.",
-    "role": "Villain",
-    "attributes": {
-      "Age": "11+",
-      "Species": "Robot",
-      "Planet": "Earth",
-      "Job": "Criminal",
-      "Relatives": "Mother: Unnamed",
-      "Appearance": "\" Insane in the Mainframe \"",
-      "Voiced By": "David Herman"
-    },
-    "source_url": "https://futurama.fandom.com/wiki/Roberto"
-  },
-  {
-    "name": "Clearcutter",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/8/86/TheClearcutter.jpg",
-    "description": "TheClearcutteris a robot equipped with an ax and chainsaw. He was a member of theUltimate Robot Fighting League(URFL) and foughtBender. Bender won the fight, but it was a set up. It's also wondered if the Clearcutter can switch either his axe or chainsaw into a drill, because at one point in the fightLeelapoints out that he gets a drill through his head, although this is unknown. He is possibly a Canadian robot.",
+    "name": "Seymour Asses",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/3/35/Seymour-1-.jpg",
+    "description": "Seymour AssesCharacter InformationGenderStatusAge15SpeciesDogPlanetEarth(Dumpster)RelativesOwner:Philip J. FryBackground InformationFirst appearance\"Jurassic Bark\"Voiced byFrank Welker(dog speech)Seth MacFarlane(English",
     "role": "Anime Character",
     "attributes": {
-      "Gender": "Male",
-      "Species": "Robot",
-      "Planet": "Earth",
-      "Job": "Fighter in the URFL",
-      "Appearance": "\" Raging Bender \"",
-      "Voiced By": "John DiMaggio"
+      "Age": "15",
+      "Species": "Dog",
+      "Planet": "Earth (Dumpster",
+      "Relatives": "Owner: Philip J. Fry",
+      "Appearance": "\" Jurassic Bark \"",
+      "Voiced By": "Frank Welker (dog speech) Seth MacFarlane (English"
     },
-    "source_url": "https://futurama.fandom.com/wiki/Clearcutter"
+    "source_url": "https://futurama.fandom.com/wiki/Seymour_Asses"
   },
   {
-    "name": "Fishy Joe",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/5/56/Fishyjoe.png",
-    "description": "Joseph Gilman, often referred to asFishy Joe, is the owner of various restaurant chains, such asFishy Joe'sand Family Bros. Pizza. He is cruel, selfish, heartless, as well as only cares about getting money, which makes him a scrooge.",
-    "role": "Villain",
+    "name": "Mel Gibson's Head",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/4/48/That%27s_Lobstertainment%21_%28Main_Episode%29_-_87.png",
+    "description": "Mel GibsonCharacter InformationGenderStatusSpeciesFormerly:HumanCurrently:Head in JarPlanetEarthBackground InformationFirst appearance\"That's Lobstertainment!\"Mel Columcille Gerard Gibson(born January 3, 1956) is an American actor and film director. By2999, his still living head will be preserved and on display at theHead MuseuminNew New York City. He was part of the tour thatFry,Leela,BenderandZoidbergtook ofHollywoodand was said by the Tour Guide to be the star of the movie \"Bravehead\".",
+    "role": "Anime Character",
     "attributes": {
-      "Species": "Human",
+      "Species": "Formerly: Human Currently: Head in Jar",
       "Planet": "Earth",
-      "Appearance": "\" The Problem with Popplers \"",
+      "Appearance": "\" That's Lobstertainment! \""
+    },
+    "source_url": "https://futurama.fandom.com/wiki/Mel_Gibson%27s_Head"
+  },
+  {
+    "name": "Small Rock Alien",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/0/01/Neutopia_%28Main_Episode%29_-_274.png",
+    "description": "Small Rock AlienCharacter InformationGenderNuchachoStatusSpeciesRock alienPlanetNeutopiaBackground InformationFirst appearance\"Neutopia\"Small Rock Alienis an inhabitant of Neutopia. In June3011, she encountered a group of lost Earthican men among which were members of thePlanet Express Crewand offered to help them find their way, but they told her off.",
+    "role": "Anime Character",
+    "attributes": {
+      "Gender": "Nuchacho",
+      "Species": "Rock alien",
+      "Planet": "Neutopia",
+      "Appearance": "\" Neutopia \""
+    },
+    "source_url": "https://futurama.fandom.com/wiki/Small_Rock_Alien"
+  },
+  {
+    "name": "Hedonismbot",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/5/56/Character_Hedonismbot.png",
+    "description": "Hedonismbot made his first appearance in \"Crimes of the Hot\", where he was one of the many robots negatively affected by global warming. He also contributes the most out of any robot to causing global warming.",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Robot",
+      "Planet": "Earth",
+      "Job": "Senator",
+      "Appearance": "\" Crimes of the Hot \"",
       "Voiced By": "Maurice LaMarche"
     },
-    "source_url": "https://futurama.fandom.com/wiki/Fishy_Joe"
+    "source_url": "https://futurama.fandom.com/wiki/Hedonismbot"
   },
   {
-    "name": "Ethan \"Bubblegum\" Tate",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/b/b7/EthanBubblegumTate.png",
-    "description": "Ethan\"Bubblegum\"Tateis the leader of theHarlem Globetrotters. He once declared a war ofBasketballonEarthfor no practical reason. ProfessorHubert J. Farnsworthchallenged him with a team ofAtomic Supermen. However, since they turned out to be mere tots, he had his crew extractchronitonsfrom the Tempus Nebula to accelerate their growth. During the game atMadison Cube Garden, it seems that Farnsworth will win. Then suddenly, random time skips caught by the chroniton harvest have destabilized the ...",
-    "role": "Anime Character",
+    "name": "Nannybot 1.0",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/f/f4/Nannybot_1.0.jpg",
+    "description": "TheNannybot 1.0is a scary lookingrobotthat replaces humans as a nanny. It looks after kids and kids seem to love it. It was shown atRoboticon 3003. A milk bottle can come out from its mouth.",
+    "role": "In build",
     "attributes": {
-      "Planet": "Globetrotter Planet",
-      "Job": "Commander of the Globetrotters Senior Lecturer of Physics at Globetrotter University Basketball player",
-      "Appearance": "\" Time Keeps on Slippin' \"",
-      "Voiced By": "Phil LaMarr"
-    },
-    "source_url": "https://futurama.fandom.com/wiki/Ethan_%22Bubblegum%22_Tate"
-  },
-  {
-    "name": "Rabbibot",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/9/9c/Future_Stock_%28Main_Episode%29_-_68.png",
-    "description": "RabbibotCharacter InformationGenderStatusSpeciesRobotPlanetEarth(possibly a Jewish planet)ProfessionRabbiBackground InformationFirst appearance\"Future Stock\"Voiced byBilly WestRabbibotis a Jewish male rabbi-robotwho appeared in \"Future Stock\".",
-    "role": "Anime Character",
-    "attributes": {
+      "Status": "In build",
       "Species": "Robot",
-      "Planet": "Earth (possibly a Jewish planet",
-      "Job": "Rabbi",
-      "Appearance": "\" Future Stock \"",
+      "Planet": "Earth",
+      "Job": "Nanny",
+      "Appearance": "\" Obsoletely Fabulous \"",
       "Voiced By": "Billy West"
     },
-    "source_url": "https://futurama.fandom.com/wiki/Rabbibot"
+    "source_url": "https://futurama.fandom.com/wiki/Nannybot_1.0"
   },
   {
-    "name": "Hattie McDoogal",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/e/e6/Cat_lady.jpg",
-    "description": "Hattie McDoogalCharacter InformationGenderStatusAge73SpeciesHumanPlanetEarthProfessionLandladyRelativesHusband(s):Unnamed and UnknownBackground InformationFirst appearance\"I, Roommate\"Voiced byTress MacNeilleHattie McDoogalis an elderly lady who is known to have several cats, of which she generally has one in her purse.",
-    "role": "Anime Character",
-    "attributes": {
-      "Age": "73",
-      "Species": "Human",
-      "Planet": "Earth",
-      "Job": "Landlady",
-      "Relatives": "Husband(s): Unnamed and Unknown",
-      "Appearance": "\" I, Roommate \""
-    },
-    "source_url": "https://futurama.fandom.com/wiki/Hattie_McDoogal"
-  },
-  {
-    "name": "Nichelle Nichols (character)",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/c/c6/Anthology_of_Interest_I_%28Main_Episode_-_The_Un-Freeze_of_a_Lifetime%29_-_109.png",
-    "description": "Nichelle Nichols(bornGrace Nichols; December 28, 1932) was an American actress and singer best known for her role as Uhura inStar Trek: The Original Series. In 1999, she was a member ofAl Gore's Vice Presidential Action Rangers, and would have beaten Fry to death with a tennis racquet had it been necessary to preserve the universe. By2999, her still living head was preserved and on display at theHead MuseuminNew New York City. In3002, her head was given a body byMelllvar. She was able to enjo...",
-    "role": "Anime Character",
-    "attributes": {
-      "Hair": "Dark brown",
-      "Species": "Formerly: Human and Head in Jar Currently: Head in Jar",
-      "Planet": "Earth",
-      "Job": "Lieutenant, commander, translator and communications officer",
-      "Appearance": "\" Anthology of Interest I \" (The Un-Freeze of a Lifetime",
-      "Voiced By": "Herself"
-    },
-    "source_url": "https://futurama.fandom.com/wiki/Nichelle_Nichols_(character)"
-  },
-  {
-    "name": "Chrissy",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/b/bb/Mars_University_%28Main_Episode%29_-_209.png",
-    "description": "ChrissyCharacter InformationGenderStatusSpeciesHumanPlanetMarsProfessionStudentBackground InformationFirst appearance\"Mars University\"Voiced byLauren Tom",
-    "role": "Anime Character",
-    "attributes": {
-      "Species": "Human",
-      "Planet": "Mars",
-      "Job": "Student",
-      "Appearance": "\" Mars University \"",
-      "Voiced By": "Lauren Tom"
-    },
-    "source_url": "https://futurama.fandom.com/wiki/Chrissy"
-  },
-  {
-    "name": "Fawn",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/1/10/300_Big_Boys_%28Main_Episode%29_-_399.png",
-    "description": "FawnFawn (left) and Morbo (right).Character InformationGenderStatusAge28-34SpeciesAlienPlanetEarth(not originally)RelativesHusband:MorboChildren:NumerousBackground InformationFirst appearance\"Three Hundred Big Boys\"",
-    "role": "Anime Character",
-    "attributes": {
-      "Age": "28-34",
-      "Species": "Alien",
-      "Planet": "Earth (not originally",
-      "Relatives": "Husband: Morbo Children: Numerous",
-      "Appearance": "\" Three Hundred Big Boys \""
-    },
-    "source_url": "https://futurama.fandom.com/wiki/Fawn"
-  },
-  {
-    "name": "Korean Girls",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/4/4e/Mentioned.png",
-    "description": "TheKorean Girlsare players ofWorld of World War II 3. In3011,Mommentioned them during a conversation withWaltandCubertmentioned them during a conversation withBender.",
-    "role": "Anime Character",
-    "attributes": {
-      "Appearance": "\" Overclockwise \" (Mentioned only"
-    },
-    "source_url": "https://futurama.fandom.com/wiki/Korean_Girls"
-  },
-  {
-    "name": "Nintendians",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/d/d8/Anthology_of_Interest_II_%28Main_Episode_-_Raiders_of_the_Lost_Arcade%29_-_215.png",
-    "description": "TheNintendiansare a species of non-canonAliensthat resemble video game characters, еxcept forLrrr. Thеy come to invadeEarthin analternate realityin order to get Earth's quarters to do laundry.",
-    "role": "Anime Character",
-    "attributes": {
-      "Homeworld": "Nintenduu 64",
-      "Members": "Beserk Donkey Kong Q*Bert Lrrr (see below",
-      "Appearance": "Anthology of Interest II (Raiders of the Lost Arcade"
-    },
-    "source_url": "https://futurama.fandom.com/wiki/Nintendians"
-  },
-  {
-    "name": "Number 1.0",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/e/ee/225px-Number_1_0.png",
-    "description": "Number 1.0is the highest grade Bureaucrat. He drives a flying office desk. He setsHermesto the task of sorting theMaster In-Pilein theCentral Bureaucracy. He has the power to change Bureaucrats' ranks. He lowersMorgan Proctor's rank and putsHermes's rank up.",
-    "role": "Anime Character",
-    "attributes": {
-      "Species": "Human",
-      "Planet": "Earth",
-      "Job": "Bureaucrat",
-      "Appearance": "How Hermes Requisitioned His Groove Back",
-      "Voiced By": "David Herman"
-    },
-    "source_url": "https://futurama.fandom.com/wiki/Number_1.0"
-  },
-  {
-    "name": "Olof",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/0/08/Olof.JPG",
-    "description": "OlofCharacter InformationGenderMaleStatusSpeciesTrisolianPlanetTrisolProfessionFormerEmperor of TrisolBackground InformationFirst appearance\"My Three Suns\"",
-    "role": "Anime Character",
-    "attributes": {
-      "Gender": "Male",
-      "Species": "Trisolian",
-      "Planet": "Trisol",
-      "Job": "Former Emperor of Trisol",
-      "Appearance": "\" My Three Suns \""
-    },
-    "source_url": "https://futurama.fandom.com/wiki/Olof"
-  },
-  {
-    "name": "Ruth Bader Ginsburg's Head",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/0/01/Into_the_Wild_Green_Yonder_-_%28Main_Episode%29_-801.png",
-    "description": "Ruth Bader Ginsberg(March 15, 1933 – September 18, 2020) was an Associate Justice of the Supreme Court of theUnited States. By2999, her still living head was preserved and on display at theHead MuseuminNew New York City. In3002, she was part of the trial ofOld Man Waterfalland in3009, of theEco-Feministas.",
-    "role": "Anime Character",
-    "attributes": {
-      "Species": "Formerly: Human Currently: Head in a Jar",
-      "Planet": "Earth",
-      "Job": "Justice of The Supreme Court of Earth",
-      "Appearance": "\" The Cryonic Woman \"",
-      "Voiced By": "Tress MacNeille"
-    },
-    "source_url": "https://futurama.fandom.com/wiki/Ruth_Bader_Ginsburg%27s_Head"
-  },
-  {
-    "name": "Darth Stroyer",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/5/5b/DarthStroyer.png",
-    "description": "Darth StroyerCharacter InformationGenderStatusAliveProfessionSith OverlordBackground InformationFirst appearance\"Lethal Inspection\"",
+    "name": "Private Carroll",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/6/66/PrivateCarroll.jpg",
+    "description": "Private CarrollCharacter InformationGenderStatusAliveSpeciesHumanPlanetEarthProfessionDemocratic Order of Planets(DOOP) soldierBackground InformationFirst appearanceRo-Botox",
     "role": "Alive",
     "attributes": {
       "Status": "Alive",
-      "Appearance": "\" Lethal Inspection \""
+      "Species": "Human",
+      "Planet": "Earth",
+      "Job": "Democratic Order of Planets (DOOP) soldier",
+      "Appearance": "Ro-Botox"
     },
-    "source_url": "https://futurama.fandom.com/wiki/Darth_Stroyer"
+    "source_url": "https://futurama.fandom.com/wiki/Private_Carroll"
+  },
+  {
+    "name": "Maxi-Padlock Warden",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/b/b2/Into_the_Wild_Green_Yonder_-_%28Main_Episode%29_-806.png",
+    "description": "Maxi-Padlock WardenCharacter InformationGenderStatusSpeciesHumanPlanetEarthProfessionPrison WardenBackground InformationFirst appearance\"Into the Wild Green Yonder\"Voiced byDawnn LewisMaxi-Padlock Wardenruns theMaxi-Padlockprison, a high-security women's prison onEarth. As the prison is privately operated, the Warden runs it as cheaply as possible which includes leaving punishments for the prisoners to administer. A defiantAmychallenges the Warden and is struck by her baton, which is an infla...",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Human",
+      "Planet": "Earth",
+      "Appearance": "\" Into the Wild Green Yonder \""
+    },
+    "source_url": "https://futurama.fandom.com/wiki/Maxi-Padlock_Warden"
+  },
+  {
+    "name": "Jockey",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/b/bd/The_Luck_of_the_Fryrish_%28Main_Episode%29_-_85.png",
+    "description": "Jockeyworked forLeoandInez Wongracing their horses until they retired him. They unsuccessfully tried to set him up withAmy. He later catchesBenderdosing horses (so he can win a bet at the racetrack) and is dosed himself.",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Human",
+      "Planet": "Earth",
+      "Job": "Jockey",
+      "Appearance": "\" The Luck of the Fryrish \"",
+      "Voiced By": "John DiMaggio"
+    },
+    "source_url": "https://futurama.fandom.com/wiki/Jockey"
+  },
+  {
+    "name": "Tudor man",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/b/be/The_Lesser_of_Two_Evils_%28Main_Episode%29_-_78.png",
+    "description": "Tudor manworks atPast-O-Ramaand is dressed as a character from English Tudor times. Due toFry's 20th century clothing, he mistakes him for a fellow employee and tells him to move a car.",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Humans",
+      "Planet": "Earth",
+      "Job": "Past-O-Rama employee",
+      "Appearance": "\" The Lesser of Two Evils \"",
+      "Voiced By": "David Herman"
+    },
+    "source_url": "https://futurama.fandom.com/wiki/Tudor_man"
+  },
+  {
+    "name": "Fatbot",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/e/ed/Mars_University_%28Main_Episode%29_-_70.png",
+    "description": "Fatbotis a minor character onFuturamawho belonged to the Fratbots. When under stress he tends to eat anything on hand which is usually something valuable ofDean Vernon's. He ate the Dean's most prized possession, his bottled ship. Later, in the same episode, he ate a valuable portrait of the Dean. It's revealed at the end of the episode \"Mars University\" that he caught a computer virus in Tijuana, presumably caused by the loss of his virginity during \"Robotsex\". Later, he had to be rebooted. ...",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Robot",
+      "Planet": "Mars",
+      "Job": "Student",
+      "Appearance": "\" Mars University \"",
+      "Voiced By": "David Herman"
+    },
+    "source_url": "https://futurama.fandom.com/wiki/Fatbot"
+  },
+  {
+    "name": "Fabricio",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/0/0d/Free_Will_Hunting_%28Main_Episode%29_-_45.png",
+    "description": "Fabriciowas a student at Columbiac University and the leader of the street gang The Ink Jets. He inductsBenderinto the street gang and takes him to get his first gang tattoo at a parlor where both he and the tattoo artist (who may be named NOSd3, or \"Epson\" upside down) are gunned down by members of a rival gang. Bender disposes of Fabricio's body under a dumpster in the alley where he received his gang ring and attempts to ease his sorrows using \"Spark\".",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Robot",
+      "Planet": "Earth",
+      "Appearance": "\" Free Will Hunting \""
+    },
+    "source_url": "https://futurama.fandom.com/wiki/Fabricio"
+  },
+  {
+    "name": "Daisy-Mae 128K",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/e/e7/Related_to_Items_You%27ve_Viewed_-_%28Main_Episode%29_-41.png",
+    "description": "Daisy-Mae 128KCharacter InformationGenderStatusSpeciesRobotPlanetThe MoonRelativesFather:FarmerSister(s):Lulubelle 7andThe CrushinatorNephew:Bender Bending Rodríguez's first born sonBackground InformationFirst appearance\"The Series Has Landed\"Voiced byTress MacNeille",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Robot",
+      "Planet": "The Moon",
+      "Relatives": "Father: Farmer Sister(s): Lulubelle 7 and The Crushinator Nephew: Bender Bending Rodríguez's first born son",
+      "Appearance": "\" The Series Has Landed \""
+    },
+    "source_url": "https://futurama.fandom.com/wiki/Daisy-Mae_128K"
+  },
+  {
+    "name": "Sportsbot 5000",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/4/46/Sportsbot_5000.png",
+    "description": "Sportsbot 5000Character InformationGenderStatusSpeciesRobotPlanetEarthProfessionSports commentator forChannel √2 NewsBackground InformationFirst appearance\"The Beast With a Billion Backs\"Voiced byMaurice LaMarche",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Robot",
+      "Planet": "Earth",
+      "Job": "Sports commentator for Channel √2 News",
+      "Appearance": "\" The Beast With a Billion Backs \""
+    },
+    "source_url": "https://futurama.fandom.com/wiki/Sportsbot_5000"
+  },
+  {
+    "name": "Guenter",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/3/36/Mars_University_%28Main_Episode%29_-_153.png",
+    "description": "Guenteris a monkey made super-intelligent by theElectronium Hat, an invention byProfessor Farnsworth. Guenter was originally an experiment to see if a monkey could pass a course atMars University. Seemingly on top of the world, Guenter was both smart and cute, makingFryextremely jealous. After Guenter's parents, a pair of monkeys possessing normal levels of intelligence, cause a scene at a university party, Guenter decides to revert to his natural state by removing the hat.",
+    "role": "Game Character",
+    "attributes": {
+      "Species": "Monkey",
+      "Planet": "Earth",
+      "Job": "Student President of the FOX Network",
+      "Relatives": "Unnamed mother and father",
+      "Appearance": "\" Mars University \"",
+      "Voiced By": "With hat: Tress MacNeille Without hat: Frank Welker"
+    },
+    "source_url": "https://futurama.fandom.com/wiki/Guenter"
+  },
+  {
+    "name": "John Turturro's Head",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/e/ea/A_Head_in_the_Polls_%28Main_Episode%29_-_153.png",
+    "description": "John Michael Turturro(b. February 28, 1957) is an American actor. By2999, his still living head will be preserved and on display at theHead MuseuminNew New York City.",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Formerly: Human Currently: Head in Jar",
+      "Planet": "Earth",
+      "Appearance": "\" A Head in the Polls \""
+    },
+    "source_url": "https://futurama.fandom.com/wiki/John_Turturro%27s_Head"
   },
   {
     "name": "Destructor",
@@ -219,421 +217,435 @@
     "source_url": "https://futurama.fandom.com/wiki/Destructor"
   },
   {
-    "name": "Monique",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/8/88/All_My_Circuits_Character_Off_Of_A_Lot_Of_Episodes_Of_Futurama_Named_Monique.jpg",
-    "description": "MoniqueCharacter InformationGenderStatusSpeciesRobotPlanetEarthProfessionActressRelativesOnly in the “All My Circuits” showHusband:CalculonSon:Antonio Calculon, Jr.Half Brother-in-law:BoxyBackground InformationFirst appearance\"I, Roommate\"Voiced byTress MacNeilleMoniquewho plays asCalculon'sgirlfriend and later wife in the robot soap operaAll My Circuits. Monique is metric and has been unfaithful to Calculon with his evil half brotherBoxy, as well as hiding secrets from him.Calculonand Moniqu...",
+    "name": "Edna",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/f/fb/Why_Must_I_Be_a_Crustacean_in_Love%3F_%28Main_Episode%29_-_112.png",
+    "description": "Ednawas aDecapodianwoman who went to school withZoidberg. She carried more eggs than any other female of her species: as such she wanted to mate with a rock star. She liked to talk about things of little importance at great length (much to the annoyance of those talking to her.) Her apartment is decorated like a fish tank.",
     "role": "Anime Character",
     "attributes": {
-      "Species": "Robot",
-      "Planet": "Earth",
-      "Job": "Actress",
-      "Relatives": "Only in the “All My Circuits” show Husband: Calculon Son: Antonio Calculon, Jr. Half Brother-in-law: Boxy",
-      "Appearance": "\" I, Roommate \""
-    },
-    "source_url": "https://futurama.fandom.com/wiki/Monique"
-  },
-  {
-    "name": "Robot Gypsy",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/0/05/Futurama_robot_gypsy.jpg",
-    "description": "Magda the Gypsybot, commonly known as theRobot Gypsy, is an automated noveltyrobotgypsy who offers her psychic services for money. Whether or not she has actual psychic powers is debatable. During the episode \"The Honking\", she was able to tell thatBenderwas aWere-Carjust by looking at him. However, in the episode \"Godfellas\", she faked her communications with Bender in order to, admittedly, give false hope toFry.",
-    "role": "Anime Character",
-    "attributes": {
-      "Species": "Robot",
-      "Planet": "Earth",
-      "Job": "Psychic",
-      "Appearance": "\" The Honking \"",
+      "Age": "Presumably near Zoidberg's age",
+      "Species": "Decapodian",
+      "Planet": "Decapod 10",
+      "Appearance": "\" Why Must I Be a Crustacean in Love? \"",
       "Voiced By": "Tress MacNeille"
     },
-    "source_url": "https://futurama.fandom.com/wiki/Robot_Gypsy"
+    "source_url": "https://futurama.fandom.com/wiki/Edna"
   },
   {
-    "name": "Chester A. Arthur's Head",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/a/ab/ChesterA.Arthur.png",
-    "description": "Chester Alan Arthur(October 5, 1829 - November 18, 1886) was thePresident of the United States. By2999, his still living head was preserved and on display in theHead MuseuminNew New York City.",
-    "role": "Anime Character",
-    "attributes": {
-      "Gender": "Male",
-      "Age": "biologically 57",
-      "Species": "Formerly: Human Currently: Head in Jar",
-      "Planet": "Earth",
-      "Job": "Formerly: President of the United States",
-      "Appearance": "\" The Day the Earth Stood Stupid \"",
-      "Voiced By": "Maurice LaMarche"
-    },
-    "source_url": "https://futurama.fandom.com/wiki/Chester_A._Arthur%27s_Head"
-  },
-  {
-    "name": "Extermulo",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/8/82/Calculon_20_%287%29.jpg",
-    "description": "ExtermuloCharacter InformationGenderStatusSpeciesMorbo's SpeciesProfessionGeneralBackground InformationFirst appearance\"Calculon 2.0\"",
-    "role": "Anime Character",
-    "attributes": {
-      "Job": "General",
-      "Appearance": "\" Calculon 2.0 \""
-    },
-    "source_url": "https://futurama.fandom.com/wiki/Extermulo"
-  },
-  {
-    "name": "Fratbots",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/c/ce/Mars_University_%28Main_Episode%29_-_29.png",
-    "description": "FratbotsGroup InformationLocationMars UniversityPlanetMarsProfessionRobot FraternityFirst appearance\"Mars University\"TheFratbotswere a group ofRobotswho were active members of the robot fraternity Epsilon Rho Rho (ΕRR) of Mars University. They had an infamous reputation of pulling fire alarms, raiding the campus liquor store and desecratingHumancorpses. WhenBendercame along and revealed that he was a former member of the ERR-fraternity, the current members begged him to teach them how to be c...",
-    "role": "Anime Character",
-    "attributes": {
-      "Planet": "Mars",
-      "Appearance": "\" Mars University \""
-    },
-    "source_url": "https://futurama.fandom.com/wiki/Fratbots"
-  },
-  {
-    "name": "Q*Bert",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/1/13/Anthology_of_Interest_II_%28Main_Episode_-_Raiders_of_the_Lost_Arcade%29_-_202.png",
-    "description": "Q*BertQ*Bert (top).Character InformationGenderStatusSpeciesNintendianPlanetNintenduu 64ProfessionInvaderBackground InformationFirst appearance\"Anthology of Interest II\" (Raiders of the Lost Arcade)Voiced byJohn DiMaggio",
-    "role": "Anime Character",
-    "attributes": {
-      "Species": "Nintendian",
-      "Job": "Invader",
-      "Appearance": "\" Anthology of Interest II \" (Raiders of the Lost Arcade"
-    },
-    "source_url": "https://futurama.fandom.com/wiki/Q*Bert"
-  },
-  {
-    "name": "Schlomo",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/2/2f/Schlomo.jpg",
-    "description": "SchlomoCharacter InformationGenderStatusSpeciesHumanPlanetEarthRelativesEx-Girlfriend:Colleen O'HallahanBackground InformationFirst appearanceFuturama ReturnsVoiced byMaurice LaMarche",
+    "name": "Dr. Schlovinowitz",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/7/7f/Dr.Schlovinowitz.jpg",
+    "description": "Dr. SchlovinowitzCharacter InformationGenderStatusSpeciesHumanPlanetEarthProfessionDoctorWhale keeperBackground InformationFirst appearance\"Bender's Big Score\"Voiced byTress MacNeilleDr. Schlovinowitzwas a whale keeper. She is only seen interacting with time duplicatePhilip J. Fry I, laterLars Fillmore. She is shown in the years2003and 2010. In 2010, she tells Fry thatLeeluis leaving the aquarium. She is never seen again.",
     "role": "Anime Character",
     "attributes": {
       "Species": "Human",
       "Planet": "Earth",
-      "Relatives": "Ex-Girlfriend : Colleen O'Hallahan"
+      "Job": "Doctor Whale keeper",
+      "Appearance": "\" Bender's Big Score \""
     },
-    "source_url": "https://futurama.fandom.com/wiki/Schlomo"
+    "source_url": "https://futurama.fandom.com/wiki/Dr._Schlovinowitz"
   },
   {
-    "name": "Ndulu",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/a/ab/Ndulu.jpg",
-    "description": "NduluCharacter InformationGenderStatusSpeciesHumanPlanetEarthRelativesEx-Girlfriend:Colleen O'HallahanBackground InformationFirst appearance\"The Beast with a Billion Backs\"Voiced byPhil LaMarr",
+    "name": "King of Space",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/8/81/The_Prince_and_the_Product-King_of_Space.png",
+    "description": "King of Spaceopposes the marriage of his son, thePrince of Space, toLeelaas she is a commoner.Frychallenges him to a duel, which if Fry loses, will mean his death. The duel is a joust and Leela acts as Fry's champion. She wins the duel but unknowingly, kills the Prince who secretly championed for the King.",
     "role": "Anime Character",
     "attributes": {
-      "Species": "Human",
-      "Planet": "Earth",
-      "Relatives": "Ex-Girlfriend : Colleen O'Hallahan",
-      "Appearance": "\" The Beast with a Billion Backs \""
+      "Job": "Prince",
+      "Appearance": "\" The Prince and the Product \"",
+      "Voiced By": "David Herman"
     },
-    "source_url": "https://futurama.fandom.com/wiki/Ndulu"
+    "source_url": "https://futurama.fandom.com/wiki/King_of_Space"
   },
   {
-    "name": "Eric Stoltz's Head",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/4/40/A_Head_in_the_Polls_%28Main_Episode%29_-_155.png",
-    "description": "Eric Hamilton Stoltz(born September 30, 1961) is an American actor. By2999, his still living head will be preserved and on display at theHead MuseuminNew New York City.",
+    "name": "Ron Jeremy's Head",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/c/c8/Ron_Jeremy_Head.png",
+    "description": "More than a dozen women have publicly accused Jeremy of sexual assault. Several of the allegations relate to his appearances at fan conventions, alleging that he would grope and insert his fingers into attendees without their consent. In June 2020, Jeremy was charged with sexual assault.",
     "role": "Anime Character",
     "attributes": {
       "Species": "Formerly: Human Currently: Head in Jar",
       "Planet": "Earth",
       "Appearance": "\" A Head in the Polls \""
     },
-    "source_url": "https://futurama.fandom.com/wiki/Eric_Stoltz%27s_Head"
+    "source_url": "https://futurama.fandom.com/wiki/Ron_Jeremy%27s_Head"
   },
   {
-    "name": "Sally",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/0/0e/The_Cyber_House_Rules_%28Main_Episode%29_-_286.png",
-    "description": "Sallyis an orphan at theCookieville Minimum-Security Orphanarium. She is one of the orphansBenderbriefly adopted. She is made fun of occasionally by other orphans because she has an ear on her face, and apparently, a tail. Sally states that she has done 100 \"jumpropes\" in a row. Even though she is mutated, she is sweet and nice to others.Sally is teased by the other kids from the Cookieville Minimum-Security Orphanarium with the limerick: \"Ear Face! Ear Face! Sally won the Ugly Race!\" Sally o...",
+    "name": "Sick Vending Machine Robot",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/3/33/SickVendingMachineRobot.jpg",
+    "description": "An unnamedVending Machine Robotthat is in theHal Institute for Criminally Insane Robots. It is unknown why it is in the Institute. Its sickness, which causes it to cough upBachelor Bars, may be the reason. This robot wasPhilip J. Fry I's only source of food during his nightmarish time in the robot asylum.Bender Bending Rodríguezdescribed him as a \"strange boy\".",
     "role": "Anime Character",
     "attributes": {
-      "Age": "About 7",
-      "Species": "Mutant Human",
+      "Species": "Robot",
       "Planet": "Earth",
-      "Job": "Orphan",
-      "Relatives": "Adoptive father(s): Bender Bending Rodríguez and Abner Doubledeal Adoptive brother: Albert Adoptive sister: Nina Unknown: Various adoptive siblings",
-      "Appearance": "\" The Cyber House Rules \"",
-      "Voiced By": "Nicole St. John"
+      "Appearance": "\" Insane in the Mainframe \""
     },
-    "source_url": "https://futurama.fandom.com/wiki/Sally"
+    "source_url": "https://futurama.fandom.com/wiki/Sick_Vending_Machine_Robot"
   },
   {
-    "name": "Scruffy Scruffington",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/b/bc/Character_Scruffy.png",
-    "description": "Scruffy Scruffington(born October 31, 2945) is thePlanet Expressjanitor. He originally started off as a minor character, who only made brief cameos in the background, until his speaking debut in \"Anthology of Interest I\". A recurring joke is that nobody remembers his name or ever seeing him before because of how little he's appeared. Scruffy has become a more prominent character as the series has progressed, but he still has a much smaller role compared to the show's main cast.",
-    "role": "as a zombie in \" Law and Oracle \"",
+    "name": "Japanese UN diplomat",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/f/f0/JapaneseUNDiplomat.jpg",
+    "description": "Japanese UN diplomatis a United Nations diplomat from Japan, who lost his left arm.",
+    "role": "Anime Character",
     "attributes": {
-      "Status": "as a zombie in \" Law and Oracle \"",
-      "Age": "55-61",
-      "Species": "Human ( Zombie",
+      "Species": "Human",
       "Planet": "Earth",
-      "Job": "Janitor",
-      "Appearance": "\" A Fishful of Dollars \"",
+      "Job": "Diplomat",
+      "Appearance": "The Prisoner of Benda"
+    },
+    "source_url": "https://futurama.fandom.com/wiki/Japanese_UN_diplomat"
+  },
+  {
+    "name": "Tour Guide",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/f/f9/Tour_Guide.png",
+    "description": "She first appears inLess Than Herowhen theZookeeperrobs the museum. She says \"Please don't feed the animals!\" only to be grabbed and eaten by an elephant, ironically. She later appears inJurassic Bark, showing the exhibit ofPanucci's Pizza, with no explanation of her return.",
+    "role": "Anime Character",
+    "attributes": {
+      "Age": "Old",
+      "Species": "Human",
+      "Planet": "Earth",
+      "Job": "Tour guide at the natural history museum",
+      "Voiced By": "Tress MacNeille"
+    },
+    "source_url": "https://futurama.fandom.com/wiki/Tour_Guide"
+  },
+  {
+    "name": "Raoul Inglis",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/3/3d/I_Second_That_Emotion_%28Main_Episode%29_-_180.png",
+    "description": "Raoul seems to be the soft spoken one of the group unless something official or important comes up. He rarely wastes his time with unimportant comments, but when he does uses an extremely sarcastic tone.",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Human Mutant",
+      "Planet": "Earth",
+      "Job": "Mayor of mutant village",
+      "Appearance": "\" I Second that Emotion \"",
+      "Voiced By": "Maurice LaMarche"
+    },
+    "source_url": "https://futurama.fandom.com/wiki/Raoul_Inglis"
+  },
+  {
+    "name": "Animatronio",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/2/26/Animatronio.jpg",
+    "description": "Animatroniowas created byLeonardo da Vinci, as an artist model while that great thinker lived onEarth. When Leonardo returned to hisPlanet(Vinci), he left behind Animatronio to guide the secret shadow group of intellectuals that would follow. In the mean time, he spoke with Pope John the Patient (who died while waiting for Animatronio to return) and took the place of Saint James, whom Leonardo replaced in his famous paintingThe Last Supper, leaving Animatronio's legs exposed to serve as hints...",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Robot",
+      "Planet": "Earth",
+      "Relatives": "Creator: Leonardo da Vinci",
+      "Appearance": "\" The Duh-Vinci Code \"",
       "Voiced By": "David Herman"
     },
-    "source_url": "https://futurama.fandom.com/wiki/Scruffy_Scruffington"
+    "source_url": "https://futurama.fandom.com/wiki/Animatronio"
   },
   {
-    "name": "Rutherford B. Hayes' Head",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/2/27/All_the_Presidents%27_Heads_%28Main_Episode%29_-_67.png",
-    "description": "Rutherford B. HayesCharacter InformationGenderStatusSpeciesFormerly:HumanCurrently:Head in JarPlanetEarthProfessionFormerly:President of the United StatesBackground InformationFirst appearance\"All the Presidents' Heads\"Rutherford B. Hayes(October 4, 1822 – January 17, 1893) was thePresident of the United States. By2999, his still living head was preserved and on display at theHead MuseuminNew New York City.",
+    "name": "J. J. Abrams",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/5/58/J.J.AbramsFace.png",
+    "description": "J. J. AbramsCharacter InformationGenderStatus(assumed)SpeciesHumanPlanetEarthProfessionActorDirectorBackground InformationFirst appearance\"Lrrreconcilable Ndndifferences\"",
+    "role": "assumed",
+    "attributes": {
+      "Status": "assumed",
+      "Species": "Human",
+      "Planet": "Earth",
+      "Job": "Actor Director",
+      "Appearance": "\" Lrrreconcilable Ndndifferences \""
+    },
+    "source_url": "https://futurama.fandom.com/wiki/J._J._Abrams"
+  },
+  {
+    "name": "Free Waterfall III",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/5/56/Free_Waterfall_III.jpg",
+    "description": "Free Waterfall IIICharacter InformationGenderStatus(Shot with laser)Age24SpeciesHumanPlanetEarthRelativesOld Man Waterfall(great-grandfather)Free Waterfall, Sr.(grandfather)Free Waterfall, Jr.(father)Hutch Waterfall(brother)Frida Waterfall(sister)Background InformationFirst appearance\"Who's Dying To Be A Gazillionaire?\"Free Waterfall III(May 14, 2977 - July 25, 3001) was the great-grandson ofOld Man Waterfall, grandson ofFree Waterfall, Sr., son ofFree Waterfall, Jr., and the brother ofFrida ...",
+    "role": "Shot with laser",
+    "attributes": {
+      "Age": "24",
+      "Species": "Human",
+      "Planet": "Earth",
+      "Relatives": "Old Man Waterfall (great-grandfather) Free Waterfall, Sr. (grandfather) Free Waterfall, Jr. (father) Hutch Waterfall (brother) Frida Waterfall (sister",
+      "Appearance": "\" Who's Dying To Be A Gazillionaire? \""
+    },
+    "source_url": "https://futurama.fandom.com/wiki/Free_Waterfall_III"
+  },
+  {
+    "name": "Eric Cartman's Head",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/a/ab/Futurama-cartman.png",
+    "description": "Eric Theodore Cartmanis a character in the American television show,South Park. By2999, his still living head was preserved and on display at theHead MuseuminNew New York City. (In the red circle contains Cartman.",
     "role": "Anime Character",
     "attributes": {
       "Species": "Formerly: Human Currently: Head in Jar",
       "Planet": "Earth",
-      "Job": "Formerly: President of the United States",
-      "Appearance": "\" All the Presidents' Heads \""
+      "Appearance": "Bender's Big Score"
     },
-    "source_url": "https://futurama.fandom.com/wiki/Rutherford_B._Hayes%27_Head"
+    "source_url": "https://futurama.fandom.com/wiki/Eric_Cartman%27s_Head"
   },
   {
-    "name": "Solomon",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/4/4c/Less_Than_Hero_%28Main_Episode%29_-_429.png",
-    "description": "SolomonCharacter InformationGenderSpeciesGorillaPlanetEarthProfessionZookeeper's minionBackground InformationFirst appearance\"Less than Hero\"",
+    "name": "Robot Elders",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/f/fc/TheRobotElders.jpg",
+    "description": "Robot EldersCharacter InformationGenderStatusAge400SpeciesRobotsPlanetChapek 9ProfessionRulers of Chapek 9RelativesEach otherBackground InformationFirst appearance\"Fear of a Bot Planet\"Voiced byGreen Elder:David HermanBlue Elder:Billy WestOrange Elder:Maurice LaMarcheJimmy:John DiMaggio",
     "role": "Anime Character",
     "attributes": {
-      "Species": "Gorilla",
-      "Planet": "Earth",
-      "Appearance": "\" Less than Hero \""
-    },
-    "source_url": "https://futurama.fandom.com/wiki/Solomon"
-  },
-  {
-    "name": "The Dixie Chicks",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/8/8f/Dixie_Chicks.png",
-    "description": "The Dixie Chicks, at the time of \"Bender's Game\", have been mutated into a horrible, 3-headed mass. However, directly after the demolition derby, theannouncerhad been absorbed into the blob, for whatever reason.",
-    "role": "Anime Character",
-    "attributes": {
-      "Planet": "Earth",
-      "Appearance": "\" Bender's Game \""
-    },
-    "source_url": "https://futurama.fandom.com/wiki/The_Dixie_Chicks"
-  },
-  {
-    "name": "Unit 2013",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/2/25/Insane_in_the_Mainframe_%28Main_Episode%29_-_153.png",
-    "description": "Unit 2013is arobotpatient at theHal Institute for Criminally Insane Robots. Thinking he is ahuman, Unit 2013 befriendsPhilip J. Frywho was sent there when theInstitute for Criminally Insane Humanswas filled up (after the judgeRon Whiteyhad it ruled out that being poor made someone insane).",
-    "role": "Anime Character",
-    "attributes": {
-      "Species": "Robot",
-      "Planet": "Earth",
-      "Job": "Patient at the Hal Institute for Criminally Insane Robots",
-      "Appearance": "\" Insane in the Mainframe \"",
-      "Voiced By": "Phil LaMarr"
-    },
-    "source_url": "https://futurama.fandom.com/wiki/Unit_2013"
-  },
-  {
-    "name": "Gumbotron",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/1/1a/GumbotronBio.png",
-    "description": "Gumbotron(b. 3001) is a (supposedly) one off character appearing in the episode \"Rage Against the Vaccine\". He appeared riding on a float in New New Orleans distributing Gumbo for the masses.",
-    "role": "Anime Character",
-    "attributes": {
+      "Age": "400",
       "Species": "Robots",
-      "Planet": "Earth",
-      "Job": "Gumbo Robot",
-      "Appearance": "\" Rage Against the Vaccine \""
+      "Planet": "Chapek 9",
+      "Relatives": "Each other",
+      "Appearance": "\" Fear of a Bot Planet \"",
+      "Voiced By": "Green Elder: David Herman Blue Elder: Billy West Orange Elder: Maurice LaMarche Jimmy: John DiMaggio"
     },
-    "source_url": "https://futurama.fandom.com/wiki/Gumbotron"
+    "source_url": "https://futurama.fandom.com/wiki/Robot_Elders"
   },
   {
-    "name": "The New Justice Team",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/e/ec/The_New_Justice_Team.png",
-    "description": "The New Justice Teamis a trio of superheroes who, in3004, briefly foughtNew New Yorkcrime, but disbanded after Becoming Wrong.",
-    "role": "Anime Character",
+    "name": "Fishy Joe",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/5/56/Fishyjoe.png",
+    "description": "Joseph Gilman, often referred to asFishy Joe, is the owner of various restaurant chains, such asFishy Joe'sand Family Bros. Pizza. He is cruel, selfish, heartless, as well as only cares about getting money, which makes him a scrooge.",
+    "role": "Villain",
     "attributes": {
-      "Slogan": "\"A new era of justice has begun\"",
-      "Age": "Less than a year (now disbanded",
+      "Species": "Human",
       "Planet": "Earth",
-      "Job": "To protect New New York from crime",
-      "Appearance": "\" Less than Hero \""
-    },
-    "source_url": "https://futurama.fandom.com/wiki/The_New_Justice_Team"
-  },
-  {
-    "name": "Unit 47",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/1/1b/Proposition_Infinity_%28Main_Episode%29_-_470.png",
-    "description": "Eunice broke the Professor's heart by running off with another robot after 43 years with Farnsworth. The experience turned Farnsworth against robosexual relationships, fueling his opposition toProposition ∞.",
-    "role": "Anime Character",
-    "attributes": {
-      "Species": "Robot",
-      "Planet": "Earth",
-      "Appearance": "\" Proposition Infinity \""
-    },
-    "source_url": "https://futurama.fandom.com/wiki/Unit_47"
-  },
-  {
-    "name": "Mr. Chunks",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/5/53/Mr.Chunks.jpg",
-    "description": "Mr. Chunks has lived a long, full life and now it's time for him to pass on. He was possibly a mascot ofPlanet Express, although this is never mentioned in \"Attack of the Killer App\". Mr. Chunks was familiar toAmyandBender, and very dear toFry, who cried after the goat's death. It's unknown if he was close to ProfessorFarnsworthand even if he knew about him. Also,Leeladidn't seem to care much.",
-    "role": "Anime Character",
-    "attributes": {
-      "Species": "Alien -Goat",
-      "Planet": "Earth",
-      "Job": "Mascot (possibly",
-      "Appearance": "\" Attack of the Killer App \"",
+      "Appearance": "\" The Problem with Popplers \"",
       "Voiced By": "Maurice LaMarche"
     },
-    "source_url": "https://futurama.fandom.com/wiki/Mr._Chunks"
+    "source_url": "https://futurama.fandom.com/wiki/Fishy_Joe"
   },
   {
-    "name": "Jack Nicholson's Head",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/8/87/A_Head_in_the_Polls_%28Main_Episode%29_-_151.png",
-    "description": "Jack NicholsonCharacter InformationGenderStatusSpeciesFormerly:HumanCurrently:Head in JarPlanetEarthBackground InformationFirst appearance\"A Head in the Polls\"Voiced byHimself",
+    "name": "Beck's Head",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/a/af/Bendin%27_in_the_Wind_%28Main_Episode%29_-_242.png",
+    "description": "Beck Hansen(bornBek David Campbell; July 8, 1970), better known asBeck, is an American musician. By3002, his still living head is preserved and on display at theHead MuseuminNew New York City. He andBenderwent on a tour together in3001.",
     "role": "Anime Character",
     "attributes": {
+      "Species": "Formerly: Human Currently: Head in a Jar",
+      "Planet": "Earth",
+      "Job": "Musician, singer-songwriter, record producer",
+      "Appearance": "\" Bendin' in the Wind \"",
+      "Voiced By": "Himself"
+    },
+    "source_url": "https://futurama.fandom.com/wiki/Beck%27s_Head"
+  },
+  {
+    "name": "Andy Goldman",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/c/ce/The_Luck_of_the_Fryrish_%28Main_Episode%29_-_271.png",
+    "description": "When Fry visited the ruins of his old town, Andy's mutant body overheard and asked if he knew Andy, to which he confirmed and asked why. The mutant revealed that he mutated from him and Fry asked what Andy was up to and Andy speaks to him and reveals that he's a teacher, before he departs. Leela remarks he seems nice, though Fry remarked when he's sober.",
+    "role": "Anime Character",
+    "attributes": {
+      "Age": "1020’s",
+      "Species": "Mutant",
+      "Planet": "Earth",
+      "Job": "Teacher",
+      "Relatives": "Arachneon",
+      "Appearance": "\" The Luck of the Fryish \"",
+      "Voiced By": "Tom Kenny"
+    },
+    "source_url": "https://futurama.fandom.com/wiki/Andy_Goldman"
+  },
+  {
+    "name": "Fourth Doctor",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/a/a6/FourthDoctor.jpg",
+    "description": "Fourth DoctorCharacter InformationGenderStatusAliveSpeciesTime LordPlanetGallifreyBackground InformationFirst appearanceMöbius Dick",
+    "role": "Alive",
+    "attributes": {
+      "Status": "Alive",
+      "Species": "Time Lord",
+      "Planet": "Gallifrey"
+    },
+    "source_url": "https://futurama.fandom.com/wiki/Fourth_Doctor"
+  },
+  {
+    "name": "Unionbot",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/a/ab/Unionbot.jpg",
+    "description": "UnionbotCharacter InformationGenderStatusAliveSpeciesRobotPlanetEarthBackground InformationFirst appearance\"Your Mother Wears Pilot Boots\"",
+    "role": "Alive",
+    "attributes": {
+      "Status": "Alive",
+      "Species": "Robot",
+      "Planet": "Earth",
+      "Appearance": "\" Your Mother Wears Pilot Boots \""
+    },
+    "source_url": "https://futurama.fandom.com/wiki/Unionbot"
+  },
+  {
+    "name": "Ross Perot's Head",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/f/fd/RossPerotsHead.png",
+    "description": "Henry Ross Perot(June 27, 1930 – July 9, 2019), better known asRoss Perot, was an American businessman notable for his role as a third-party candidate in the 1992 presidential election. By2999, his still living head was preserved and on display in theHead MuseuminNew New York City.",
+    "role": "Anime Character",
+    "attributes": {
+      "Age": "biologically 89",
       "Species": "Formerly: Human Currently: Head in Jar",
       "Planet": "Earth",
       "Appearance": "\" A Head in the Polls \"",
       "Voiced By": "Himself"
     },
-    "source_url": "https://futurama.fandom.com/wiki/Jack_Nicholson%27s_Head"
+    "source_url": "https://futurama.fandom.com/wiki/Ross_Perot%27s_Head"
   },
   {
-    "name": "Paula Abdul's Head",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/0/04/Into_the_Wild_Green_Yonder_-_%28Main_Episode%29_-773.png",
-    "description": "Paula Abdul(b. June 19, 1962) is an American singer, dancer, choreographer, actress, and television personality. By2999, her still living head was preserved and on display at theHead MuseuminNew New York City. In3009, she was part of the trial of theEco-Feministas.",
+    "name": "Morris Katz",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/a/a8/That_Darn_Katz%21_%28Main_Episode%29_-_258.png",
+    "description": "Morris Katz, better known asProfessor Katz, was long known as a brilliant scientist atMars University, but was in3010revealed to be one of those dog-operated puppets that's been adapted for use by a cat. He was secretly controlled by theThubanian Leaderuntil the big reveal. It is uncertain if he has always been a puppet, or if, at some point, he was aHumanwho, after his death, was used as a puppet.",
     "role": "Anime Character",
     "attributes": {
-      "Species": "Formerly: Human Currently: Head in a Jar",
+      "Species": "Human (possibly",
+      "Planet": "Earth Mars",
+      "Job": "Professor at Mars University",
+      "Appearance": "That Darn Katz!"
+    },
+    "source_url": "https://futurama.fandom.com/wiki/Morris_Katz"
+  },
+  {
+    "name": "Hair Robot",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/f/fd/WigBot.jpg",
+    "description": "Hair Robotappears briefly in the rec-room of theHal Institute for Criminally Insane Robots. It's likely that he thinks he is ahumanand gives out wigs if people lose their hair.",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Robot",
       "Planet": "Earth",
-      "Job": "Justice of The Supreme Court of Earth",
-      "Appearance": "\" Into the Wild Green Yonder \""
+      "Job": "Wigs supplier Patient at the Hal Institute",
+      "Appearance": "\" The Luck of the Fryish \"",
+      "Voiced By": "Phil LaMarr"
     },
-    "source_url": "https://futurama.fandom.com/wiki/Paula_Abdul%27s_Head"
+    "source_url": "https://futurama.fandom.com/wiki/Hair_Robot"
   },
   {
-    "name": "Schlump",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/0/07/Bender%27s_Big_Score_-_%28Main_Episode%29_-688.png",
-    "description": "Schlump(June 2, 2977 - December 31, 3007) was one of theNudist Alien Scammers. He seems to be smarter than he appears and even manipulatesLeelainto giving him her email address. He is the shortest of the three brothers. He was killed with the destruction of the Scammer's ship.",
+    "name": "Bender Bending Rodríguez's First Born Son",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/c/cb/Benderfirstson.png",
+    "description": "Bender Bending Rodríguez's first born son(born May 11, 2997 - died June 29, 3008) wasBender'sfirst born son. His appearance was similar to how Bender appears as a child. Bender gave him toBeelzebotin return for anArmy of the Damned. The Robot Devil himself commented that he felt Bender's actions were brutal even by his standards as Bender kicked his son through the glass of the Devil's office into a pit of lava, killing him.",
     "role": "Anime Character",
     "attributes": {
-      "Age": "30",
-      "Species": "Nude person",
-      "Planet": "Nude Beach Planet",
-      "Job": "Scammer",
-      "Relatives": "Brother(s): Nudar and Fleb",
-      "Appearance": "\" Bender's Big Score \"",
-      "Voiced By": "Maurice LaMarche"
-    },
-    "source_url": "https://futurama.fandom.com/wiki/Schlump"
-  },
-  {
-    "name": "Armando",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/e/eb/Armando.jpg",
-    "description": "ArmandoCharacter InformationGenderStatusSpeciesHumanPlanetEarthBackground InformationFirst appearance\"I Second That Emotion\"Voiced byBilly West",
-    "role": "Anime Character",
-    "attributes": {
-      "Species": "Human",
+      "Age": "11",
+      "Species": "Robot",
       "Planet": "Earth",
-      "Appearance": "\" I Second That Emotion \"",
-      "Voiced By": "Billy West"
-    },
-    "source_url": "https://futurama.fandom.com/wiki/Armando"
-  },
-  {
-    "name": "Melllvar's mother",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/8/80/MelllvarMother.png",
-    "description": "Melllvar's motheris the mother ofMelllvar. She takes him away for his dinner before he has finished playing with his \"collectibles\", the cast ofStar Trekand thePlanet Express crew. She is pink/purple instead of Melllvar's green color and has large cat's eyes glasses.",
-    "role": "Alive",
-    "attributes": {
-      "Status": "Alive",
-      "Species": "Energy being",
-      "Planet": "Omega 3",
-      "Relatives": "Son: Melllvar",
-      "Appearance": "\" Where No Fan Has Gone Before \"",
+      "Relatives": "Father : Bender Bending Rodríguez Paternal half-brother : Ben Rodríguez See Bender 's family tree",
+      "Appearance": "\" The Beast with a Billion Backs \"",
       "Voiced By": "Tress MacNeille"
     },
-    "source_url": "https://futurama.fandom.com/wiki/Melllvar%27s_mother"
+    "source_url": "https://futurama.fandom.com/wiki/Bender_Bending_Rodr%C3%ADguez%27s_First_Born_Son"
   },
   {
-    "name": "John Quincy Adding Machine",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/4/4e/Mentioned.png",
-    "description": "TheJohn Quincy Adding Machinewas Earth's first robot president. He was elected by just one vote. It is said that the John Quincy Adding Machine struck a chord with the voters when he promised not to go on a killing spree, but, like all politicians he promised more than he could deliver. First mentioned in \"A Head in the Polls\".",
-    "role": "Anime Character",
+    "name": "Beelzebot",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/f/f9/Hell_Is_Other_Robots_-_360.png",
+    "description": "Beelzebot, commonly referred to as theRobot Devil, is one of the recurring antagonists inFuturama. He seems to resemble the Devil/Satan/Lucifer of manyEarthreligions. He lives inRobot Hellalong with many other sinners. He is talented at playing thefiddle, therefore, he owns a golden one (presumably a reference to \"The Devil Went Down to Georgia,\" which mentions both a golden fiddle and the Devil). He lives in New Jersey and runs Robot Hell in an abandoned amusement park calledReckless Ted's F...",
+    "role": "Villain",
     "attributes": {
       "Species": "Robot",
       "Planet": "Earth",
-      "Job": "Formerly: President of Earth",
-      "Appearance": "\" A Head in the Polls \" (Mentioned only"
+      "Job": "Running Robot Hell",
+      "Appearance": "\" Hell is Other Robots \"",
+      "Voiced By": "Dan Castellaneta ( Maurice LaMarche in \" A Tale of Two Santas \""
     },
-    "source_url": "https://futurama.fandom.com/wiki/John_Quincy_Adding_Machine"
+    "source_url": "https://futurama.fandom.com/wiki/Beelzebot"
   },
   {
-    "name": "Adlai Atkins",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/b/b5/The_Cyber_House_Rules_%28Main_Episode%29_-_77.png",
-    "description": "Adlai Atkins, also known asDr. Atkins, is a former orphan who grew up withTuranga LeelaatCookieville Minimum-Security Orphanarium. He became an eye phaser surgeon and started dating Leela after he performed a surgery to give her two eyes. He likes everything plain and normal. When Adlai and Leela decided to adopt a child, Leela picked a girl with an ear on her forehead. (Sally) Adlai wanted to perform a surgery on her: this reminded Leela that she liked herself as she was without the operatio...",
-    "role": "Anime Character",
-    "attributes": {
-      "Species": "Human",
-      "Planet": "Earth",
-      "Job": "Phaser eye surgeon",
-      "Appearance": "The Cyber House Rules",
-      "Voiced By": "Tom Kenny"
-    },
-    "source_url": "https://futurama.fandom.com/wiki/Adlai_Atkins"
-  },
-  {
-    "name": "Free Waterfall, Jr.",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/c/cb/Free_Waterfall%2C_Jr..jpg",
-    "description": "Free Waterfall, Jr.Character InformationGenderStatus(Eaten by Lrrr)Age43SpeciesHumanPlanetMarsProfessionMankind for Ethical Animal Treatment (Spokesmen)RelativesOld Man Waterfall(grandfather)Free Waterfall, Sr.(father)Free Waterfall III(son)Hutch Waterfall(son)Frida Waterfall(daughter)Background InformationFirst appearance\"The Problem with Popplers\"Voiced byPhil Hendrie",
-    "role": "Eaten by Lrrr",
-    "attributes": {
-      "Age": "43",
-      "Species": "Human",
-      "Planet": "Mars",
-      "Relatives": "Old Man Waterfall (grandfather) Free Waterfall, Sr. (father) Free Waterfall III (son) Hutch Waterfall (son) Frida Waterfall (daughter",
-      "Appearance": "\" The Problem with Popplers \""
-    },
-    "source_url": "https://futurama.fandom.com/wiki/Free_Waterfall,_Jr."
-  },
-  {
-    "name": "Kif Kroker",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/a/ae/Character_Kif.png",
-    "description": "Though quiet and painfully bashful by nature, he loathes Zapp Brannigan and his farcical plans. He also dislikes his boss' skimpy uniforms, the contents of which are frequently revealed to the unfortunate Kif when Brannigan climbs ladders on their spaceship, theNimbus. This passive nature is exploited by Brannigan on several occasions, placing the blame on Kif for disastrous operations such as theTitanic's change in course, the destruction ofDOOP Headquarters, and the failure to stop the inva...",
-    "role": "resurrected",
-    "attributes": {
-      "Status": "resurrected",
-      "Age": "24-30",
-      "Species": "Amphibiosan",
-      "Planet": "Amphibios 9",
-      "Job": "DOOP (Executive Officer), Titanic (First Officer",
-      "Relatives": "Children: Kif Kroker's Offspring (through Turanga Leela ) Smizmar / Fonfon Ru /Wife: Amy Wong-Kroker Parents: Mr. and Mrs. Kroker Parents-in-law: Inez Wong and Leo Wong .",
-      "Appearance": "\" Love's Labours Lost in Space \"",
-      "Voiced By": "Maurice LaMarche"
-    },
-    "source_url": "https://futurama.fandom.com/wiki/Kif_Kroker"
-  },
-  {
-    "name": "Robot General",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/5/57/Vlcsnap-2012-10-09-13h04m33s5.png",
-    "description": "TheRobot Generalwas the one to deliver the final blow to thehumanin the movie that had killedRusty. He tried to stop the human with magnetic fields, which failed. He shot a sharpened stick into its back and killed the human.",
-    "role": "Anime Character",
-    "attributes": {
-      "Species": "Robot",
-      "Planet": "Possibly Chapek 9",
-      "Job": "Army General in Movie",
-      "Appearance": "\" Fear of a Bot Planet \"",
-      "Voiced By": "David Herman"
-    },
-    "source_url": "https://futurama.fandom.com/wiki/Robot_General"
-  },
-  {
-    "name": "Sparky (Reincarnation)",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/1/13/SparkyReincarnation.png",
-    "description": "Sparkyis a loudspeaker who eats fish andhumanflesh. He told thePlanet Express crewin thePlanet Expressheadquarters in September3011to report to the Planet Express laboratorium.",
+    "name": "Human Sun",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/0/0d/HumanSun.png",
+    "description": "Human SunCharacter InformationGenderStatusAliveSpeciesHumanPlanetEarthProfessionVillainRelativesSon:Son of the SunBackground InformationFirst appearance\"Son of the Sun\"Voiced byN/A",
     "role": "Alive",
     "attributes": {
       "Status": "Alive",
-      "Species": "Robot",
+      "Species": "Human",
       "Planet": "Earth",
-      "Appearance": "Reincarnation",
-      "Voiced By": "Maurice LaMarche"
+      "Job": "Villain",
+      "Relatives": "Son: Son of the Sun",
+      "Appearance": "\" Son of the Sun \""
     },
-    "source_url": "https://futurama.fandom.com/wiki/Sparky_(Reincarnation)"
+    "source_url": "https://futurama.fandom.com/wiki/Human_Sun"
   },
   {
-    "name": "Billy Crystal's Head",
-    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/a/a9/BillyCrystalHead.png",
-    "description": "Billy CrystalCharacter InformationGenderStatusSpeciesFormerly:HumanCurrently:Head in JarPlanetEarthBackground InformationFirst appearance\"That's Lobstertainment!\"Voiced byPhil LaMarrWilliam Edward\"Billy\"Crystal(born March 14, 1948) was an American actor and comedian. By2999, his still living head was preserved and on display at theHead MuseuminNew New York City.",
+    "name": "Tooth fairy",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/4/4e/Mentioned.png",
+    "description": "Thetooth fairyis a fantasy figure of early childhood.",
+    "role": "Alive",
+    "attributes": {
+      "Status": "Alive",
+      "Species": "Fairy",
+      "Planet": "Earth",
+      "Job": "Federal Bureau of Investigation (FBI) head",
+      "Appearance": "Teenage Mutant Leela's Hurdles"
+    },
+    "source_url": "https://futurama.fandom.com/wiki/Tooth_fairy"
+  },
+  {
+    "name": "Encyclopod",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/5/55/LastEncyclopod.jpg",
+    "description": "TheEnyclopodwas one of the first beings to come into existence. Its first form was a frog or snake, then it evolved into a gigantic space ray. The encyclopod also preserves the life of any species, including extinct and endangered species. It has a miniature world on its back in the shape of a dome, with extinct plants and animals in it. The Encyclopod has special attachments that help contain DNA. The Encyclopod drifted into infinite space after giving birth to life.",
     "role": "Anime Character",
     "attributes": {
-      "Species": "Formerly: Human Currently: Head in Jar",
-      "Planet": "Earth",
-      "Appearance": "\" That's Lobstertainment! \""
+      "Species": "Encyclopod",
+      "Job": "Keeper of life",
+      "Appearance": "\" Into the Wild Green Yonder \"",
+      "Voiced By": "Phil Hendrie"
     },
-    "source_url": "https://futurama.fandom.com/wiki/Billy_Crystal%27s_Head"
+    "source_url": "https://futurama.fandom.com/wiki/Encyclopod"
+  },
+  {
+    "name": "Hugh Man",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/4/40/HughMan.jpg",
+    "description": "Hugh ManCharacter InformationGenderStatusSpeciesDecapodianPlanetEarthProfessionDouble agentBackground InformationFirst appearance\"A Taste of Freedom\"Voiced byPhil LaMarrHugh Manwas serving on theEarth'sflagship, theNimbus, during the Decapod Invasion of 3002. During the battle, 25-Star GeneralZapp Brannigantrusted him with the activation codes for the global defense network. Hugh Man was actually aDecapodianin disguise, but due to the incompetence of Zapp Brannigan, his anonymity was protecte...",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Decapodian",
+      "Planet": "Earth",
+      "Appearance": "\" A Taste of Freedom \""
+    },
+    "source_url": "https://futurama.fandom.com/wiki/Hugh_Man"
+  },
+  {
+    "name": "Clearcutter",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/8/86/TheClearcutter.jpg",
+    "description": "TheClearcutteris a robot equipped with an ax and chainsaw. He was a member of theUltimate Robot Fighting League(URFL) and foughtBender. Bender won the fight, but it was a set up. It's also wondered if the Clearcutter can switch either his axe or chainsaw into a drill, because at one point in the fightLeelapoints out that he gets a drill through his head, although this is unknown. He is possibly a Canadian robot.",
+    "role": "Anime Character",
+    "attributes": {
+      "Gender": "Male",
+      "Species": "Robot",
+      "Planet": "Earth",
+      "Job": "Fighter in the URFL",
+      "Appearance": "\" Raging Bender \"",
+      "Voiced By": "John DiMaggio"
+    },
+    "source_url": "https://futurama.fandom.com/wiki/Clearcutter"
+  },
+  {
+    "name": "Butch's Mother",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/9/9b/ButchsMother.jpg",
+    "description": "Butch's motherCharacter InformationGenderStatusSpeciesHumanPlanetEarthRelativesSon:ButchBackground InformationFirst appearance\"The Cryonic Woman\"Voiced byTress MacNeilleButch's motheris a minor character, who turns up in a car to takeButchand his gang to Hebrew class.",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Human",
+      "Planet": "Earth",
+      "Relatives": "Son: Butch",
+      "Appearance": "\" The Cryonic Woman \""
+    },
+    "source_url": "https://futurama.fandom.com/wiki/Butch%27s_Mother"
+  },
+  {
+    "name": "Hobsy",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/b/b1/Hobsy.jpg",
+    "description": "ThePlanet Express crewvisited the mansion in September of3010on their 100th mission to deliver a soufflé Mrs. Astor had ordered fromElzar's Fine Cuisine. Hobsy fed the soufflé to a few dozens of dalmatians Mrs. Astor keeps in an isolated room. However, as the souflée contained a few drops of dangerously explosive nitroglycerine, the dogs who ate it could have been badly injured, or even killed.",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Alien",
+      "Job": "Butler",
+      "Appearance": "\" The Mutants Are Revolting \"",
+      "Voiced By": "Maurice LaMarche"
+    },
+    "source_url": "https://futurama.fandom.com/wiki/Hobsy"
+  },
+  {
+    "name": "Stoner",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/b/b3/A_Head_in_the_Polls_%28Main_Episode%29_-_74.png",
+    "description": "Stonerrepresents the poorly worded and spelt political party \"Dudes for the Legalation of of Hemp\". WhenAmyasked him about the part, he reached for a brochure, pulled out a burger and ate it.",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Human",
+      "Planet": "Earth",
+      "Appearance": "\" A Head in the Polls \"",
+      "Voiced By": "Maurice LaMarche"
+    },
+    "source_url": "https://futurama.fandom.com/wiki/Stoner"
+  },
+  {
+    "name": "Suspendington",
+    "image_url": "https://static.wikia.nocookie.net/enfuturama/images/5/5e/Free_Will_Hunting_%28Main_Episode%29_-_49.png",
+    "description": "Dean Suspendingtonis the head of Columbiac University, whichBenderattends for all of 32 seconds before falling in with a rough crowd (\"The Inkjets,\" aRobotstreet-gang) and dropping out, but not before doing $9000 worth of damage to the Dean's wife.",
+    "role": "Anime Character",
+    "attributes": {
+      "Species": "Robot",
+      "Planet": "Earth",
+      "Appearance": "\" Free Will Hunting \"",
+      "Voiced By": "Tom Kenny"
+    },
+    "source_url": "https://futurama.fandom.com/wiki/Suspendington"
   }
 ]

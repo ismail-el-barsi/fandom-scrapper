@@ -1,25 +1,25 @@
 # Rapport de Scraping pour : peaky-blinders
-- **Statut :** ✅ SUCCÈS - 11 fiches valides (minimum requis: 10)
-- **Temps total :** 39.10s
+- **Statut :** ✅ SUCCÈS - 10 fiches valides (minimum requis: 10)
+- **Temps total :** 34.49s
 - **Catégories testées :** 2 (Catégorie principale, Cast)
 - **Catégorie utilisée :** Cast
 - **Liens trouvés :** 9
 - **Liens scrapés :** 9
-- **Fiches OK :** 11
-- **Fiches KO :** 9
+- **Fiches OK :** 10
+- **Fiches KO :** 10
 - **Fiches rejetées (qualité) :** 0
-- **Taux de succès :** 122.2%
+- **Taux de succès :** 111.1%
 
 ## 📊 Statistiques de qualité des données
 
 **Qualité générale :**
 - 🎯 Score de qualité moyen : 6.7/10
-- ⭐ Fiches haute qualité (≥7/10) : 4/11 (36.4%)
+- ⭐ Fiches haute qualité (≥7/10) : 5/10 (50.0%)
 
 **Complétude des données :**
-- 📝 Avec description valide : 11/11 (100.0%)
-- 🏷️ Avec rôle spécifique : 11/11 (100.0%)
-- 🔖 Avec attributs : 4/11 (36.4%)
+- 📝 Avec description valide : 10/10 (100.0%)
+- 🏷️ Avec rôle spécifique : 10/10 (100.0%)
+- 🔖 Avec attributs : 5/10 (50.0%)
 - 📈 Nombre moyen d'attributs : 0.7
 
 **Système de nettoyage :** ✅ Améliorations activées
@@ -29,21 +29,23 @@
 - Validation de qualité renforcée
 
 ## Fiches échouées
-- URL: https://peaky-blinders.fandom.com/wiki/Jenson_Clarke
-  - Raison: Image principale invalide pour Jenson Clarke
-- URL: https://peaky-blinders.fandom.com/wiki/Paddy_Considine
-  - Raison: Image principale invalide pour Paddy Considine
-- URL: https://peaky-blinders.fandom.com/wiki/Jan_Bijvoet
-  - Raison: Image principale invalide pour Jan Bijvoet
-- URL: https://peaky-blinders.fandom.com/wiki/Stephanie_Hyam
-  - Raison: Image principale invalide pour Stephanie Hyam
-- URL: https://peaky-blinders.fandom.com/wiki/Sam_Hazeldine
-  - Raison: Image principale invalide pour Sam Hazeldine
-- URL: https://peaky-blinders.fandom.com/wiki/Kenneth_Colley
-  - Raison: Image principale invalide pour Kenneth Colley
-- URL: https://peaky-blinders.fandom.com/wiki/Anya_Taylor-Joy
-  - Raison: Image principale invalide pour Anya Taylor-Joy
+- URL: https://peaky-blinders.fandom.com/wiki/Iddo_Goldberg
+  - Raison: Image principale invalide pour Iddo Goldberg
+- URL: https://peaky-blinders.fandom.com/wiki/Joseph_Long
+  - Raison: Image principale invalide pour Joseph Long
+- URL: https://peaky-blinders.fandom.com/wiki/Pauline_Turner
+  - Raison: Image principale invalide pour Pauline Turner
+- URL: https://peaky-blinders.fandom.com/wiki/Kate_Phillips
+  - Raison: Image principale invalide pour Kate Phillips
+- URL: https://peaky-blinders.fandom.com/wiki/Neil_Bell
+  - Raison: Image principale invalide pour Neil Bell
+- URL: https://peaky-blinders.fandom.com/wiki/Dina_Korzun
+  - Raison: Image principale invalide pour Dina Korzun
+- URL: https://peaky-blinders.fandom.com/wiki/Lobo_Chan
+  - Raison: Image principale invalide pour Lobo Chan
+- URL: https://peaky-blinders.fandom.com/wiki/Andreas_Mu%C3%B1oz
+  - Raison: Image principale invalide pour Andreas Muñoz
+- URL: https://peaky-blinders.fandom.com/wiki/Charlie_Creed-Miles
+  - Raison: Image principale invalide pour Charlie Creed-Miles
 - URL: https://peaky-blinders.fandom.com/wiki/Richard_Brake
   - Raison: Image principale invalide pour Richard Brake
-- URL: https://peaky-blinders.fandom.com/wiki/Kevin_Metcalfe
-  - Raison: Image principale invalide pour Kevin Metcalfe

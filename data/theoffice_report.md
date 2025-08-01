@@ -1,6 +1,6 @@
 # Rapport de Scraping pour : theoffice
 - **Statut :** ✅ SUCCÈS - 25 fiches valides (minimum requis: 10)
-- **Temps total :** 53.98s
+- **Temps total :** 39.92s
 - **Catégories testées :** 1 (Catégorie principale)
 - **Catégorie utilisée :** Catégorie principale
 - **Liens trouvés :** 25

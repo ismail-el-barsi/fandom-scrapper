@@ -1,40 +1,14 @@
 [
   {
-    "name": "Helen McCrory",
-    "image_url": "https://static.wikia.nocookie.net/peaky-blinders/images/b/b2/Helen_McCrory.jpg",
-    "description": "Helen McCroryGeneral InformationDate of BirthAugust 17, 1968Place of BirthLondon, EnglandDate of DeathApril 16, 2021 (age 52)Place of DeathLondon, EnglandRoleAunt PollyHelen Elizabeth McCrory, OBE was an English actress, whose role in Peaky Blinders is that ofPolly Gray.",
+    "name": "Brian Gleeson",
+    "image_url": "https://static.wikia.nocookie.net/peaky-blinders/images/7/78/Brian_Gleeson.jpg",
+    "description": "On October 18, 2018, it was announced that Gleeson would be joining the cast for an unspecified role in the upcomingSeries 5ofPeaky Blinders.This role was later confirmed asJimmy McCavern, leader of the Billy Boys.",
     "role": "Anime Character",
     "attributes": {
-      "Role": "Aunt Polly"
+      "Date Of Birth": "November 14, 1987",
+      "Birth Place": "Dublin, Ireland"
     },
-    "source_url": "https://peaky-blinders.fandom.com/wiki/Helen_McCrory"
-  },
-  {
-    "name": "Paul Bullion",
-    "image_url": "https://static.wikia.nocookie.net/peaky-blinders/images/1/11/Paul_Bullion.jpg",
-    "description": "Paul Bullionis a British actor best known for his rolesBilly Kitchenin hit drama seriesPeaky Blindersfor the BBC and Kurt Sutter'sThe Bastard Executionerfor FX. He has appeared in live theatre productions for The National Theatre and Shakespeare's Globe.",
-    "role": "Anime Character",
-    "attributes": {},
-    "source_url": "https://peaky-blinders.fandom.com/wiki/Paul_Bullion"
-  },
-  {
-    "name": "Bríd Brennan",
-    "image_url": "https://static.wikia.nocookie.net/peaky-blinders/images/2/2b/Brid_Brennan.jpg",
-    "description": "Bríd Brennanis a Northern Irish actress of film, stage and television, best known for her theatre work. She originated the role of Agnes in critically acclaimed performances of Brian Friel'sDancing at Lughnasafor which she won a Tony Award. She playsAudrey ChangrettainPeaky Blinders.",
-    "role": "Anime Character",
-    "attributes": {
-      "Dateofbirth": "1955",
-      "Birthplace": "Belfast, Northern Ireland, UK"
-    },
-    "source_url": "https://peaky-blinders.fandom.com/wiki/Br%C3%ADd_Brennan"
-  },
-  {
-    "name": "Frances Tomelty",
-    "image_url": "https://static.wikia.nocookie.net/peaky-blinders/images/c/c2/Frances_Tomelty.jpg",
-    "description": "Frances TomeltyGeneral InformationDate of BirthOctober 6, 1948Place of BirthBelfast, Northern Ireland, UKRoleBethany BoswellFrances Eleanor Tomeltyis a Northern Irish actress. She portraysBethany BoswellinPeaky Blinders. Her other credits includeBergerac,Boon,Ballykissangel,Bonekickers, Inspector Morse, Silent Witness, Midsomer Murders, The Waking DeadandLaw & Order: UK.",
-    "role": "Anime Character",
-    "attributes": {},
-    "source_url": "https://peaky-blinders.fandom.com/wiki/Frances_Tomelty"
+    "source_url": "https://peaky-blinders.fandom.com/wiki/Brian_Gleeson"
   },
   {
     "name": "Sam Neill",
@@ -45,33 +19,6 @@
     "source_url": "https://peaky-blinders.fandom.com/wiki/Sam_Neill"
   },
   {
-    "name": "Tom Vaughan-Lawlor",
-    "image_url": "https://static.wikia.nocookie.net/peaky-blinders/images/1/1d/Tom_Vaughan-Lawlor.jpg",
-    "description": "Tom Vaughan-LawlorGeneral InformationDate of BirthNovember 4, 1977Place of BirthDundrum, Dublin, IrelandRoleMalacki ByrneTom Vaughan-Lawloris an Irish actor. He is best known for his role as Nigel \"Nidge\" Delaney in seriesLove/Hate. He playsMalacki ByrneinPeaky Blinders.",
-    "role": "Anime Character",
-    "attributes": {},
-    "source_url": "https://peaky-blinders.fandom.com/wiki/Tom_Vaughan-Lawlor"
-  },
-  {
-    "name": "Paul Anderson",
-    "image_url": "https://static.wikia.nocookie.net/peaky-blinders/images/7/7e/Paul_anderson.jpg",
-    "description": "Paul AndersonGeneral InformationDate of Birth12 February 1978 (age 43)Place of BirthLondon, United KingdomRoleArthur ShelbyPaul Andersonis an English actor best known for his roles as Anderson inThe Revenant, Albert Donoghue inLegendand Colonel Sebastian Moran inSherlock Holmes: A Game of Shadows. InPeaky Blinders, he portraysArthur Shelby.",
-    "role": "Anime Character",
-    "attributes": {},
-    "source_url": "https://peaky-blinders.fandom.com/wiki/Paul_Anderson"
-  },
-  {
-    "name": "Ian Peck",
-    "image_url": "https://static.wikia.nocookie.net/peaky-blinders/images/9/9e/Ian_Peck.jpg",
-    "description": "Ian Peckis a British actor who playsCurlyinPeaky Blinders. Other than this he is known for playing a Death Eater inHarry Potter and the Deathly Hallows, a guard inThe Wolfman, and Harry Dale inLady Chatterley's Lover.",
-    "role": "Anime Character",
-    "attributes": {
-      "Birthplace": "UK",
-      "Role": "Curly"
-    },
-    "source_url": "https://peaky-blinders.fandom.com/wiki/Ian_Peck"
-  },
-  {
     "name": "Sam Claflin",
     "image_url": "https://static.wikia.nocookie.net/peaky-blinders/images/0/0e/Sam_Claflin.jpg",
     "description": "Sam ClaflinDate of BirthJune 27, 1986Birth placeChiswick, London, EnglandRoleOswald MosleyAppeared in5Sam Claflinis an English actor. who is best known for portrayingFinnick OdairinThe Hunger Gamesfilm series. He also portrayedPhilip SwiftinPirates of the Caribbean: On Stranger TidesandWill TraynorinMe Before You.",
@@ -80,23 +27,68 @@
     "source_url": "https://peaky-blinders.fandom.com/wiki/Sam_Claflin"
   },
   {
-    "name": "Finn Cole",
-    "image_url": "https://static.wikia.nocookie.net/peaky-blinders/images/5/5c/Finn%2BCole%2BPeaky%2BBlinders%2BLondon%2BPreview%2BScreening%2BYLwmVDatPBjl.jpg",
-    "description": "Finn ColeGeneral InformationDate of BirthNovember 9th, 1995 (age 25)Place of BirthLondon, EnglandRoleMichael GrayFinn Coleis an English actor who plays the role ofMichael Grayin Peaky Blinders. He is best known for his roles as Eric Birling in An Inspector Calls and as Joshua 'J' Cody in Animal Kingdom. He is a brother ofJoe Colewho portraysJohn Shelby.",
-    "role": "Anime Character",
-    "attributes": {},
-    "source_url": "https://peaky-blinders.fandom.com/wiki/Finn_Cole"
-  },
-  {
-    "name": "Charlie Murphy",
-    "image_url": "https://static.wikia.nocookie.net/peaky-blinders/images/e/ef/Charlie_Murphy.jpg",
-    "description": "Charlotte \"Charlie\" Murphyis an Irish actress. She is best known for playing the lead role in Love/Hate and Happy Valley.",
+    "name": "Graeme Hawley",
+    "image_url": "https://static.wikia.nocookie.net/peaky-blinders/images/9/90/Graeme_Hawley.jpg",
+    "description": "Graeme Hawleyis an English actor known for his role as John Stape in the British soapCoronation Street,Kappatoo(1990), andThe Forsyte Saga(2002). Hawley playsNiall DevlininPeaky Blinders.",
     "role": "Anime Character",
     "attributes": {
-      "Dateofbirth": "December 1, 1988 (age 29",
-      "Birthplace": "County Wexford, Ireland",
-      "Role": "Jessie Eden"
+      "Dateofbirth": "February 24, 1975",
+      "Birthplace": "Coventry, Warwickshire, England"
     },
-    "source_url": "https://peaky-blinders.fandom.com/wiki/Charlie_Murphy"
+    "source_url": "https://peaky-blinders.fandom.com/wiki/Graeme_Hawley"
+  },
+  {
+    "name": "Kunjue Li",
+    "image_url": "https://static.wikia.nocookie.net/peaky-blinders/images/b/b1/Kunjue_Li.jpg",
+    "description": "Kunjue LiGeneral InformationPlace of BirthDanling, Sichuan, ChinaRoleChinnKunjue Liis a Chinese actress and producer, known for BBC'sRipper Street (2013),Peaky Blinders, mini-seriesOne Child (2014), Ancient Assassins,Razors: The Return of Jack the Ripper (2016)andMy Best Friend's Wedding (2016).She playsChinninPeaky Blinders.",
+    "role": "Anime Character",
+    "attributes": {
+      "Role": "Chinn"
+    },
+    "source_url": "https://peaky-blinders.fandom.com/wiki/Kunjue_Li"
+  },
+  {
+    "name": "Adam Lawrence",
+    "image_url": "https://static.wikia.nocookie.net/peaky-blinders/images/b/b1/Adam_Lawrence.jpg",
+    "description": "Adam LawrenceGeneral InformationDate of BirthJanuary 25, 1991Place of BirthBirmingham, England, UKRolePolly's LoverAdam Lawrenceis an English actor who was born and raised in Birmingham. His debut film appearance saw him long listed for a BIFA Award for 'Most Promising Newcomer' for the role Billy Duffy inEngland Is Mine. His other credits include roles inThe Last Witness (2018)andLadders (2015).He playsPolly's Lover inPeaky Blinders.",
+    "role": "Anime Character",
+    "attributes": {},
+    "source_url": "https://peaky-blinders.fandom.com/wiki/Adam_Lawrence"
+  },
+  {
+    "name": "Aimee-Ffion Edwards",
+    "image_url": "https://static.wikia.nocookie.net/peaky-blinders/images/d/d6/Aimee1.png",
+    "description": "Aimee-Ffion EdwardsGeneral InformationDate of BirthNovember 21, 1987 (age 30)Place of BirthNewport, Wales, United KingdomRoleEsme ShelbyAimee-Ffion Edwardsis a Welsh actress from Newport, Wales and a stone cold Fox . She is perhaps best known for playing Sketch inSkins,Esme ShelbyinPeaky Blinders.",
+    "role": "Anime Character",
+    "attributes": {},
+    "source_url": "https://peaky-blinders.fandom.com/wiki/Aimee-Ffion_Edwards"
+  },
+  {
+    "name": "Helen McCrory",
+    "image_url": "https://static.wikia.nocookie.net/peaky-blinders/images/b/b2/Helen_McCrory.jpg",
+    "description": "Helen McCroryGeneral InformationDate of BirthAugust 17, 1968Place of BirthLondon, EnglandDate of DeathApril 16, 2021 (age 52)Place of DeathLondon, EnglandRoleAunt PollyHelen Elizabeth McCrory, OBE was an English actress, whose role in Peaky Blinders is that ofPolly Gray.",
+    "role": "Anime Character",
+    "attributes": {
+      "Role": "Aunt Polly"
+    },
+    "source_url": "https://peaky-blinders.fandom.com/wiki/Helen_McCrory"
+  },
+  {
+    "name": "Wendy Nottingham",
+    "image_url": "https://static.wikia.nocookie.net/peaky-blinders/images/d/d6/Wendy_Nottingham.jpg",
+    "description": "Wendy NottinghamGeneral InformationRoleMarySeasons3Wendy Nottinghamis a British actress who portraysMaryonPeaky Blinders. She is known for her roles inNotes on a Scandal(2006),Topsy-Turvy(1999), andAtonement(2007).",
+    "role": "Anime Character",
+    "attributes": {
+      "Role": "Mary"
+    },
+    "source_url": "https://peaky-blinders.fandom.com/wiki/Wendy_Nottingham"
+  },
+  {
+    "name": "Ned Dennehy",
+    "image_url": "https://static.wikia.nocookie.net/peaky-blinders/images/7/7e/Ned_Dennehy.jpg",
+    "description": "Ned DennehyGeneral InformationDate of Birth8 December 1965 (age 52)RoleCharlie StrongNed Dennehyis an Irish actor in British and Irish films and television who playsCharlie Strong. Other credits include Radnor inBlitz (2011)andHermit Jacob inThe Woman in Black 2: Angel of Death (2014).",
+    "role": "Anime Character",
+    "attributes": {},
+    "source_url": "https://peaky-blinders.fandom.com/wiki/Ned_Dennehy"
   }
 ]

@@ -1,6 +1,6 @@
 # Rapport de Scraping pour : alienvspredator
 - **Statut :** ✅ SUCCÈS - 11 fiches valides (minimum requis: 10)
-- **Temps total :** 24.80s
+- **Temps total :** 23.43s
 - **Catégories testées :** 1 (Catégorie principale)
 - **Catégorie utilisée :** Catégorie principale
 - **Liens trouvés :** 11

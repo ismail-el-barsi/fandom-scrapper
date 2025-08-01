@@ -1,6 +1,6 @@
 # Rapport de Scraping pour : kingdomhearts
 - **Statut :** ✅ SUCCÈS - 50 fiches valides (minimum requis: 10)
-- **Temps total :** 62.78s
+- **Temps total :** 52.89s
 - **Catégories testées :** 1 (Catégorie principale)
 - **Catégorie utilisée :** Catégorie principale
 - **Liens trouvés :** 123
@@ -13,14 +13,14 @@
 ## 📊 Statistiques de qualité des données
 
 **Qualité générale :**
-- 🎯 Score de qualité moyen : 9.0/10
+- 🎯 Score de qualité moyen : 8.9/10
 - ⭐ Fiches haute qualité (≥7/10) : 50/50 (100.0%)
 
 **Complétude des données :**
 - 📝 Avec description valide : 49/50 (98.0%)
 - 🏷️ Avec rôle spécifique : 50/50 (100.0%)
 - 🔖 Avec attributs : 50/50 (100.0%)
-- 📈 Nombre moyen d'attributs : 7.6
+- 📈 Nombre moyen d'attributs : 7.0
 
 **Système de nettoyage :** ✅ Améliorations activées
 - Détection de valeurs tronquées

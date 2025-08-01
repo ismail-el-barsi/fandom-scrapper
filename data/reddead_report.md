@@ -1,6 +1,6 @@
 # Rapport de Scraping pour : reddead
 - **Statut :** ✅ SUCCÈS - 50 fiches valides (minimum requis: 10)
-- **Temps total :** 78.15s
+- **Temps total :** 75.74s
 - **Catégories testées :** 1 (Catégorie principale)
 - **Catégorie utilisée :** Catégorie principale
 - **Liens trouvés :** 63
@@ -20,7 +20,7 @@
 - 📝 Avec description valide : 47/50 (94.0%)
 - 🏷️ Avec rôle spécifique : 50/50 (100.0%)
 - 🔖 Avec attributs : 49/50 (98.0%)
-- 📈 Nombre moyen d'attributs : 5.6
+- 📈 Nombre moyen d'attributs : 5.9
 
 **Système de nettoyage :** ✅ Améliorations activées
 - Détection de valeurs tronquées

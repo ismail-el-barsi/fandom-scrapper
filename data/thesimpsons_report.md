@@ -1,6 +1,6 @@
 # Rapport de Scraping pour : thesimpsons
 - **Statut :** ✅ SUCCÈS - 49 fiches valides (minimum requis: 10)
-- **Temps total :** 152.76s
+- **Temps total :** 141.45s
 - **Catégories testées :** 1 (Catégorie principale)
 - **Catégorie utilisée :** Catégorie principale
 - **Liens trouvés :** 5486
@@ -17,10 +17,10 @@
 - ⭐ Fiches haute qualité (≥7/10) : 49/49 (100.0%)
 
 **Complétude des données :**
-- 📝 Avec description valide : 48/49 (98.0%)
+- 📝 Avec description valide : 49/49 (100.0%)
 - 🏷️ Avec rôle spécifique : 48/49 (98.0%)
 - 🔖 Avec attributs : 49/49 (100.0%)
-- 📈 Nombre moyen d'attributs : 4.7
+- 📈 Nombre moyen d'attributs : 4.8
 
 **Système de nettoyage :** ✅ Améliorations activées
 - Détection de valeurs tronquées
@@ -29,5 +29,5 @@
 - Validation de qualité renforcée
 
 ## Fiches échouées
-- URL: https://simpsons.fandom.com/wiki/Catherine_Johnson_Krustofsky
+- URL: https://simpsons.fandom.com/wiki/The_Stereotypes
   - Raison: Infobox non trouvée

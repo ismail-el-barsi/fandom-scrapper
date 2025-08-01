@@ -1,25 +1,25 @@
 # Rapport de Scraping pour : ben10
-- **Statut :** ✅ SUCCÈS - 47 fiches valides (minimum requis: 10)
-- **Temps total :** 80.22s
+- **Statut :** ✅ SUCCÈS - 48 fiches valides (minimum requis: 10)
+- **Temps total :** 78.98s
 - **Catégories testées :** 1 (Catégorie principale)
 - **Catégorie utilisée :** Catégorie principale
 - **Liens trouvés :** 1178
 - **Liens scrapés :** 50
-- **Fiches OK :** 47
-- **Fiches KO :** 3
+- **Fiches OK :** 48
+- **Fiches KO :** 2
 - **Fiches rejetées (qualité) :** 0
-- **Taux de succès :** 94.0%
+- **Taux de succès :** 96.0%
 
 ## 📊 Statistiques de qualité des données
 
 **Qualité générale :**
-- 🎯 Score de qualité moyen : 8.9/10
-- ⭐ Fiches haute qualité (≥7/10) : 46/47 (97.9%)
+- 🎯 Score de qualité moyen : 8.8/10
+- ⭐ Fiches haute qualité (≥7/10) : 48/48 (100.0%)
 
 **Complétude des données :**
-- 📝 Avec description valide : 47/47 (100.0%)
-- 🏷️ Avec rôle spécifique : 44/47 (93.6%)
-- 🔖 Avec attributs : 47/47 (100.0%)
+- 📝 Avec description valide : 48/48 (100.0%)
+- 🏷️ Avec rôle spécifique : 44/48 (91.7%)
+- 🔖 Avec attributs : 48/48 (100.0%)
 - 📈 Nombre moyen d'attributs : 6.0
 
 **Système de nettoyage :** ✅ Améliorations activées
@@ -29,9 +29,7 @@
 - Validation de qualité renforcée
 
 ## Fiches échouées
-- URL: https://ben10.fandom.com/wiki/Gwen_10
+- URL: https://ben10.fandom.com/wiki/Joe
   - Raison: Infobox non trouvée
-- URL: https://ben10.fandom.com/wiki/Buzz
-  - Raison: Infobox non trouvée
-- URL: https://ben10.fandom.com/wiki/Max_Tennyson
+- URL: https://ben10.fandom.com/wiki/Rex_Salazar
   - Raison: Infobox non trouvée

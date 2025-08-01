@@ -1,6 +1,6 @@
 # Rapport de Scraping pour : tokyoghoul
 - **Statut :** ✅ SUCCÈS - 43 fiches valides (minimum requis: 10)
-- **Temps total :** 69.40s
+- **Temps total :** 70.05s
 - **Catégories testées :** 1 (Catégorie principale)
 - **Catégorie utilisée :** Catégorie principale
 - **Liens trouvés :** 292
@@ -20,7 +20,7 @@
 - 📝 Avec description valide : 43/43 (100.0%)
 - 🏷️ Avec rôle spécifique : 43/43 (100.0%)
 - 🔖 Avec attributs : 43/43 (100.0%)
-- 📈 Nombre moyen d'attributs : 11.4
+- 📈 Nombre moyen d'attributs : 9.5
 
 **Système de nettoyage :** ✅ Améliorations activées
 - Détection de valeurs tronquées
@@ -29,17 +29,17 @@
 - Validation de qualité renforcée
 
 ## Fiches échouées
-- URL: https://tokyoghoul.fandom.com/wiki/Ken_Kaneki%27s_father
-  - Raison: Image principale invalide pour Ken Kaneki's father
-- URL: https://tokyoghoul.fandom.com/wiki/Kamemochi
-  - Raison: Image principale invalide pour Kamemochi
-- URL: https://tokyoghoul.fandom.com/wiki/Mai_Hirano
-  - Raison: Image principale invalide pour Mai Hirano
-- URL: https://tokyoghoul.fandom.com/wiki/Kiyone_Mitsuba
-  - Raison: Image principale invalide pour Kiyone Mitsuba
-- URL: https://tokyoghoul.fandom.com/wiki/Kazene_Mitsuba
-  - Raison: Image principale invalide pour Kazene Mitsuba
-- URL: https://tokyoghoul.fandom.com/wiki/Oguchi
-  - Raison: Image principale invalide pour Oguchi
-- URL: https://tokyoghoul.fandom.com/wiki/Shouta%27s_father
-  - Raison: Image principale invalide pour Shouta's father
+- URL: https://tokyoghoul.fandom.com/wiki/Dogu
+  - Raison: Image principale invalide pour Dogu
+- URL: https://tokyoghoul.fandom.com/wiki/Natsu_Fura
+  - Raison: Image principale invalide pour Natsu Fura
+- URL: https://tokyoghoul.fandom.com/wiki/Tsukuru_Tsukiyama
+  - Raison: Image principale invalide pour Tsukuru Tsukiyama
+- URL: https://tokyoghoul.fandom.com/wiki/Fei
+  - Raison: Image principale invalide pour Fei
+- URL: https://tokyoghoul.fandom.com/wiki/Wakayama
+  - Raison: Image principale invalide pour Wakayama
+- URL: https://tokyoghoul.fandom.com/wiki/Yoshikawa
+  - Raison: Image principale invalide pour Yoshikawa
+- URL: https://tokyoghoul.fandom.com/wiki/Hanbee_Abara%27s_father
+  - Raison: Image principale invalide pour Hanbee Abara's father

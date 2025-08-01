@@ -1,6 +1,6 @@
 # Rapport de Scraping pour : attackontitan
 - **Statut :** ✅ SUCCÈS - 37 fiches valides (minimum requis: 10)
-- **Temps total :** 56.46s
+- **Temps total :** 57.46s
 - **Catégories testées :** 1 (Catégorie principale)
 - **Catégorie utilisée :** Catégorie principale
 - **Liens trouvés :** 38

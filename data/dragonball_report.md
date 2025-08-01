@@ -1,26 +1,26 @@
 # Rapport de Scraping pour : dragonball
-- **Statut :** ✅ SUCCÈS - 36 fiches valides (minimum requis: 10)
-- **Temps total :** 165.89s
+- **Statut :** ✅ SUCCÈS - 33 fiches valides (minimum requis: 10)
+- **Temps total :** 173.02s
 - **Catégories testées :** 1 (Catégorie principale)
 - **Catégorie utilisée :** Catégorie principale
 - **Liens trouvés :** 1688
 - **Liens scrapés :** 50
-- **Fiches OK :** 36
-- **Fiches KO :** 14
+- **Fiches OK :** 33
+- **Fiches KO :** 17
 - **Fiches rejetées (qualité) :** 0
-- **Taux de succès :** 72.0%
+- **Taux de succès :** 66.0%
 
 ## 📊 Statistiques de qualité des données
 
 **Qualité générale :**
-- 🎯 Score de qualité moyen : 9.0/10
-- ⭐ Fiches haute qualité (≥7/10) : 36/36 (100.0%)
+- 🎯 Score de qualité moyen : 8.9/10
+- ⭐ Fiches haute qualité (≥7/10) : 33/33 (100.0%)
 
 **Complétude des données :**
-- 📝 Avec description valide : 36/36 (100.0%)
-- 🏷️ Avec rôle spécifique : 36/36 (100.0%)
-- 🔖 Avec attributs : 36/36 (100.0%)
-- 📈 Nombre moyen d'attributs : 9.0
+- 📝 Avec description valide : 33/33 (100.0%)
+- 🏷️ Avec rôle spécifique : 33/33 (100.0%)
+- 🔖 Avec attributs : 33/33 (100.0%)
+- 📈 Nombre moyen d'attributs : 7.8
 
 **Système de nettoyage :** ✅ Améliorations activées
 - Détection de valeurs tronquées
@@ -29,31 +29,37 @@
 - Validation de qualité renforcée
 
 ## Fiches échouées
-- URL: https://dragonball.fandom.com/wiki/Miradoola
+- URL: https://dragonball.fandom.com/wiki/Pare
+  - Raison: Infobox non trouvée
+- URL: https://dragonball.fandom.com/wiki/Goku_(Goku_Black%27s_timeline)
+  - Raison: Infobox non trouvée
+- URL: https://dragonball.fandom.com/wiki/Biwanei
+  - Raison: Infobox non trouvée
+- URL: https://dragonball.fandom.com/wiki/Tirara
+  - Raison: Infobox non trouvée
+- URL: https://dragonball.fandom.com/wiki/Pecolda
+  - Raison: Infobox non trouvée
+- URL: https://dragonball.fandom.com/wiki/Michael
+  - Raison: Infobox non trouvée
+- URL: https://dragonball.fandom.com/wiki/Jam_(Dragon_Ball_Fusions)
+  - Raison: Infobox non trouvée
+- URL: https://dragonball.fandom.com/wiki/Paotal
+  - Raison: Infobox non trouvée
+- URL: https://dragonball.fandom.com/wiki/Chivalet
+  - Raison: Infobox non trouvée
+- URL: https://dragonball.fandom.com/wiki/Moden
+  - Raison: Infobox non trouvée
+- URL: https://dragonball.fandom.com/wiki/Cissito
+  - Raison: Infobox non trouvée
+- URL: https://dragonball.fandom.com/wiki/Nabana
+  - Raison: Infobox non trouvée
+- URL: https://dragonball.fandom.com/wiki/Bimbo
+  - Raison: Infobox non trouvée
+- URL: https://dragonball.fandom.com/wiki/Future_Whis
+  - Raison: Image principale invalide pour Future Whis
+- URL: https://dragonball.fandom.com/wiki/Racyord
+  - Raison: Infobox non trouvée
+- URL: https://dragonball.fandom.com/wiki/Android_Stroganof_55
   - Raison: Infobox non trouvée
 - URL: https://dragonball.fandom.com/wiki/Hiebie
-  - Raison: Infobox non trouvée
-- URL: https://dragonball.fandom.com/wiki/Kyume
-  - Raison: Infobox non trouvée
-- URL: https://dragonball.fandom.com/wiki/Scout_23
-  - Raison: Infobox non trouvée
-- URL: https://dragonball.fandom.com/wiki/Hirinay
-  - Raison: Infobox non trouvée
-- URL: https://dragonball.fandom.com/wiki/Future_Android_14
-  - Raison: Infobox non trouvée
-- URL: https://dragonball.fandom.com/wiki/Future_Gohan_(Cell%27s_timeline)
-  - Raison: Infobox non trouvée
-- URL: https://dragonball.fandom.com/wiki/Chocora
-  - Raison: Infobox non trouvée
-- URL: https://dragonball.fandom.com/wiki/Yashiric
-  - Raison: Infobox non trouvée
-- URL: https://dragonball.fandom.com/wiki/Captain_of_the_Guard
-  - Raison: Infobox non trouvée
-- URL: https://dragonball.fandom.com/wiki/Hank
-  - Raison: Infobox non trouvée
-- URL: https://dragonball.fandom.com/wiki/Ariano
-  - Raison: Infobox non trouvée
-- URL: https://dragonball.fandom.com/wiki/Android_76
-  - Raison: Infobox non trouvée
-- URL: https://dragonball.fandom.com/wiki/Failed_Fusions
   - Raison: Infobox non trouvée

@@ -1,303 +1,5 @@
 [
   {
-    "name": "Kaveri",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/e/e1/Kaveri.jpg",
-    "description": "KaveriAppearancesThe Matrix OnlineNamesReal nameJennifer ReinsHacker nameKaveriAppearanceGenderFemaleEye color??Hair color??Kaveriwas a member of theScanlinefaction in thevectorinstance ofThe Matrix Online.",
-    "role": "Character",
-    "attributes": {
-      "Hacker": "Kaveri",
-      "Gender": "Female",
-      "Eyes": "??",
-      "Hair": "??"
-    },
-    "source_url": "https://matrix.fandom.com/wiki/Kaveri"
-  },
-  {
-    "name": "Eramastica",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/f/f2/Eramastica.jpg",
-    "description": "EramasticaAppearancesThe Matrix OnlineNamesReal nameLouisa PhillipsHacker nameEramasticaAppearanceEntityRedpillGenderFemaleEye color??Hair colorBrownEramasticawas aCypheritewho was a personal operative to the liaison known asItarrot, and who only appears in theSyntaxinstance ofThe Matrix Online. She is known as a smart talker and is more than happy to slay anyone that is in her way of her objectives.",
-    "role": "Character",
-    "attributes": {
-      "Hacker": "Eramastica",
-      "Entity": "Redpill",
-      "Gender": "Female",
-      "Eyes": "??",
-      "Hair": "Brown"
-    },
-    "source_url": "https://matrix.fandom.com/wiki/Eramastica"
-  },
-  {
-    "name": "Azul",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/a/a4/Azul.jpg",
-    "description": "AzulAppearancesThe Matrix OnlineNamesReal name???Hacker nameAzulAppearanceEntityRedpillGenderMaleEye color??Hair colorBrownAzulwas a male Redpill who along withCasqueandAndromeda, was one ofAnome'slieutenants who helped Anome with stealing the Cheat vials from Niobe and the Zionites. He then became a member of the renegade group known asUnlimit. It was believed that Azul turned from his organization and joined the fight against them when he killed Genev and Casque.",
-    "role": "Character",
-    "attributes": {
-      "Real": "???",
-      "Hacker": "Azul",
-      "Entity": "Redpill",
-      "Gender": "Male",
-      "Eyes": "??",
-      "Hair": "Brown"
-    },
-    "source_url": "https://matrix.fandom.com/wiki/Azul"
-  },
-  {
-    "name": "Liparus",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/8/84/Matrix_Online_Thumb.png",
-    "description": "LiparusAppearancesThe Matrix OnlineNamesReal name??Hacker nameLiparusAppearanceGender??Hair color??Liparuswas a member of theCypheritealigned flagship, theBlue Dreamer. Along withMaruth, they were the only members who remained a constant part of the crew.",
-    "role": "Character",
-    "attributes": {
-      "Real": "??",
-      "Hacker": "Liparus",
-      "Gender": "??",
-      "Hair": "??"
-    },
-    "source_url": "https://matrix.fandom.com/wiki/Liparus"
-  },
-  {
-    "name": "Vairys",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/6/66/Vairys.jpg",
-    "description": "VairysAppearancesThe Matrix OnlineNamesReal nameWinter MarionHacker nameVairysAppearanceGenderFemaleEye colorYellowHair colorBlondVairys is a female cypherite who is in theRecursionserver ofThe Matrix Online.",
-    "role": "Character",
-    "attributes": {
-      "Hacker": "Vairys",
-      "Gender": "Female",
-      "Eyes": "Yellow",
-      "Hair": "Blond"
-    },
-    "source_url": "https://matrix.fandom.com/wiki/Vairys"
-  },
-  {
-    "name": "Raeder",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/3/32/Raeder.png",
-    "description": "Captain RaederOccupationPurpose??AppearanceGenderMaleEye color??Hair color??Equipment and techAffiliationSSR?Captain Raederwas a senior member ofSupersymmetric Research. It is notable that he was the only individual outside of SSR's upper management to have access to the company's sensitive most information.",
-    "role": "Character",
-    "attributes": {
-      "Purpose": "??",
-      "Gender": "Male",
-      "Eye": "??",
-      "Hair": "??",
-      "Affiliation": "SSR?"
-    },
-    "source_url": "https://matrix.fandom.com/wiki/Raeder"
-  },
-  {
-    "name": "Khepril",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/3/38/Khepril.jpg",
-    "description": "KheprilAppearancesThe Matrix OnlineNamesHacker nameKheprilAppearanceEntityRedpillGenderMaleHeight???Eye color???Hair colorBrown?Kheprilwas anE Pluribus Neoliaison on theVectorserver ofThe Matrix Onlineand a crewman aboardNeo's Hopeon the same server.",
-    "role": "Character",
-    "attributes": {
-      "Hacker": "Khepril",
-      "Entity": "Redpill",
-      "Gender": "Male",
-      "Height": "???",
-      "Eyes": "???",
-      "Hair": "Brown?"
-    },
-    "source_url": "https://matrix.fandom.com/wiki/Khepril"
-  },
-  {
-    "name": "Halborn",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/9/9a/Oligarch.jpg",
-    "description": "Halborn suddenly appeared inside theMatrixas a glowing wireframe figure and attacks against him proved futile due to his tremendous levels of system access which enabled him to issue override codes; altering the physics of the simulation and seizing control of all software that was active around him. Although theMachinescorrectly identified him to be a freebornhuman, his true nature and motives remain a mystery. He has however become fascinated withZionand the two recurring humans which becam...",
-    "role": "Game Character",
-    "attributes": {
-      "Gender": "Male",
-      "Affiliation": "Oligarchs The Merovingian",
-      "Allies": "The Merovingian",
-      "Enemies": "Carlyne and his Zionite supporters",
-      "Mission": "To aquire the Biological Interface Program"
-    },
-    "source_url": "https://matrix.fandom.com/wiki/Halborn"
-  },
-  {
-    "name": "Price",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/8/85/Price.jpg",
-    "description": "Wang DanOccupationPurpose??AppearanceGenderMaleHair colorBlackEquipment and techAffiliationShadesPricewas the gang leader of theShadesgang inPillsen. Not much is known of him except his reign of terror throughout the neighborhood with the use of his gang.",
-    "role": "Character",
-    "attributes": {
-      "Purpose": "??",
-      "Gender": "Male",
-      "Hair": "Black",
-      "Affiliation": "Shades"
-    },
-    "source_url": "https://matrix.fandom.com/wiki/Price"
-  },
-  {
-    "name": "Salera",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/d/d4/Salera.jpg",
-    "description": "Salera was once a highly regardedZioniteoperative. She worked very closely withMorpheus, who helped liberate her. At first she was grateful, but then secretly resented him, for putting her in aplace of darknesscompared to the happy life she had lived in theMatrix; enjoying the vanities that were up for offer in the fake but beautiful alternate reality. As a result of working for Morpheus, she metCypher,",
-    "role": "Character",
-    "attributes": {
-      "Appearances": "The Matrix Online",
-      "Real": "??",
-      "Hacker": "Salera",
-      "Entity": "Redpill",
-      "Gender": "Female",
-      "Eyes": "??",
-      "Hair": "??"
-    },
-    "source_url": "https://matrix.fandom.com/wiki/Salera"
-  },
-  {
-    "name": "Caacrinolaas",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/4/49/Caacrinolaas.jpg",
-    "description": "CaacrinolaasAppearancesThe Matrix OnlineNamesReal nameJessica HamtonHacker nameCaacrinolaasAppearanceEntityRedpillGenderFemaleEye color??Hair color??Caacrinolaaswas a operative affiliated with theMerovingiansin theSyntaxinstance ofThe Matrix Online.",
-    "role": "Character",
-    "attributes": {
-      "Entity": "Redpill",
-      "Gender": "Female",
-      "Eyes": "??",
-      "Hair": "??"
-    },
-    "source_url": "https://matrix.fandom.com/wiki/Caacrinolaas"
-  },
-  {
-    "name": "Acavaria",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/4/41/Acavaria.jpg",
-    "description": "Dani was a orphan at a very young age, and so had very little or no memory of her parents. She had always known that there was something wrong with the world she lived in. When she was finally awakened when she was fourteen, she took her training very seriously. She shunned the simulation for several years and in that time learned what it meant to be human. She, however, returned into theMatrixat the request ofKid.",
-    "role": "Character",
-    "attributes": {
-      "Appearances": "The Matrix Online",
-      "Real": "Danielle (Dani) DuQuette",
-      "Hacker": "Acavaria",
-      "Gender": "Female"
-    },
-    "source_url": "https://matrix.fandom.com/wiki/Acavaria"
-  },
-  {
-    "name": "Gemaskeerd",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/3/39/Gemaskeerd.jpg",
-    "description": "GemaskeerdAppearancesThe Matrix OnlineNamesHacker nameGemaskeerdAppearanceEntityRedpillGenderMaleHair color??Gemaskeerdwas a member of theCypherites, who was one of the Cypherite members, along withEnmascaradoof freeing the traitorousToorima, when she betrayed theZionites. He was formerly a crewmember of theHvBRGTerra Nova.",
-    "role": "Character",
-    "attributes": {
-      "Hacker": "Gemaskeerd",
-      "Entity": "Redpill",
-      "Gender": "Male",
-      "Hair": "??"
-    },
-    "source_url": "https://matrix.fandom.com/wiki/Gemaskeerd"
-  },
-  {
-    "name": "Naidian",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/8/88/Naidian.jpg",
-    "description": "NaidianAppearancesThe Matrix OnlineNamesReal nameSamantha BishalHacker nameNaidianAppearanceEntityRedpillGenderFemaleNaidianwas a formerRedpillwho was a formerZionitecaptain, who switched to the side of the machines during the firstattack on theZiondock. She has now become a mission contact (or mission liaison) to theMachinistsin theRecursionserver ofthe Matrix Online.",
-    "role": "Character",
-    "attributes": {
-      "Hacker": "Naidian",
-      "Entity": "Redpill",
-      "Gender": "Female"
-    },
-    "source_url": "https://matrix.fandom.com/wiki/Naidian"
-  },
-  {
-    "name": "Lathana",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/6/62/Lathana.jpg",
-    "description": "Cynthia was awakened by an overzealous Zion operative, she became bitter in a short period of time. Most likely because of this, she defected to theCypheritesmovement in order to protect the bluepills from the same fate she experienced. She had recently joined theDreami'shovercraft, TheNanshe.",
-    "role": "Character",
-    "attributes": {
-      "Appearances": "The Matrix Online",
-      "Real": "Cynthia Abbot",
-      "Hacker": "Lathana",
-      "Entity": "Redpill",
-      "Gender": "Female",
-      "Eyes": "??",
-      "Hair": "Brown?"
-    },
-    "source_url": "https://matrix.fandom.com/wiki/Lathana"
-  },
-  {
-    "name": "Al3xandra",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/d/d6/Al3xandra.jpg",
-    "description": "People keep saying Alex is like my big sister. I don't know why they do, but I trust her more than I trust anyone on this crew. She earns that trust from everyone she meets, it seems.",
-    "role": "Character",
-    "attributes": {
-      "Appearances": "The Matrix Online",
-      "Real": "Alex Darrington",
-      "Hacker": "Alex Darrington",
-      "Gender": "Female",
-      "Hair": "Red"
-    },
-    "source_url": "https://matrix.fandom.com/wiki/Al3xandra"
-  },
-  {
-    "name": "Racon",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/8/8d/Racon.jpg",
-    "description": "RaconAppearancesThe Matrix OnlineNamesReal nameLared GoldingHacker nameRaconAppearanceEntityRedpillGenderMale?Height???Eye color???Hair colorRed/Light Brown?Raconwas aZioniteliaisonaboard theLogos IIin theRecursioninstance ofThe Matrix Online.",
-    "role": "Character",
-    "attributes": {
-      "Hacker": "Racon",
-      "Entity": "Redpill",
-      "Gender": "Male?",
-      "Height": "???",
-      "Eyes": "???"
-    },
-    "source_url": "https://matrix.fandom.com/wiki/Racon"
-  },
-  {
-    "name": "AK",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/2/25/Ak.png",
-    "description": "AKPortrayed byRobert MammoneAppearancesThe Matrix ReloadedThe Matrix RevolutionsThe Matrix OnlineStatusAliveNamesHacker nameAKAppearanceEntityOperator of theMjolnirSpeciesHumanGenderMaleEye colorBlueHair colorBlackEquipment and techAffiliationResistanceAffiliationsAlliesRolandColtMauserMaggie†Link†AKwas theoperatorof theMjolnir.",
-    "role": "Alive",
-    "attributes": {
-      "Appearances": "The Matrix Reloaded The Matrix Revolutions The Matrix Online",
-      "Status": "Alive",
-      "Hacker": "AK",
-      "Entity": "Operator of the Mjolnir",
-      "Species": "Human",
-      "Gender": "Male",
-      "Eyes": "Blue",
-      "Hair": "Black",
-      "Affiliation": "Resistance",
-      "Allies": "Roland Colt Mauser Maggie † Link †"
-    },
-    "source_url": "https://matrix.fandom.com/wiki/AK"
-  },
-  {
-    "name": "Hatchet",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/9/98/Hatchet_MxO.png",
-    "description": "HatchetAppearanceGenderMaleHair color???Equipment and techAffiliationCrossbonesHatchetwas the gang leader of theCrossbones, a gang that resided inMoriah Projects. It is unknown what had started the gang war between the gang and theDemon Army, who were led byMammon. However, Hatchet is more than wiling to finish it. Like the rest of the gang, he is a dangerousexile.",
-    "role": "Character",
-    "attributes": {
-      "Gender": "Male",
-      "Hair": "???",
-      "Affiliation": "Crossbones"
-    },
-    "source_url": "https://matrix.fandom.com/wiki/Hatchet"
-  },
-  {
-    "name": "Mauser",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/0/0d/Mauser_Revolutions.jpg",
-    "description": "MauserPortrayed byChristopher KirbyAppearancesThe Matrix ReloadedThe Matrix RevolutionsThe Matrix OnlineStatusAliveNamesReal nameMauserAppearanceEntityCrew member of theMjolnirSpeciesHumanGenderMaleEye colorBrownHair colorNoneEquipment and techAffiliationResistanceAffiliationsAlliesRolandColtMaggie†AKBane†EnemiesTemporarily:Bane†Mauserwas aZionborn mechanic technician aboard theMjolnir, and friend ofColtunder CaptainRolandduring the SixthMatrixResistance. Believed dead on the crash of theMjol...",
-    "role": "Alive",
-    "attributes": {
-      "Appearances": "The Matrix Reloaded The Matrix Revolutions The Matrix Online",
-      "Status": "Alive",
-      "Real": "Mauser",
-      "Entity": "Crew member of the Mjolnir",
-      "Species": "Human",
-      "Gender": "Male",
-      "Eyes": "Brown",
-      "Affiliation": "Resistance",
-      "Allies": "Roland Colt Maggie † AK Bane †",
-      "Enemies": "Temporarily: Bane †"
-    },
-    "source_url": "https://matrix.fandom.com/wiki/Mauser"
-  },
-  {
-    "name": "Dissimulato",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/a/ac/Dissimulato.jpg",
-    "description": "DissimulatoAppearancesThe Matrix OnlineNamesReal name??Hacker nameDissimulatoAppearanceGenderMaleEye color??Hair colorBlackDissimulatowas aCypheriteand one of the affiliation's liaisons in theVectorinstance ofThe Matrix Online.",
-    "role": "Character",
-    "attributes": {
-      "Real": "??",
-      "Gender": "Male",
-      "Eyes": "??",
-      "Hair": "Black"
-    },
-    "source_url": "https://matrix.fandom.com/wiki/Dissimulato"
-  },
-  {
     "name": "Dernick",
     "image_url": "https://static.wikia.nocookie.net/matrix/images/1/12/Dernick.png",
     "description": "Captain DernickOccupationPurpose??AppearanceGenderMaleEye color??Hair color??Equipment and techAffiliationSSRCaptain Dernickwas a senior officer, along withRaeder, ofSupersymmetric Research's security team on theDatamineartificial island construct.",
@@ -310,6 +12,33 @@
       "Affiliation": "SSR"
     },
     "source_url": "https://matrix.fandom.com/wiki/Dernick"
+  },
+  {
+    "name": "Erased",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/5/51/Erased.jpg",
+    "description": "She was severely injured during a battle againstE Pluribus Neooperatives, which caused severe trauma and had to have her RSI reset. Because of this, she has developed a severe hatred of all the members of that organization that wounded her, demanding vengeance no matter the cost. Another change in her behavior was that she is desperate to regain her role in the Cypherites.",
+    "role": "Character",
+    "attributes": {
+      "Appearances": "The Matrix Online",
+      "Real": "??",
+      "Hacker": "Erased",
+      "Gender": "Female",
+      "Hair": "Black?"
+    },
+    "source_url": "https://matrix.fandom.com/wiki/Erased"
+  },
+  {
+    "name": "Neurophyte",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/5/53/Neurophyte.jpg",
+    "description": "Neurophytewas a crew member of theNovalis IIduring the events ofThe Matrix Online. Before the merging of the eight servers into three, there was a mission where Neurophyte was infected by a kill-code virus when she was in the Matrix and needed to be saved, which resulted in a different outcome depending on the pre-merged server. With the merge, the admin for the game,Walrusannounced it would drop this storyline.",
+    "role": "Character",
+    "attributes": {
+      "Real": "Anne Simpson",
+      "Hacker": "Neurophyte",
+      "Gender": "Female",
+      "Hair": "White?"
+    },
+    "source_url": "https://matrix.fandom.com/wiki/Neurophyte"
   },
   {
     "name": "The Architect",
@@ -331,46 +60,340 @@
     "source_url": "https://matrix.fandom.com/wiki/The_Architect"
   },
   {
-    "name": "Kerevola",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/1/1d/Kerevola.jpg",
-    "description": "Bethany was happy in the dream, but when she was awakened, her personality dramatically changed to being violent and hateful. Because of this she is passionate about guarding thebluepillsfrom being liberated from theMatrix, believing that she is a hero. As a result, she also fervently despisesredpillsand would passionately slay them by her own hand.",
+    "name": "Adenias",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/3/3a/Adenias.jpg",
+    "description": "AdeniasAppearancesThe Matrix OnlineNamesReal nameCorey FanningHacker nameAdeniasAppearanceEntityRedpillGenderFemaleAdeniaswas a female crewmember of theE Pluribus Neohovercraft,Neo's Hopein theSyntaxinstance ofThe Matrix Online.",
     "role": "Character",
     "attributes": {
-      "Appearances": "The Matrix Online",
-      "Real": "Bethany Albott",
-      "Hacker": "Kerevola",
-      "Gender": "Female",
-      "Hair": "??"
+      "Hacker": "Adenias",
+      "Entity": "Redpill",
+      "Gender": "Female"
     },
-    "source_url": "https://matrix.fandom.com/wiki/Kerevola"
+    "source_url": "https://matrix.fandom.com/wiki/Adenias"
   },
   {
-    "name": "Zeissman",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/7/78/Zeissman.jpg",
-    "description": "Jeffrey Zeiss was born 27 years ago. He was born on the backseat of a sedan whilst reaching the hospital. When he became older, he was a mostly happy and intelligent child growing up inMagog. He had high grades which continued on into his high school, Hammerville High, but played little league. He later became interested in aquatic life, as well enjoying going to the beach. Although he did take a drug or two after partying, it never hinder him from graduating high school and starting college.",
+    "name": "Naidian",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/8/88/Naidian.jpg",
+    "description": "NaidianAppearancesThe Matrix OnlineNamesReal nameSamantha BishalHacker nameNaidianAppearanceEntityRedpillGenderFemaleNaidianwas a formerRedpillwho was a formerZionitecaptain, who switched to the side of the machines during the firstattack on theZiondock. She has now become a mission contact (or mission liaison) to theMachinistsin theRecursionserver ofthe Matrix Online.",
     "role": "Character",
     "attributes": {
-      "Appearances": "The Matrix Online",
-      "Hacker": "Zeissman",
+      "Hacker": "Naidian",
+      "Entity": "Redpill",
+      "Gender": "Female"
+    },
+    "source_url": "https://matrix.fandom.com/wiki/Naidian"
+  },
+  {
+    "name": "Azul",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/a/a4/Azul.jpg",
+    "description": "AzulAppearancesThe Matrix OnlineNamesReal name???Hacker nameAzulAppearanceEntityRedpillGenderMaleEye color??Hair colorBrownAzulwas a male Redpill who along withCasqueandAndromeda, was one ofAnome'slieutenants who helped Anome with stealing the Cheat vials from Niobe and the Zionites. He then became a member of the renegade group known asUnlimit. It was believed that Azul turned from his organization and joined the fight against them when he killed Genev and Casque.",
+    "role": "Character",
+    "attributes": {
+      "Real": "???",
+      "Hacker": "Azul",
+      "Entity": "Redpill",
       "Gender": "Male",
       "Eyes": "??",
-      "Hair": "Blond"
+      "Hair": "Brown"
     },
-    "source_url": "https://matrix.fandom.com/wiki/Zeissman"
+    "source_url": "https://matrix.fandom.com/wiki/Azul"
   },
   {
-    "name": "Erased",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/5/51/Erased.jpg",
-    "description": "She was severely injured during a battle againstE Pluribus Neooperatives, which caused severe trauma and had to have her RSI reset. Because of this, she has developed a severe hatred of all the members of that organization that wounded her, demanding vengeance no matter the cost. Another change in her behavior was that she is desperate to regain her role in the Cypherites.",
+    "name": "Vairys",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/6/66/Vairys.jpg",
+    "description": "VairysAppearancesThe Matrix OnlineNamesReal nameWinter MarionHacker nameVairysAppearanceGenderFemaleEye colorYellowHair colorBlondVairys is a female cypherite who is in theRecursionserver ofThe Matrix Online.",
+    "role": "Character",
+    "attributes": {
+      "Hacker": "Vairys",
+      "Gender": "Female",
+      "Eyes": "Yellow",
+      "Hair": "Blond"
+    },
+    "source_url": "https://matrix.fandom.com/wiki/Vairys"
+  },
+  {
+    "name": "Tichborne",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/8/84/Matrix_Online_Thumb.png",
+    "description": "TitchborneAppearancesThe Matrix OnlineNamesReal nameArgyle TichborneHacker nameTitchborneAppearanceEntityRedpillGenderMaleTichbornewas a liaison to theMerovingiansin the Vector server of theThe Matrix Online.",
+    "role": "Character",
+    "attributes": {
+      "Hacker": "Titchborne",
+      "Entity": "Redpill",
+      "Gender": "Male"
+    },
+    "source_url": "https://matrix.fandom.com/wiki/Tichborne"
+  },
+  {
+    "name": "Alsos",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/9/9c/Alsos.jpg",
+    "description": "James Keenan was awakened at regulation age before the truce. he witnessed the events of the truce within the walls ofZion. Although he does not yet have enough experience in general, this is all overcompensated by his knowledge of the Real, which is more than most newly awakened Redpills. Despite his short age, he is shown to be highly skilled in communication, which had led him to become an efficient carrier within Zion.",
     "role": "Character",
     "attributes": {
       "Appearances": "The Matrix Online",
-      "Real": "??",
-      "Hacker": "Erased",
-      "Gender": "Female",
+      "Hacker": "Alsos",
+      "Entity": "Redpill",
+      "Gender": "Male",
+      "Eyes": "??",
       "Hair": "Black?"
     },
-    "source_url": "https://matrix.fandom.com/wiki/Erased"
+    "source_url": "https://matrix.fandom.com/wiki/Alsos"
+  },
+  {
+    "name": "Racon",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/8/8d/Racon.jpg",
+    "description": "RaconAppearancesThe Matrix OnlineNamesReal nameLared GoldingHacker nameRaconAppearanceEntityRedpillGenderMale?Height???Eye color???Hair colorRed/Light Brown?Raconwas aZioniteliaisonaboard theLogos IIin theRecursioninstance ofThe Matrix Online.",
+    "role": "Character",
+    "attributes": {
+      "Hacker": "Racon",
+      "Entity": "Redpill",
+      "Gender": "Male?",
+      "Height": "???",
+      "Eyes": "???"
+    },
+    "source_url": "https://matrix.fandom.com/wiki/Racon"
+  },
+  {
+    "name": "Al3xandra",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/d/d6/Al3xandra.jpg",
+    "description": "People keep saying Alex is like my big sister. I don't know why they do, but I trust her more than I trust anyone on this crew. She earns that trust from everyone she meets, it seems.",
+    "role": "Character",
+    "attributes": {
+      "Appearances": "The Matrix Online",
+      "Real": "Alex Darrington",
+      "Hacker": "Alex Darrington",
+      "Gender": "Female",
+      "Hair": "Red"
+    },
+    "source_url": "https://matrix.fandom.com/wiki/Al3xandra"
+  },
+  {
+    "name": "Barakoa",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/3/36/Barakoa.jpg",
+    "description": "BarakoaAppearancesThe Matrix OnlineNamesReal nameVuai ShariffHacker nameBarakoaAppearanceGenderMaleHair color??Barakoawas aCypheritewho served as a crewmember onboard his organization's flagship, TheBlue Dreamer. He was one of the only members to have disappeared prior to the disappearance of the liaison known asViraconrida. Because of this, he was easily eliminated from suspicion.",
+    "role": "Character",
+    "attributes": {
+      "Hacker": "Barakoa",
+      "Gender": "Male",
+      "Hair": "??"
+    },
+    "source_url": "https://matrix.fandom.com/wiki/Barakoa"
+  },
+  {
+    "name": "Gemaskeerd",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/3/39/Gemaskeerd.jpg",
+    "description": "GemaskeerdAppearancesThe Matrix OnlineNamesHacker nameGemaskeerdAppearanceEntityRedpillGenderMaleHair color??Gemaskeerdwas a member of theCypherites, who was one of the Cypherite members, along withEnmascaradoof freeing the traitorousToorima, when she betrayed theZionites. He was formerly a crewmember of theHvBRGTerra Nova.",
+    "role": "Character",
+    "attributes": {
+      "Hacker": "Gemaskeerd",
+      "Entity": "Redpill",
+      "Gender": "Male",
+      "Hair": "??"
+    },
+    "source_url": "https://matrix.fandom.com/wiki/Gemaskeerd"
+  },
+  {
+    "name": "Lathana",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/6/62/Lathana.jpg",
+    "description": "Cynthia was awakened by an overzealous Zion operative, she became bitter in a short period of time. Most likely because of this, she defected to theCypheritesmovement in order to protect the bluepills from the same fate she experienced. She had recently joined theDreami'shovercraft, TheNanshe.",
+    "role": "Character",
+    "attributes": {
+      "Appearances": "The Matrix Online",
+      "Real": "Cynthia Abbot",
+      "Hacker": "Lathana",
+      "Entity": "Redpill",
+      "Gender": "Female",
+      "Eyes": "??",
+      "Hair": "Brown?"
+    },
+    "source_url": "https://matrix.fandom.com/wiki/Lathana"
+  },
+  {
+    "name": "Caelifera",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/8/8f/Caelifera.jpg",
+    "description": "CaeliferaAppearancesThe Matrix OnlineNamesReal nameAlexis RowlandHacker nameCaeliferaAppearanceGenderFemaleHair colorBlondCaeliferawas aZionitewho served aLiaisoncrewmember aboard theLogos II. She appears only in theRecursioninstance ofThe Matrix Online.",
+    "role": "Character",
+    "attributes": {
+      "Hacker": "Caelifera",
+      "Gender": "Female",
+      "Hair": "Blond"
+    },
+    "source_url": "https://matrix.fandom.com/wiki/Caelifera"
+  },
+  {
+    "name": "Halborn",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/9/9a/Oligarch.jpg",
+    "description": "Halborn suddenly appeared inside theMatrixas a glowing wireframe figure and attacks against him proved futile due to his tremendous levels of system access which enabled him to issue override codes; altering the physics of the simulation and seizing control of all software that was active around him. Although theMachinescorrectly identified him to be a freebornhuman, his true nature and motives remain a mystery. He has however become fascinated withZionand the two recurring humans which becam...",
+    "role": "Game Character",
+    "attributes": {
+      "Gender": "Male",
+      "Affiliation": "Oligarchs The Merovingian",
+      "Allies": "The Merovingian",
+      "Enemies": "Carlyne and his Zionite supporters",
+      "Mission": "To aquire the Biological Interface Program"
+    },
+    "source_url": "https://matrix.fandom.com/wiki/Halborn"
+  },
+  {
+    "name": "Eramastica",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/f/f2/Eramastica.jpg",
+    "description": "EramasticaAppearancesThe Matrix OnlineNamesReal nameLouisa PhillipsHacker nameEramasticaAppearanceEntityRedpillGenderFemaleEye color??Hair colorBrownEramasticawas aCypheritewho was a personal operative to the liaison known asItarrot, and who only appears in theSyntaxinstance ofThe Matrix Online. She is known as a smart talker and is more than happy to slay anyone that is in her way of her objectives.",
+    "role": "Character",
+    "attributes": {
+      "Hacker": "Eramastica",
+      "Entity": "Redpill",
+      "Gender": "Female",
+      "Eyes": "??",
+      "Hair": "Brown"
+    },
+    "source_url": "https://matrix.fandom.com/wiki/Eramastica"
+  },
+  {
+    "name": "Fist",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/1/17/Fist.png",
+    "description": "FistAppearancesThe Matrix OnlineNamesReal nameGeorge VonDerSleizeHacker nameFistAppearanceEntityRedpillGenderMaleHeight6'0Eye colorBlueHair colorBrownFistwas a data miner serving aboardNeo's Hopeand a member of theZionextremist factionE Pluribus Neo.",
+    "role": "Character",
+    "attributes": {
+      "Hacker": "Fist",
+      "Entity": "Redpill",
+      "Gender": "Male",
+      "Height": "6'0",
+      "Eyes": "Blue",
+      "Hair": "Brown"
+    },
+    "source_url": "https://matrix.fandom.com/wiki/Fist"
+  },
+  {
+    "name": "AK",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/2/25/Ak.png",
+    "description": "AKPortrayed byRobert MammoneAppearancesThe Matrix ReloadedThe Matrix RevolutionsThe Matrix OnlineStatusAliveNamesHacker nameAKAppearanceEntityOperator of theMjolnirSpeciesHumanGenderMaleEye colorBlueHair colorBlackEquipment and techAffiliationResistanceAffiliationsAlliesRolandColtMauserMaggie†Link†AKwas theoperatorof theMjolnir.",
+    "role": "Alive",
+    "attributes": {
+      "Appearances": "The Matrix Reloaded The Matrix Revolutions The Matrix Online",
+      "Status": "Alive",
+      "Hacker": "AK",
+      "Entity": "Operator of the Mjolnir",
+      "Species": "Human",
+      "Gender": "Male",
+      "Eyes": "Blue",
+      "Hair": "Black",
+      "Affiliation": "Resistance",
+      "Allies": "Roland Colt Mauser Maggie † Link †"
+    },
+    "source_url": "https://matrix.fandom.com/wiki/AK"
+  },
+  {
+    "name": "John Moira",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/4/4e/John-Moira_MxO.jpg",
+    "description": "John MoiraAppearanceGenderMaleHair color??Equipment and techAffiliationBrothers of DestinyJohn Moirawas the gang leader of theBrothers of Destinygang, which resides inAkasaka. He is a master of the martial arts, making him one of the most dangerousexilesin theMatrix. His mantra is to act and not be acted upon.",
+    "role": "Character",
+    "attributes": {
+      "Gender": "Male",
+      "Hair": "??"
+    },
+    "source_url": "https://matrix.fandom.com/wiki/John_Moira"
+  },
+  {
+    "name": "Raeder",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/3/32/Raeder.png",
+    "description": "Captain RaederOccupationPurpose??AppearanceGenderMaleEye color??Hair color??Equipment and techAffiliationSSR?Captain Raederwas a senior member ofSupersymmetric Research. It is notable that he was the only individual outside of SSR's upper management to have access to the company's sensitive most information.",
+    "role": "Character",
+    "attributes": {
+      "Purpose": "??",
+      "Gender": "Male",
+      "Eye": "??",
+      "Hair": "??",
+      "Affiliation": "SSR?"
+    },
+    "source_url": "https://matrix.fandom.com/wiki/Raeder"
+  },
+  {
+    "name": "Roolith",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/6/65/Roolith.jpg",
+    "description": "RoolithAppearancesThe Matrix OnlineNamesReal nameJohn SteeleHacker nameRoolithAppearanceEntityRedpillGenderMaleHeight???Eye color???Hair color???Roolithwas aliaisonof theE Pluribus Neoorganization aboard the organization's flagship,Neo's Hope. He only appears in theRecursioninstance ofThe Matrix Online.",
+    "role": "Character",
+    "attributes": {
+      "Hacker": "Roolith",
+      "Entity": "Redpill",
+      "Gender": "Male",
+      "Height": "???",
+      "Eyes": "???",
+      "Hair": "???"
+    },
+    "source_url": "https://matrix.fandom.com/wiki/Roolith"
+  },
+  {
+    "name": "Escondido",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/7/76/Escondido.jpg",
+    "description": "EscondidoAppearancesThe Matrix OnlineNamesReal name??Hacker nameEscondidoAppearanceEntityRedpillGenderMaleHeight??Eye color??Hair colorBrownEscondidowas a member of theCypheritesin theRecursionserver ofThe Matrix Online. During the disappearance of the official liaison,Viraconrida, He, along withFestanevewere met under suspicion, due to the fact he served as the former's replacement during her disappearance. He disappeared several months after the incident.",
+    "role": "Character",
+    "attributes": {
+      "Real": "??",
+      "Hacker": "Escondido",
+      "Entity": "Redpill",
+      "Gender": "Male",
+      "Height": "??",
+      "Eyes": "??",
+      "Hair": "Brown"
+    },
+    "source_url": "https://matrix.fandom.com/wiki/Escondido"
+  },
+  {
+    "name": "Khepril",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/3/38/Khepril.jpg",
+    "description": "KheprilAppearancesThe Matrix OnlineNamesHacker nameKheprilAppearanceEntityRedpillGenderMaleHeight???Eye color???Hair colorBrown?Kheprilwas anE Pluribus Neoliaison on theVectorserver ofThe Matrix Onlineand a crewman aboardNeo's Hopeon the same server.",
+    "role": "Character",
+    "attributes": {
+      "Hacker": "Khepril",
+      "Entity": "Redpill",
+      "Gender": "Male",
+      "Height": "???",
+      "Eyes": "???",
+      "Hair": "Brown?"
+    },
+    "source_url": "https://matrix.fandom.com/wiki/Khepril"
+  },
+  {
+    "name": "Matarax",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/f/fe/Matarax.jpg",
+    "description": "When he returned to the Matrix, it offered him some escape from the real life reality. He met up with a group of members who would later be revealed as theCypherites, who craved being reinserted back to the matrix as well. He even admired and befriended the group's leaders,CryptosandVeil. He has since abandoned separated theZionitesin favor of joining the renegade group, expressing the fact that humans should embrace the co-dependence of theMachines.",
+    "role": "Character",
+    "attributes": {
+      "Appearances": "The Matrix Online",
+      "Real": "Gian Phillips",
+      "Hacker": "Matarax",
+      "Gender": "Male",
+      "Eyes": "??",
+      "Hair": "Brown"
+    },
+    "source_url": "https://matrix.fandom.com/wiki/Matarax"
+  },
+  {
+    "name": "Stigmatism",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/3/3e/Stigmatism.jpg",
+    "description": "StigmatismAppearancesThe Matrix OnlineNamesReal nameVincent WolfHacker nameStigmatismAppearanceEntityRedpillGenderMaleHeight???Eye color???Hair colorBlackStigmatismwas aZionitewho worked on theLogos IIand worked as a liaison officer in theSyntaxinstance ofThe Matrix Online. He is said to be interested in the future.",
+    "role": "Character",
+    "attributes": {
+      "Hacker": "Stigmatism",
+      "Entity": "Redpill",
+      "Gender": "Male",
+      "Height": "???",
+      "Eyes": "???",
+      "Hair": "Black"
+    },
+    "source_url": "https://matrix.fandom.com/wiki/Stigmatism"
+  },
+  {
+    "name": "TACACS",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/6/65/TACACS.jpg",
+    "description": "TACACSOccupationPurposeused for secure communicationMachinist liaisonType of ExileHumanAppearanceGenderMaleEquipment and techAffiliationMachinistTACACS(short forTerminal Access Controller Access System) was aliaisonofficer for the Machinists in theSyntaxserver ofThe Matrix Online.",
+    "role": "Character",
+    "attributes": {
+      "Purpose": "used for secure communication Machinist liaison",
+      "Exile": "Human",
+      "Gender": "Male",
+      "Affiliation": "Machinist"
+    },
+    "source_url": "https://matrix.fandom.com/wiki/TACACS"
   },
   {
     "name": "Zaelti",
@@ -387,53 +410,28 @@
     "source_url": "https://matrix.fandom.com/wiki/Zaelti"
   },
   {
-    "name": "Carlyne",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/f/f1/Carlyne.jpg",
-    "description": "CarlyneAppearanceGenderMaleEye colorN/AHair colorN/AEquipment and techAffiliationOligarch,ZionitesAffiliationsMissionOpposeHalbornCarlyneis a member of the secretive organization of freeborn humans known as theOligarchs. He is a glowing figure that appeared in theMatrixsome time afterHalborn, who theMachinesclaimed to be a freeborn human. He is againstHalborn, and is working for theresistance.",
+    "name": "Hatchet",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/9/98/Hatchet_MxO.png",
+    "description": "HatchetAppearanceGenderMaleHair color???Equipment and techAffiliationCrossbonesHatchetwas the gang leader of theCrossbones, a gang that resided inMoriah Projects. It is unknown what had started the gang war between the gang and theDemon Army, who were led byMammon. However, Hatchet is more than wiling to finish it. Like the rest of the gang, he is a dangerousexile.",
     "role": "Character",
     "attributes": {
       "Gender": "Male",
-      "Affiliation": "Oligarch , Zionites",
-      "Mission": "Oppose Halborn"
+      "Hair": "???",
+      "Affiliation": "Crossbones"
     },
-    "source_url": "https://matrix.fandom.com/wiki/Carlyne"
+    "source_url": "https://matrix.fandom.com/wiki/Hatchet"
   },
   {
-    "name": "Neurophyte",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/5/53/Neurophyte.jpg",
-    "description": "Neurophytewas a crew member of theNovalis IIduring the events ofThe Matrix Online. Before the merging of the eight servers into three, there was a mission where Neurophyte was infected by a kill-code virus when she was in the Matrix and needed to be saved, which resulted in a different outcome depending on the pre-merged server. With the merge, the admin for the game,Walrusannounced it would drop this storyline.",
+    "name": "Acavaria",
+    "image_url": "https://static.wikia.nocookie.net/matrix/images/4/41/Acavaria.jpg",
+    "description": "Dani was a orphan at a very young age, and so had very little or no memory of her parents. She had always known that there was something wrong with the world she lived in. When she was finally awakened when she was fourteen, she took her training very seriously. She shunned the simulation for several years and in that time learned what it meant to be human. She, however, returned into theMatrixat the request ofKid.",
     "role": "Character",
     "attributes": {
-      "Real": "Anne Simpson",
-      "Hacker": "Neurophyte",
-      "Gender": "Female",
-      "Hair": "White?"
+      "Appearances": "The Matrix Online",
+      "Real": "Danielle (Dani) DuQuette",
+      "Hacker": "Acavaria",
+      "Gender": "Female"
     },
-    "source_url": "https://matrix.fandom.com/wiki/Neurophyte"
-  },
-  {
-    "name": "Systematica",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/d/d7/Systematica.jpg",
-    "description": "SystematicaOccupationPurposeelimination of hovercraft (formerly)Machinist liaisoneliminating hostiles in the matrix (as program)Type of ExileHuman femaleAppearanceGenderFemaleEye colorglowing RedHair colorBlond?Equipment and techAffiliationMachinistSystematicawas a an enhanced sentinel program that was affiliated with theMachinistsin thevectorserver ofThe Matrix Online.",
-    "role": "Character",
-    "attributes": {
-      "Purpose": "elimination of hovercraft (formerly) Machinist liaison eliminating hostiles in the matrix (as program",
-      "Gender": "Female",
-      "Hair": "Blond?",
-      "Affiliation": "Machinist"
-    },
-    "source_url": "https://matrix.fandom.com/wiki/Systematica"
-  },
-  {
-    "name": "Caelifera",
-    "image_url": "https://static.wikia.nocookie.net/matrix/images/8/8f/Caelifera.jpg",
-    "description": "CaeliferaAppearancesThe Matrix OnlineNamesReal nameAlexis RowlandHacker nameCaeliferaAppearanceGenderFemaleHair colorBlondCaeliferawas aZionitewho served aLiaisoncrewmember aboard theLogos II. She appears only in theRecursioninstance ofThe Matrix Online.",
-    "role": "Character",
-    "attributes": {
-      "Hacker": "Caelifera",
-      "Gender": "Female",
-      "Hair": "Blond"
-    },
-    "source_url": "https://matrix.fandom.com/wiki/Caelifera"
+    "source_url": "https://matrix.fandom.com/wiki/Acavaria"
   }
 ]

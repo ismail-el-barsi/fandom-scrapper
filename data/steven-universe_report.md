@@ -1,6 +1,6 @@
 # Rapport de Scraping pour : steven-universe
 - **Statut :** ✅ SUCCÈS - 47 fiches valides (minimum requis: 10)
-- **Temps total :** 89.79s
+- **Temps total :** 97.17s
 - **Catégories testées :** 1 (Catégorie principale)
 - **Catégorie utilisée :** Catégorie principale
 - **Liens trouvés :** 235
@@ -20,7 +20,7 @@
 - 📝 Avec description valide : 47/47 (100.0%)
 - 🏷️ Avec rôle spécifique : 47/47 (100.0%)
 - 🔖 Avec attributs : 47/47 (100.0%)
-- 📈 Nombre moyen d'attributs : 10.0
+- 📈 Nombre moyen d'attributs : 10.2
 
 **Système de nettoyage :** ✅ Améliorations activées
 - Détection de valeurs tronquées
@@ -29,9 +29,9 @@
 - Validation de qualité renforcée
 
 ## Fiches échouées
+- URL: https://steven-universe.fandom.com/wiki/Lapis_Lazulis
+  - Raison: Infobox non trouvée
 - URL: https://steven-universe.fandom.com/wiki/Pearls
   - Raison: Infobox non trouvée
-- URL: https://steven-universe.fandom.com/wiki/Steven_and_the_Stevens_(band)
-  - Raison: Infobox non trouvée
-- URL: https://steven-universe.fandom.com/wiki/Lapis_Lazulis
+- URL: https://steven-universe.fandom.com/wiki/Garnets
   - Raison: Infobox non trouvée

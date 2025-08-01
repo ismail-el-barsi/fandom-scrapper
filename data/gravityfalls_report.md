@@ -1,6 +1,6 @@
 # Rapport de Scraping pour : gravityfalls
 - **Statut :** ✅ SUCCÈS - 50 fiches valides (minimum requis: 10)
-- **Temps total :** 81.78s
+- **Temps total :** 80.71s
 - **Catégories testées :** 1 (Catégorie principale)
 - **Catégorie utilisée :** Catégorie principale
 - **Liens trouvés :** 317
@@ -14,13 +14,13 @@
 
 **Qualité générale :**
 - 🎯 Score de qualité moyen : 8.7/10
-- ⭐ Fiches haute qualité (≥7/10) : 50/50 (100.0%)
+- ⭐ Fiches haute qualité (≥7/10) : 49/50 (98.0%)
 
 **Complétude des données :**
 - 📝 Avec description valide : 50/50 (100.0%)
 - 🏷️ Avec rôle spécifique : 50/50 (100.0%)
-- 🔖 Avec attributs : 50/50 (100.0%)
-- 📈 Nombre moyen d'attributs : 5.9
+- 🔖 Avec attributs : 49/50 (98.0%)
+- 📈 Nombre moyen d'attributs : 6.0
 
 **Système de nettoyage :** ✅ Améliorations activées
 - Détection de valeurs tronquées
