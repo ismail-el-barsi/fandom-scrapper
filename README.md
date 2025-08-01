@@ -2,9 +2,11 @@
 
 ## 🎬 Démo Vidéo
 
-<video src="Recording 2025-08-01 153606.mp4" controls width="600">
-Votre navigateur ne supporte pas la balise vidéo.
-</video>
+> **📹 Démo complète disponible** : [`Recording 2025-08-01 153606.mp4`](./Recording%202025-08-01%20153606.mp4)
+> 
+> *Cliquez sur le lien ci-dessus pour télécharger et voir la démonstration du scraper en action*
+
+**Alternative** : Convertissez la vidéo en GIF animé pour un aperçu direct dans GitHub !
 
 Application complète de scraping automatique pour les wikis **Fandom.com**, capable de s'adapter intelligemment aux différentes structures HTML et d'extraire des données de qualité depuis n'importe quel wiki Fandom.
 
