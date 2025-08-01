@@ -2,11 +2,11 @@
 
 ## 🎬 Démo Vidéo
 
-> **📹 Démo complète disponible** : [`Recording 2025-08-01 153606.mp4`](./Recording%202025-08-01%20153606.mp4)
-> 
-> *Cliquez sur le lien ci-dessus pour télécharger et voir la démonstration du scraper en action*
+[![Démo du Scraper Fandom](https://res.cloudinary.com/dlpfe2dd6/video/upload/so_0/yhfamet4nrmuyrijuogz.jpg)](https://player.cloudinary.com/embed/?cloud_name=dlpfe2dd6&public_id=yhfamet4nrmuyrijuogz&profile=cld-default)
 
-**Alternative** : Convertissez la vidéo en GIF animé pour un aperçu direct dans GitHub !
+> **🎥 Cliquez sur l'image ci-dessus pour voir la démonstration complète du scraper en action**
+> 
+> *Vidéo hébergée sur Cloudinary - Lecture directe dans le navigateur*
 
 Application complète de scraping automatique pour les wikis **Fandom.com**, capable de s'adapter intelligemment aux différentes structures HTML et d'extraire des données de qualité depuis n'importe quel wiki Fandom.
 
